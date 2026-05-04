@@ -1,8 +1,8 @@
 {
   "slug": "koibito-swap.rovmp",
   "title": "Koibito Swap",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Koibito Swap manga, read all chapters here, the latest chapter 7 is available. Read Koibito Swap raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Koibito Swap manga, read all chapters here, the latest chapter 9 is available. Read Koibito Swap raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Chap 9",
+      "url": "https://mangafire.to/read/koibito-swap.rovmp/pt-br/chapter-9"
+    },
+    {
+      "number": "8",
+      "title": "Chap 8",
+      "url": "https://mangafire.to/read/koibito-swap.rovmp/pt-br/chapter-8"
+    },
+    {
       "number": "7",
       "title": "Chap 7",
       "url": "https://mangafire.to/read/koibito-swap.rovmp/pt-br/chapter-7"
@@ -93,5 +103,5 @@
       "url": "https://mangafire.to/read/koibito-swap.rovmp/pt-br/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:30:56Z"
+  "fetched_at": "2026-05-04T07:46:47Z"
 }

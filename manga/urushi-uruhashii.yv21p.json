@@ -1,8 +1,8 @@
 {
   "slug": "urushi-uruhashii.yv21p",
   "title": "Urushi Uruhashi",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Urushi Uruhashi manga, read all chapters here, the latest chapter 6 is available. Read Urushi Uruhashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Urushi Uruhashi manga, read all chapters here, the latest chapter 7 is available. Read Urushi Uruhashi raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Vol 2 -  Chap 7",
+      "url": "https://mangafire.to/read/urushi-uruhashii.yv21p/en/chapter-7"
+    },
+    {
       "number": "6",
       "title": "Vol 2 -  Chap 6",
       "url": "https://mangafire.to/read/urushi-uruhashii.yv21p/en/chapter-6"
@@ -86,5 +91,5 @@
       "url": "https://mangafire.to/read/urushi-uruhashii.yv21p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:51:13Z"
+  "fetched_at": "2026-05-04T07:50:29Z"
 }

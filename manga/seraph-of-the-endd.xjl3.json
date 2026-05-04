@@ -1,8 +1,8 @@
 {
   "slug": "seraph-of-the-endd.xjl3",
   "title": "Seraph of the End: Vampire Reign",
-  "cover": "https://static.mfcdn.nl/6b95/i/5/55/555181bdbd032a7d2cf06893e99afdc6@100.jpg",
-  "description": "Seraph of the End: Vampire Reign manga, read all chapters here, the latest chapter 155 is available. Read Seraph of the End: Vampire Reign raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8b1f/i/5/5a/5abea9a9a6491d984dd9b5d227e25e47@100.jpg",
+  "description": "Seraph of the End: Vampire Reign manga, read all chapters here, the latest chapter 156 is available. Read Seraph of the End: Vampire Reign raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -57,6 +57,11 @@
     "Military"
   ],
   "chapters": [
+    {
+      "number": "156",
+      "title": "Vol 35 -  Chap 156",
+      "url": "https://mangafire.to/read/seraph-of-the-endd.xjl3/en/chapter-156"
+    },
     {
       "number": "155",
       "title": "Vol 35 -  Chap 155",
@@ -853,5 +858,5 @@
       "url": "https://mangafire.to/read/seraph-of-the-endd.xjl3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:58:33Z"
+  "fetched_at": "2026-05-04T07:47:38Z"
 }

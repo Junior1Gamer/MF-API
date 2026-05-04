@@ -1,8 +1,8 @@
 {
   "slug": "enigmatica.308py",
   "title": "Enigmatica",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Enigmatica manga, read all chapters here, the latest chapter 9 is available. Read Enigmatica raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Enigmatica manga, read all chapters here, the latest chapter 10 is available. Read Enigmatica raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "10",
+      "title": "Vol 1 -  Chap 10",
+      "url": "https://mangafire.to/read/enigmatica.308py/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Vol 1 -  Chap 9",
       "url": "https://mangafire.to/read/enigmatica.308py/en/chapter-9"
@@ -97,5 +102,5 @@
       "url": "https://mangafire.to/read/enigmatica.308py/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:37:08Z"
+  "fetched_at": "2026-05-04T07:46:58Z"
 }

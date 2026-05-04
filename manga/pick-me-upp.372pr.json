@@ -2,7 +2,7 @@
   "slug": "pick-me-upp.372pr",
   "title": "Pick Me Up!",
   "cover": "https://static.mfcdn.nl/6d82/i/5/5c/5cd836f20ea5c5e7d43f482d55407531@100.jpg",
-  "description": "Pick Me Up! manga, read all chapters here, the latest chapter 198 is available. Read Pick Me Up! raw, multiple language. READ NOW!!",
+  "description": "Pick Me Up! manga, read all chapters here, the latest chapter 199 is available. Read Pick Me Up! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "199",
+      "title": "Chap 199",
+      "url": "https://mangafire.to/read/pick-me-upp.372pr/en/chapter-199"
+    },
     {
       "number": "198",
       "title": "Chap 198",
@@ -1044,5 +1049,5 @@
       "url": "https://mangafire.to/read/pick-me-upp.372pr/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:36:19Z"
+  "fetched_at": "2026-05-04T07:49:35Z"
 }

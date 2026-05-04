@@ -1,7 +1,7 @@
 {
   "slug": "ittsuuu.5w30m",
   "title": "Ittsu",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
   "description": "Ittsu manga, read all chapters here, the latest chapter 63 is available. Read Ittsu raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
@@ -54,6 +54,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "43",
+      "title": "Vol 5 -  Chap 43",
+      "url": "https://mangafire.to/read/ittsuuu.5w30m/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Vol 5 -  Chap 42",
+      "url": "https://mangafire.to/read/ittsuuu.5w30m/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Vol 5 -  Chap 41",
@@ -260,5 +270,5 @@
       "url": "https://mangafire.to/read/ittsuuu.5w30m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-27T00:07:01Z"
+  "fetched_at": "2026-05-04T08:35:01Z"
 }

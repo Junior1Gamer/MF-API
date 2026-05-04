@@ -1,8 +1,8 @@
 {
   "slug": "black-haze.j2n68",
   "title": "Black Haze",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Black Haze manga, read all chapters here, the latest chapter 69 is available. Read Black Haze raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Black Haze manga, read all chapters here, the latest chapter 70 is available. Read Black Haze raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "70",
+      "title": "Chap 70",
+      "url": "https://mangafire.to/read/black-haze.j2n68/en/chapter-70"
+    },
     {
       "number": "69",
       "title": "Chap 69",
@@ -404,5 +409,5 @@
       "url": "https://mangafire.to/read/black-haze.j2n68/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:47:26Z"
+  "fetched_at": "2026-05-04T07:51:25Z"
 }

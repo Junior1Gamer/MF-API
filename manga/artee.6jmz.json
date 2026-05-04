@@ -1,8 +1,8 @@
 {
   "slug": "artee.6jmz",
   "title": "Arte",
-  "cover": "https://static.mfcdn.nl/9d10/i/2/22/2244aade8f99eb8f64a1d9fa2dc79913@100.jpg",
-  "description": "Arte manga, read all chapters here, the latest chapter 101 is available. Read Arte raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/e003/i/2/2e/2ee10cdbf571cf72883119f589b23f6f@100.jpg",
+  "description": "Arte manga, read all chapters here, the latest chapter 102 is available. Read Arte raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "102",
+      "title": "Vol 21 -  Chap 102",
+      "url": "https://mangafire.to/read/artee.6jmz/en/chapter-102"
+    },
     {
       "number": "101",
       "title": "Vol 21 -  Chap 101",
@@ -593,5 +598,5 @@
       "url": "https://mangafire.to/read/artee.6jmz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:59:13Z"
+  "fetched_at": "2026-05-04T07:47:47Z"
 }

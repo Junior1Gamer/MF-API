@@ -1,8 +1,8 @@
 {
   "slug": "murmur.nko2n",
   "title": "Murmur",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Murmur manga, read all chapters here, the latest chapter 21 is available. Read Murmur raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Murmur manga, read all chapters here, the latest chapter 22.5 is available. Read Murmur raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,41 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "22.5",
+      "title": "Chap 22.5",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22.5"
+    },
+    {
+      "number": "22.4",
+      "title": "Chap 22.4",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22.4"
+    },
+    {
+      "number": "22.3",
+      "title": "Chap 22.3",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22.3"
+    },
+    {
+      "number": "22.2",
+      "title": "Chap 22.2",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22.2"
+    },
+    {
+      "number": "22.1",
+      "title": "Chap 22.1",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22.1"
+    },
+    {
+      "number": "22",
+      "title": "Chap 22",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-22"
+    },
+    {
+      "number": "21.1",
+      "title": "Chap 21.1",
+      "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-21.1"
+    },
     {
       "number": "21",
       "title": "Chap 21",
@@ -165,5 +200,5 @@
       "url": "https://mangafire.to/read/murmur.nko2n/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:43:00Z"
+  "fetched_at": "2026-05-04T07:48:48Z"
 }

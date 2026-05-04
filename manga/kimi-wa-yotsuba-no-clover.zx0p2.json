@@ -1,7 +1,7 @@
 {
   "slug": "kimi-wa-yotsuba-no-clover.zx0p2",
   "title": "You Are a Four Leaf Clover",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
   "description": "You Are a Four Leaf Clover manga, read all chapters here, the latest chapter 73 is available. Read You Are a Four Leaf Clover raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "73",
+      "title": "Vol 8 -  Chap 73",
+      "url": "https://mangafire.to/read/kimi-wa-yotsuba-no-clover.zx0p2/en/chapter-73"
+    },
     {
       "number": "72",
       "title": "Vol 8 -  Chap 72",
@@ -430,5 +435,5 @@
       "url": "https://mangafire.to/read/kimi-wa-yotsuba-no-clover.zx0p2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:29:18Z"
+  "fetched_at": "2026-05-04T08:16:31Z"
 }

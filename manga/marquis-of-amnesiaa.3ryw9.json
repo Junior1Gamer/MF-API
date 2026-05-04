@@ -1,8 +1,8 @@
 {
   "slug": "marquis-of-amnesiaa.3ryw9",
   "title": "Marquis of Amnesia",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Marquis of Amnesia manga, read all chapters here, the latest chapter 11 is available. Read Marquis of Amnesia raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Marquis of Amnesia manga, read all chapters here, the latest chapter 12 is available. Read Marquis of Amnesia raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Vol 0 -  Chap 12",
+      "url": "https://mangafire.to/read/marquis-of-amnesiaa.3ryw9/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Vol 0 -  Chap 11",
@@ -188,5 +193,5 @@
       "url": "https://mangafire.to/read/marquis-of-amnesiaa.3ryw9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:55:52Z"
+  "fetched_at": "2026-05-04T07:50:10Z"
 }

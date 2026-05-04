@@ -1,8 +1,8 @@
 {
   "slug": "countachh.8noq",
   "title": "Countach",
-  "cover": "https://static.mfcdn.nl/ae43/i/c/c8/c8f84e508338984c73a8fb6fbdf9fbd3@100.jpg",
-  "description": "Countach manga, read all chapters here, the latest chapter 243 is available. Read Countach raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6194/i/a/aa/aa9bcb6d0b0fc2ec1bd0655deed8d311@100.jpg",
+  "description": "Countach manga, read all chapters here, the latest chapter 244 is available. Read Countach raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "244",
+      "title": "Vol 24 -  Chap 244",
+      "url": "https://mangafire.to/read/countachh.8noq/en/chapter-244"
+    },
     {
       "number": "243",
       "title": "Vol 24 -  Chap 243",
@@ -1278,5 +1283,5 @@
       "url": "https://mangafire.to/read/countachh.8noq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:29:38Z"
+  "fetched_at": "2026-05-04T07:49:57Z"
 }

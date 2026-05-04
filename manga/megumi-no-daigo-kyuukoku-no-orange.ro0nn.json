@@ -1,8 +1,8 @@
 {
   "slug": "megumi-no-daigo-kyuukoku-no-orange.ro0nn",
   "title": "Megumi no Daigo: Kyuukoku no Orange",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Megumi no Daigo: Kyuukoku no Orange manga, read all chapters here, the latest chapter 11 is available. Read Megumi no Daigo: Kyuukoku no Orange raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Megumi no Daigo: Kyuukoku no Orange manga, read all chapters here, the latest chapter 12 is available. Read Megumi no Daigo: Kyuukoku no Orange raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Vol 4 -  Chap 12",
+      "url": "https://mangafire.to/read/megumi-no-daigo-kyuukoku-no-orange.ro0nn/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Vol 4 -  Chap 11",
@@ -107,5 +112,5 @@
       "url": "https://mangafire.to/read/megumi-no-daigo-kyuukoku-no-orange.ro0nn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:10:43Z"
+  "fetched_at": "2026-05-04T07:47:51Z"
 }

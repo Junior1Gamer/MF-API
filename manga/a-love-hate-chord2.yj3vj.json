@@ -1,8 +1,8 @@
 {
   "slug": "a-love-hate-chord2.yj3vj",
   "title": "A Love-Hate Chord",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "A Love-Hate Chord manga, read all chapters here, the latest chapter 1 is available. Read A Love-Hate Chord raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "A Love-Hate Chord manga, read all chapters here, the latest chapter 2 is available. Read A Love-Hate Chord raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -50,10 +50,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/a-love-hate-chord2.yj3vj/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/a-love-hate-chord2.yj3vj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:21:50Z"
+  "fetched_at": "2026-05-04T07:47:08Z"
 }

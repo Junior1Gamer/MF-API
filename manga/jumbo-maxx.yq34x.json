@@ -1,8 +1,8 @@
 {
   "slug": "jumbo-maxx.yq34x",
   "title": "Jumbo Max",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Jumbo Max manga, read all chapters here, the latest chapter 142 is available. Read Jumbo Max raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Jumbo Max manga, read all chapters here, the latest chapter 143 is available. Read Jumbo Max raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "143",
+      "title": "Vol 16 -  Chap 143",
+      "url": "https://mangafire.to/read/jumbo-maxx.yq34x/en/chapter-143"
+    },
     {
       "number": "142",
       "title": "Vol 16 -  Chap 142",
@@ -761,5 +766,5 @@
       "url": "https://mangafire.to/read/jumbo-maxx.yq34x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:46:44Z"
+  "fetched_at": "2026-05-04T07:49:19Z"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "blue-lockk.kw9j9",
   "title": "Blue Lock",
-  "cover": "https://static.mfcdn.nl/f9dc/i/a/1d/db47c21f7f6b92280778dd54108522be@100.jpg",
+  "cover": "https://static.mfcdn.nl/c232/i/f/f4/f4cea8592c24624a9dd4771caba2c902@100.jpg",
   "description": "Blue Lock manga, read all chapters here, the latest chapter 345 is available. Read Blue Lock raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -52,6 +52,16 @@
     "Sports"
   ],
   "chapters": [
+    {
+      "number": "345",
+      "title": "Vol 0 -  Chap 345",
+      "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-345"
+    },
+    {
+      "number": "344",
+      "title": "Vol 0 -  Chap 344",
+      "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-344"
+    },
     {
       "number": "343",
       "title": "Vol 0 -  Chap 343",
@@ -1818,5 +1828,5 @@
       "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:32:04Z"
+  "fetched_at": "2026-05-04T07:52:22Z"
 }

@@ -1,9 +1,9 @@
 {
   "slug": "black-cloverr.pp4",
   "title": "Black Clover",
-  "cover": "https://static.mfcdn.nl/d92e/i/c/c5/79605cb48b3deecec94348b42ac7f237@100.jpg",
-  "description": "Black Clover manga, read all chapters here, the latest chapter 389 is available. Read Black Clover raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "cover": "https://static.mfcdn.nl/ecee/i/3/37/37a6c4cbd66373e69260e9bae3a91720@100.jpg",
+  "description": "Black Clover manga, read all chapters here, the latest chapter 392 is available. Read Black Clover raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -55,6 +55,21 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "392",
+      "title": "Vol 0 -  Chap 392",
+      "url": "https://mangafire.to/read/black-cloverr.pp4/en/chapter-392"
+    },
+    {
+      "number": "391",
+      "title": "Vol 0 -  Chap 391",
+      "url": "https://mangafire.to/read/black-cloverr.pp4/en/chapter-391"
+    },
+    {
+      "number": "390",
+      "title": "Vol 0 -  Chap 390",
+      "url": "https://mangafire.to/read/black-cloverr.pp4/en/chapter-390"
+    },
     {
       "number": "389",
       "title": "Vol 38 -  Chap 389",
@@ -2326,5 +2341,5 @@
       "url": "https://mangafire.to/read/black-cloverr.pp4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:52:17Z"
+  "fetched_at": "2026-05-04T07:49:15Z"
 }

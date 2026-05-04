@@ -1,8 +1,8 @@
 {
   "slug": "kimi-wa-shuumatsu.9jz5m",
   "title": "Kimi wa Shuumatsu",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Kimi wa Shuumatsu manga, read all chapters here, the latest chapter 6 is available. Read Kimi wa Shuumatsu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Kimi wa Shuumatsu manga, read all chapters here, the latest chapter 7 is available. Read Kimi wa Shuumatsu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Chap 7",
+      "url": "https://mangafire.to/read/kimi-wa-shuumatsu.9jz5m/en/chapter-7"
+    },
+    {
+      "number": "6.5",
+      "title": "Chap 6.5",
+      "url": "https://mangafire.to/read/kimi-wa-shuumatsu.9jz5m/en/chapter-6.5"
+    },
+    {
       "number": "6",
       "title": "Chap 6",
       "url": "https://mangafire.to/read/kimi-wa-shuumatsu.9jz5m/en/chapter-6"
@@ -85,5 +95,5 @@
       "url": "https://mangafire.to/read/kimi-wa-shuumatsu.9jz5m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:50:44Z"
+  "fetched_at": "2026-05-04T07:45:39Z"
 }

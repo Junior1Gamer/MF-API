@@ -1,8 +1,8 @@
 {
   "slug": "love-review.knV5",
   "title": "Love Review",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Love Review manga, read all chapters here, the latest chapter 64 is available. Read Love Review raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Love Review manga, read all chapters here, the latest chapter 65 is available. Read Love Review raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "65",
+      "title": "Chap 65",
+      "url": "https://mangafire.to/read/love-review.knV5/en/chapter-65"
+    },
     {
       "number": "64",
       "title": "Chap 64",
@@ -378,5 +383,5 @@
       "url": "https://mangafire.to/read/love-review.knV5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:50:30Z"
+  "fetched_at": "2026-05-04T07:48:26Z"
 }

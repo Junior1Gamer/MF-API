@@ -1,8 +1,8 @@
 {
   "slug": "jakduu.2pmk4",
   "title": "Jakdu",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Jakdu manga, read all chapters here, the latest chapter 91 is available. Read Jakdu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Jakdu manga, read all chapters here, the latest chapter 92 is available. Read Jakdu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "92",
+      "title": "Chap 92",
+      "url": "https://mangafire.to/read/jakduu.2pmk4/en/chapter-92"
+    },
     {
       "number": "91",
       "title": "Chap 91",
@@ -511,5 +516,5 @@
       "url": "https://mangafire.to/read/jakduu.2pmk4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:48:54Z"
+  "fetched_at": "2026-05-04T07:48:15Z"
 }

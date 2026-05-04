@@ -1,8 +1,8 @@
 {
   "slug": "denpa-kyoushii.mjlz",
   "title": "Denpa Kyoushi",
-  "cover": "https://static.mfcdn.nl/19a5/i/1/15/1508ad3e3bc421bd126f20a5ded017d6@100.jpg",
-  "description": "Denpa Kyoushi manga, read all chapters here, the latest chapter 155 is available. Read Denpa Kyoushi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/9593/i/d/d0/d00ce7b6f82390b37adbade470c6fbf9@100.jpg",
+  "description": "Denpa Kyoushi manga, read all chapters here, the latest chapter 156 is available. Read Denpa Kyoushi raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "156",
+      "title": "Vol 17 -  Chap 156",
+      "url": "https://mangafire.to/read/denpa-kyoushii.mjlz/en/chapter-156"
+    },
     {
       "number": "155",
       "title": "Vol 17 -  Chap 155",
@@ -880,5 +885,5 @@
       "url": "https://mangafire.to/read/denpa-kyoushii.mjlz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:11:20Z"
+  "fetched_at": "2026-05-04T07:49:33Z"
 }

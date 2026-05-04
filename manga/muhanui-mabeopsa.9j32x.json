@@ -1,8 +1,8 @@
 {
   "slug": "muhanui-mabeopsa.9j32x",
   "title": "The Infinite Mage",
-  "cover": "https://static.mfcdn.nl/4997/i/0/00/00ff15a38c71d52097100b54182347f2@100.jpg",
-  "description": "The Infinite Mage manga, read all chapters here, the latest chapter 165 is available. Read The Infinite Mage raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/e163/i/f/f7/f76b728f8f9851381914339a6fe0faa3@100.jpg",
+  "description": "The Infinite Mage manga, read all chapters here, the latest chapter 166 is available. Read The Infinite Mage raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "166",
+      "title": "Chap 166",
+      "url": "https://mangafire.to/read/muhanui-mabeopsa.9j32x/en/chapter-166"
+    },
     {
       "number": "165",
       "title": "Chap 165",
@@ -920,5 +925,5 @@
       "url": "https://mangafire.to/read/muhanui-mabeopsa.9j32x/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-04-26T22:37:42Z"
+  "fetched_at": "2026-05-04T07:50:08Z"
 }

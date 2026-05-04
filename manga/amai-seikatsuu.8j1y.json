@@ -1,8 +1,8 @@
 {
   "slug": "amai-seikatsuu.8j1y",
   "title": "Sweet Life",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Sweet Life manga, read all chapters here, the latest chapter 400 is available. Read Sweet Life raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Sweet Life manga, read all chapters here, the latest chapter 401 is available. Read Sweet Life raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "401",
+      "title": "Vol 34 -  Chap 401",
+      "url": "https://mangafire.to/read/amai-seikatsuu.8j1y/en/chapter-401"
+    },
     {
       "number": "400",
       "title": "Vol 34 -  Chap 400",
@@ -2099,5 +2104,5 @@
       "url": "https://mangafire.to/read/amai-seikatsuu.8j1y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:35:03Z"
+  "fetched_at": "2026-05-04T07:49:31Z"
 }

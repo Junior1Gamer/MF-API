@@ -2,7 +2,7 @@
   "slug": "highway-wolff.m215x",
   "title": "The Wolf of Road Race.",
   "cover": "https://static.mfcdn.nl/5dce/i/4/45/4574f5a295c2106f1a2f1ff631368920@100.jpg",
-  "description": "The Wolf of Road Race. manga, read all chapters here, the latest chapter 19 is available. Read The Wolf of Road Race. raw, multiple language. READ NOW!!",
+  "description": "The Wolf of Road Race. manga, read all chapters here, the latest chapter 20 is available. Read The Wolf of Road Race. raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "20",
+      "title": "Vol 3 -  Chap 20",
+      "url": "https://mangafire.to/read/highway-wolff.m215x/en/chapter-20"
+    },
     {
       "number": "19",
       "title": "Vol 3 -  Chap 19",
@@ -146,5 +151,5 @@
       "url": "https://mangafire.to/read/highway-wolff.m215x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:48:02Z"
+  "fetched_at": "2026-05-04T07:45:39Z"
 }

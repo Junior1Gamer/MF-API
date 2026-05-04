@@ -1,9 +1,9 @@
 {
   "slug": "open-car-girls.8xo4q",
   "title": "Open Car Girls",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Open Car Girls manga, read all chapters here, the latest chapter 18 is available. Read Open Car Girls raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Open Car Girls manga, read all chapters here, the latest chapter 19 is available. Read Open Car Girls raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -50,6 +50,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 2 -  Chap 19",
+      "url": "https://mangafire.to/read/open-car-girls.8xo4q/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 2 -  Chap 18",
@@ -146,5 +151,5 @@
       "url": "https://mangafire.to/read/open-car-girls.8xo4q/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T23:02:56Z"
+  "fetched_at": "2026-05-04T07:49:57Z"
 }

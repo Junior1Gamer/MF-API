@@ -1,8 +1,8 @@
 {
   "slug": "kidou-senshi-gundam-eight.ro41p",
   "title": "Mobile Suit Gundam Eight",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Mobile Suit Gundam Eight manga, read all chapters here, the latest chapter 5.3 is available. Read Mobile Suit Gundam Eight raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Mobile Suit Gundam Eight manga, read all chapters here, the latest chapter 6 is available. Read Mobile Suit Gundam Eight raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Vol 2 -  Chap 6",
+      "url": "https://mangafire.to/read/kidou-senshi-gundam-eight.ro41p/en/chapter-6"
+    },
+    {
       "number": "5.3",
       "title": "Vol 2 -  Chap 5.3",
       "url": "https://mangafire.to/read/kidou-senshi-gundam-eight.ro41p/en/chapter-5.3"
@@ -99,5 +104,5 @@
       "url": "https://mangafire.to/read/kidou-senshi-gundam-eight.ro41p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:05:32Z"
+  "fetched_at": "2026-05-04T07:45:21Z"
 }

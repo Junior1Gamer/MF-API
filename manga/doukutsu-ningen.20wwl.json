@@ -1,8 +1,8 @@
 {
   "slug": "doukutsu-ningen.20wwl",
   "title": "The Cave Man",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "The Cave Man manga, read all chapters here, the latest chapter 28 is available. Read The Cave Man raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "The Cave Man manga, read all chapters here, the latest chapter 29 is available. Read The Cave Man raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "29",
+      "title": "Vol 4 -  Chap 29",
+      "url": "https://mangafire.to/read/doukutsu-ningen.20wwl/en/chapter-29"
+    },
     {
       "number": "28",
       "title": "Vol 4 -  Chap 28",
@@ -191,5 +196,5 @@
       "url": "https://mangafire.to/read/doukutsu-ningen.20wwl/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:35:59Z"
+  "fetched_at": "2026-05-04T07:46:38Z"
 }

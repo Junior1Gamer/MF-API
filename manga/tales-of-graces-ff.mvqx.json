@@ -1,8 +1,8 @@
 {
   "slug": "tales-of-graces-ff.mvqx",
   "title": "Tales of Graces f",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Tales of Graces f manga, read all chapters here, the latest chapter 15 is available. Read Tales of Graces f raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Tales of Graces f manga, read all chapters here, the latest chapter 16 is available. Read Tales of Graces f raw, multiple language. READ NOW!!",
   "status": "Completed",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Chap 16",
+      "url": "https://mangafire.to/read/tales-of-graces-ff.mvqx/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Chap 15",
@@ -127,5 +132,5 @@
       "url": "https://mangafire.to/read/tales-of-graces-ff.mvqx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:59:32Z"
+  "fetched_at": "2026-05-04T07:47:02Z"
 }

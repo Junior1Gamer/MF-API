@@ -1,8 +1,8 @@
 {
   "slug": "sentai-daishikkakuu.w1nxl",
   "title": "Go! Go! Loser Ranger!",
-  "cover": "https://static.mfcdn.nl/f250/i/9/9b/9b7eb4c971aa059261fa6efccd8a320b@100.jpg",
-  "description": "Go! Go! Loser Ranger! manga, read all chapters here, the latest chapter 213 is available. Read Go! Go! Loser Ranger! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/f395/i/2/2f/2ff098f00b8326baee492324a030fa9b@100.jpg",
+  "description": "Go! Go! Loser Ranger! manga, read all chapters here, the latest chapter 214 is available. Read Go! Go! Loser Ranger! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "214",
+      "title": "Vol 0 -  Chap 214",
+      "url": "https://mangafire.to/read/sentai-daishikkakuu.w1nxl/en/chapter-214"
+    },
     {
       "number": "213",
       "title": "Vol 0 -  Chap 213",
@@ -1124,5 +1129,5 @@
       "url": "https://mangafire.to/read/sentai-daishikkakuu.w1nxl/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:34:00Z"
+  "fetched_at": "2026-05-04T07:47:25Z"
 }

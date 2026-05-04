@@ -2,7 +2,7 @@
   "slug": "miss-pendleton2.60jrz",
   "title": "Miss Pendleton",
   "cover": "https://static.mfcdn.nl/ebfb/i/5/5b/5b57ae58de17166feed6a89eff47357a@100.jpg",
-  "description": "Miss Pendleton manga, read all chapters here, the latest chapter 51 is available. Read Miss Pendleton raw, multiple language. READ NOW!!",
+  "description": "Miss Pendleton manga, read all chapters here, the latest chapter 51.5 is available. Read Miss Pendleton raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,9 +51,19 @@
   ],
   "chapters": [
     {
+      "number": "51.5",
+      "title": "Chap 51.5",
+      "url": "https://mangafire.to/read/miss-pendleton2.60jrz/en/chapter-51.5"
+    },
+    {
       "number": "51",
       "title": "Chap 51",
       "url": "https://mangafire.to/read/miss-pendleton2.60jrz/en/chapter-51"
+    },
+    {
+      "number": "50.75",
+      "title": "Chap 50.75",
+      "url": "https://mangafire.to/read/miss-pendleton2.60jrz/en/chapter-50.75"
     },
     {
       "number": "50.5",
@@ -316,5 +326,5 @@
       "url": "https://mangafire.to/read/miss-pendleton2.60jrz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T23:28:23Z"
+  "fetched_at": "2026-05-04T07:47:48Z"
 }

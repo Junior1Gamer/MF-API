@@ -1,8 +1,8 @@
 {
   "slug": "killer-pedroo.6wyw7",
   "title": "Killer Pedro",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Killer Pedro manga, read all chapters here, the latest chapter 126 is available. Read Killer Pedro raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Killer Pedro manga, read all chapters here, the latest chapter 127 is available. Read Killer Pedro raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "127",
+      "title": "Chap 127",
+      "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-127"
+    },
     {
       "number": "126",
       "title": "Chap 126",
@@ -184,6 +189,21 @@
       "number": "103",
       "title": "Chap 103",
       "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-103"
+    },
+    {
+      "number": "102.4",
+      "title": "Chap 102.4",
+      "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-102.4"
+    },
+    {
+      "number": "102.3",
+      "title": "Chap 102.3",
+      "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-102.3"
+    },
+    {
+      "number": "102.2",
+      "title": "Chap 102.2",
+      "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-102.2"
     },
     {
       "number": "102.1",
@@ -716,5 +736,5 @@
       "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:39:53Z"
+  "fetched_at": "2026-05-04T07:49:25Z"
 }

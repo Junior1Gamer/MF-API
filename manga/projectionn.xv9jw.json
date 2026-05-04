@@ -1,8 +1,8 @@
 {
   "slug": "projectionn.xv9jw",
   "title": "Projection",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Projection manga, read all chapters here, the latest chapter 48 is available. Read Projection raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Projection manga, read all chapters here, the latest chapter 51 is available. Read Projection raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,21 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/projectionn.xv9jw/en/chapter-51"
+    },
+    {
+      "number": "50",
+      "title": "Chap 50",
+      "url": "https://mangafire.to/read/projectionn.xv9jw/en/chapter-50"
+    },
+    {
+      "number": "49",
+      "title": "Chap 49",
+      "url": "https://mangafire.to/read/projectionn.xv9jw/en/chapter-49"
+    },
     {
       "number": "48",
       "title": "Chap 48",
@@ -273,5 +288,5 @@
       "url": "https://mangafire.to/read/projectionn.xv9jw/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:53:25Z"
+  "fetched_at": "2026-05-04T07:48:12Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "the-loser-fox-orange.nk67m",
   "title": "The Loser-Fox Orange",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "The Loser-Fox Orange manga, read all chapters here, the latest chapter 38.2 is available. Read The Loser-Fox Orange raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "The Loser-Fox Orange manga, read all chapters here, the latest chapter 39 is available. Read The Loser-Fox Orange raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Chap 39",
+      "url": "https://mangafire.to/read/the-loser-fox-orange.nk67m/en/chapter-39"
+    },
     {
       "number": "38.2",
       "title": "Chap 38.2",
@@ -292,5 +297,5 @@
       "url": "https://mangafire.to/read/the-loser-fox-orange.nk67m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:48:03Z"
+  "fetched_at": "2026-05-04T07:46:59Z"
 }

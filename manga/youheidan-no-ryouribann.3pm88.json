@@ -1,8 +1,8 @@
 {
   "slug": "youheidan-no-ryouribann.3pm88",
   "title": "Youheidan no Ryouriban",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Youheidan no Ryouriban manga, read all chapters here, the latest chapter 13.5 is available. Read Youheidan no Ryouriban raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Youheidan no Ryouriban manga, read all chapters here, the latest chapter 13.6 is available. Read Youheidan no Ryouriban raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "13.6",
+      "title": "Vol 5 -  Chap 13.6",
+      "url": "https://mangafire.to/read/youheidan-no-ryouribann.3pm88/en/chapter-13.6"
+    },
     {
       "number": "13.5",
       "title": "Vol 5 -  Chap 13.5",
@@ -262,5 +267,5 @@
       "url": "https://mangafire.to/read/youheidan-no-ryouribann.3pm88/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:43:21Z"
+  "fetched_at": "2026-05-04T07:49:42Z"
 }

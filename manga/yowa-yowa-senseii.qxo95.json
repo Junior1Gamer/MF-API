@@ -1,8 +1,8 @@
 {
   "slug": "yowa-yowa-senseii.qxo95",
   "title": "Yowa Yowa Sensei",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Yowa Yowa Sensei manga, read all chapters here, the latest chapter 146 is available. Read Yowa Yowa Sensei raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Yowa Yowa Sensei manga, read all chapters here, the latest chapter 165 is available. Read Yowa Yowa Sensei raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "62",
+      "title": "Vol 7 -  Chap 62",
+      "url": "https://mangafire.to/read/yowa-yowa-senseii.qxo95/en/chapter-62"
+    },
     {
       "number": "61",
       "title": "Vol 7 -  Chap 61",
@@ -369,5 +374,5 @@
       "url": "https://mangafire.to/read/yowa-yowa-senseii.qxo95/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:30:49Z"
+  "fetched_at": "2026-05-04T07:45:19Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "merry-psycho.ox1nz",
   "title": "Merry Psycho",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Merry Psycho manga, read all chapters here, the latest chapter 68 is available. Read Merry Psycho raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Merry Psycho manga, read all chapters here, the latest chapter 70 is available. Read Merry Psycho raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "70",
+      "title": "Chap 70",
+      "url": "https://mangafire.to/read/merry-psycho.ox1nz/en/chapter-70"
+    },
+    {
+      "number": "69",
+      "title": "Chap 69",
+      "url": "https://mangafire.to/read/merry-psycho.ox1nz/en/chapter-69"
+    },
     {
       "number": "68",
       "title": "Chap 68",
@@ -210,6 +220,11 @@
       "number": "37",
       "title": "Chap 37",
       "url": "https://mangafire.to/read/merry-psycho.ox1nz/en/chapter-37"
+    },
+    {
+      "number": "36.1",
+      "title": "Chap 36.1",
+      "url": "https://mangafire.to/read/merry-psycho.ox1nz/en/chapter-36.1"
     },
     {
       "number": "36",
@@ -412,5 +427,5 @@
       "url": "https://mangafire.to/read/merry-psycho.ox1nz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:53:37Z"
+  "fetched_at": "2026-05-04T07:48:24Z"
 }

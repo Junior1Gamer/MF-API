@@ -1,8 +1,8 @@
 {
   "slug": "oishinbo.30vv2",
   "title": "Oishinbo",
-  "cover": "https://static.mfcdn.nl/b157/i/c/c8/c8d85c4b8fb46e6e19fa37a132964be9@100.jpg",
-  "description": "Oishinbo manga, read all chapters here, the latest chapter 276 is available. Read Oishinbo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2266/i/7/74/740a10fa082ac16f42e771e2e8dd180f@100.jpg",
+  "description": "Oishinbo manga, read all chapters here, the latest chapter 279 is available. Read Oishinbo raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -52,6 +52,21 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "279",
+      "title": "Vol 30 -  Chap 279",
+      "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-279"
+    },
+    {
+      "number": "278",
+      "title": "Vol 30 -  Chap 278",
+      "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-278"
+    },
+    {
+      "number": "277",
+      "title": "Vol 30 -  Chap 277",
+      "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-277"
+    },
     {
       "number": "276",
       "title": "Vol 30 -  Chap 276",
@@ -1438,5 +1453,5 @@
       "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:31:02Z"
+  "fetched_at": "2026-05-04T07:47:00Z"
 }

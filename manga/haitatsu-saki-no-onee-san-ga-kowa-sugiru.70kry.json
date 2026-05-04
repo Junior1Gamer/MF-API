@@ -2,7 +2,7 @@
   "slug": "haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry",
   "title": "My Favorite VTuber is Scary IRL",
   "cover": "https://static.mfcdn.nl/8faa/i/f/f4/f4dfaafd3bfc6c01ca19922f793ab9d0@100.jpg",
-  "description": "My Favorite VTuber is Scary IRL manga, read all chapters here, the latest chapter 23 is available. Read My Favorite VTuber is Scary IRL raw, multiple language. READ NOW!!",
+  "description": "My Favorite VTuber is Scary IRL manga, read all chapters here, the latest chapter 23.5 is available. Read My Favorite VTuber is Scary IRL raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "23.5",
+      "title": "Vol 4 -  Chap 23.5",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-23.5"
+    },
     {
       "number": "23",
       "title": "Vol 4 -  Chap 23",
@@ -301,9 +306,19 @@
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-7.5"
     },
     {
+      "number": "7.1",
+      "title": "Vol 1 -  Chap 7.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-7.1"
+    },
+    {
       "number": "7",
       "title": "Vol 1 -  Chap 7",
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-7"
+    },
+    {
+      "number": "6.1",
+      "title": "Vol 1 -  Chap 6.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-6.1"
     },
     {
       "number": "6",
@@ -311,14 +326,29 @@
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-6"
     },
     {
+      "number": "5.1",
+      "title": "Vol 1 -  Chap 5.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-5.1"
+    },
+    {
       "number": "5",
       "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-5"
     },
     {
+      "number": "4.1",
+      "title": "Vol 1 -  Chap 4.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-4.1"
+    },
+    {
       "number": "4",
       "title": "Vol 1 -  Chap 4",
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-4"
+    },
+    {
+      "number": "3.1",
+      "title": "Vol 1 -  Chap 3.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-3.1"
     },
     {
       "number": "3",
@@ -331,6 +361,11 @@
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-2.5"
     },
     {
+      "number": "2.1",
+      "title": "Vol 1 -  Chap 2.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-2.1"
+    },
+    {
       "number": "2",
       "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-2"
@@ -341,10 +376,15 @@
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-1.5"
     },
     {
+      "number": "1.1",
+      "title": "Vol 1 -  Chap 1.1",
+      "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-1.1"
+    },
+    {
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/haitatsu-saki-no-onee-san-ga-kowa-sugiru.70kry/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:55:37Z"
+  "fetched_at": "2026-05-04T07:46:10Z"
 }

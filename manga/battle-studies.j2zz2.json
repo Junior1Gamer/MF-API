@@ -1,8 +1,8 @@
 {
   "slug": "battle-studies.j2zz2",
   "title": "Battle Studies",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Battle Studies manga, read all chapters here, the latest chapter 499 is available. Read Battle Studies raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Battle Studies manga, read all chapters here, the latest chapter 500 is available. Read Battle Studies raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "500",
+      "title": "Vol 46 -  Chap 500",
+      "url": "https://mangafire.to/read/battle-studies.j2zz2/en/chapter-500"
+    },
     {
       "number": "499",
       "title": "Vol 46 -  Chap 499",
@@ -2757,5 +2762,5 @@
       "url": "https://mangafire.to/read/battle-studies.j2zz2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:42:43Z"
+  "fetched_at": "2026-05-04T07:49:44Z"
 }

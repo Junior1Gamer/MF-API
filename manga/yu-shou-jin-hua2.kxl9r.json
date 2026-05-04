@@ -1,8 +1,8 @@
 {
   "slug": "yu-shou-jin-hua2.kxl9r",
   "title": "Yu Shou Jin Hua",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Yu Shou Jin Hua manga, read all chapters here, the latest chapter 1 is available. Read Yu Shou Jin Hua raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Yu Shou Jin Hua manga, read all chapters here, the latest chapter 2 is available. Read Yu Shou Jin Hua raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/yu-shou-jin-hua2.kxl9r/pt-br/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/yu-shou-jin-hua2.kxl9r/pt-br/chapter-1"
@@ -63,5 +68,5 @@
       "url": "https://mangafire.to/read/yu-shou-jin-hua2.kxl9r/pt-br/chapter-0"
     }
   ],
-  "fetched_at": "2026-04-26T22:43:05Z"
+  "fetched_at": "2026-05-04T07:47:14Z"
 }

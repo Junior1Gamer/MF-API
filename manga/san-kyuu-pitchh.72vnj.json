@@ -1,8 +1,8 @@
 {
   "slug": "san-kyuu-pitchh.72vnj",
   "title": "Strikeout Pitch",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Strikeout Pitch manga, read all chapters here, the latest chapter 43 is available. Read Strikeout Pitch raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Strikeout Pitch manga, read all chapters here, the latest chapter 44 is available. Read Strikeout Pitch raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Sports"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Vol 0 -  Chap 44",
+      "url": "https://mangafire.to/read/san-kyuu-pitchh.72vnj/en/chapter-44"
+    },
     {
       "number": "43",
       "title": "Vol 0 -  Chap 43",
@@ -291,5 +296,5 @@
       "url": "https://mangafire.to/read/san-kyuu-pitchh.72vnj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-04-26T22:39:19Z"
+  "fetched_at": "2026-05-04T07:50:13Z"
 }
