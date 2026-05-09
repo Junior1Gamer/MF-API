@@ -1,8 +1,8 @@
 {
   "slug": "code-geass-shinketsu-no-almaria.0mxn9",
   "title": "Code Geass: Pure Almaria",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Code Geass: Pure Almaria manga, read all chapters here, the latest chapter 15 is available. Read Code Geass: Pure Almaria raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Code Geass: Pure Almaria manga, read all chapters here, the latest chapter 16 is available. Read Code Geass: Pure Almaria raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Chap 16",
+      "url": "https://mangafire.to/read/code-geass-shinketsu-no-almaria.0mxn9/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Chap 15",
@@ -127,5 +132,5 @@
       "url": "https://mangafire.to/read/code-geass-shinketsu-no-almaria.0mxn9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:10:41Z"
+  "fetched_at": "2026-05-09T06:47:24Z"
 }

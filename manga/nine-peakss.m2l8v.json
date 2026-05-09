@@ -1,8 +1,8 @@
 {
   "slug": "nine-peakss.m2l8v",
   "title": "Nine Peaks",
-  "cover": "https://static.mfcdn.nl/1a0d/i/b/b3/b3e5731315ecfeb96fd0f55307f046bf@100.jpg",
-  "description": "Nine Peaks manga, read all chapters here, the latest chapter 152 is available. Read Nine Peaks raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1cc3/i/d/d2/d2412e6b55806c38b9a4bfa80fed64be@100.jpg",
+  "description": "Nine Peaks manga, read all chapters here, the latest chapter 153 is available. Read Nine Peaks raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "153",
+      "title": "Vol 18 -  Chap 153",
+      "url": "https://mangafire.to/read/nine-peakss.m2l8v/en/chapter-153"
+    },
     {
       "number": "152",
       "title": "Vol 18 -  Chap 152",
@@ -812,5 +817,5 @@
       "url": "https://mangafire.to/read/nine-peakss.m2l8v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:04:51Z"
+  "fetched_at": "2026-05-09T06:46:36Z"
 }

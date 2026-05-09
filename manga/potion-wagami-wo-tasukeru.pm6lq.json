@@ -1,8 +1,8 @@
 {
   "slug": "potion-wagami-wo-tasukeru.pm6lq",
   "title": "Potion, Wagami wo Tasukeru",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Potion, Wagami wo Tasukeru manga, read all chapters here, the latest chapter 6 is available. Read Potion, Wagami wo Tasukeru raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Potion, Wagami wo Tasukeru manga, read all chapters here, the latest chapter 7 is available. Read Potion, Wagami wo Tasukeru raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Chap 7",
+      "url": "https://mangafire.to/read/potion-wagami-wo-tasukeru.pm6lq/en/chapter-7"
+    },
+    {
       "number": "6",
       "title": "Chap 6",
       "url": "https://mangafire.to/read/potion-wagami-wo-tasukeru.pm6lq/en/chapter-6"
@@ -80,5 +85,5 @@
       "url": "https://mangafire.to/read/potion-wagami-wo-tasukeru.pm6lq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:11:46Z"
+  "fetched_at": "2026-05-09T06:45:32Z"
 }

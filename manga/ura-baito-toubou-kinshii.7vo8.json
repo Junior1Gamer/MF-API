@@ -1,8 +1,8 @@
 {
   "slug": "ura-baito-toubou-kinshii.7vo8",
   "title": "Ura Baito: Toubou Kinshi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Ura Baito: Toubou Kinshi manga, read all chapters here, the latest chapter 235 is available. Read Ura Baito: Toubou Kinshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Ura Baito: Toubou Kinshi manga, read all chapters here, the latest chapter 236 is available. Read Ura Baito: Toubou Kinshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Horror"
   ],
   "chapters": [
+    {
+      "number": "236",
+      "title": "Vol 11 -  Chap 236",
+      "url": "https://mangafire.to/read/ura-baito-toubou-kinshii.7vo8/en/chapter-236"
+    },
     {
       "number": "235",
       "title": "Vol 11 -  Chap 235",
@@ -1253,5 +1258,5 @@
       "url": "https://mangafire.to/read/ura-baito-toubou-kinshii.7vo8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-01T07:05:20Z"
+  "fetched_at": "2026-05-09T06:47:12Z"
 }

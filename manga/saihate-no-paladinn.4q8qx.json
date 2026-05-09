@@ -1,8 +1,8 @@
 {
   "slug": "saihate-no-paladinn.4q8qx",
   "title": "The Faraway Paladin",
-  "cover": "https://static.mfcdn.nl/747e/i/4/4b/4b4196f45c6192df10d934fac0a64e62@100.jpg",
-  "description": "The Faraway Paladin manga, read all chapters here, the latest chapter 73.3 is available. Read The Faraway Paladin raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2aaf/i/f/64/8f3900bc4a0c2adee167c0a02bc59f29@100.jpg",
+  "description": "The Faraway Paladin manga, read all chapters here, the latest chapter 74 is available. Read The Faraway Paladin raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "74",
+      "title": "Vol 0 -  Chap 74",
+      "url": "https://mangafire.to/read/saihate-no-paladinn.4q8qx/en/chapter-74"
+    },
     {
       "number": "73.3",
       "title": "Vol 0 -  Chap 73.3",
@@ -790,5 +795,5 @@
       "url": "https://mangafire.to/read/saihate-no-paladinn.4q8qx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:07:50Z"
+  "fetched_at": "2026-05-09T06:45:07Z"
 }

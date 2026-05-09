@@ -1,8 +1,8 @@
 {
   "slug": "the-urban-legend-files.np138",
   "title": "The Urban Legend Files",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "The Urban Legend Files manga, read all chapters here, the latest chapter 30 is available. Read The Urban Legend Files raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "The Urban Legend Files manga, read all chapters here, the latest chapter 30.5 is available. Read The Urban Legend Files raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "30.5",
+      "title": "Vol 0 -  Chap 30.5",
+      "url": "https://mangafire.to/read/the-urban-legend-files.np138/en/chapter-30.5"
+    },
     {
       "number": "30",
       "title": "Vol 0 -  Chap 30",
@@ -266,5 +271,5 @@
       "url": "https://mangafire.to/read/the-urban-legend-files.np138/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:08:02Z"
+  "fetched_at": "2026-05-09T06:48:00Z"
 }

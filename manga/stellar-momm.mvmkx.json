@@ -1,8 +1,8 @@
 {
   "slug": "stellar-momm.mvmkx",
   "title": "Stellar Mom",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Stellar Mom manga, read all chapters here, the latest chapter 90 is available. Read Stellar Mom raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Stellar Mom manga, read all chapters here, the latest chapter 91 is available. Read Stellar Mom raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "91",
+      "title": "Chap 91",
+      "url": "https://mangafire.to/read/stellar-momm.mvmkx/en/chapter-91"
+    },
     {
       "number": "90",
       "title": "Chap 90",
@@ -504,5 +509,5 @@
       "url": "https://mangafire.to/read/stellar-momm.mvmkx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:07:35Z"
+  "fetched_at": "2026-05-09T06:44:52Z"
 }

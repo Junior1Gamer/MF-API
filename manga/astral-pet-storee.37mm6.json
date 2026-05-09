@@ -1,8 +1,8 @@
 {
   "slug": "astral-pet-storee.37mm6",
   "title": "Astral Pet Store",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Astral Pet Store manga, read all chapters here, the latest chapter 214.5 is available. Read Astral Pet Store raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Astral Pet Store manga, read all chapters here, the latest chapter 215 is available. Read Astral Pet Store raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "215",
+      "title": "Chap 215",
+      "url": "https://mangafire.to/read/astral-pet-storee.37mm6/en/chapter-215"
+    },
     {
       "number": "214.5",
       "title": "Chap 214.5",
@@ -1198,5 +1203,5 @@
       "url": "https://mangafire.to/read/astral-pet-storee.37mm6/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-01T07:06:16Z"
+  "fetched_at": "2026-05-09T06:44:55Z"
 }

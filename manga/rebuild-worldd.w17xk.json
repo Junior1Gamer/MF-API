@@ -2,7 +2,7 @@
   "slug": "rebuild-worldd.w17xk",
   "title": "Rebuild World",
   "cover": "https://static.mfcdn.nl/7cde/i/f/fe/fe5281c85f6bd07fb60c609eb1c87e2c@100.jpg",
-  "description": "Rebuild World manga, read all chapters here, the latest chapter 81 is available. Read Rebuild World raw, multiple language. READ NOW!!",
+  "description": "Rebuild World manga, read all chapters here, the latest chapter 82 is available. Read Rebuild World raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "82",
+      "title": "Vol 0 -  Chap 82",
+      "url": "https://mangafire.to/read/rebuild-worldd.w17xk/en/chapter-82"
+    },
     {
       "number": "81",
       "title": "Vol 0 -  Chap 81",
@@ -508,5 +513,5 @@
       "url": "https://mangafire.to/read/rebuild-worldd.w17xk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:07:46Z"
+  "fetched_at": "2026-05-09T06:46:38Z"
 }

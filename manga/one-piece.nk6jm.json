@@ -1,8 +1,8 @@
 {
   "slug": "one-piece.nk6jm",
   "title": "One Piece",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "One Piece manga, read all chapters here, the latest chapter 1080 is available. Read One Piece raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "One Piece manga, read all chapters here, the latest chapter 1181 is available. Read One Piece raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "1181",
+      "title": "Vol 107 -  Chap 1181",
+      "url": "https://mangafire.to/read/one-piece.nk6jm/en/chapter-1181"
+    },
     {
       "number": "1076",
       "title": "Vol 0 -  Chap 1076",
@@ -5445,5 +5450,5 @@
       "url": "https://mangafire.to/read/one-piece.nk6jm/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-01T07:34:17Z"
+  "fetched_at": "2026-05-09T06:46:37Z"
 }

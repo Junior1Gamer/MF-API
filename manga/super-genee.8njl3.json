@@ -1,8 +1,8 @@
 {
   "slug": "super-genee.8njl3",
   "title": "Super Gene (Colored)",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Super Gene manga, read all chapters here, the latest chapter 451 is available. Read Super Gene raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Super Gene manga, read all chapters here, the latest chapter 453 is available. Read Super Gene raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "453",
+      "title": "Chap 453",
+      "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-453"
+    },
+    {
+      "number": "452",
+      "title": "Chap 452",
+      "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-452"
+    },
     {
       "number": "451",
       "title": "Chap 451",
@@ -482,6 +492,11 @@
       "number": "366",
       "title": "Chap 366",
       "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-366"
+    },
+    {
+      "number": "365.1",
+      "title": "Chap 365.1",
+      "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-365.1"
     },
     {
       "number": "365",
@@ -2389,5 +2404,5 @@
       "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-01T07:04:16Z"
+  "fetched_at": "2026-05-09T06:45:27Z"
 }

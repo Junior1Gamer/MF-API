@@ -1,8 +1,8 @@
 {
   "slug": "dungeon-odysseyy.297v2",
   "title": "Dungeon Odyssey",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Dungeon Odyssey manga, read all chapters here, the latest chapter 157 is available. Read Dungeon Odyssey raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Dungeon Odyssey manga, read all chapters here, the latest chapter 159 is available. Read Dungeon Odyssey raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "159",
+      "title": "Chap 159",
+      "url": "https://mangafire.to/read/dungeon-odysseyy.297v2/en/chapter-159"
+    },
+    {
+      "number": "158",
+      "title": "Chap 158",
+      "url": "https://mangafire.to/read/dungeon-odysseyy.297v2/en/chapter-158"
+    },
     {
       "number": "157",
       "title": "Chap 157",
@@ -839,5 +849,5 @@
       "url": "https://mangafire.to/read/dungeon-odysseyy.297v2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:08:37Z"
+  "fetched_at": "2026-05-09T06:44:28Z"
 }

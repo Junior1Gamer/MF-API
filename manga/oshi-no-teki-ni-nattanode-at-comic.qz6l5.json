@@ -1,8 +1,8 @@
 {
   "slug": "oshi-no-teki-ni-nattanode-at-comic.qz6l5",
   "title": "Oshi no teki ni nattanode @COMIC",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Oshi no teki ni nattanode @COMIC manga, read all chapters here, the latest chapter 10 is available. Read Oshi no teki ni nattanode @COMIC raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Oshi no teki ni nattanode @COMIC manga, read all chapters here, the latest chapter 11 is available. Read Oshi no teki ni nattanode @COMIC raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "11",
+      "title": "Vol 2 -  Chap 11",
+      "url": "https://mangafire.to/read/oshi-no-teki-ni-nattanode-at-comic.qz6l5/en/chapter-11"
+    },
     {
       "number": "10",
       "title": "Vol 2 -  Chap 10",
@@ -101,5 +106,5 @@
       "url": "https://mangafire.to/read/oshi-no-teki-ni-nattanode-at-comic.qz6l5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:08:59Z"
+  "fetched_at": "2026-05-09T06:47:17Z"
 }

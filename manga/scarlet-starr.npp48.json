@@ -1,8 +1,8 @@
 {
   "slug": "scarlet-starr.npp48",
   "title": "Scarlet Star",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Scarlet Star manga, read all chapters here, the latest chapter 23 is available. Read Scarlet Star raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Scarlet Star manga, read all chapters here, the latest chapter 23.1 is available. Read Scarlet Star raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "23.1",
+      "title": "Vol 4 -  Chap 23.1",
+      "url": "https://mangafire.to/read/scarlet-starr.npp48/en/chapter-23.1"
+    },
     {
       "number": "23",
       "title": "Vol 4 -  Chap 23",
@@ -252,5 +257,5 @@
       "url": "https://mangafire.to/read/scarlet-starr.npp48/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-01T07:11:26Z"
+  "fetched_at": "2026-05-09T06:46:57Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "breakers2.823yo",
   "title": "Breakers",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Breakers manga, read all chapters here, the latest chapter 76 is available. Read Breakers raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Breakers manga, read all chapters here, the latest chapter 80 is available. Read Breakers raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,26 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "80",
+      "title": "Chap 80",
+      "url": "https://mangafire.to/read/breakers2.823yo/en/chapter-80"
+    },
+    {
+      "number": "79",
+      "title": "Chap 79",
+      "url": "https://mangafire.to/read/breakers2.823yo/en/chapter-79"
+    },
+    {
+      "number": "78",
+      "title": "Chap 78",
+      "url": "https://mangafire.to/read/breakers2.823yo/en/chapter-78"
+    },
+    {
+      "number": "77",
+      "title": "Chap 77",
+      "url": "https://mangafire.to/read/breakers2.823yo/en/chapter-77"
+    },
     {
       "number": "76",
       "title": "Chap 76",
@@ -431,5 +451,5 @@
       "url": "https://mangafire.to/read/breakers2.823yo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:04:43Z"
+  "fetched_at": "2026-05-09T06:45:22Z"
 }

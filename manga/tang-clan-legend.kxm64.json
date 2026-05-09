@@ -1,8 +1,8 @@
 {
   "slug": "tang-clan-legend.kxm64",
   "title": "Tang Clan Legend",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Tang Clan Legend manga, read all chapters here, the latest chapter 47 is available. Read Tang Clan Legend raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Tang Clan Legend manga, read all chapters here, the latest chapter 49 is available. Read Tang Clan Legend raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,16 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "49",
+      "title": "Chap 49",
+      "url": "https://mangafire.to/read/tang-clan-legend.kxm64/en/chapter-49"
+    },
+    {
+      "number": "48",
+      "title": "Chap 48",
+      "url": "https://mangafire.to/read/tang-clan-legend.kxm64/en/chapter-48"
+    },
     {
       "number": "47",
       "title": "Chap 47",
@@ -290,5 +300,5 @@
       "url": "https://mangafire.to/read/tang-clan-legend.kxm64/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-01T07:05:36Z"
+  "fetched_at": "2026-05-09T06:44:34Z"
 }
