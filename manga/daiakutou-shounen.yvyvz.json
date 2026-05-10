@@ -1,8 +1,8 @@
 {
   "slug": "daiakutou-shounen.yvyvz",
   "title": "Supervillain Boy",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Supervillain Boy manga, read all chapters here, the latest chapter 18 is available. Read Supervillain Boy raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Supervillain Boy manga, read all chapters here, the latest chapter 18.1 is available. Read Supervillain Boy raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "18.1",
+      "title": "Vol 0 -  Chap 18.1",
+      "url": "https://mangafire.to/read/daiakutou-shounen.yvyvz/en/chapter-18.1"
+    },
+    {
       "number": "18",
       "title": "Vol 0 -  Chap 18",
       "url": "https://mangafire.to/read/daiakutou-shounen.yvyvz/en/chapter-18"
@@ -60,6 +65,11 @@
       "number": "17.5",
       "title": "Vol 0 -  Chap 17.5",
       "url": "https://mangafire.to/read/daiakutou-shounen.yvyvz/en/chapter-17.5"
+    },
+    {
+      "number": "17.2",
+      "title": "Vol 0 -  Chap 17.2",
+      "url": "https://mangafire.to/read/daiakutou-shounen.yvyvz/en/chapter-17.2"
     },
     {
       "number": "17.1",
@@ -417,5 +427,5 @@
       "url": "https://mangafire.to/read/daiakutou-shounen.yvyvz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:04:15Z"
+  "fetched_at": "2026-05-10T07:06:34Z"
 }

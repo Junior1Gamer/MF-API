@@ -1,8 +1,8 @@
 {
   "slug": "ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn",
   "title": "Ruby on the Cake: Hitokui Majo no Bansankai",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Ruby on the Cake: Hitokui Majo no Bansankai manga, read all chapters here, the latest chapter 20 is available. Read Ruby on the Cake: Hitokui Majo no Bansankai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Ruby on the Cake: Hitokui Majo no Bansankai manga, read all chapters here, the latest chapter 20.1 is available. Read Ruby on the Cake: Hitokui Majo no Bansankai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,9 +53,24 @@
   ],
   "chapters": [
     {
+      "number": "20.1",
+      "title": "Vol 0 -  Chap 20.1",
+      "url": "https://mangafire.to/read/ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn/en/chapter-20.1"
+    },
+    {
       "number": "20",
       "title": "Vol 0 -  Chap 20",
       "url": "https://mangafire.to/read/ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn/en/chapter-20"
+    },
+    {
+      "number": "19.2",
+      "title": "Vol 0 -  Chap 19.2",
+      "url": "https://mangafire.to/read/ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn/en/chapter-19.2"
+    },
+    {
+      "number": "19.1",
+      "title": "Vol 0 -  Chap 19.1",
+      "url": "https://mangafire.to/read/ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn/en/chapter-19.1"
     },
     {
       "number": "19",
@@ -388,5 +403,5 @@
       "url": "https://mangafire.to/read/ruby-on-the-cake-hitokui-majo-no-bansankai.j2zpn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:04:07Z"
+  "fetched_at": "2026-05-10T07:06:33Z"
 }

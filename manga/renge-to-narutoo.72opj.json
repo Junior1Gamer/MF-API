@@ -1,8 +1,8 @@
 {
   "slug": "renge-to-narutoo.72opj",
   "title": "Renge to Naruto!",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Renge to Naruto! manga, read all chapters here, the latest chapter 55 is available. Read Renge to Naruto! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Renge to Naruto! manga, read all chapters here, the latest chapter 56 is available. Read Renge to Naruto! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "56",
+      "title": "Vol 6 -  Chap 56",
+      "url": "https://mangafire.to/read/renge-to-narutoo.72opj/en/chapter-56"
+    },
     {
       "number": "55",
       "title": "Vol 6 -  Chap 55",
@@ -326,5 +331,5 @@
       "url": "https://mangafire.to/read/renge-to-narutoo.72opj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:02:04Z"
+  "fetched_at": "2026-05-10T07:05:20Z"
 }

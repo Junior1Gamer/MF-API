@@ -1,8 +1,8 @@
 {
   "slug": "anata-wa-mou-irimasen.wq6qk",
   "title": "I Don’t Need You Anymore",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "I Don’t Need You Anymore manga, read all chapters here, the latest chapter 31 is available. Read I Don’t Need You Anymore raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "I Don’t Need You Anymore manga, read all chapters here, the latest chapter 32 is available. Read I Don’t Need You Anymore raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "32",
+      "title": "Chap 32",
+      "url": "https://mangafire.to/read/anata-wa-mou-irimasen.wq6qk/en/chapter-32"
+    },
     {
       "number": "31",
       "title": "Chap 31",
@@ -207,5 +212,5 @@
       "url": "https://mangafire.to/read/anata-wa-mou-irimasen.wq6qk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:04:09Z"
+  "fetched_at": "2026-05-10T07:06:31Z"
 }

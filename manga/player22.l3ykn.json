@@ -2,7 +2,7 @@
   "slug": "player22.l3ykn",
   "title": "Player",
   "cover": "https://static.mfcdn.nl/19b1/i/c/c0/c0d07e2f216a009cb232653b942d63db@100.jpg",
-  "description": "Player manga, read all chapters here, the latest chapter 256 is available. Read Player raw, multiple language. READ NOW!!",
+  "description": "Player manga, read all chapters here, the latest chapter 257 is available. Read Player raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "257",
+      "title": "Chap 257",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-257"
+    },
     {
       "number": "256",
       "title": "Chap 256",
@@ -178,6 +183,11 @@
       "number": "234.5",
       "title": "Chap 234.5",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-234.5"
+    },
+    {
+      "number": "234.3",
+      "title": "Chap 234.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-234.3"
     },
     {
       "number": "234.2",
@@ -1305,6 +1315,11 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-13"
     },
     {
+      "number": "12.3",
+      "title": "Chap 12.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-12.3"
+    },
+    {
       "number": "12.2",
       "title": "Chap 12.2",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-12.2"
@@ -1335,6 +1350,11 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-8"
     },
     {
+      "number": "7.3",
+      "title": "Chap 7.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-7.3"
+    },
+    {
       "number": "7.2",
       "title": "Chap 7.2",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-7.2"
@@ -1343,6 +1363,11 @@
       "number": "7",
       "title": "Chap 7",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-7"
+    },
+    {
+      "number": "6.3",
+      "title": "Chap 6.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-6.3"
     },
     {
       "number": "6.2",
@@ -1365,6 +1390,11 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-4"
     },
     {
+      "number": "3.3",
+      "title": "Chap 3.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-3.3"
+    },
+    {
       "number": "3.2",
       "title": "Chap 3.2",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-3.2"
@@ -1380,6 +1410,11 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-2"
     },
     {
+      "number": "1.3",
+      "title": "Chap 1.3",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1.3"
+    },
+    {
       "number": "1.2",
       "title": "Chap 1.2",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1.2"
@@ -1390,5 +1425,5 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:00:32Z"
+  "fetched_at": "2026-05-10T07:05:56Z"
 }

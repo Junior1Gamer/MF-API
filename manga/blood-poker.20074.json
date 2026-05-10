@@ -1,8 +1,8 @@
 {
   "slug": "blood-poker.20074",
   "title": "Blood Poker",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Blood Poker manga, read all chapters here, the latest chapter 24 is available. Read Blood Poker raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Blood Poker manga, read all chapters here, the latest chapter 25 is available. Read Blood Poker raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "25",
+      "title": "Chap 25",
+      "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-25"
+    },
     {
       "number": "24",
       "title": "Chap 24",
@@ -166,6 +171,16 @@
       "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-2"
     },
     {
+      "number": "1.6",
+      "title": "Chap 1.6",
+      "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-1.6"
+    },
+    {
+      "number": "1.5",
+      "title": "Chap 1.5",
+      "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-1.5"
+    },
+    {
       "number": "1.4",
       "title": "Chap 1.4",
       "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-1.4"
@@ -201,5 +216,5 @@
       "url": "https://mangafire.to/read/blood-poker.20074/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:03:16Z"
+  "fetched_at": "2026-05-10T07:06:13Z"
 }

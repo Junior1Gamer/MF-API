@@ -1,8 +1,8 @@
 {
   "slug": "god-of-ad-lib.olpjz",
   "title": "God of Ad-Lib",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "God of Ad-Lib manga, read all chapters here, the latest chapter 13 is available. Read God of Ad-Lib raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "God of Ad-Lib manga, read all chapters here, the latest chapter 15 is available. Read God of Ad-Lib raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Chap 15",
+      "url": "https://mangafire.to/read/god-of-ad-lib.olpjz/en/chapter-15"
+    },
+    {
+      "number": "14",
+      "title": "Chap 14",
+      "url": "https://mangafire.to/read/god-of-ad-lib.olpjz/en/chapter-14"
+    },
     {
       "number": "13",
       "title": "Chap 13",
@@ -116,5 +126,5 @@
       "url": "https://mangafire.to/read/god-of-ad-lib.olpjz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:03:47Z"
+  "fetched_at": "2026-05-10T07:05:34Z"
 }

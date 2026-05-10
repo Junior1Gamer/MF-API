@@ -1,8 +1,8 @@
 {
   "slug": "hero-tickett.pjom9",
   "title": "Hero Ticket",
-  "cover": "https://static.mfcdn.nl/91e7/i/5/56/56bc83a28b4f288a800d0ba6e195ad5f@100.jpg",
-  "description": "Hero Ticket manga, read all chapters here, the latest chapter 322 is available. Read Hero Ticket raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6c93/i/b/b1/b124de2dd12d4cb3856306655efc82d1@100.jpg",
+  "description": "Hero Ticket manga, read all chapters here, the latest chapter 324 is available. Read Hero Ticket raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "324",
+      "title": "Chap 324",
+      "url": "https://mangafire.to/read/hero-tickett.pjom9/en/chapter-324"
+    },
+    {
+      "number": "323",
+      "title": "Chap 323",
+      "url": "https://mangafire.to/read/hero-tickett.pjom9/en/chapter-323"
+    },
     {
       "number": "322",
       "title": "Chap 322",
@@ -1872,5 +1882,5 @@
       "url": "https://mangafire.to/read/hero-tickett.pjom9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:02:47Z"
+  "fetched_at": "2026-05-10T07:05:03Z"
 }

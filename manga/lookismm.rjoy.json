@@ -1,8 +1,8 @@
 {
   "slug": "lookismm.rjoy",
   "title": "Lookism",
-  "cover": "https://static.mfcdn.nl/6a98/i/f/f2/f2caa52667ab84d18c5920bd29a6df58@100.jpg",
-  "description": "Lookism manga, read all chapters here, the latest chapter 604 is available. Read Lookism raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5667/i/6/65/652dead5a2f5f69f7d29358dc5522e63@100.jpg",
+  "description": "Lookism manga, read all chapters here, the latest chapter 606 is available. Read Lookism raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,16 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "606",
+      "title": "Chap 606",
+      "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-606"
+    },
+    {
+      "number": "605",
+      "title": "Chap 605",
+      "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-605"
+    },
     {
       "number": "604",
       "title": "Chap 604",
@@ -2851,6 +2861,11 @@
       "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-58"
     },
     {
+      "number": "57.6",
+      "title": "Chap 57.6",
+      "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-57.6"
+    },
+    {
       "number": "57.5",
       "title": "Chap 57.5",
       "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-57.5"
@@ -3161,5 +3176,5 @@
       "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:03:25Z"
+  "fetched_at": "2026-05-10T07:05:55Z"
 }
