@@ -1,8 +1,8 @@
 {
   "slug": "i-dont-want-to-be-an-ojakgyoo.kwlo4",
   "title": "I Don't Want to Be an Ojakgyo",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "I Don't Want to Be an Ojakgyo manga, read all chapters here, the latest chapter 99 is available. Read I Don't Want to Be an Ojakgyo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "I Don't Want to Be an Ojakgyo manga, read all chapters here, the latest chapter 100 is available. Read I Don't Want to Be an Ojakgyo raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "100",
+      "title": "Chap 100",
+      "url": "https://mangafire.to/read/i-dont-want-to-be-an-ojakgyoo.kwlo4/en/chapter-100"
+    },
     {
       "number": "99",
       "title": "Chap 99",
@@ -582,5 +587,5 @@
       "url": "https://mangafire.to/read/i-dont-want-to-be-an-ojakgyoo.kwlo4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:55:02Z"
+  "fetched_at": "2026-05-11T08:19:12Z"
 }

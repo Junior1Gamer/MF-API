@@ -1,8 +1,8 @@
 {
   "slug": "shamoneyism.mjlzx",
   "title": "ShaMONEYism",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "ShaMONEYism manga, read all chapters here, the latest chapter 41 is available. Read ShaMONEYism raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "ShaMONEYism manga, read all chapters here, the latest chapter 44 is available. Read ShaMONEYism raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Chap 44",
+      "url": "https://mangafire.to/read/shamoneyism.mjlzx/en/chapter-44"
+    },
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/shamoneyism.mjlzx/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/shamoneyism.mjlzx/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Chap 41",
@@ -257,5 +272,5 @@
       "url": "https://mangafire.to/read/shamoneyism.mjlzx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:57:12Z"
+  "fetched_at": "2026-05-11T08:18:39Z"
 }

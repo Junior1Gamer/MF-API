@@ -1,8 +1,8 @@
 {
   "slug": "tears-on-a-withered-flower.mj4xp",
   "title": "Tears on a Withered Flower",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Tears on a Withered Flower manga, read all chapters here, the latest chapter 100 is available. Read Tears on a Withered Flower raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Tears on a Withered Flower manga, read all chapters here, the latest chapter 101 is available. Read Tears on a Withered Flower raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "101",
+      "title": "Chap 101",
+      "url": "https://mangafire.to/read/tears-on-a-withered-flower.mj4xp/en/chapter-101"
+    },
     {
       "number": "100",
       "title": "Chap 100",
@@ -601,5 +606,5 @@
       "url": "https://mangafire.to/read/tears-on-a-withered-flower.mj4xp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:45:32Z"
+  "fetched_at": "2026-05-11T08:15:32Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "slow-startt.9okv8",
   "title": "Slow Start",
-  "cover": "https://static.mfcdn.nl/cae9/i/4/47/471774fe62b99a207f491731c7dc4fb7@100.jpg",
-  "description": "Slow Start manga, read all chapters here, the latest chapter 163 is available. Read Slow Start raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/9ac6/i/5/51/519d437901a3dd8196c5b68dd9e3622a@100.jpg",
+  "description": "Slow Start manga, read all chapters here, the latest chapter 164 is available. Read Slow Start raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "164",
+      "title": "Vol 13 -  Chap 164",
+      "url": "https://mangafire.to/read/slow-startt.9okv8/en/chapter-164"
+    },
     {
       "number": "163",
       "title": "Vol 13 -  Chap 163",
@@ -931,5 +936,5 @@
       "url": "https://mangafire.to/read/slow-startt.9okv8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:58:35Z"
+  "fetched_at": "2026-05-11T08:14:26Z"
 }

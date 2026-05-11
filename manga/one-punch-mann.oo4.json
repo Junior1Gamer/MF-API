@@ -1,7 +1,7 @@
 {
   "slug": "one-punch-mann.oo4",
   "title": "One-Punch Man (Official)",
-  "cover": "https://static.mfcdn.nl/25a5/i/6/6a/6a84b20509e85e0e930d174a1abe3916@100.jpg",
+  "cover": "https://static.mfcdn.nl/5698/i/2/27/27758eaec9a7729ab8b0437b952756c8@100.jpg",
   "description": "One-Punch Man (Official) manga, read all chapters here, the latest chapter 264 is available. Read One-Punch Man (Official) raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -56,6 +56,21 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "222",
+      "title": "Vol 0 -  Chap 222",
+      "url": "https://mangafire.to/read/one-punch-mann.oo4/en/chapter-222"
+    },
+    {
+      "number": "221",
+      "title": "Vol 0 -  Chap 221",
+      "url": "https://mangafire.to/read/one-punch-mann.oo4/en/chapter-221"
+    },
+    {
+      "number": "220",
+      "title": "Vol 0 -  Chap 220",
+      "url": "https://mangafire.to/read/one-punch-mann.oo4/en/chapter-220"
+    },
     {
       "number": "219",
       "title": "Vol 0 -  Chap 219",
@@ -1677,5 +1692,5 @@
       "url": "https://mangafire.to/read/one-punch-mann.oo4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T08:04:27Z"
+  "fetched_at": "2026-05-11T08:59:15Z"
 }

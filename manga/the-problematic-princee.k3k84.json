@@ -1,8 +1,8 @@
 {
   "slug": "the-problematic-princee.k3k84",
   "title": "The Problematic Prince",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "The Problematic Prince manga, read all chapters here, the latest chapter 145 is available. Read The Problematic Prince raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "The Problematic Prince manga, read all chapters here, the latest chapter 146 is available. Read The Problematic Prince raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "146",
+      "title": "Chap 146",
+      "url": "https://mangafire.to/read/the-problematic-princee.k3k84/en/chapter-146"
+    },
     {
       "number": "145",
       "title": "Chap 145",
@@ -833,5 +838,5 @@
       "url": "https://mangafire.to/read/the-problematic-princee.k3k84/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:45:35Z"
+  "fetched_at": "2026-05-11T08:18:33Z"
 }

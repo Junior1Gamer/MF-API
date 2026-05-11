@@ -1,8 +1,8 @@
 {
   "slug": "traces-of-the-sunn.1rwmp",
   "title": "Traces of the Sun",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Traces of the Sun manga, read all chapters here, the latest chapter 95 is available. Read Traces of the Sun raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Traces of the Sun manga, read all chapters here, the latest chapter 96 is available. Read Traces of the Sun raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "96",
+      "title": "Chap 96",
+      "url": "https://mangafire.to/read/traces-of-the-sunn.1rwmp/en/chapter-96"
+    },
     {
       "number": "95",
       "title": "Chap 95",
@@ -562,5 +567,5 @@
       "url": "https://mangafire.to/read/traces-of-the-sunn.1rwmp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:13:16Z"
+  "fetched_at": "2026-05-11T08:14:11Z"
 }

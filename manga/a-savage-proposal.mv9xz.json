@@ -1,8 +1,8 @@
 {
   "slug": "a-savage-proposal.mv9xz",
   "title": "A Savage Proposal",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "A Savage Proposal manga, read all chapters here, the latest chapter 85 is available. Read A Savage Proposal raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "A Savage Proposal manga, read all chapters here, the latest chapter 86 is available. Read A Savage Proposal raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "86",
+      "title": "Chap 86",
+      "url": "https://mangafire.to/read/a-savage-proposal.mv9xz/en/chapter-86"
+    },
     {
       "number": "85",
       "title": "Chap 85",
@@ -478,5 +483,5 @@
       "url": "https://mangafire.to/read/a-savage-proposal.mv9xz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:58:16Z"
+  "fetched_at": "2026-05-11T08:11:28Z"
 }

@@ -2,7 +2,7 @@
   "slug": "the-novels-extraa.4qz4k",
   "title": "The Novel's Extra",
   "cover": "https://static.mfcdn.nl/384c/i/6/64/64f744e215180a4f804a1b1e4ee2e84e@100.jpg",
-  "description": "The Novel's Extra manga, read all chapters here, the latest chapter 155 is available. Read The Novel's Extra raw, multiple language. READ NOW!!",
+  "description": "The Novel's Extra manga, read all chapters here, the latest chapter 156 is available. Read The Novel's Extra raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "156",
+      "title": "Chap 156",
+      "url": "https://mangafire.to/read/the-novels-extraa.4qz4k/en/chapter-156"
+    },
     {
       "number": "155",
       "title": "Chap 155",
@@ -862,5 +867,5 @@
       "url": "https://mangafire.to/read/the-novels-extraa.4qz4k/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:50:16Z"
+  "fetched_at": "2026-05-11T08:20:16Z"
 }

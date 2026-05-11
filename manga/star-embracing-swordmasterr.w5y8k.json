@@ -1,8 +1,8 @@
 {
   "slug": "star-embracing-swordmasterr.w5y8k",
   "title": "The Stellar Swordmaster",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "The Stellar Swordmaster manga, read all chapters here, the latest chapter 120 is available. Read The Stellar Swordmaster raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/b93d/i/2/43/04bfdd920d5494635117643152b024fa@100.jpg",
+  "description": "The Stellar Swordmaster manga, read all chapters here, the latest chapter 121 is available. Read The Stellar Swordmaster raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Chap 121",
+      "url": "https://mangafire.to/read/star-embracing-swordmasterr.w5y8k/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Chap 120",
@@ -677,5 +682,5 @@
       "url": "https://mangafire.to/read/star-embracing-swordmasterr.w5y8k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:47:19Z"
+  "fetched_at": "2026-05-11T08:18:53Z"
 }

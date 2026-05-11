@@ -1,7 +1,7 @@
 {
   "slug": "dead-tubee.7j8jy",
   "title": "DEAD Tube",
-  "cover": "https://static.mfcdn.nl/1ce7/i/a/ae/ae0bdc132ce47e69cc28f90afbd48149@100.jpg",
+  "cover": "https://static.mfcdn.nl/540d/i/1/12/12e51daceaa58fc9b8dae91d27e23b03@100.jpg",
   "description": "DEAD Tube manga, read all chapters here, the latest chapter 115 is available. Read DEAD Tube raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,6 +50,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "114",
+      "title": "Vol 26 -  Chap 114",
+      "url": "https://mangafire.to/read/dead-tubee.7j8jy/en/chapter-114"
+    },
+    {
+      "number": "113",
+      "title": "Vol 26 -  Chap 113",
+      "url": "https://mangafire.to/read/dead-tubee.7j8jy/en/chapter-113"
+    },
     {
       "number": "112",
       "title": "Vol 26 -  Chap 112",
@@ -651,5 +661,5 @@
       "url": "https://mangafire.to/read/dead-tubee.7j8jy/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:52:01Z"
+  "fetched_at": "2026-05-11T08:23:08Z"
 }

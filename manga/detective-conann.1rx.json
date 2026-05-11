@@ -1,8 +1,8 @@
 {
   "slug": "detective-conann.1rx",
   "title": "Case Closed",
-  "cover": "https://static.mfcdn.nl/557a/i/a/a8/a8c0900e9005d24c2e03f753e2f56c62@100.jpg",
-  "description": "Case Closed manga, read all chapters here, the latest chapter 1161 is available. Read Case Closed raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/7528/i/d/d4/d4c93c678487c4bf200742a4f7461808@100.jpg",
+  "description": "Case Closed manga, read all chapters here, the latest chapter 1162 is available. Read Case Closed raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "1162",
+      "title": "Vol 0 -  Chap 1162",
+      "url": "https://mangafire.to/read/detective-conann.1rx/en/chapter-1162"
+    },
     {
       "number": "1161",
       "title": "Vol 0 -  Chap 1161",
@@ -5956,5 +5961,5 @@
       "url": "https://mangafire.to/read/detective-conann.1rx/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:04:50Z"
+  "fetched_at": "2026-05-11T08:16:12Z"
 }

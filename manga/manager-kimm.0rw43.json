@@ -1,8 +1,8 @@
 {
   "slug": "manager-kimm.0rw43",
   "title": "Manager Kim",
-  "cover": "https://static.mfcdn.nl/94ab/i/1/1e/1e837c3103fb4384d727aecea2c4e7dd@100.jpg",
-  "description": "Manager Kim manga, read all chapters here, the latest chapter 238 is available. Read Manager Kim raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/75fb/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0@100.jpg",
+  "description": "Manager Kim manga, read all chapters here, the latest chapter 239 is available. Read Manager Kim raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "239",
+      "title": "Chap 239",
+      "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-239"
+    },
+    {
       "number": "238",
       "title": "Chap 238",
       "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-238"
@@ -75,6 +80,11 @@
       "number": "234",
       "title": "Chap 234",
       "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-234"
+    },
+    {
+      "number": "233.5",
+      "title": "Chap 233.5",
+      "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-233.5"
     },
     {
       "number": "233.4",
@@ -1267,5 +1277,5 @@
       "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:06:07Z"
+  "fetched_at": "2026-05-11T08:19:17Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "cardfight-vanguard-divinez-genma-kakusei-hen.171vw",
   "title": "Cardfight!! Vanguard Divinez: Genma Kakusei-hen",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Cardfight!! Vanguard Divinez: Genma Kakusei-hen manga, read all chapters here, the latest chapter 6.1 is available. Read Cardfight!! Vanguard Divinez: Genma Kakusei-hen raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Cardfight!! Vanguard Divinez: Genma Kakusei-hen manga, read all chapters here, the latest chapter 6.2 is available. Read Cardfight!! Vanguard Divinez: Genma Kakusei-hen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Action"
   ],
   "chapters": [
+    {
+      "number": "6.2",
+      "title": "Chap 6.2",
+      "url": "https://mangafire.to/read/cardfight-vanguard-divinez-genma-kakusei-hen.171vw/en/chapter-6.2"
+    },
     {
       "number": "6.1",
       "title": "Chap 6.1",
@@ -100,5 +105,5 @@
       "url": "https://mangafire.to/read/cardfight-vanguard-divinez-genma-kakusei-hen.171vw/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:52:01Z"
+  "fetched_at": "2026-05-11T08:14:29Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "i-am-the-villainn.ox455",
   "title": "I Am the Villain",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "I Am the Villain manga, read all chapters here, the latest chapter 93 is available. Read I Am the Villain raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "I Am the Villain manga, read all chapters here, the latest chapter 95 is available. Read I Am the Villain raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Shoujo"
   ],
   "chapters": [
+    {
+      "number": "95",
+      "title": "Chap 95",
+      "url": "https://mangafire.to/read/i-am-the-villainn.ox455/en/chapter-95"
+    },
     {
       "number": "93",
       "title": "Chap 93",
@@ -521,5 +526,5 @@
       "url": "https://mangafire.to/read/i-am-the-villainn.ox455/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:58:50Z"
+  "fetched_at": "2026-05-11T08:17:10Z"
 }

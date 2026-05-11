@@ -1,8 +1,8 @@
 {
   "slug": "terra-formarss.vmy7",
   "title": "Terra Formars",
-  "cover": "https://static.mfcdn.nl/8536/i/2/26/266b03a89ea9ff260fd050cc9a888c3c@100.jpg",
-  "description": "Terra Formars manga, read all chapters here, the latest chapter 252 is available. Read Terra Formars raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a72a/i/9/98/984d2cd6c416ecc84ebf651bb8f507c6@100.jpg",
+  "description": "Terra Formars manga, read all chapters here, the latest chapter 253 is available. Read Terra Formars raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "253",
+      "title": "Vol 25 -  Chap 253",
+      "url": "https://mangafire.to/read/terra-formarss.vmy7/en/chapter-253"
+    },
     {
       "number": "252",
       "title": "Vol 24 -  Chap 252",
@@ -1731,5 +1736,5 @@
       "url": "https://mangafire.to/read/terra-formarss.vmy7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:57:59Z"
+  "fetched_at": "2026-05-11T08:16:25Z"
 }

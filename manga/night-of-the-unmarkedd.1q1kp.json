@@ -1,8 +1,8 @@
 {
   "slug": "night-of-the-unmarkedd.1q1kp",
   "title": "Night of the Unmarked",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Night of the Unmarked manga, read all chapters here, the latest chapter 63 is available. Read Night of the Unmarked raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Night of the Unmarked manga, read all chapters here, the latest chapter 66 is available. Read Night of the Unmarked raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,21 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "66",
+      "title": "Chap 66",
+      "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-66"
+    },
+    {
+      "number": "65",
+      "title": "Chap 65",
+      "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-65"
+    },
+    {
+      "number": "64",
+      "title": "Chap 64",
+      "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-64"
+    },
     {
       "number": "63",
       "title": "Chap 63",
@@ -181,6 +196,11 @@
       "number": "40",
       "title": "Chap 40",
       "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-40"
+    },
+    {
+      "number": "39.1",
+      "title": "Chap 39.1",
+      "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-39.1"
     },
     {
       "number": "39",
@@ -413,5 +433,5 @@
       "url": "https://mangafire.to/read/night-of-the-unmarkedd.1q1kp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:05:57Z"
+  "fetched_at": "2026-05-11T08:11:15Z"
 }

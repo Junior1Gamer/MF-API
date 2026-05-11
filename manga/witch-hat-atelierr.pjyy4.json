@@ -1,7 +1,7 @@
 {
   "slug": "witch-hat-atelierr.pjyy4",
   "title": "Witch Hat Atelier",
-  "cover": "https://static.mfcdn.nl/19ff/i/c/c4/c49e974b5aee46976eaa7ed288611831@100.jpg",
+  "cover": "https://static.mfcdn.nl/8811/i/8/8c/8c7525a75d20376ee9fdba1bdcea9711@100.jpg",
   "description": "Witch Hat Atelier manga, read all chapters here, the latest chapter 96 is available. Read Witch Hat Atelier raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "96",
+      "title": "Vol 0 -  Chap 96",
+      "url": "https://mangafire.to/read/witch-hat-atelierr.pjyy4/en/chapter-96"
+    },
     {
       "number": "95",
       "title": "Vol 15 -  Chap 95",
@@ -656,5 +661,5 @@
       "url": "https://mangafire.to/read/witch-hat-atelierr.pjyy4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:46:39Z"
+  "fetched_at": "2026-05-11T08:20:56Z"
 }

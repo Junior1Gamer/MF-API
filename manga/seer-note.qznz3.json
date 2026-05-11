@@ -1,8 +1,8 @@
 {
   "slug": "seer-note.qznz3",
   "title": "Seer Note",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Seer Note manga, read all chapters here, the latest chapter 11 is available. Read Seer Note raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Seer Note manga, read all chapters here, the latest chapter 15 is available. Read Seer Note raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,26 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Chap 15",
+      "url": "https://mangafire.to/read/seer-note.qznz3/en/chapter-15"
+    },
+    {
+      "number": "14",
+      "title": "Chap 14",
+      "url": "https://mangafire.to/read/seer-note.qznz3/en/chapter-14"
+    },
+    {
+      "number": "13",
+      "title": "Chap 13",
+      "url": "https://mangafire.to/read/seer-note.qznz3/en/chapter-13"
+    },
+    {
+      "number": "12",
+      "title": "Chap 12",
+      "url": "https://mangafire.to/read/seer-note.qznz3/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Chap 11",
@@ -108,5 +128,5 @@
       "url": "https://mangafire.to/read/seer-note.qznz3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:34:23Z"
+  "fetched_at": "2026-05-11T08:18:08Z"
 }

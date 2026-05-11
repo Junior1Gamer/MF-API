@@ -1,8 +1,8 @@
 {
   "slug": "agineun-akdangeul-kiundaa.oj515",
   "title": "Agineun Akdangeul Kiunda",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Agineun Akdangeul Kiunda manga, read all chapters here, the latest chapter 42 is available. Read Agineun Akdangeul Kiunda raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Agineun Akdangeul Kiunda manga, read all chapters here, the latest chapter 43 is available. Read Agineun Akdangeul Kiunda raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Adventure"
   ],
   "chapters": [
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/agineun-akdangeul-kiundaa.oj515/en/chapter-43"
+    },
     {
       "number": "42",
       "title": "Chap 42",
@@ -267,5 +272,5 @@
       "url": "https://mangafire.to/read/agineun-akdangeul-kiundaa.oj515/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:45:37Z"
+  "fetched_at": "2026-05-11T08:12:40Z"
 }

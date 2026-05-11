@@ -1,8 +1,8 @@
 {
   "slug": "choujin-xx.oj985",
   "title": "Choujin X",
-  "cover": "https://static.mfcdn.nl/27f0/i/9/97/97547986f9877743e05c70ff6a173351@100.jpg",
-  "description": "Choujin X manga, read all chapters here, the latest chapter 72.1 is available. Read Choujin X raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/f864/i/0/09/09fca761449baa2a2e4b192feda39587@100.jpg",
+  "description": "Choujin X manga, read all chapters here, the latest chapter 72.2 is available. Read Choujin X raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "72.2",
+      "title": "Vol 13 -  Chap 72.2",
+      "url": "https://mangafire.to/read/choujin-xx.oj985/en/chapter-72.2"
+    },
     {
       "number": "72.1",
       "title": "Vol 13 -  Chap 72.1",
@@ -816,5 +821,5 @@
       "url": "https://mangafire.to/read/choujin-xx.oj985/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:46:26Z"
+  "fetched_at": "2026-05-11T08:19:36Z"
 }

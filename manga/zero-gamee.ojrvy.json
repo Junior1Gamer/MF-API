@@ -1,8 +1,8 @@
 {
   "slug": "zero-gamee.ojrvy",
   "title": "Zero Game",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Zero Game manga, read all chapters here, the latest chapter 357 is available. Read Zero Game raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Zero Game manga, read all chapters here, the latest chapter 358 is available. Read Zero Game raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "358",
+      "title": "Chap 358",
+      "url": "https://mangafire.to/read/zero-gamee.ojrvy/en/chapter-358"
+    },
     {
       "number": "357",
       "title": "Chap 357",
@@ -1888,5 +1893,5 @@
       "url": "https://mangafire.to/read/zero-gamee.ojrvy/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T07:50:33Z"
+  "fetched_at": "2026-05-11T08:20:14Z"
 }

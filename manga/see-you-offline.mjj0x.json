@@ -1,8 +1,8 @@
 {
   "slug": "see-you-offline.mjj0x",
   "title": "See You Offline",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "See You Offline manga, read all chapters here, the latest chapter 18 is available. Read See You Offline raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "See You Offline manga, read all chapters here, the latest chapter 20 is available. Read See You Offline raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Shoujo"
   ],
   "chapters": [
+    {
+      "number": "20",
+      "title": "Chap 20",
+      "url": "https://mangafire.to/read/see-you-offline.mjj0x/en/chapter-20"
+    },
+    {
+      "number": "19",
+      "title": "Chap 19",
+      "url": "https://mangafire.to/read/see-you-offline.mjj0x/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Chap 18",
@@ -141,5 +151,5 @@
       "url": "https://mangafire.to/read/see-you-offline.mjj0x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:48:03Z"
+  "fetched_at": "2026-05-11T08:13:55Z"
 }

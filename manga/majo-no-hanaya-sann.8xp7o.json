@@ -1,8 +1,8 @@
 {
   "slug": "majo-no-hanaya-sann.8xp7o",
   "title": "Majo no Hanaya-san",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Majo no Hanaya-san manga, read all chapters here, the latest chapter 26 is available. Read Majo no Hanaya-san raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Majo no Hanaya-san manga, read all chapters here, the latest chapter 27 is available. Read Majo no Hanaya-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "27",
+      "title": "Vol 4 -  Chap 27",
+      "url": "https://mangafire.to/read/majo-no-hanaya-sann.8xp7o/en/chapter-27"
+    },
     {
       "number": "26",
       "title": "Vol 4 -  Chap 26",
@@ -182,5 +187,5 @@
       "url": "https://mangafire.to/read/majo-no-hanaya-sann.8xp7o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:59:07Z"
+  "fetched_at": "2026-05-11T08:14:34Z"
 }

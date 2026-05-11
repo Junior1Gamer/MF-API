@@ -1,8 +1,8 @@
 {
   "slug": "chikasugiru-futari.zk6n3",
   "title": "Chikasugiru Futari",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Chikasugiru Futari manga, read all chapters here, the latest chapter 8.2 is available. Read Chikasugiru Futari raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Chikasugiru Futari manga, read all chapters here, the latest chapter 9.1 is available. Read Chikasugiru Futari raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "9.1",
+      "title": "Chap 9.1",
+      "url": "https://mangafire.to/read/chikasugiru-futari.zk6n3/en/chapter-9.1"
+    },
     {
       "number": "8.2",
       "title": "Chap 8.2",
@@ -117,5 +122,5 @@
       "url": "https://mangafire.to/read/chikasugiru-futari.zk6n3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:57:20Z"
+  "fetched_at": "2026-05-11T08:16:52Z"
 }

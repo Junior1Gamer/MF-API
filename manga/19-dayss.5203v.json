@@ -1,8 +1,8 @@
 {
   "slug": "19-dayss.5203v",
   "title": "19 Days (Colored)",
-  "cover": "https://static.mfcdn.nl/1155/i/6/64/6491528d96a6e1f1f0acbe33d7995784@100.jpg",
-  "description": "19 Days manga, read all chapters here, the latest chapter 485 is available. Read 19 Days raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a745/i/8/8d/8d69638d9ecf6725b38565af59df0ccf@100.jpg",
+  "description": "19 Days manga, read all chapters here, the latest chapter 489 is available. Read 19 Days raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,26 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "489",
+      "title": "Chap 489",
+      "url": "https://mangafire.to/read/19-dayss.5203v/en/chapter-489"
+    },
+    {
+      "number": "488",
+      "title": "Chap 488",
+      "url": "https://mangafire.to/read/19-dayss.5203v/en/chapter-488"
+    },
+    {
+      "number": "487",
+      "title": "Chap 487",
+      "url": "https://mangafire.to/read/19-dayss.5203v/en/chapter-487"
+    },
+    {
+      "number": "486",
+      "title": "Chap 486",
+      "url": "https://mangafire.to/read/19-dayss.5203v/en/chapter-486"
+    },
     {
       "number": "485",
       "title": "Chap 485",
@@ -2864,5 +2884,5 @@
       "url": "https://mangafire.to/read/19-dayss.5203v/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:10:15Z"
+  "fetched_at": "2026-05-11T08:17:01Z"
 }

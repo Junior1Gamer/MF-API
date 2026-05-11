@@ -1,7 +1,7 @@
 {
   "slug": "hangman.qz333",
   "title": "Hangman",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
   "description": "Hangman manga, read all chapters here, the latest chapter 20 is available. Read Hangman raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,105 +50,90 @@
   ],
   "chapters": [
     {
-      "number": "20",
-      "title": "Chap 20",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-20"
-    },
-    {
-      "number": "19",
-      "title": "Chap 19",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-19"
-    },
-    {
-      "number": "18",
-      "title": "Chap 18",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-18"
-    },
-    {
       "number": "17",
       "title": "Chap 17",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-17"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-17"
     },
     {
       "number": "16",
       "title": "Chap 16",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-16"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-16"
     },
     {
       "number": "15",
       "title": "Chap 15",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-15"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-15"
     },
     {
       "number": "14",
       "title": "Chap 14",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-14"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-14"
     },
     {
       "number": "13",
       "title": "Chap 13",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-13"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-13"
     },
     {
       "number": "12",
       "title": "Chap 12",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-12"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-12"
     },
     {
       "number": "11",
       "title": "Chap 11",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-11"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-11"
     },
     {
       "number": "10",
       "title": "Chap 10",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-10"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-10"
     },
     {
       "number": "9",
       "title": "Chap 9",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-9"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-9"
     },
     {
       "number": "8",
       "title": "Chap 8",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-8"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-8"
     },
     {
       "number": "7",
       "title": "Chap 7",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-7"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-7"
     },
     {
       "number": "6",
       "title": "Chap 6",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-6"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-6"
     },
     {
       "number": "5",
       "title": "Chap 5",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-5"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-5"
     },
     {
       "number": "4",
       "title": "Chap 4",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-4"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-4"
     },
     {
       "number": "3",
       "title": "Chap 3",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-3"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-3"
     },
     {
       "number": "2",
       "title": "Chap 2",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-2"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-2"
     },
     {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/hangman.qz333/fr/chapter-1"
+      "url": "https://mangafire.to/read/hangman.qz333/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:04:54Z"
+  "fetched_at": "2026-05-11T08:24:57Z"
 }

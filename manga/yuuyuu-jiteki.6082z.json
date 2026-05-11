@@ -1,8 +1,8 @@
 {
   "slug": "yuuyuu-jiteki.6082z",
   "title": "Yuuyuu Jiteki.",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Yuuyuu Jiteki. manga, read all chapters here, the latest chapter 4 is available. Read Yuuyuu Jiteki. raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Yuuyuu Jiteki. manga, read all chapters here, the latest chapter 5 is available. Read Yuuyuu Jiteki. raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "5",
+      "title": "Vol 1 -  Chap 5",
+      "url": "https://mangafire.to/read/yuuyuu-jiteki.6082z/en/chapter-5"
+    },
+    {
       "number": "4",
       "title": "Vol 1 -  Chap 4",
       "url": "https://mangafire.to/read/yuuyuu-jiteki.6082z/en/chapter-4"
@@ -72,5 +77,5 @@
       "url": "https://mangafire.to/read/yuuyuu-jiteki.6082z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-03T07:05:15Z"
+  "fetched_at": "2026-05-11T08:14:28Z"
 }

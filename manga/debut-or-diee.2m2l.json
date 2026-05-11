@@ -2,7 +2,7 @@
   "slug": "debut-or-diee.2m2l",
   "title": "Debut or Die!",
   "cover": "https://static.mfcdn.nl/d4e0/i/7/44/0583b1a2469da480a38cd0d0db0e90d1@100.jpg",
-  "description": "Debut or Die! manga, read all chapters here, the latest chapter 100 is available. Read Debut or Die! raw, multiple language. READ NOW!!",
+  "description": "Debut or Die! manga, read all chapters here, the latest chapter 101 is available. Read Debut or Die! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "101",
+      "title": "Chap 101",
+      "url": "https://mangafire.to/read/debut-or-diee.2m2l/en/chapter-101"
+    },
     {
       "number": "100",
       "title": "Chap 100",
@@ -598,5 +603,5 @@
       "url": "https://mangafire.to/read/debut-or-diee.2m2l/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T08:02:56Z"
+  "fetched_at": "2026-05-11T08:14:24Z"
 }

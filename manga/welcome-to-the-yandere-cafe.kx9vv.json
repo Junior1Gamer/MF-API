@@ -1,8 +1,8 @@
 {
   "slug": "welcome-to-the-yandere-cafe.kx9vv",
   "title": "Welcome to the Yandere Cafe!",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Welcome to the Yandere Cafe! manga, read all chapters here, the latest chapter 8 is available. Read Welcome to the Yandere Cafe! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Welcome to the Yandere Cafe! manga, read all chapters here, the latest chapter 9 is available. Read Welcome to the Yandere Cafe! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,9 +53,29 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Vol 0 -  Chap 9",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-9"
+    },
+    {
+      "number": "8.1",
+      "title": "Vol 0 -  Chap 8.1",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-8.1"
+    },
+    {
       "number": "8",
       "title": "Vol 0 -  Chap 8",
       "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-8"
+    },
+    {
+      "number": "7.2",
+      "title": "Vol 0 -  Chap 7.2",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-7.2"
+    },
+    {
+      "number": "7.1",
+      "title": "Vol 0 -  Chap 7.1",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-7.1"
     },
     {
       "number": "7",
@@ -68,6 +88,21 @@
       "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-6.5"
     },
     {
+      "number": "6.3",
+      "title": "Vol 0 -  Chap 6.3",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-6.3"
+    },
+    {
+      "number": "6.2",
+      "title": "Vol 0 -  Chap 6.2",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-6.2"
+    },
+    {
+      "number": "6.1",
+      "title": "Vol 0 -  Chap 6.1",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-6.1"
+    },
+    {
       "number": "6",
       "title": "Vol 0 -  Chap 6",
       "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-6"
@@ -76,6 +111,16 @@
       "number": "5.5",
       "title": "Vol 0 -  Chap 5.5",
       "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-5.5"
+    },
+    {
+      "number": "5.3",
+      "title": "Vol 0 -  Chap 5.3",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-5.3"
+    },
+    {
+      "number": "5.2",
+      "title": "Vol 0 -  Chap 5.2",
+      "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-5.2"
     },
     {
       "number": "5.1",
@@ -158,5 +203,5 @@
       "url": "https://mangafire.to/read/welcome-to-the-yandere-cafe.kx9vv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:49:23Z"
+  "fetched_at": "2026-05-11T08:18:59Z"
 }

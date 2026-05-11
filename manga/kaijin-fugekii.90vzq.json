@@ -1,8 +1,8 @@
 {
   "slug": "kaijin-fugekii.90vzq",
   "title": "KAIJIN FUGEKI: Kindled Spirits",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "KAIJIN FUGEKI: Kindled Spirits manga, read all chapters here, the latest chapter 74 is available. Read KAIJIN FUGEKI: Kindled Spirits raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "KAIJIN FUGEKI: Kindled Spirits manga, read all chapters here, the latest chapter 75 is available. Read KAIJIN FUGEKI: Kindled Spirits raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Military"
   ],
   "chapters": [
+    {
+      "number": "75",
+      "title": "Vol 5 -  Chap 75",
+      "url": "https://mangafire.to/read/kaijin-fugekii.90vzq/en/chapter-75"
+    },
     {
       "number": "74",
       "title": "Vol 5 -  Chap 74",
@@ -426,5 +431,5 @@
       "url": "https://mangafire.to/read/kaijin-fugekii.90vzq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:54:26Z"
+  "fetched_at": "2026-05-11T08:17:41Z"
 }

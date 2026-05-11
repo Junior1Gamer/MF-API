@@ -2,7 +2,7 @@
   "slug": "dungeon-gyeonmullok.qzvjw",
   "title": "Dungeon Odyssey",
   "cover": "https://static.mfcdn.nl/79bd/i/a/ac/ac33781ae4e9b3f41ad8b6ff186af636@100.jpg",
-  "description": "Dungeon Odyssey manga, read all chapters here, the latest chapter 158 is available. Read Dungeon Odyssey raw, multiple language. READ NOW!!",
+  "description": "Dungeon Odyssey manga, read all chapters here, the latest chapter 159 is available. Read Dungeon Odyssey raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "159",
+      "title": "Chap 159",
+      "url": "https://mangafire.to/read/dungeon-gyeonmullok.qzvjw/en/chapter-159"
+    },
     {
       "number": "158",
       "title": "Chap 158",
@@ -845,5 +850,5 @@
       "url": "https://mangafire.to/read/dungeon-gyeonmullok.qzvjw/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:47:17Z"
+  "fetched_at": "2026-05-11T08:13:53Z"
 }

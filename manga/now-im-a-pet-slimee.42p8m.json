@@ -1,8 +1,8 @@
 {
   "slug": "now-im-a-pet-slimee.42p8m",
   "title": "Now I'm a Pet Slime!?",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Now I'm a Pet Slime!? manga, read all chapters here, the latest chapter 4.1 is available. Read Now I'm a Pet Slime!? raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
+  "description": "Now I'm a Pet Slime!? manga, read all chapters here, the latest chapter 5 is available. Read Now I'm a Pet Slime!? raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "5",
+      "title": "Chap 5",
+      "url": "https://mangafire.to/read/now-im-a-pet-slimee.42p8m/en/chapter-5"
+    },
+    {
       "number": "4.1",
       "title": "Chap 4.1",
       "url": "https://mangafire.to/read/now-im-a-pet-slimee.42p8m/en/chapter-4.1"
@@ -83,5 +88,5 @@
       "url": "https://mangafire.to/read/now-im-a-pet-slimee.42p8m/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-03T07:24:43Z"
+  "fetched_at": "2026-05-11T08:13:40Z"
 }

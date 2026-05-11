@@ -1,8 +1,8 @@
 {
   "slug": "akane-banashii.kk76",
   "title": "Akane-banashi",
-  "cover": "https://static.mfcdn.nl/a012/i/9/99/997e1e02512a5b0cba34134202e18e37@100.jpg",
-  "description": "Akane-banashi manga, read all chapters here, the latest chapter 204 is available. Read Akane-banashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1c96/i/7/7d/7daee37362c4b6a8fe2668e590a8e079@100.jpg",
+  "description": "Akane-banashi manga, read all chapters here, the latest chapter 205 is available. Read Akane-banashi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "205",
+      "title": "Vol 22 -  Chap 205",
+      "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-205"
+    },
     {
       "number": "204",
       "title": "Vol 22 -  Chap 204",
@@ -493,27 +498,27 @@
     },
     {
       "number": "116",
-      "title": "Vol 13 -  Chap 116",
+      "title": "Vol 0 -  Chap 116",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-116"
     },
     {
       "number": "115",
-      "title": "Vol 13 -  Chap 115",
+      "title": "Vol 0 -  Chap 115",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-115"
     },
     {
       "number": "114",
-      "title": "Vol 13 -  Chap 114",
+      "title": "Vol 0 -  Chap 114",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-114"
     },
     {
       "number": "113",
-      "title": "Vol 13 -  Chap 113",
+      "title": "Vol 0 -  Chap 113",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-113"
     },
     {
       "number": "112",
-      "title": "Vol 13 -  Chap 112",
+      "title": "Vol 0 -  Chap 112",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-112"
     },
     {
@@ -523,17 +528,17 @@
     },
     {
       "number": "110",
-      "title": "Vol 13 -  Chap 110",
+      "title": "Vol 0 -  Chap 110",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-110"
     },
     {
       "number": "109",
-      "title": "Vol 13 -  Chap 109",
+      "title": "Vol 0 -  Chap 109",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-109"
     },
     {
       "number": "108",
-      "title": "Vol 13 -  Chap 108",
+      "title": "Vol 0 -  Chap 108",
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-108"
     },
     {
@@ -1072,5 +1077,5 @@
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:51:16Z"
+  "fetched_at": "2026-05-11T08:11:04Z"
 }

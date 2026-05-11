@@ -1,8 +1,8 @@
 {
   "slug": "trauma-centerr.527o9",
   "title": "Trauma Center",
-  "cover": "https://static.mfcdn.nl/eb66/i/1/12/12114829918e9a3fb2b4a9dfd620df07@100.jpg",
-  "description": "Trauma Center manga, read all chapters here, the latest chapter 135 is available. Read Trauma Center raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/55b7/i/b/ba/ba8fa45d350bab5840c18e3005f3d40f@100.jpg",
+  "description": "Trauma Center manga, read all chapters here, the latest chapter 136 is available. Read Trauma Center raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "136",
+      "title": "Chap 136",
+      "url": "https://mangafire.to/read/trauma-centerr.527o9/en/chapter-136"
+    },
     {
       "number": "135",
       "title": "Chap 135",
@@ -735,5 +740,5 @@
       "url": "https://mangafire.to/read/trauma-centerr.527o9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T07:55:04Z"
+  "fetched_at": "2026-05-11T08:20:19Z"
 }
