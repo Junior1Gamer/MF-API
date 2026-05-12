@@ -1,8 +1,8 @@
 {
   "slug": "anata-no-koisuru-kirai-na-watashii.kknjv",
   "title": "Anata no Koisuru Kirai na Watashi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Anata no Koisuru Kirai na Watashi manga, read all chapters here, the latest chapter 10 is available. Read Anata no Koisuru Kirai na Watashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Anata no Koisuru Kirai na Watashi manga, read all chapters here, the latest chapter 11 is available. Read Anata no Koisuru Kirai na Watashi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "11",
+      "title": "Vol 0 -  Chap 11",
+      "url": "https://mangafire.to/read/anata-no-koisuru-kirai-na-watashii.kknjv/en/chapter-11"
+    },
     {
       "number": "10",
       "title": "Vol 0 -  Chap 10",
@@ -101,5 +106,5 @@
       "url": "https://mangafire.to/read/anata-no-koisuru-kirai-na-watashii.kknjv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T09:03:09Z"
+  "fetched_at": "2026-05-12T07:10:38Z"
 }

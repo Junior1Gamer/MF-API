@@ -1,8 +1,8 @@
 {
   "slug": "the-gifted-handd.lr0pm",
   "title": "Divine Hand",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Divine Hand manga, read all chapters here, the latest chapter 59 is available. Read Divine Hand raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Divine Hand manga, read all chapters here, the latest chapter 61 is available. Read Divine Hand raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "61",
+      "title": "Chap 61",
+      "url": "https://mangafire.to/read/the-gifted-handd.lr0pm/en/chapter-61"
+    },
+    {
+      "number": "60",
+      "title": "Chap 60",
+      "url": "https://mangafire.to/read/the-gifted-handd.lr0pm/en/chapter-60"
+    },
     {
       "number": "59",
       "title": "Chap 59",
@@ -353,5 +363,5 @@
       "url": "https://mangafire.to/read/the-gifted-handd.lr0pm/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T08:39:15Z"
+  "fetched_at": "2026-05-12T07:09:57Z"
 }

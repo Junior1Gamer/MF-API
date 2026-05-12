@@ -1,8 +1,8 @@
 {
   "slug": "luciaa.pjnrq",
   "title": "Lucia",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Lucia manga, read all chapters here, the latest chapter 168 is available. Read Lucia raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Lucia manga, read all chapters here, the latest chapter 170 is available. Read Lucia raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "170",
+      "title": "Chap 170",
+      "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-170"
+    },
+    {
+      "number": "169",
+      "title": "Chap 169",
+      "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-169"
+    },
     {
       "number": "168",
       "title": "Chap 168",
@@ -642,6 +652,11 @@
       "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-58"
     },
     {
+      "number": "57.5",
+      "title": "Chap 57.5",
+      "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-57.5"
+    },
+    {
       "number": "57",
       "title": "Chap 57",
       "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-57"
@@ -927,5 +942,5 @@
       "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T08:13:04Z"
+  "fetched_at": "2026-05-12T07:10:35Z"
 }

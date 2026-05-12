@@ -1,8 +1,8 @@
 {
   "slug": "parrot-bladee.jj348",
   "title": "Parrot Blade",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Parrot Blade manga, read all chapters here, the latest chapter 29 is available. Read Parrot Blade raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Parrot Blade manga, read all chapters here, the latest chapter 30 is available. Read Parrot Blade raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/parrot-bladee.jj348/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Chap 29",
@@ -196,5 +201,5 @@
       "url": "https://mangafire.to/read/parrot-bladee.jj348/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T08:26:42Z"
+  "fetched_at": "2026-05-12T07:10:40Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "dracorunn.womr7",
   "title": "Dracorun (Colored)",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Dracorun manga, read all chapters here, the latest chapter 160 is available. Read Dracorun raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Dracorun manga, read all chapters here, the latest chapter 165 is available. Read Dracorun raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "165",
+      "title": "Vol 0 -  Chap 165",
+      "url": "https://mangafire.to/read/dracorunn.womr7/en/chapter-165"
+    },
+    {
+      "number": "163",
+      "title": "Vol 0 -  Chap 163",
+      "url": "https://mangafire.to/read/dracorunn.womr7/en/chapter-163"
+    },
+    {
+      "number": "161",
+      "title": "Vol 0 -  Chap 161",
+      "url": "https://mangafire.to/read/dracorunn.womr7/en/chapter-161"
+    },
     {
       "number": "160",
       "title": "Vol 0 -  Chap 160",
@@ -852,5 +867,5 @@
       "url": "https://mangafire.to/read/dracorunn.womr7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T08:27:38Z"
+  "fetched_at": "2026-05-12T07:09:37Z"
 }

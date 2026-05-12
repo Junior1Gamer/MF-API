@@ -1,8 +1,8 @@
 {
   "slug": "soulmatee.ojnjy",
   "title": "Soulmate (Colored)",
-  "cover": "https://static.mfcdn.nl/fa4e/i/c/cf/cfe9e8172347f4318237821128456a00@100.jpg",
-  "description": "Soulmate manga, read all chapters here, the latest chapter 40.6 is available. Read Soulmate raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2619/i/e/e5/e5ccec09c12595075f2460b4dd8a2b31@100.jpg",
+  "description": "Soulmate manga, read all chapters here, the latest chapter 43 is available. Read Soulmate raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,21 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/soulmatee.ojnjy/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/soulmatee.ojnjy/en/chapter-42"
+    },
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/soulmatee.ojnjy/en/chapter-41"
+    },
     {
       "number": "40.6",
       "title": "Chap 40.6",
@@ -309,5 +324,5 @@
       "url": "https://mangafire.to/read/soulmatee.ojnjy/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T08:46:36Z"
+  "fetched_at": "2026-05-12T07:09:05Z"
 }

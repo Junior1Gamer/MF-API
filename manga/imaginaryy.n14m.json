@@ -1,7 +1,7 @@
 {
   "slug": "imaginaryy.n14m",
   "title": "Imaginary",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
   "description": "Imaginary manga, read all chapters here, the latest chapter 20.5 is available. Read Imaginary raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -119,6 +119,11 @@
       "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-13"
     },
     {
+      "number": "12.5",
+      "title": "Vol 0 -  Chap 12.5",
+      "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-12.5"
+    },
+    {
       "number": "12.2",
       "title": "Vol 2 -  Chap 12.2",
       "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-12.2"
@@ -137,6 +142,11 @@
       "number": "11",
       "title": "Vol 2 -  Chap 11",
       "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-11"
+    },
+    {
+      "number": "10.5",
+      "title": "Vol 0 -  Chap 10.5",
+      "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-10.5"
     },
     {
       "number": "10.2",
@@ -209,5 +219,5 @@
       "url": "https://mangafire.to/read/imaginaryy.n14m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T09:25:33Z"
+  "fetched_at": "2026-05-12T07:43:42Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "dukes-private-tutorr.mqjyz",
   "title": "Duke's Private Tutor",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Duke's Private Tutor manga, read all chapters here, the latest chapter 100 is available. Read Duke's Private Tutor raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Duke's Private Tutor manga, read all chapters here, the latest chapter 101 is available. Read Duke's Private Tutor raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "101",
+      "title": "Chap 101",
+      "url": "https://mangafire.to/read/dukes-private-tutorr.mqjyz/en/chapter-101"
+    },
     {
       "number": "100",
       "title": "Chap 100",
@@ -621,5 +626,5 @@
       "url": "https://mangafire.to/read/dukes-private-tutorr.mqjyz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T08:13:21Z"
+  "fetched_at": "2026-05-12T07:08:58Z"
 }

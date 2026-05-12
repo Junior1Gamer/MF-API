@@ -1,8 +1,8 @@
 {
   "slug": "link-like-love-live-at-comic.60407",
   "title": "Link! Like! Love Live! @comic",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Link! Like! Love Live! @comic manga, read all chapters here, the latest chapter 3 is available. Read Link! Like! Love Live! @comic raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Link! Like! Love Live! @comic manga, read all chapters here, the latest chapter 4 is available. Read Link! Like! Love Live! @comic raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
   ],
   "chapters": [
     {
+      "number": "4",
+      "title": "Chap 4",
+      "url": "https://mangafire.to/read/link-like-love-live-at-comic.60407/en/chapter-4"
+    },
+    {
       "number": "3",
       "title": "Chap 3",
       "url": "https://mangafire.to/read/link-like-love-live-at-comic.60407/en/chapter-3"
@@ -64,5 +69,5 @@
       "url": "https://mangafire.to/read/link-like-love-live-at-comic.60407/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-04T08:18:53Z"
+  "fetched_at": "2026-05-12T07:10:37Z"
 }

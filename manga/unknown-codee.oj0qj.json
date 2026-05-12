@@ -1,8 +1,8 @@
 {
   "slug": "unknown-codee.oj0qj",
   "title": "Unknown Code",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Unknown Code manga, read all chapters here, the latest chapter 82.5 is available. Read Unknown Code raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "description": "Unknown Code manga, read all chapters here, the latest chapter 86 is available. Read Unknown Code raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,26 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "86",
+      "title": "Chap 86",
+      "url": "https://mangafire.to/read/unknown-codee.oj0qj/en/chapter-86"
+    },
+    {
+      "number": "85",
+      "title": "Chap 85",
+      "url": "https://mangafire.to/read/unknown-codee.oj0qj/en/chapter-85"
+    },
+    {
+      "number": "84",
+      "title": "Chap 84",
+      "url": "https://mangafire.to/read/unknown-codee.oj0qj/en/chapter-84"
+    },
+    {
+      "number": "83",
+      "title": "Chap 83",
+      "url": "https://mangafire.to/read/unknown-codee.oj0qj/en/chapter-83"
+    },
     {
       "number": "82.5",
       "title": "Chap 82.5",
@@ -494,5 +514,5 @@
       "url": "https://mangafire.to/read/unknown-codee.oj0qj/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-04T08:46:39Z"
+  "fetched_at": "2026-05-12T07:09:52Z"
 }
