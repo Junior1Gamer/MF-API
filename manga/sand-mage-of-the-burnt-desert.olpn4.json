@@ -1,8 +1,8 @@
 {
   "slug": "sand-mage-of-the-burnt-desert.olpn4",
   "title": "Sand Mage of the Burnt Desert",
-  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
-  "description": "Sand Mage of the Burnt Desert manga, read all chapters here, the latest chapter 20.5 is available. Read Sand Mage of the Burnt Desert raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/f2b4/i/d/d8/d8fd48b71ebd5f32a2392b5e71eeb3c6@100.jpg",
+  "description": "Sand Mage of the Burnt Desert manga, read all chapters here, the latest chapter 21 is available. Read Sand Mage of the Burnt Desert raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "21",
+      "title": "Chap 21",
+      "url": "https://mangafire.to/read/sand-mage-of-the-burnt-desert.olpn4/en/chapter-21"
+    },
     {
       "number": "20.5",
       "title": "Chap 20.5",
@@ -246,7 +251,12 @@
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/sand-mage-of-the-burnt-desert.olpn4/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Chap 0",
+      "url": "https://mangafire.to/read/sand-mage-of-the-burnt-desert.olpn4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-06T07:05:15Z"
+  "fetched_at": "2026-05-13T07:45:24Z"
 }

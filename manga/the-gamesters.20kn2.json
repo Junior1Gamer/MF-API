@@ -1,8 +1,8 @@
 {
-  "slug": "aoki-balkanalia.5wn8q",
-  "title": "The Azure Balkanalia",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "The Azure Balkanalia manga, read all chapters here, the latest chapter 2 is available. Read The Azure Balkanalia raw, multiple language. READ NOW!!",
+  "slug": "the-gamesters.20kn2",
+  "title": "THE GAMESTERS",
+  "cover": "https://static.mfcdn.nl/f2b4/i/d/d8/d8fd48b71ebd5f32a2392b5e71eeb3c6@100.jpg",
+  "description": "THE GAMESTERS manga, read all chapters here, the latest chapter 1 is available. Read THE GAMESTERS raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -46,21 +46,22 @@
     "Suspense",
     "Thriller",
     "Vampire",
+    "Action",
     "Drama",
-    "Romance",
-    "Shoujo"
+    "Mystery",
+    "Seinen"
   ],
   "chapters": [
     {
-      "number": "2",
-      "title": "Chap 2",
-      "url": "https://mangafire.to/read/aoki-balkanalia.5wn8q/en/chapter-2"
-    },
-    {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/aoki-balkanalia.5wn8q/en/chapter-1"
+      "url": "https://mangafire.to/read/the-gamesters.20kn2/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Chap 0",
+      "url": "https://mangafire.to/read/the-gamesters.20kn2/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-13T07:45:27Z"
+  "fetched_at": "2026-05-13T07:45:21Z"
 }
