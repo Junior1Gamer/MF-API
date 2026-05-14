@@ -1,9 +1,9 @@
 {
-  "slug": "omega-detectives-night.lxm53",
-  "title": "Omega Detective's Night",
+  "slug": "pokemon-card-game-xy-yarouze.x1433",
+  "title": "Pokémon Card Game XY Yarouze!",
   "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Omega Detective's Night manga, read all chapters here, the latest chapter 6 is available. Read Omega Detective's Night raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "description": "Pokémon Card Game XY Yarouze! manga, read all chapters here, the latest chapter 5 is available. Read Pokémon Card Game XY Yarouze! raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -46,39 +46,41 @@
     "Suspense",
     "Thriller",
     "Vampire",
-    "Drama"
+    "Comedy",
+    "Adventure",
+    "Kids"
   ],
   "chapters": [
     {
-      "number": "6",
-      "title": "Chap 6",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-6"
-    },
-    {
       "number": "5",
       "title": "Chap 5",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-5"
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-5"
     },
     {
       "number": "4",
       "title": "Chap 4",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-4"
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-4"
     },
     {
       "number": "3",
       "title": "Chap 3",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-3"
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-3"
     },
     {
       "number": "2",
       "title": "Chap 2",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-2"
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-2"
     },
     {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/omega-detectives-night.lxm53/fr/chapter-1"
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Chap 0",
+      "url": "https://mangafire.to/read/pokemon-card-game-xy-yarouze.x1433/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-14T07:40:17Z"
+  "fetched_at": "2026-05-14T07:40:09Z"
 }
