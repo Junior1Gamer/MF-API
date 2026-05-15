@@ -1,9 +1,9 @@
 {
-  "slug": "musuko-no-kanojo.mjn1z",
-  "title": "Musuko no Kanojo",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Musuko no Kanojo manga, read all chapters here, the latest chapter 1 is available. Read Musuko no Kanojo raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "slug": "tonari-no-yousei-san.wq427",
+  "title": "The Fairy Next to Me",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "The Fairy Next to Me manga, read all chapters here, the latest chapter 0 is available. Read The Fairy Next to Me raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -46,15 +46,16 @@
     "Suspense",
     "Thriller",
     "Vampire",
-    "Romance",
-    "Seinen"
+    "Shounen",
+    "School",
+    "Fantasy"
   ],
   "chapters": [
     {
-      "number": "1",
-      "title": "Chap 1",
-      "url": "https://mangafire.to/read/musuko-no-kanojo.mjn1z/es/chapter-1"
+      "number": "0",
+      "title": "Chap 0",
+      "url": "https://mangafire.to/read/tonari-no-yousei-san.wq427/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-15T07:50:13Z"
+  "fetched_at": "2026-05-15T07:50:06Z"
 }

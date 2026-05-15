@@ -1,8 +1,8 @@
 {
-  "slug": "musuko-no-kanojo.mjn1z",
-  "title": "Musuko no Kanojo",
+  "slug": "gunnm-kikoujutsu-senki.nkolm",
+  "title": "GUNNM: Kikoujutsu Senki",
   "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Musuko no Kanojo manga, read all chapters here, the latest chapter 1 is available. Read Musuko no Kanojo raw, multiple language. READ NOW!!",
+  "description": "GUNNM: Kikoujutsu Senki manga, read all chapters here, the latest chapter 1.2 is available. Read GUNNM: Kikoujutsu Senki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -46,15 +46,23 @@
     "Suspense",
     "Thriller",
     "Vampire",
-    "Romance",
-    "Seinen"
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Adventure",
+    "Psychological"
   ],
   "chapters": [
     {
-      "number": "1",
-      "title": "Chap 1",
-      "url": "https://mangafire.to/read/musuko-no-kanojo.mjn1z/es/chapter-1"
+      "number": "1.2",
+      "title": "Chap 1.2",
+      "url": "https://mangafire.to/read/gunnm-kikoujutsu-senki.nkolm/en/chapter-1.2"
+    },
+    {
+      "number": "1.1",
+      "title": "Chap 1.1",
+      "url": "https://mangafire.to/read/gunnm-kikoujutsu-senki.nkolm/en/chapter-1.1"
     }
   ],
-  "fetched_at": "2026-05-15T07:50:13Z"
+  "fetched_at": "2026-05-15T07:50:10Z"
 }
