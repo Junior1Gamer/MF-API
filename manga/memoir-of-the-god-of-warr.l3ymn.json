@@ -1,8 +1,8 @@
 {
   "slug": "memoir-of-the-god-of-warr.l3ymn",
   "title": "Memoir of the God of War",
-  "cover": "https://static.mfcdn.nl/8ac3/i/4/46/469c55fb55a97cd4de30b65c4e78d472@100.jpg",
-  "description": "Memoir of the God of War manga, read all chapters here, the latest chapter 252 is available. Read Memoir of the God of War raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/f421/i/b/b0/b0755d7d6afcbdd00922db5197ace5ff@100.jpg",
+  "description": "Memoir of the God of War manga, read all chapters here, the latest chapter 253 is available. Read Memoir of the God of War raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "253",
+      "title": "Chap 253",
+      "url": "https://mangafire.to/read/memoir-of-the-god-of-warr.l3ymn/en/chapter-253"
+    },
     {
       "number": "252",
       "title": "Chap 252",
@@ -1336,5 +1341,5 @@
       "url": "https://mangafire.to/read/memoir-of-the-god-of-warr.l3ymn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:47:28Z"
+  "fetched_at": "2026-05-16T06:54:06Z"
 }

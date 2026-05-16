@@ -1,8 +1,8 @@
 {
   "slug": "ginga-tokkyuu-milkysubway.lx2lq",
   "title": "Milky☆Subway: The Galactic Limited Express",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Milky☆Subway: The Galactic Limited Express manga, read all chapters here, the latest chapter 10 is available. Read Milky☆Subway: The Galactic Limited Express raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Milky☆Subway: The Galactic Limited Express manga, read all chapters here, the latest chapter 11 is available. Read Milky☆Subway: The Galactic Limited Express raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
   ],
   "chapters": [
     {
+      "number": "11",
+      "title": "Chap 11",
+      "url": "https://mangafire.to/read/ginga-tokkyuu-milkysubway.lx2lq/en/chapter-11"
+    },
+    {
       "number": "10",
       "title": "Chap 10",
       "url": "https://mangafire.to/read/ginga-tokkyuu-milkysubway.lx2lq/en/chapter-10"
@@ -105,5 +110,5 @@
       "url": "https://mangafire.to/read/ginga-tokkyuu-milkysubway.lx2lq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:50:55Z"
+  "fetched_at": "2026-05-16T06:52:58Z"
 }

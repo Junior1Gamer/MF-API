@@ -2,7 +2,7 @@
   "slug": "heungmak-beomgorae-aginim.j2zy8",
   "title": "'Cause Calypso Can",
   "cover": "https://static.mfcdn.nl/aa7a/i/2/56/fda864a7e5e40c75bfd0ad4cbbec8866@100.jpg",
-  "description": "'Cause Calypso Can manga, read all chapters here, the latest chapter 100 is available. Read 'Cause Calypso Can raw, multiple language. READ NOW!!",
+  "description": "'Cause Calypso Can manga, read all chapters here, the latest chapter 101 is available. Read 'Cause Calypso Can raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "101",
+      "title": "Chap 101",
+      "url": "https://mangafire.to/read/heungmak-beomgorae-aginim.j2zy8/en/chapter-101"
+    },
     {
       "number": "100",
       "title": "Chap 100",
@@ -552,5 +557,5 @@
       "url": "https://mangafire.to/read/heungmak-beomgorae-aginim.j2zy8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:47:25Z"
+  "fetched_at": "2026-05-16T06:53:42Z"
 }

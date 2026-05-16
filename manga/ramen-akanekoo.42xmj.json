@@ -1,8 +1,8 @@
 {
   "slug": "ramen-akanekoo.42xmj",
   "title": "Red Cat Ramen",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Red Cat Ramen manga, read all chapters here, the latest chapter 189 is available. Read Red Cat Ramen raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Red Cat Ramen manga, read all chapters here, the latest chapter 190 is available. Read Red Cat Ramen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "190",
+      "title": "Vol 13 -  Chap 190",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-190"
+    },
     {
       "number": "189",
       "title": "Vol 13 -  Chap 189",
@@ -1156,5 +1161,5 @@
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:47:35Z"
+  "fetched_at": "2026-05-16T06:53:53Z"
 }

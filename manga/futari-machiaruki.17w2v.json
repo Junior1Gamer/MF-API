@@ -1,8 +1,8 @@
 {
   "slug": "futari-machiaruki.17w2v",
   "title": "Futari Machiaruki",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Futari Machiaruki manga, read all chapters here, the latest chapter 9 is available. Read Futari Machiaruki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Futari Machiaruki manga, read all chapters here, the latest chapter 9.5 is available. Read Futari Machiaruki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "9.5",
+      "title": "Vol 2 -  Chap 9.5",
+      "url": "https://mangafire.to/read/futari-machiaruki.17w2v/en/chapter-9.5"
+    },
     {
       "number": "9",
       "title": "Vol 2 -  Chap 9",
@@ -101,5 +106,5 @@
       "url": "https://mangafire.to/read/futari-machiaruki.17w2v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:49:03Z"
+  "fetched_at": "2026-05-16T06:51:44Z"
 }

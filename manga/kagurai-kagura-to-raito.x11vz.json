@@ -1,8 +1,8 @@
 {
   "slug": "kagurai-kagura-to-raito.x11vz",
   "title": "KaguRai: Kagura to Raito",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "KaguRai: Kagura to Raito manga, read all chapters here, the latest chapter 44 is available. Read KaguRai: Kagura to Raito raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "KaguRai: Kagura to Raito manga, read all chapters here, the latest chapter 46 is available. Read KaguRai: Kagura to Raito raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "46",
+      "title": "Vol 3 -  Chap 46",
+      "url": "https://mangafire.to/read/kagurai-kagura-to-raito.x11vz/en/chapter-46"
+    },
+    {
+      "number": "45",
+      "title": "Vol 3 -  Chap 45",
+      "url": "https://mangafire.to/read/kagurai-kagura-to-raito.x11vz/en/chapter-45"
+    },
     {
       "number": "44",
       "title": "Vol 3 -  Chap 44",
@@ -277,5 +287,5 @@
       "url": "https://mangafire.to/read/kagurai-kagura-to-raito.x11vz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:50:20Z"
+  "fetched_at": "2026-05-16T06:51:39Z"
 }

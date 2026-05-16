@@ -1,8 +1,8 @@
 {
   "slug": "vicious-dog.lx5o6",
   "title": "Vicious Dog",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Vicious Dog manga, read all chapters here, the latest chapter 29 is available. Read Vicious Dog raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Vicious Dog manga, read all chapters here, the latest chapter 31 is available. Read Vicious Dog raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "31",
+      "title": "Chap 31",
+      "url": "https://mangafire.to/read/vicious-dog.lx5o6/en/chapter-31"
+    },
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/vicious-dog.lx5o6/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Chap 29",
@@ -197,5 +207,5 @@
       "url": "https://mangafire.to/read/vicious-dog.lx5o6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:27Z"
+  "fetched_at": "2026-05-16T06:51:54Z"
 }

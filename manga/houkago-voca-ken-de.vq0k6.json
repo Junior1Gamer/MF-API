@@ -1,8 +1,8 @@
 {
   "slug": "houkago-voca-ken-de.vq0k6",
   "title": "Houkago Voca-Ken de!",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Houkago Voca-Ken de! manga, read all chapters here, the latest chapter 15 is available. Read Houkago Voca-Ken de! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Houkago Voca-Ken de! manga, read all chapters here, the latest chapter 16 is available. Read Houkago Voca-Ken de! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Vol 1 -  Chap 16",
+      "url": "https://mangafire.to/read/houkago-voca-ken-de.vq0k6/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Vol 1 -  Chap 15",
@@ -132,5 +137,5 @@
       "url": "https://mangafire.to/read/houkago-voca-ken-de.vq0k6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:50:32Z"
+  "fetched_at": "2026-05-16T06:54:09Z"
 }

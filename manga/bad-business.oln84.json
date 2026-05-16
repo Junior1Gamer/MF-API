@@ -1,8 +1,8 @@
 {
   "slug": "bad-business.oln84",
   "title": "Bad Business",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Bad Business manga, read all chapters here, the latest chapter 21 is available. Read Bad Business raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Bad Business manga, read all chapters here, the latest chapter 22 is available. Read Bad Business raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "22",
+      "title": "Chap 22",
+      "url": "https://mangafire.to/read/bad-business.oln84/en/chapter-22"
+    },
     {
       "number": "21",
       "title": "Chap 21",
@@ -161,5 +166,5 @@
       "url": "https://mangafire.to/read/bad-business.oln84/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:21Z"
+  "fetched_at": "2026-05-16T06:51:53Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "fog-land.mj46z",
   "title": "Fog Land",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Fog Land manga, read all chapters here, the latest chapter 36 is available. Read Fog Land raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Fog Land manga, read all chapters here, the latest chapter 38 is available. Read Fog Land raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/fog-land.mj46z/en/chapter-38"
+    },
+    {
+      "number": "37",
+      "title": "Chap 37",
+      "url": "https://mangafire.to/read/fog-land.mj46z/en/chapter-37"
+    },
     {
       "number": "36",
       "title": "Chap 36",
@@ -238,5 +248,5 @@
       "url": "https://mangafire.to/read/fog-land.mj46z/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:47:00Z"
+  "fetched_at": "2026-05-16T06:51:36Z"
 }

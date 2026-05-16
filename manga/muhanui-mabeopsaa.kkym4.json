@@ -1,8 +1,8 @@
 {
   "slug": "muhanui-mabeopsaa.kkym4",
   "title": "Infinite Mage",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Infinite Mage manga, read all chapters here, the latest chapter 167 is available. Read Infinite Mage raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Infinite Mage manga, read all chapters here, the latest chapter 168 is available. Read Infinite Mage raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "168",
+      "title": "Chap 168",
+      "url": "https://mangafire.to/read/muhanui-mabeopsaa.kkym4/en/chapter-168"
+    },
     {
       "number": "167",
       "title": "Chap 167",
@@ -930,5 +935,5 @@
       "url": "https://mangafire.to/read/muhanui-mabeopsaa.kkym4/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:54Z"
+  "fetched_at": "2026-05-16T06:52:50Z"
 }

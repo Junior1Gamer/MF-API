@@ -1,8 +1,8 @@
 {
   "slug": "gachankii.30382",
   "title": "Delinquent Gacha",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Delinquent Gacha manga, read all chapters here, the latest chapter 26 is available. Read Delinquent Gacha raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Delinquent Gacha manga, read all chapters here, the latest chapter 27 is available. Read Delinquent Gacha raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "27",
+      "title": "Vol 1 -  Chap 27",
+      "url": "https://mangafire.to/read/gachankii.30382/en/chapter-27"
+    },
     {
       "number": "26",
       "title": "Vol 1 -  Chap 26",
@@ -183,5 +188,5 @@
       "url": "https://mangafire.to/read/gachankii.30382/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:47:13Z"
+  "fetched_at": "2026-05-16T06:53:17Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "night-journey.kxw16",
   "title": "Night Journey",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Night Journey manga, read all chapters here, the latest chapter 46 is available. Read Night Journey raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Night Journey manga, read all chapters here, the latest chapter 47 is available. Read Night Journey raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "47",
+      "title": "Chap 47",
+      "url": "https://mangafire.to/read/night-journey.kxw16/en/chapter-47"
+    },
     {
       "number": "46",
       "title": "Chap 46",
@@ -277,5 +282,5 @@
       "url": "https://mangafire.to/read/night-journey.kxw16/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:44:33Z"
+  "fetched_at": "2026-05-16T06:52:40Z"
 }

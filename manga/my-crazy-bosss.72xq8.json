@@ -1,8 +1,8 @@
 {
   "slug": "my-crazy-bosss.72xq8",
   "title": "My Crazy Boss",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "My Crazy Boss manga, read all chapters here, the latest chapter 38 is available. Read My Crazy Boss raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "My Crazy Boss manga, read all chapters here, the latest chapter 39 is available. Read My Crazy Boss raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Chap 39",
+      "url": "https://mangafire.to/read/my-crazy-bosss.72xq8/en/chapter-39"
+    },
     {
       "number": "38",
       "title": "Chap 38",
@@ -240,5 +245,5 @@
       "url": "https://mangafire.to/read/my-crazy-bosss.72xq8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:44:30Z"
+  "fetched_at": "2026-05-16T06:52:35Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "the-mirror-legacy.rorpm",
   "title": "The Mirror Legacy",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "The Mirror Legacy manga, read all chapters here, the latest chapter 18 is available. Read The Mirror Legacy raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "The Mirror Legacy manga, read all chapters here, the latest chapter 19 is available. Read The Mirror Legacy raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Chap 19",
+      "url": "https://mangafire.to/read/the-mirror-legacy.rorpm/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Chap 18",
@@ -148,5 +153,5 @@
       "url": "https://mangafire.to/read/the-mirror-legacy.rorpm/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:16Z"
+  "fetched_at": "2026-05-16T06:52:41Z"
 }

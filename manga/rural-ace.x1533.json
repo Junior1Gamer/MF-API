@@ -1,8 +1,8 @@
 {
   "slug": "rural-ace.x1533",
   "title": "Rural Ace",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Rural Ace manga, read all chapters here, the latest chapter 18 is available. Read Rural Ace raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Rural Ace manga, read all chapters here, the latest chapter 19 is available. Read Rural Ace raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Chap 19",
+      "url": "https://mangafire.to/read/rural-ace.x1533/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Chap 18",
@@ -141,5 +146,5 @@
       "url": "https://mangafire.to/read/rural-ace.x1533/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:25Z"
+  "fetched_at": "2026-05-16T06:53:38Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "kuberaa.nk8",
   "title": "Kubera",
-  "cover": "https://static.mfcdn.nl/a96c/i/8/22/bcfcc8f19ec17a2929fa55d8945ea18b@100.jpg",
-  "description": "Kubera manga, read all chapters here, the latest chapter 713 is available. Read Kubera raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/d0e4/i/6/67/67624ab35abce0fd1bb7fa646460d5f9@100.jpg",
+  "description": "Kubera manga, read all chapters here, the latest chapter 714 is available. Read Kubera raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "714",
+      "title": "Chap 714",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-714"
+    },
     {
       "number": "713",
       "title": "Chap 713",
@@ -2527,6 +2532,11 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-269"
     },
     {
+      "number": "268.1",
+      "title": "Chap 268.1",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-268.1"
+    },
+    {
       "number": "268",
       "title": "Chap 268",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-268"
@@ -2582,6 +2592,11 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-267"
     },
     {
+      "number": "266.9",
+      "title": "Chap 266.9",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-266.9"
+    },
+    {
       "number": "266.8",
       "title": "Chap 266.8",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-266.8"
@@ -2625,6 +2640,16 @@
       "number": "266",
       "title": "Chap 266",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-266"
+    },
+    {
+      "number": "265.9",
+      "title": "Chap 265.9",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-265.9"
+    },
+    {
+      "number": "265.8",
+      "title": "Chap 265.8",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-265.8"
     },
     {
       "number": "265.7",
@@ -3317,6 +3342,16 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-163"
     },
     {
+      "number": "162.7",
+      "title": "Chap 162.7",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-162.7"
+    },
+    {
+      "number": "162.6",
+      "title": "Chap 162.6",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-162.6"
+    },
+    {
       "number": "162.5",
       "title": "Chap 162.5",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-162.5"
@@ -3912,6 +3947,11 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-83"
     },
     {
+      "number": "82.8",
+      "title": "Chap 82.8",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-82.8"
+    },
+    {
       "number": "82.7",
       "title": "Chap 82.7",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-82.7"
@@ -4397,6 +4437,11 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-4"
     },
     {
+      "number": "3.9",
+      "title": "Chap 3.9",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-3.9"
+    },
+    {
       "number": "3.8",
       "title": "Chap 3.8",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-3.8"
@@ -4445,6 +4490,11 @@
       "number": "2",
       "title": "Chap 2",
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-2"
+    },
+    {
+      "number": "1.9",
+      "title": "Chap 1.9",
+      "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-1.9"
     },
     {
       "number": "1.8",
@@ -4517,5 +4567,5 @@
       "url": "https://mangafire.to/read/kuberaa.nk8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:45:37Z"
+  "fetched_at": "2026-05-16T06:51:56Z"
 }

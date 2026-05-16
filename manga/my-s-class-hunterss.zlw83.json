@@ -1,8 +1,8 @@
 {
   "slug": "my-s-class-hunterss.zlw83",
   "title": "My S-Class Hunters",
-  "cover": "https://static.mfcdn.nl/09cb/i/2/27/27150b3065b494109056d1338d5b9d33@100.jpg",
-  "description": "My S-Class Hunters manga, read all chapters here, the latest chapter 163 is available. Read My S-Class Hunters raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2b0d/i/8/8c/8c9b002746b21fe4521db69b4812eca9@100.jpg",
+  "description": "My S-Class Hunters manga, read all chapters here, the latest chapter 164 is available. Read My S-Class Hunters raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "164",
+      "title": "Chap 164",
+      "url": "https://mangafire.to/read/my-s-class-hunterss.zlw83/en/chapter-164"
+    },
     {
       "number": "163",
       "title": "Chap 163",
@@ -910,5 +915,5 @@
       "url": "https://mangafire.to/read/my-s-class-hunterss.zlw83/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:45:10Z"
+  "fetched_at": "2026-05-16T06:52:07Z"
 }

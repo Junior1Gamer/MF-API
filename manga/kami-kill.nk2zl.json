@@ -1,8 +1,8 @@
 {
   "slug": "kami-kill.nk2zl",
   "title": "KAMI KILL",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "KAMI KILL manga, read all chapters here, the latest chapter 30 is available. Read KAMI KILL raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "KAMI KILL manga, read all chapters here, the latest chapter 31 is available. Read KAMI KILL raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "31",
+      "title": "Vol 1 -  Chap 31",
+      "url": "https://mangafire.to/read/kami-kill.nk2zl/en/chapter-31"
+    },
     {
       "number": "30",
       "title": "Vol 1 -  Chap 30",
@@ -202,5 +207,5 @@
       "url": "https://mangafire.to/read/kami-kill.nk2zl/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:48:27Z"
+  "fetched_at": "2026-05-16T06:52:05Z"
 }

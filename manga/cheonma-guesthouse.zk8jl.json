@@ -1,8 +1,8 @@
 {
   "slug": "cheonma-guesthouse.zk8jl",
   "title": "Cheonma Guesthouse",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Cheonma Guesthouse manga, read all chapters here, the latest chapter 68 is available. Read Cheonma Guesthouse raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Cheonma Guesthouse manga, read all chapters here, the latest chapter 69 is available. Read Cheonma Guesthouse raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "69",
+      "title": "Chap 69",
+      "url": "https://mangafire.to/read/cheonma-guesthouse.zk8jl/en/chapter-69"
+    },
     {
       "number": "68",
       "title": "Chap 68",
@@ -332,5 +337,5 @@
       "url": "https://mangafire.to/read/cheonma-guesthouse.zk8jl/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:46:56Z"
+  "fetched_at": "2026-05-16T06:52:50Z"
 }
