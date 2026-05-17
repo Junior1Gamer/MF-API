@@ -1,8 +1,8 @@
 {
   "slug": "kuma-gurashi.rovom",
   "title": "Kuma Gurashi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Kuma Gurashi manga, read all chapters here, the latest chapter 20 is available. Read Kuma Gurashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Kuma Gurashi manga, read all chapters here, the latest chapter 21 is available. Read Kuma Gurashi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "21",
+      "title": "Vol 3 -  Chap 21",
+      "url": "https://mangafire.to/read/kuma-gurashi.rovom/en/chapter-21"
+    },
     {
       "number": "20",
       "title": "Vol 3 -  Chap 20",
@@ -152,5 +157,5 @@
       "url": "https://mangafire.to/read/kuma-gurashi.rovom/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:05:22Z"
+  "fetched_at": "2026-05-17T07:33:09Z"
 }

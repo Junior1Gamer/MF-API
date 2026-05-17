@@ -1,8 +1,8 @@
 {
   "slug": "insomniac-workers.171nv",
   "title": "Insomniac Workers",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Insomniac Workers manga, read all chapters here, the latest chapter 24 is available. Read Insomniac Workers raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Insomniac Workers manga, read all chapters here, the latest chapter 26 is available. Read Insomniac Workers raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Chap 26",
+      "url": "https://mangafire.to/read/insomniac-workers.171nv/en/chapter-26"
+    },
+    {
+      "number": "25",
+      "title": "Chap 25",
+      "url": "https://mangafire.to/read/insomniac-workers.171nv/en/chapter-25"
+    },
     {
       "number": "24",
       "title": "Chap 24",
@@ -172,5 +182,5 @@
       "url": "https://mangafire.to/read/insomniac-workers.171nv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T06:55:05Z"
+  "fetched_at": "2026-05-17T07:34:11Z"
 }

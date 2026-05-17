@@ -1,8 +1,8 @@
 {
   "slug": "shunrai-table-tennis.qz3mj",
   "title": "Shunrai Table Tennis",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Shunrai Table Tennis manga, read all chapters here, the latest chapter 14.1 is available. Read Shunrai Table Tennis raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Shunrai Table Tennis manga, read all chapters here, the latest chapter 15 is available. Read Shunrai Table Tennis raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Vol 1 -  Chap 15",
+      "url": "https://mangafire.to/read/shunrai-table-tennis.qz3mj/en/chapter-15"
+    },
     {
       "number": "14.1",
       "title": "Vol 1 -  Chap 14.1",
@@ -152,5 +157,5 @@
       "url": "https://mangafire.to/read/shunrai-table-tennis.qz3mj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:05:46Z"
+  "fetched_at": "2026-05-17T07:31:38Z"
 }

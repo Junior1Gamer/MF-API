@@ -1,8 +1,8 @@
 {
   "slug": "biryuu-enshoutann.02onr",
   "title": "Biryuu Enshoutan",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Biryuu Enshoutan manga, read all chapters here, the latest chapter 84 is available. Read Biryuu Enshoutan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Biryuu Enshoutan manga, read all chapters here, the latest chapter 85 is available. Read Biryuu Enshoutan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "85",
+      "title": "Vol 10 -  Chap 85",
+      "url": "https://mangafire.to/read/biryuu-enshoutann.02onr/en/chapter-85"
+    },
     {
       "number": "84",
       "title": "Vol 10 -  Chap 84",
@@ -485,5 +490,5 @@
       "url": "https://mangafire.to/read/biryuu-enshoutann.02onr/en/chapter-1.1"
     }
   ],
-  "fetched_at": "2026-05-10T07:09:16Z"
+  "fetched_at": "2026-05-17T07:32:37Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "assault-on-a-superior.wq466",
   "title": "Assault on a Superior",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Assault on a Superior manga, read all chapters here, the latest chapter 10 is available. Read Assault on a Superior raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Assault on a Superior manga, read all chapters here, the latest chapter 11 is available. Read Assault on a Superior raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "11",
+      "title": "Chap 11",
+      "url": "https://mangafire.to/read/assault-on-a-superior.wq466/en/chapter-11"
+    },
     {
       "number": "10",
       "title": "Chap 10",
@@ -106,5 +111,5 @@
       "url": "https://mangafire.to/read/assault-on-a-superior.wq466/en/chapter-0.5"
     }
   ],
-  "fetched_at": "2026-05-10T07:06:44Z"
+  "fetched_at": "2026-05-17T07:31:41Z"
 }

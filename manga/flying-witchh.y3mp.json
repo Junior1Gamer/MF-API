@@ -1,8 +1,8 @@
 {
   "slug": "flying-witchh.y3mp",
   "title": "Flying Witch",
-  "cover": "https://static.mfcdn.nl/ce92/i/1/14/145bae241e896b86aea690ef55995765@100.jpg",
-  "description": "Flying Witch manga, read all chapters here, the latest chapter 90 is available. Read Flying Witch raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3ae0/i/9/91/9153c6335d33a8f49a9e2bc638bb290e@100.jpg",
+  "description": "Flying Witch manga, read all chapters here, the latest chapter 91 is available. Read Flying Witch raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "91",
+      "title": "Vol 0 -  Chap 91",
+      "url": "https://mangafire.to/read/flying-witchh.y3mp/en/chapter-91"
+    },
     {
       "number": "90",
       "title": "Vol 0 -  Chap 90",
@@ -550,5 +555,5 @@
       "url": "https://mangafire.to/read/flying-witchh.y3mp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:51:35Z"
+  "fetched_at": "2026-05-17T07:34:33Z"
 }

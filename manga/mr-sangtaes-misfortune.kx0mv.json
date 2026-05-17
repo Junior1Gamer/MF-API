@@ -1,8 +1,8 @@
 {
   "slug": "mr-sangtaes-misfortune.kx0mv",
   "title": "Mr. Sangtae's Misfortune",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Mr. Sangtae's Misfortune manga, read all chapters here, the latest chapter 29 is available. Read Mr. Sangtae's Misfortune raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Mr. Sangtae's Misfortune manga, read all chapters here, the latest chapter 32 is available. Read Mr. Sangtae's Misfortune raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,21 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "32",
+      "title": "Chap 32",
+      "url": "https://mangafire.to/read/mr-sangtaes-misfortune.kx0mv/en/chapter-32"
+    },
+    {
+      "number": "31",
+      "title": "Chap 31",
+      "url": "https://mangafire.to/read/mr-sangtaes-misfortune.kx0mv/en/chapter-31"
+    },
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/mr-sangtaes-misfortune.kx0mv/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Chap 29",
@@ -246,5 +261,5 @@
       "url": "https://mangafire.to/read/mr-sangtaes-misfortune.kx0mv/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-09T06:59:58Z"
+  "fetched_at": "2026-05-17T07:34:08Z"
 }

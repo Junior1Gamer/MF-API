@@ -1,8 +1,8 @@
 {
   "slug": "his-star.60lnz",
   "title": "His Star",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "His Star manga, read all chapters here, the latest chapter 22 is available. Read His Star raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "His Star manga, read all chapters here, the latest chapter 23 is available. Read His Star raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "23",
+      "title": "Chap 23",
+      "url": "https://mangafire.to/read/his-star.60lnz/en/chapter-23"
+    },
     {
       "number": "22",
       "title": "Chap 22",
@@ -156,5 +161,5 @@
       "url": "https://mangafire.to/read/his-star.60lnz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-10T07:05:26Z"
+  "fetched_at": "2026-05-17T07:31:03Z"
 }

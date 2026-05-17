@@ -1,8 +1,8 @@
 {
   "slug": "mayonaka-heart-tunee.pp6pj",
   "title": "Tune In to the Midnight Heart",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Tune In to the Midnight Heart manga, read all chapters here, the latest chapter 115 is available. Read Tune In to the Midnight Heart raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Tune In to the Midnight Heart manga, read all chapters here, the latest chapter 116 is available. Read Tune In to the Midnight Heart raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "116",
+      "title": "Vol 11 -  Chap 116",
+      "url": "https://mangafire.to/read/mayonaka-heart-tunee.pp6pj/en/chapter-116"
+    },
     {
       "number": "115",
       "title": "Vol 11 -  Chap 115",
@@ -627,5 +632,5 @@
       "url": "https://mangafire.to/read/mayonaka-heart-tunee.pp6pj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:08:02Z"
+  "fetched_at": "2026-05-17T07:32:58Z"
 }

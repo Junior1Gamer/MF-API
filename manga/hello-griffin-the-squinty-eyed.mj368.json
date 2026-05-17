@@ -1,8 +1,8 @@
 {
   "slug": "hello-griffin-the-squinty-eyed.mj368",
   "title": "Hello, Griffin the Squinty-Eyed!",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Hello, Griffin the Squinty-Eyed! manga, read all chapters here, the latest chapter 40 is available. Read Hello, Griffin the Squinty-Eyed! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Hello, Griffin the Squinty-Eyed! manga, read all chapters here, the latest chapter 44 is available. Read Hello, Griffin the Squinty-Eyed! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,26 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Chap 44",
+      "url": "https://mangafire.to/read/hello-griffin-the-squinty-eyed.mj368/en/chapter-44"
+    },
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/hello-griffin-the-squinty-eyed.mj368/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/hello-griffin-the-squinty-eyed.mj368/en/chapter-42"
+    },
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/hello-griffin-the-squinty-eyed.mj368/en/chapter-41"
+    },
     {
       "number": "40",
       "title": "Chap 40",
@@ -261,5 +281,5 @@
       "url": "https://mangafire.to/read/hello-griffin-the-squinty-eyed.mj368/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:08:54Z"
+  "fetched_at": "2026-05-17T07:33:17Z"
 }

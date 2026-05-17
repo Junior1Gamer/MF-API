@@ -2,7 +2,7 @@
   "slug": "majo-to-kyurasu.j2pnn",
   "title": "Majo to Kyurasu",
   "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Majo to Kyurasu manga, read all chapters here, the latest chapter 15.1 is available. Read Majo to Kyurasu raw, multiple language. READ NOW!!",
+  "description": "Majo to Kyurasu manga, read all chapters here, the latest chapter 15.2 is available. Read Majo to Kyurasu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
   ],
   "chapters": [
     {
+      "number": "15.2",
+      "title": "Vol 3 -  Chap 15.2",
+      "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-15.2"
+    },
+    {
       "number": "15.1",
       "title": "Vol 3 -  Chap 15.1",
       "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-15.1"
@@ -65,9 +70,19 @@
       "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-14.1"
     },
     {
+      "number": "13.75",
+      "title": "Vol 2 -  Chap 13.75",
+      "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-13.75"
+    },
+    {
       "number": "13.5",
       "title": "Vol 2 -  Chap 13.5",
       "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-13.5"
+    },
+    {
+      "number": "13.25",
+      "title": "Vol 2 -  Chap 13.25",
+      "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-13.25"
     },
     {
       "number": "13.2",
@@ -190,5 +205,5 @@
       "url": "https://mangafire.to/read/majo-to-kyurasu.j2pnn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:07:42Z"
+  "fetched_at": "2026-05-17T07:31:48Z"
 }

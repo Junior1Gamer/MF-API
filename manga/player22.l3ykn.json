@@ -2,7 +2,7 @@
   "slug": "player22.l3ykn",
   "title": "Player",
   "cover": "https://static.mfcdn.nl/19b1/i/c/c0/c0d07e2f216a009cb232653b942d63db@100.jpg",
-  "description": "Player manga, read all chapters here, the latest chapter 257 is available. Read Player raw, multiple language. READ NOW!!",
+  "description": "Player manga, read all chapters here, the latest chapter 258 is available. Read Player raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "258",
+      "title": "Chap 258",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-258"
+    },
     {
       "number": "257",
       "title": "Chap 257",
@@ -1425,5 +1430,5 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:05:56Z"
+  "fetched_at": "2026-05-17T07:31:18Z"
 }

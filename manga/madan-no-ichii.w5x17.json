@@ -1,8 +1,8 @@
 {
   "slug": "madan-no-ichii.w5x17",
   "title": "Ichi the Witch",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Ichi the Witch manga, read all chapters here, the latest chapter 80 is available. Read Ichi the Witch raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Ichi the Witch manga, read all chapters here, the latest chapter 81 is available. Read Ichi the Witch raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "81",
+      "title": "Vol 10 -  Chap 81",
+      "url": "https://mangafire.to/read/madan-no-ichii.w5x17/en/chapter-81"
+    },
     {
       "number": "80",
       "title": "Vol 10 -  Chap 80",
@@ -452,5 +457,5 @@
       "url": "https://mangafire.to/read/madan-no-ichii.w5x17/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:08:12Z"
+  "fetched_at": "2026-05-17T07:33:49Z"
 }

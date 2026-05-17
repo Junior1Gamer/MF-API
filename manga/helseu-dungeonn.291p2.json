@@ -1,8 +1,8 @@
 {
   "slug": "helseu-dungeonn.291p2",
   "title": "Helseu Dungeon",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Helseu Dungeon manga, read all chapters here, the latest chapter 86 is available. Read Helseu Dungeon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Helseu Dungeon manga, read all chapters here, the latest chapter 87 is available. Read Helseu Dungeon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "87",
+      "title": "Chap 87",
+      "url": "https://mangafire.to/read/helseu-dungeonn.291p2/en/chapter-87"
+    },
     {
       "number": "86",
       "title": "Chap 86",
@@ -478,5 +483,5 @@
       "url": "https://mangafire.to/read/helseu-dungeonn.291p2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:09:07Z"
+  "fetched_at": "2026-05-17T07:33:04Z"
 }

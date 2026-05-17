@@ -1,8 +1,8 @@
 {
   "slug": "around-forty2.827lo",
   "title": "Around Forty",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Around Forty manga, read all chapters here, the latest chapter 36 is available. Read Around Forty raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Around Forty manga, read all chapters here, the latest chapter 38 is available. Read Around Forty raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/around-forty2.827lo/en/chapter-38"
+    },
+    {
+      "number": "37",
+      "title": "Chap 37",
+      "url": "https://mangafire.to/read/around-forty2.827lo/en/chapter-37"
+    },
     {
       "number": "36",
       "title": "Chap 36",
@@ -231,5 +241,5 @@
       "url": "https://mangafire.to/read/around-forty2.827lo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:07:10Z"
+  "fetched_at": "2026-05-17T07:30:48Z"
 }

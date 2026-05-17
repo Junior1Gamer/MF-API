@@ -1,7 +1,7 @@
 {
   "slug": "jmm.k3xr6",
   "title": "JM",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
   "description": "JM manga, read all chapters here, the latest chapter 36 is available. Read JM raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -51,6 +51,21 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Vol 7 -  Chap 36",
+      "url": "https://mangafire.to/read/jmm.k3xr6/en/chapter-36"
+    },
+    {
+      "number": "35",
+      "title": "Vol 7 -  Chap 35",
+      "url": "https://mangafire.to/read/jmm.k3xr6/en/chapter-35"
+    },
+    {
+      "number": "34.5",
+      "title": "Vol 7 -  Chap 34.5",
+      "url": "https://mangafire.to/read/jmm.k3xr6/en/chapter-34.5"
+    },
     {
       "number": "34",
       "title": "Vol 7 -  Chap 34",
@@ -252,5 +267,5 @@
       "url": "https://mangafire.to/read/jmm.k3xr6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:07:03Z"
+  "fetched_at": "2026-05-17T07:31:40Z"
 }

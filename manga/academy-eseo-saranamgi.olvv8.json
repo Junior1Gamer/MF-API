@@ -1,8 +1,8 @@
 {
   "slug": "academy-eseo-saranamgi.olvv8",
   "title": "The Extra’s Academy Survival Guide",
-  "cover": "https://static.mfcdn.nl/a4e0/i/d/d4/d438693348fbfa2be581cb8515847469@100.jpg",
-  "description": "The Extra’s Academy Survival Guide manga, read all chapters here, the latest chapter 105 is available. Read The Extra’s Academy Survival Guide raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/bfbd/i/4/d0/d8bc33cb23144f370c2b9d60299b1beb@100.jpg",
+  "description": "The Extra’s Academy Survival Guide manga, read all chapters here, the latest chapter 106 is available. Read The Extra’s Academy Survival Guide raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "106",
+      "title": "Chap 106",
+      "url": "https://mangafire.to/read/academy-eseo-saranamgi.olvv8/en/chapter-106"
+    },
     {
       "number": "105",
       "title": "Chap 105",
@@ -594,5 +599,5 @@
       "url": "https://mangafire.to/read/academy-eseo-saranamgi.olvv8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-10T07:05:36Z"
+  "fetched_at": "2026-05-17T07:32:11Z"
 }

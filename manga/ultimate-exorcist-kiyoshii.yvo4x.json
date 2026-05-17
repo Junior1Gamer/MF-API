@@ -1,8 +1,8 @@
 {
   "slug": "ultimate-exorcist-kiyoshii.yvo4x",
   "title": "Ultimate Exorcist Kiyoshi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Ultimate Exorcist Kiyoshi manga, read all chapters here, the latest chapter 90 is available. Read Ultimate Exorcist Kiyoshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Ultimate Exorcist Kiyoshi manga, read all chapters here, the latest chapter 91 is available. Read Ultimate Exorcist Kiyoshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "91",
+      "title": "Vol 8 -  Chap 91",
+      "url": "https://mangafire.to/read/ultimate-exorcist-kiyoshii.yvo4x/en/chapter-91"
+    },
     {
       "number": "90",
       "title": "Vol 8 -  Chap 90",
@@ -500,5 +505,5 @@
       "url": "https://mangafire.to/read/ultimate-exorcist-kiyoshii.yvo4x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:08:18Z"
+  "fetched_at": "2026-05-17T07:34:13Z"
 }

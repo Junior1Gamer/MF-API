@@ -1,8 +1,8 @@
 {
   "slug": "shiba-tsuki-bukkenn.0q6zk",
   "title": "Shiba-Tsuki Bukken",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Shiba-Tsuki Bukken manga, read all chapters here, the latest chapter 50 is available. Read Shiba-Tsuki Bukken raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Shiba-Tsuki Bukken manga, read all chapters here, the latest chapter 51 is available. Read Shiba-Tsuki Bukken raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Vol 0 -  Chap 51",
+      "url": "https://mangafire.to/read/shiba-tsuki-bukkenn.0q6zk/en/chapter-51"
+    },
     {
       "number": "50",
       "title": "Vol 5 -  Chap 50",
@@ -293,6 +298,11 @@
       "url": "https://mangafire.to/read/shiba-tsuki-bukkenn.0q6zk/en/chapter-9"
     },
     {
+      "number": "8.9",
+      "title": "Vol 1 -  Chap 8.9",
+      "url": "https://mangafire.to/read/shiba-tsuki-bukkenn.0q6zk/en/chapter-8.9"
+    },
+    {
       "number": "8.8",
       "title": "Vol 1 -  Chap 8.8",
       "url": "https://mangafire.to/read/shiba-tsuki-bukkenn.0q6zk/en/chapter-8.8"
@@ -373,5 +383,5 @@
       "url": "https://mangafire.to/read/shiba-tsuki-bukkenn.0q6zk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-10T07:07:32Z"
+  "fetched_at": "2026-05-17T07:31:46Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "the-fox-clubb.8noz3",
   "title": "The Fox Club",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "The Fox Club manga, read all chapters here, the latest chapter 117 is available. Read The Fox Club raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "The Fox Club manga, read all chapters here, the latest chapter 118 is available. Read The Fox Club raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "118",
+      "title": "Chap 118",
+      "url": "https://mangafire.to/read/the-fox-clubb.8noz3/en/chapter-118"
+    },
     {
       "number": "117",
       "title": "Chap 117",
@@ -638,5 +643,5 @@
       "url": "https://mangafire.to/read/the-fox-clubb.8noz3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T07:16:24Z"
+  "fetched_at": "2026-05-17T07:33:58Z"
 }

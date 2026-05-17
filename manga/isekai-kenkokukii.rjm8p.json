@@ -1,8 +1,8 @@
 {
   "slug": "isekai-kenkokukii.rjm8p",
   "title": "Isekai Kenkokuki",
-  "cover": "https://static.mfcdn.nl/7b95/i/0/03/038efe3e6a7d761b8bee6e05dc135014@100.jpg",
-  "description": "Isekai Kenkokuki manga, read all chapters here, the latest chapter 78 is available. Read Isekai Kenkokuki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/18f6/i/0/0d/bd5a029b899db5e02d922ba99b74e88b@100.jpg",
+  "description": "Isekai Kenkokuki manga, read all chapters here, the latest chapter 80 is available. Read Isekai Kenkokuki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "80",
+      "title": "Vol 8 -  Chap 80",
+      "url": "https://mangafire.to/read/isekai-kenkokukii.rjm8p/en/chapter-80"
+    },
+    {
+      "number": "79",
+      "title": "Vol 8 -  Chap 79",
+      "url": "https://mangafire.to/read/isekai-kenkokukii.rjm8p/en/chapter-79"
+    },
     {
       "number": "78",
       "title": "Vol 8 -  Chap 78",
@@ -623,5 +633,5 @@
       "url": "https://mangafire.to/read/isekai-kenkokukii.rjm8p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-09T07:00:50Z"
+  "fetched_at": "2026-05-17T07:34:07Z"
 }

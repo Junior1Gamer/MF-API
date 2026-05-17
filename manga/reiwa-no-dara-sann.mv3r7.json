@@ -1,7 +1,7 @@
 {
   "slug": "reiwa-no-dara-sann.mv3r7",
   "title": "Reiwa no Dara-san",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
   "description": "Reiwa no Dara-san manga, read all chapters here, the latest chapter 57.5 is available. Read Reiwa no Dara-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Vol 6 -  Chap 42",
+      "url": "https://mangafire.to/read/reiwa-no-dara-sann.mv3r7/en/chapter-42"
+    },
     {
       "number": "41.5",
       "title": "Vol 5 -  Chap 41.5",
@@ -299,5 +304,5 @@
       "url": "https://mangafire.to/read/reiwa-no-dara-sann.mv3r7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-09T06:58:31Z"
+  "fetched_at": "2026-05-17T07:42:51Z"
 }
