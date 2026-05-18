@@ -1,8 +1,8 @@
 {
   "slug": "legend-of-star-generall.1r97w",
   "title": "Legend of Star General (Colored)",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Legend of Star General manga, read all chapters here, the latest chapter 362 is available. Read Legend of Star General raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Legend of Star General manga, read all chapters here, the latest chapter 363 is available. Read Legend of Star General raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "363",
+      "title": "Chap 363",
+      "url": "https://mangafire.to/read/legend-of-star-generall.1r97w/en/chapter-363"
+    },
     {
       "number": "362",
       "title": "Chap 362",
@@ -1924,5 +1929,5 @@
       "url": "https://mangafire.to/read/legend-of-star-generall.1r97w/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-11T08:20:51Z"
+  "fetched_at": "2026-05-18T08:34:45Z"
 }

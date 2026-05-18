@@ -1,8 +1,8 @@
 {
   "slug": "silver-treee.v9l64",
   "title": "Silver Tree",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Silver Tree manga, read all chapters here, the latest chapter 74.5 is available. Read Silver Tree raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Silver Tree manga, read all chapters here, the latest chapter 75.1 is available. Read Silver Tree raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "75.1",
+      "title": "Chap 75.1",
+      "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-75.1"
+    },
+    {
+      "number": "75",
+      "title": "Chap 75",
+      "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-75"
+    },
     {
       "number": "74.5",
       "title": "Chap 74.5",
@@ -323,6 +333,11 @@
       "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-36"
     },
     {
+      "number": "35.8",
+      "title": "Chap 35.8",
+      "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-35.8"
+    },
+    {
       "number": "35.7",
       "title": "Chap 35.7",
       "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-35.7"
@@ -578,5 +593,5 @@
       "url": "https://mangafire.to/read/silver-treee.v9l64/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:17:27Z"
+  "fetched_at": "2026-05-18T08:37:15Z"
 }

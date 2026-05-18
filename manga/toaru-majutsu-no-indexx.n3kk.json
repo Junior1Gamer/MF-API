@@ -1,8 +1,8 @@
 {
   "slug": "toaru-majutsu-no-indexx.n3kk",
   "title": "A Certain Magical Index",
-  "cover": "https://static.mfcdn.nl/79c4/i/d/d3/d37f04e6f4e22bb1b7d9f1934d276c4b@100.jpg",
-  "description": "A Certain Magical Index manga, read all chapters here, the latest chapter 213 is available. Read A Certain Magical Index raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/640c/i/b/b1/b13e5ce76a3ebbb8f7726f9cd51b9a5b@100.jpg",
+  "description": "A Certain Magical Index manga, read all chapters here, the latest chapter 214 is available. Read A Certain Magical Index raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "214",
+      "title": "Vol 0 -  Chap 214",
+      "url": "https://mangafire.to/read/toaru-majutsu-no-indexx.n3kk/en/chapter-214"
+    },
     {
       "number": "213",
       "title": "Vol 0 -  Chap 213",
@@ -1174,5 +1179,5 @@
       "url": "https://mangafire.to/read/toaru-majutsu-no-indexx.n3kk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:31:28Z"
+  "fetched_at": "2026-05-18T08:33:00Z"
 }

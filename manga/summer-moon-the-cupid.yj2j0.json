@@ -1,8 +1,8 @@
 {
   "slug": "summer-moon-the-cupid.yj2j0",
   "title": "Summer Moon: The Cupid",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Summer Moon: The Cupid manga, read all chapters here, the latest chapter 31 is available. Read Summer Moon: The Cupid raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Summer Moon: The Cupid manga, read all chapters here, the latest chapter 32 is available. Read Summer Moon: The Cupid raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "32",
+      "title": "Chap 32",
+      "url": "https://mangafire.to/read/summer-moon-the-cupid.yj2j0/en/chapter-32"
+    },
     {
       "number": "31",
       "title": "Chap 31",
@@ -207,5 +212,5 @@
       "url": "https://mangafire.to/read/summer-moon-the-cupid.yj2j0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:20:12Z"
+  "fetched_at": "2026-05-18T08:38:14Z"
 }

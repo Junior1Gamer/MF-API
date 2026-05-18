@@ -1,8 +1,8 @@
 {
   "slug": "the-star-next-doorr.oxm0z",
   "title": "The Star Next Door",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "The Star Next Door manga, read all chapters here, the latest chapter 28 is available. Read The Star Next Door raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "The Star Next Door manga, read all chapters here, the latest chapter 30.5 is available. Read The Star Next Door raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "30.5",
+      "title": "Chap 30.5",
+      "url": "https://mangafire.to/read/the-star-next-doorr.oxm0z/en/chapter-30.5"
+    },
+    {
+      "number": "29",
+      "title": "Chap 29",
+      "url": "https://mangafire.to/read/the-star-next-doorr.oxm0z/en/chapter-29"
+    },
     {
       "number": "28",
       "title": "Chap 28",
@@ -196,5 +206,5 @@
       "url": "https://mangafire.to/read/the-star-next-doorr.oxm0z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:16:38Z"
+  "fetched_at": "2026-05-18T08:36:24Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "tomodachi-zukuri.qz95w",
   "title": "Tomodachi Zukuri",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Tomodachi Zukuri manga, read all chapters here, the latest chapter 1 is available. Read Tomodachi Zukuri raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Tomodachi Zukuri manga, read all chapters here, the latest chapter 2 is available. Read Tomodachi Zukuri raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,10 +53,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/tomodachi-zukuri.qz95w/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/tomodachi-zukuri.qz95w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:28:02Z"
+  "fetched_at": "2026-05-18T08:37:04Z"
 }

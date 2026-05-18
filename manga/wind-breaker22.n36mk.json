@@ -1,8 +1,8 @@
 {
   "slug": "wind-breaker22.n36mk",
   "title": "WIND BREAKER",
-  "cover": "https://static.mfcdn.nl/c938/i/5/5a/5ac483ea16f518e07bad5ad3d76dee61@100.jpg",
-  "description": "WIND BREAKER manga, read all chapters here, the latest chapter 215 is available. Read WIND BREAKER raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1cc3/i/d/d2/d2412e6b55806c38b9a4bfa80fed64be@100.jpg",
+  "description": "WIND BREAKER manga, read all chapters here, the latest chapter 216 is available. Read WIND BREAKER raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "216",
+      "title": "Vol 0 -  Chap 216",
+      "url": "https://mangafire.to/read/wind-breaker22.n36mk/en/chapter-216"
+    },
     {
       "number": "215",
       "title": "Vol 0 -  Chap 215",
@@ -1179,5 +1184,5 @@
       "url": "https://mangafire.to/read/wind-breaker22.n36mk/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-11T08:16:14Z"
+  "fetched_at": "2026-05-18T08:37:58Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "ishigami-senkii.0q2w9",
   "title": "Ishigami Senki",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Ishigami Senki manga, read all chapters here, the latest chapter 34 is available. Read Ishigami Senki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Ishigami Senki manga, read all chapters here, the latest chapter 35 is available. Read Ishigami Senki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "35",
+      "title": "Vol 7 -  Chap 35",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Vol 7 -  Chap 34",
@@ -105,6 +110,26 @@
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-26"
     },
     {
+      "number": "25.4",
+      "title": "Vol 6 -  Chap 25.4",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-25.4"
+    },
+    {
+      "number": "25.3",
+      "title": "Vol 6 -  Chap 25.3",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-25.3"
+    },
+    {
+      "number": "25.2",
+      "title": "Vol 6 -  Chap 25.2",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-25.2"
+    },
+    {
+      "number": "25.1",
+      "title": "Vol 6 -  Chap 25.1",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-25.1"
+    },
+    {
       "number": "25",
       "title": "Vol 6 -  Chap 25",
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-25"
@@ -121,13 +146,28 @@
     },
     {
       "number": "24.75",
-      "title": "Vol 5 -  Chap 24.75",
+      "title": "Vol 6 -  Chap 24.75",
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-24.75"
+    },
+    {
+      "number": "24.7",
+      "title": "Vol 6 -  Chap 24.7",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-24.7"
+    },
+    {
+      "number": "24.6",
+      "title": "Vol 6 -  Chap 24.6",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-24.6"
     },
     {
       "number": "24.5",
       "title": "Vol 5 -  Chap 24.5",
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-24.5"
+    },
+    {
+      "number": "24.4",
+      "title": "Vol 5 -  Chap 24.4",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-24.4"
     },
     {
       "number": "24.3",
@@ -208,6 +248,26 @@
       "number": "16",
       "title": "Vol 4 -  Chap 16",
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-16"
+    },
+    {
+      "number": "15.6",
+      "title": "Vol 4 -  Chap 15.6",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-15.6"
+    },
+    {
+      "number": "15.5",
+      "title": "Vol 4 -  Chap 15.5",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-15.5"
+    },
+    {
+      "number": "15.4",
+      "title": "Vol 4 -  Chap 15.4",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-15.4"
+    },
+    {
+      "number": "15.3",
+      "title": "Vol 4 -  Chap 15.3",
+      "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-15.3"
     },
     {
       "number": "15.2",
@@ -360,5 +420,5 @@
       "url": "https://mangafire.to/read/ishigami-senkii.0q2w9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:28:53Z"
+  "fetched_at": "2026-05-18T08:33:16Z"
 }

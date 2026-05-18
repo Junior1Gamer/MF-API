@@ -1,8 +1,8 @@
 {
   "slug": "dolls-nest-orphans.qzrk5",
   "title": "Dolls Nest: ORPHANS",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Dolls Nest: ORPHANS manga, read all chapters here, the latest chapter 3.1 is available. Read Dolls Nest: ORPHANS raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Dolls Nest: ORPHANS manga, read all chapters here, the latest chapter 3.2 is available. Read Dolls Nest: ORPHANS raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "3.2",
+      "title": "Chap 3.2",
+      "url": "https://mangafire.to/read/dolls-nest-orphans.qzrk5/en/chapter-3.2"
+    },
+    {
       "number": "3.1",
       "title": "Chap 3.1",
       "url": "https://mangafire.to/read/dolls-nest-orphans.qzrk5/en/chapter-3.1"
@@ -76,5 +81,5 @@
       "url": "https://mangafire.to/read/dolls-nest-orphans.qzrk5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:16:16Z"
+  "fetched_at": "2026-05-18T08:35:08Z"
 }

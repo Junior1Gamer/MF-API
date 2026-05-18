@@ -2,7 +2,7 @@
   "slug": "kengan-omegaa.4q817",
   "title": "Kengan Omega",
   "cover": "https://static.mfcdn.nl/876b/i/9/91/91f77af7961159df46bc8274b896b14c@100.jpg",
-  "description": "Kengan Omega manga, read all chapters here, the latest chapter 353 is available. Read Kengan Omega raw, multiple language. READ NOW!!",
+  "description": "Kengan Omega manga, read all chapters here, the latest chapter 354 is available. Read Kengan Omega raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "354",
+      "title": "Vol 0 -  Chap 354",
+      "url": "https://mangafire.to/read/kengan-omegaa.4q817/en/chapter-354"
+    },
     {
       "number": "353",
       "title": "Vol 0 -  Chap 353",
@@ -1907,5 +1912,5 @@
       "url": "https://mangafire.to/read/kengan-omegaa.4q817/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-11T08:19:12Z"
+  "fetched_at": "2026-05-18T08:36:54Z"
 }
