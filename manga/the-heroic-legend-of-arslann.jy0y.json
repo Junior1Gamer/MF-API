@@ -1,8 +1,8 @@
 {
   "slug": "the-heroic-legend-of-arslann.jy0y",
   "title": "The Heroic Legend of Arslan",
-  "cover": "https://static.mfcdn.nl/1fd1/i/f/f1/f159cd33c7dce49e1f1db25a647a1b5d@100.jpg",
-  "description": "The Heroic Legend of Arslan manga, read all chapters here, the latest chapter 149 is available. Read The Heroic Legend of Arslan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2abe/i/4/4e/4eac36d3eb1ec0594e73a2c2385ad79c@100.jpg",
+  "description": "The Heroic Legend of Arslan manga, read all chapters here, the latest chapter 151 is available. Read The Heroic Legend of Arslan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,16 @@
     "Military"
   ],
   "chapters": [
+    {
+      "number": "151",
+      "title": "Vol 0 -  Chap 151",
+      "url": "https://mangafire.to/read/the-heroic-legend-of-arslann.jy0y/en/chapter-151"
+    },
+    {
+      "number": "150",
+      "title": "Vol 0 -  Chap 150",
+      "url": "https://mangafire.to/read/the-heroic-legend-of-arslann.jy0y/en/chapter-150"
+    },
     {
       "number": "149",
       "title": "Vol 0 -  Chap 149",
@@ -811,5 +821,5 @@
       "url": "https://mangafire.to/read/the-heroic-legend-of-arslann.jy0y/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-11T08:33:11Z"
+  "fetched_at": "2026-05-19T08:19:15Z"
 }

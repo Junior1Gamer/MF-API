@@ -1,8 +1,8 @@
 {
   "slug": "black-lagoonn.pjm4",
   "title": "Black Lagoon",
-  "cover": "https://static.mfcdn.nl/cfd5/i/8/88/88f0c96c88f8a0e36fd902ac725f0f95@100.jpg",
-  "description": "Black Lagoon manga, read all chapters here, the latest chapter 121 is available. Read Black Lagoon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/50b2/i/1/1a/1a27154d5d91d8161dab23c337e65bf8@100.jpg",
+  "description": "Black Lagoon manga, read all chapters here, the latest chapter 122 is available. Read Black Lagoon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "122",
+      "title": "Vol 0 -  Chap 122",
+      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-122"
+    },
     {
       "number": "121",
       "title": "Vol 0 -  Chap 121",
@@ -780,5 +785,5 @@
       "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-11T08:42:08Z"
+  "fetched_at": "2026-05-19T08:17:13Z"
 }

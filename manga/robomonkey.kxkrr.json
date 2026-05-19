@@ -1,7 +1,7 @@
 {
   "slug": "robomonkey.kxkrr",
   "title": "RoboMonkey",
-  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
   "description": "RoboMonkey manga, read all chapters here, the latest chapter 7 is available. Read RoboMonkey raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -80,7 +80,12 @@
       "number": "2",
       "title": "Chap 2",
       "url": "https://mangafire.to/read/robomonkey.kxkrr/en/chapter-2"
+    },
+    {
+      "number": "1",
+      "title": "Chap 1",
+      "url": "https://mangafire.to/read/robomonkey.kxkrr/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-12T07:45:24Z"
+  "fetched_at": "2026-05-19T09:16:18Z"
 }

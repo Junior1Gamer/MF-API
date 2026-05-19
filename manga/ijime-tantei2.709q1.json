@@ -1,8 +1,8 @@
 {
   "slug": "ijime-tantei2.709q1",
   "title": "Ijime Tantei",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Ijime Tantei manga, read all chapters here, the latest chapter 6 is available. Read Ijime Tantei raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Ijime Tantei manga, read all chapters here, the latest chapter 7 is available. Read Ijime Tantei raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Vol 0 -  Chap 7",
+      "url": "https://mangafire.to/read/ijime-tantei2.709q1/en/chapter-7"
+    },
+    {
       "number": "6",
       "title": "Vol 0 -  Chap 6",
       "url": "https://mangafire.to/read/ijime-tantei2.709q1/en/chapter-6"
@@ -85,5 +90,5 @@
       "url": "https://mangafire.to/read/ijime-tantei2.709q1/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:34:39Z"
+  "fetched_at": "2026-05-19T08:17:14Z"
 }

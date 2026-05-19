@@ -1,8 +1,8 @@
 {
   "slug": "aphorismm.xk8",
   "title": "Aphorism",
-  "cover": "https://static.mfcdn.nl/e18b/i/4/46/46ed675de8961189d71c340e61dd624b@100.jpg",
-  "description": "Aphorism manga, read all chapters here, the latest chapter 84 is available. Read Aphorism raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/30af/i/0/0e/0e67624f8f59841ba1b4faf4563c5be5@100.jpg",
+  "description": "Aphorism manga, read all chapters here, the latest chapter 102 is available. Read Aphorism raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,16 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "102",
+      "title": "Vol 0 -  Chap 102",
+      "url": "https://mangafire.to/read/aphorismm.xk8/en/chapter-102"
+    },
+    {
+      "number": "93",
+      "title": "Vol 0 -  Chap 93",
+      "url": "https://mangafire.to/read/aphorismm.xk8/en/chapter-93"
+    },
     {
       "number": "81",
       "title": "Vol 14 -  Chap 81",
@@ -278,7 +288,7 @@
     },
     {
       "number": "45",
-      "title": "Vol 10 -  Chap 45",
+      "title": "Vol 0 -  Chap 45",
       "url": "https://mangafire.to/read/aphorismm.xk8/en/chapter-45"
     },
     {
@@ -772,5 +782,5 @@
       "url": "https://mangafire.to/read/aphorismm.xk8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-12T07:41:39Z"
+  "fetched_at": "2026-05-19T08:19:25Z"
 }

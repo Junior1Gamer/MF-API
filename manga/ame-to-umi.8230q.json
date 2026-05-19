@@ -1,8 +1,8 @@
 {
   "slug": "ame-to-umi.8230q",
   "title": "Ame to Umi",
-  "cover": "https://static.mfcdn.nl/3a04/i/3/31/31fc36ecf74973f0a19f0935ca3e73b9@100.jpg",
-  "description": "Ame to Umi manga, read all chapters here, the latest chapter 4 is available. Read Ame to Umi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Ame to Umi manga, read all chapters here, the latest chapter 5 is available. Read Ame to Umi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,25 +53,30 @@
   ],
   "chapters": [
     {
+      "number": "5",
+      "title": "Vol 2 -  Chap 5",
+      "url": "https://mangafire.to/read/ame-to-umi.8230q/en/chapter-5"
+    },
+    {
       "number": "4",
-      "title": "Chap 4",
+      "title": "Vol 1 -  Chap 4",
       "url": "https://mangafire.to/read/ame-to-umi.8230q/en/chapter-4"
     },
     {
       "number": "3",
-      "title": "Chap 3",
+      "title": "Vol 1 -  Chap 3",
       "url": "https://mangafire.to/read/ame-to-umi.8230q/en/chapter-3"
     },
     {
       "number": "2",
-      "title": "Chap 2",
+      "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/ame-to-umi.8230q/en/chapter-2"
     },
     {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/ame-to-umi.8230q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-12T07:18:46Z"
+  "fetched_at": "2026-05-19T08:17:16Z"
 }

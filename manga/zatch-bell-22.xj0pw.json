@@ -1,8 +1,8 @@
 {
   "slug": "zatch-bell-22.xj0pw",
   "title": "Zatch Bell! 2",
-  "cover": "https://static.mfcdn.nl/4b71/i/f/0c/ebeb0512257745b3e74170b11276478b@100.jpg",
-  "description": "Zatch Bell! 2 manga, read all chapters here, the latest chapter 38 is available. Read Zatch Bell! 2 raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "Zatch Bell! 2 manga, read all chapters here, the latest chapter 39 is available. Read Zatch Bell! 2 raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Vol 7 -  Chap 39",
+      "url": "https://mangafire.to/read/zatch-bell-22.xj0pw/en/chapter-39"
+    },
     {
       "number": "38",
       "title": "Vol 7 -  Chap 38",
@@ -275,5 +280,5 @@
       "url": "https://mangafire.to/read/zatch-bell-22.xj0pw/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-11T08:32:41Z"
+  "fetched_at": "2026-05-19T08:19:09Z"
 }
