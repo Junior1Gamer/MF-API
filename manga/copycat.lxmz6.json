@@ -1,8 +1,8 @@
 {
-  "slug": "dont-die.wq40k",
-  "title": "Don't Die!",
+  "slug": "copycat.lxmz6",
+  "title": "Copycat",
   "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Don't Die! manga, read all chapters here, the latest chapter 8 is available. Read Don't Die! raw, multiple language. READ NOW!!",
+  "description": "Copycat manga, read all chapters here, the latest chapter 7 is available. Read Copycat raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -46,51 +46,50 @@
     "Suspense",
     "Thriller",
     "Vampire",
-    "Romance",
-    "Shoujo",
-    "Supernatural"
+    "Drama",
+    "Seinen"
   ],
   "chapters": [
     {
-      "number": "8",
-      "title": "Chap 8",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-8"
-    },
-    {
       "number": "7",
       "title": "Chap 7",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-7"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-7"
     },
     {
       "number": "6",
       "title": "Chap 6",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-6"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-6"
     },
     {
       "number": "5",
       "title": "Chap 5",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-5"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-5"
     },
     {
       "number": "4",
       "title": "Chap 4",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-4"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-4"
     },
     {
       "number": "3",
       "title": "Chap 3",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-3"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-3"
     },
     {
       "number": "2",
       "title": "Chap 2",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-2"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-2"
     },
     {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/dont-die.wq40k/en/chapter-1"
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Chap 0",
+      "url": "https://mangafire.to/read/copycat.lxmz6/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-20T08:14:07Z"
+  "fetched_at": "2026-05-20T08:14:01Z"
 }
