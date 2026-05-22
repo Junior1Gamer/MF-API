@@ -1,8 +1,8 @@
 {
   "slug": "shippo-to-gekirin.kxlz9",
   "title": "Shippo to Gekirin",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Shippo to Gekirin manga, read all chapters here, the latest chapter 5 is available. Read Shippo to Gekirin raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/bbfe/i/1/dc/676e708851770241e56d44982d4247d9@100.jpg",
+  "description": "Shippo to Gekirin manga, read all chapters here, the latest chapter 6 is available. Read Shippo to Gekirin raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Vol 1 -  Chap 6",
+      "url": "https://mangafire.to/read/shippo-to-gekirin.kxlz9/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/shippo-to-gekirin.kxlz9/en/chapter-5"
@@ -78,5 +83,5 @@
       "url": "https://mangafire.to/read/shippo-to-gekirin.kxlz9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-15T07:50:12Z"
+  "fetched_at": "2026-05-22T08:12:38Z"
 }
