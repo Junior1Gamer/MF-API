@@ -1,8 +1,8 @@
 {
   "slug": "contradict.171qv",
   "title": "Contradict",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Contradict manga, read all chapters here, the latest chapter 14 is available. Read Contradict raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Contradict manga, read all chapters here, the latest chapter 14.5 is available. Read Contradict raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Boys Love"
   ],
   "chapters": [
+    {
+      "number": "14.5",
+      "title": "Vol 3 -  Chap 14.5",
+      "url": "https://mangafire.to/read/contradict.171qv/en/chapter-14.5"
+    },
     {
       "number": "14",
       "title": "Vol 3 -  Chap 14",
@@ -150,5 +155,5 @@
       "url": "https://mangafire.to/read/contradict.171qv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:57:51Z"
+  "fetched_at": "2026-05-23T07:06:35Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "amber-alert.lx87m",
   "title": "Amber Alert",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Amber Alert manga, read all chapters here, the latest chapter 45 is available. Read Amber Alert raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Amber Alert manga, read all chapters here, the latest chapter 47 is available. Read Amber Alert raw, multiple language. READ NOW!!",
   "status": "Info",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "47",
+      "title": "Chap 47",
+      "url": "https://mangafire.to/read/amber-alert.lx87m/en/chapter-47"
+    },
+    {
+      "number": "46",
+      "title": "Chap 46",
+      "url": "https://mangafire.to/read/amber-alert.lx87m/en/chapter-46"
+    },
     {
       "number": "45",
       "title": "Chap 45",
@@ -277,5 +287,5 @@
       "url": "https://mangafire.to/read/amber-alert.lx87m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:53:20Z"
+  "fetched_at": "2026-05-23T07:05:48Z"
 }

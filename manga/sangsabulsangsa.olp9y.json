@@ -1,8 +1,8 @@
 {
   "slug": "sangsabulsangsa.olp9y",
   "title": "It’s Just Business",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "It’s Just Business manga, read all chapters here, the latest chapter 119 is available. Read It’s Just Business raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "It’s Just Business manga, read all chapters here, the latest chapter 121 is available. Read It’s Just Business raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Chap 121",
+      "url": "https://mangafire.to/read/sangsabulsangsa.olp9y/en/chapter-121"
+    },
+    {
+      "number": "120",
+      "title": "Chap 120",
+      "url": "https://mangafire.to/read/sangsabulsangsa.olp9y/en/chapter-120"
+    },
     {
       "number": "119",
       "title": "Chap 119",
@@ -647,5 +657,5 @@
       "url": "https://mangafire.to/read/sangsabulsangsa.olp9y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:53:59Z"
+  "fetched_at": "2026-05-23T07:05:03Z"
 }

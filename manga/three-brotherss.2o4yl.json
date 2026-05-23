@@ -2,7 +2,7 @@
   "slug": "three-brotherss.2o4yl",
   "title": "Three B(r)others",
   "cover": "https://static.mfcdn.nl/54eb/i/9/92/92ea3af7d57c74dbcffd05f4ba461f77@100.jpg",
-  "description": "Three B(r)others manga, read all chapters here, the latest chapter 98 is available. Read Three B(r)others raw, multiple language. READ NOW!!",
+  "description": "Three B(r)others manga, read all chapters here, the latest chapter 99 is available. Read Three B(r)others raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "99",
+      "title": "Chap 99",
+      "url": "https://mangafire.to/read/three-brotherss.2o4yl/en/chapter-99"
+    },
     {
       "number": "98",
       "title": "Chap 98",
@@ -552,5 +557,5 @@
       "url": "https://mangafire.to/read/three-brotherss.2o4yl/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-16T06:54:57Z"
+  "fetched_at": "2026-05-23T07:06:33Z"
 }

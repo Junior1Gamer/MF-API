@@ -1,8 +1,8 @@
 {
   "slug": "shadow-of-paradise.vq8n7",
   "title": "Shadow of Paradise",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Shadow of Paradise manga, read all chapters here, the latest chapter 31 is available. Read Shadow of Paradise raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Shadow of Paradise manga, read all chapters here, the latest chapter 32 is available. Read Shadow of Paradise raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "32",
+      "title": "Chap 32",
+      "url": "https://mangafire.to/read/shadow-of-paradise.vq8n7/en/chapter-32"
+    },
     {
       "number": "31",
       "title": "Chap 31",
@@ -212,5 +217,5 @@
       "url": "https://mangafire.to/read/shadow-of-paradise.vq8n7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:55:15Z"
+  "fetched_at": "2026-05-23T07:06:53Z"
 }

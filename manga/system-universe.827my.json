@@ -1,8 +1,8 @@
 {
   "slug": "system-universe.827my",
   "title": "System Universe",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "System Universe manga, read all chapters here, the latest chapter 37 is available. Read System Universe raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "System Universe manga, read all chapters here, the latest chapter 38 is available. Read System Universe raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/system-universe.827my/en/chapter-38"
+    },
     {
       "number": "37",
       "title": "Chap 37",
@@ -238,5 +243,5 @@
       "url": "https://mangafire.to/read/system-universe.827my/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:53:08Z"
+  "fetched_at": "2026-05-23T07:05:59Z"
 }

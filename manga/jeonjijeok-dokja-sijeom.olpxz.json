@@ -1,8 +1,8 @@
 {
   "slug": "jeonjijeok-dokja-sijeom.olpxz",
   "title": "Omniscient Reader",
-  "cover": "https://static.mfcdn.nl/8447/i/8/8d/8d19c4aaa78081b6be66f94c8f05de0b@100.jpg",
-  "description": "Omniscient Reader manga, read all chapters here, the latest chapter 310 is available. Read Omniscient Reader raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/cd0b/i/2/29/29b5690edf1f1acc8977b8e3d469163c@100.jpg",
+  "description": "Omniscient Reader manga, read all chapters here, the latest chapter 311 is available. Read Omniscient Reader raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "311",
+      "title": "Chap 311",
+      "url": "https://mangafire.to/read/jeonjijeok-dokja-sijeom.olpxz/en/chapter-311"
+    },
     {
       "number": "310",
       "title": "Chap 310",
@@ -1624,5 +1629,5 @@
       "url": "https://mangafire.to/read/jeonjijeok-dokja-sijeom.olpxz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-16T06:52:10Z"
+  "fetched_at": "2026-05-23T07:05:51Z"
 }

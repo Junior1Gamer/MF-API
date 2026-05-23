@@ -1,8 +1,8 @@
 {
   "slug": "physician-returnn.l3y43",
   "title": "Physician Return",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Physician Return manga, read all chapters here, the latest chapter 59 is available. Read Physician Return raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Physician Return manga, read all chapters here, the latest chapter 60 is available. Read Physician Return raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "60",
+      "title": "Chap 60",
+      "url": "https://mangafire.to/read/physician-returnn.l3y43/en/chapter-60"
+    },
     {
       "number": "59",
       "title": "Chap 59",
@@ -349,5 +354,5 @@
       "url": "https://mangafire.to/read/physician-returnn.l3y43/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:53:04Z"
+  "fetched_at": "2026-05-23T07:05:50Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "devil-ice.kx08w",
   "title": "Devil \u0026 Ice",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Devil \u0026 Ice manga, read all chapters here, the latest chapter 40 is available. Read Devil \u0026 Ice raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Devil \u0026 Ice manga, read all chapters here, the latest chapter 41 is available. Read Devil \u0026 Ice raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/devil-ice.kx08w/en/chapter-41"
+    },
     {
       "number": "40",
       "title": "Chap 40",
@@ -254,5 +259,5 @@
       "url": "https://mangafire.to/read/devil-ice.kx08w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:55:18Z"
+  "fetched_at": "2026-05-23T07:06:54Z"
 }

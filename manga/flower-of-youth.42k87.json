@@ -1,8 +1,8 @@
 {
   "slug": "flower-of-youth.42k87",
   "title": "Flower of Youth",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Flower of Youth manga, read all chapters here, the latest chapter 34 is available. Read Flower of Youth raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Flower of Youth manga, read all chapters here, the latest chapter 35 is available. Read Flower of Youth raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "35",
+      "title": "Vol 0 -  Chap 35",
+      "url": "https://mangafire.to/read/flower-of-youth.42k87/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Vol 0 -  Chap 34",
@@ -221,5 +226,5 @@
       "url": "https://mangafire.to/read/flower-of-youth.42k87/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:54:24Z"
+  "fetched_at": "2026-05-23T07:05:07Z"
 }

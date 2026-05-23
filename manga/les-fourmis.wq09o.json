@@ -1,8 +1,8 @@
 {
   "slug": "les-fourmis.wq09o",
   "title": "Empire of the Ants",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Empire of the Ants manga, read all chapters here, the latest chapter 28 is available. Read Empire of the Ants raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Empire of the Ants manga, read all chapters here, the latest chapter 29 is available. Read Empire of the Ants raw, multiple language. READ NOW!!",
   "status": "Info",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "29",
+      "title": "Chap 29",
+      "url": "https://mangafire.to/read/les-fourmis.wq09o/en/chapter-29"
+    },
     {
       "number": "28",
       "title": "Chap 28",
@@ -192,5 +197,5 @@
       "url": "https://mangafire.to/read/les-fourmis.wq09o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:52:58Z"
+  "fetched_at": "2026-05-23T07:05:56Z"
 }

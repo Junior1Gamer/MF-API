@@ -1,8 +1,8 @@
 {
   "slug": "murder-girlband.vqm82",
   "title": "Murder Girlband",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Murder Girlband manga, read all chapters here, the latest chapter 49 is available. Read Murder Girlband raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Murder Girlband manga, read all chapters here, the latest chapter 52 is available. Read Murder Girlband raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "52",
+      "title": "Chap 52",
+      "url": "https://mangafire.to/read/murder-girlband.vqm82/en/chapter-52"
+    },
     {
       "number": "49",
       "title": "Chap 49",
@@ -298,5 +303,5 @@
       "url": "https://mangafire.to/read/murder-girlband.vqm82/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:56:08Z"
+  "fetched_at": "2026-05-23T07:06:06Z"
 }

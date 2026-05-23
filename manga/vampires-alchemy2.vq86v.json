@@ -1,8 +1,8 @@
 {
   "slug": "vampires-alchemy2.vq86v",
   "title": "Vampire's Alchemy",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Vampire's Alchemy manga, read all chapters here, the latest chapter 41 is available. Read Vampire's Alchemy raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
+  "description": "Vampire's Alchemy manga, read all chapters here, the latest chapter 42 is available. Read Vampire's Alchemy raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/vampires-alchemy2.vq86v/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Chap 41",
@@ -257,5 +262,5 @@
       "url": "https://mangafire.to/read/vampires-alchemy2.vq86v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-16T06:56:27Z"
+  "fetched_at": "2026-05-23T07:06:25Z"
 }
