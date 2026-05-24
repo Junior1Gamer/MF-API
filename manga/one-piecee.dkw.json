@@ -1,8 +1,8 @@
 {
   "slug": "one-piecee.dkw",
   "title": "One Piece",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "One Piece manga, read all chapters here, the latest chapter 1182 is available. Read One Piece raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6a68/i/5/51/51360d75d5ffa0cc3234dc79d9c36d26@100.jpg",
+  "description": "One Piece manga, read all chapters here, the latest chapter 1183 is available. Read One Piece raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Military"
   ],
   "chapters": [
+    {
+      "number": "1183",
+      "title": "Vol 0 -  Chap 1183",
+      "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-1183"
+    },
     {
       "number": "1182",
       "title": "Vol 117 -  Chap 1182",
@@ -6226,5 +6231,5 @@
       "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-17T07:34:14Z"
+  "fetched_at": "2026-05-24T07:48:25Z"
 }

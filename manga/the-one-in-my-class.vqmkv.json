@@ -1,8 +1,8 @@
 {
   "slug": "the-one-in-my-class.vqmkv",
   "title": "The One in My Class",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "The One in My Class manga, read all chapters here, the latest chapter 10 is available. Read The One in My Class raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "The One in My Class manga, read all chapters here, the latest chapter 11 is available. Read The One in My Class raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "11",
+      "title": "Chap 11",
+      "url": "https://mangafire.to/read/the-one-in-my-class.vqmkv/en/chapter-11"
+    },
     {
       "number": "10",
       "title": "Chap 10",
@@ -100,5 +105,5 @@
       "url": "https://mangafire.to/read/the-one-in-my-class.vqmkv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:31:23Z"
+  "fetched_at": "2026-05-24T07:48:34Z"
 }

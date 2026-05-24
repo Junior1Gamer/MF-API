@@ -1,7 +1,7 @@
 {
   "slug": "dungeon-battle-royalee.9ojz0",
   "title": "Dungeon Battle Royale",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
   "description": "Dungeon Battle Royale manga, read all chapters here, the latest chapter 35 is available. Read Dungeon Battle Royale raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Vol 0 -  Chap 26",
+      "url": "https://mangafire.to/read/dungeon-battle-royalee.9ojz0/en/chapter-26"
+    },
     {
       "number": "25",
       "title": "Vol 0 -  Chap 25",
@@ -176,5 +181,5 @@
       "url": "https://mangafire.to/read/dungeon-battle-royalee.9ojz0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:42:47Z"
+  "fetched_at": "2026-05-24T07:59:40Z"
 }

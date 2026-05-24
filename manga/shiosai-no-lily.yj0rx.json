@@ -1,8 +1,8 @@
 {
   "slug": "shiosai-no-lily.yj0rx",
   "title": "Shiosai no Lily",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Shiosai no Lily manga, read all chapters here, the latest chapter 5 is available. Read Shiosai no Lily raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Shiosai no Lily manga, read all chapters here, the latest chapter 6 is available. Read Shiosai no Lily raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,30 +51,35 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Vol 0 -  Chap 6",
+      "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-6"
+    },
+    {
       "number": "5",
-      "title": "Chap 5",
+      "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-5"
     },
     {
       "number": "4",
-      "title": "Chap 4",
+      "title": "Vol 1 -  Chap 4",
       "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-4"
     },
     {
       "number": "3",
-      "title": "Chap 3",
+      "title": "Vol 1 -  Chap 3",
       "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-3"
     },
     {
       "number": "2",
-      "title": "Chap 2",
+      "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-2"
     },
     {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/shiosai-no-lily.yj0rx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:39:47Z"
+  "fetched_at": "2026-05-24T07:47:56Z"
 }

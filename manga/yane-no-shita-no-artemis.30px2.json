@@ -1,8 +1,8 @@
 {
   "slug": "yane-no-shita-no-artemis.30px2",
   "title": "Yane no Shita no Artemis",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Yane no Shita no Artemis manga, read all chapters here, the latest chapter 41 is available. Read Yane no Shita no Artemis raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "Yane no Shita no Artemis manga, read all chapters here, the latest chapter 42 is available. Read Yane no Shita no Artemis raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Vol 2 -  Chap 42",
+      "url": "https://mangafire.to/read/yane-no-shita-no-artemis.30px2/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Vol 2 -  Chap 41",
@@ -257,5 +262,5 @@
       "url": "https://mangafire.to/read/yane-no-shita-no-artemis.30px2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:35:41Z"
+  "fetched_at": "2026-05-24T07:49:25Z"
 }

@@ -2,7 +2,7 @@
   "slug": "player22.l3ykn",
   "title": "Player",
   "cover": "https://static.mfcdn.nl/19b1/i/c/c0/c0d07e2f216a009cb232653b942d63db@100.jpg",
-  "description": "Player manga, read all chapters here, the latest chapter 258 is available. Read Player raw, multiple language. READ NOW!!",
+  "description": "Player manga, read all chapters here, the latest chapter 259 is available. Read Player raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "259",
+      "title": "Chap 259",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-259"
+    },
     {
       "number": "258",
       "title": "Chap 258",
@@ -705,11 +710,6 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-135"
     },
     {
-      "number": "134",
-      "title": "Chap 134",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-134"
-    },
-    {
       "number": "133",
       "title": "Chap 133",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-133"
@@ -765,19 +765,9 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-123"
     },
     {
-      "number": "122",
-      "title": "Chap 122",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-122"
-    },
-    {
       "number": "121",
       "title": "Chap 121",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-121"
-    },
-    {
-      "number": "120",
-      "title": "Chap 120",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-120"
     },
     {
       "number": "119",
@@ -823,16 +813,6 @@
       "number": "111",
       "title": "Chap 111",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-111"
-    },
-    {
-      "number": "110",
-      "title": "Chap 110",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-110"
-    },
-    {
-      "number": "109",
-      "title": "Chap 109",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-109"
     },
     {
       "number": "108.5",
@@ -893,11 +873,6 @@
       "number": "98",
       "title": "Chap 98",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-98"
-    },
-    {
-      "number": "97",
-      "title": "Chap 97",
-      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-97"
     },
     {
       "number": "96",
@@ -1430,5 +1405,5 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:31:18Z"
+  "fetched_at": "2026-05-24T07:48:16Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "mood-disorder.701v8",
   "title": "Mood Disorder",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Mood Disorder manga, read all chapters here, the latest chapter 74 is available. Read Mood Disorder raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Mood Disorder manga, read all chapters here, the latest chapter 75 is available. Read Mood Disorder raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Horror"
   ],
   "chapters": [
+    {
+      "number": "75",
+      "title": "Chap 75",
+      "url": "https://mangafire.to/read/mood-disorder.701v8/en/chapter-75"
+    },
     {
       "number": "74",
       "title": "Chap 74",
@@ -439,5 +444,5 @@
       "url": "https://mangafire.to/read/mood-disorder.701v8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-17T07:32:37Z"
+  "fetched_at": "2026-05-24T07:49:13Z"
 }

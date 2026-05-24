@@ -1,8 +1,8 @@
 {
   "slug": "the-lazy-aristocrat.j2nq4",
   "title": "The Lazy Aristocrat",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "The Lazy Aristocrat manga, read all chapters here, the latest chapter 10 is available. Read The Lazy Aristocrat raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "The Lazy Aristocrat manga, read all chapters here, the latest chapter 11 is available. Read The Lazy Aristocrat raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
   ],
   "chapters": [
     {
+      "number": "11",
+      "title": "Vol 0 -  Chap 11",
+      "url": "https://mangafire.to/read/the-lazy-aristocrat.j2nq4/en/chapter-11"
+    },
+    {
       "number": "10",
       "title": "Vol 0 -  Chap 10",
       "url": "https://mangafire.to/read/the-lazy-aristocrat.j2nq4/en/chapter-10"
@@ -105,5 +110,5 @@
       "url": "https://mangafire.to/read/the-lazy-aristocrat.j2nq4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:40:51Z"
+  "fetched_at": "2026-05-24T07:50:18Z"
 }

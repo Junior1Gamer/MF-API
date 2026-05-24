@@ -1,8 +1,8 @@
 {
   "slug": "kanojo-okarishimasuu.jv2m8",
   "title": "Rent-A-Girlfriend",
-  "cover": "https://static.mfcdn.nl/8e22/i/8/83/8354fe0ab6288c4b1590512a959934d9@100.jpg",
-  "description": "Rent-A-Girlfriend manga, read all chapters here, the latest chapter 424 is available. Read Rent-A-Girlfriend raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/e44f/i/4/46/46430f3526ca78e5b3aeca2b7b0f6e22@100.jpg",
+  "description": "Rent-A-Girlfriend manga, read all chapters here, the latest chapter 425 is available. Read Rent-A-Girlfriend raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "425",
+      "title": "Vol 0 -  Chap 425",
+      "url": "https://mangafire.to/read/kanojo-okarishimasuu.jv2m8/en/chapter-425"
+    },
     {
       "number": "424",
       "title": "Vol 45 -  Chap 424",
@@ -2384,5 +2389,5 @@
       "url": "https://mangafire.to/read/kanojo-okarishimasuu.jv2m8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-17T07:33:05Z"
+  "fetched_at": "2026-05-24T07:49:36Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "project-mars2.pmym4",
   "title": "Project Mars",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Project Mars manga, read all chapters here, the latest chapter 38 is available. Read Project Mars raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Project Mars manga, read all chapters here, the latest chapter 39 is available. Read Project Mars raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Chap 39",
+      "url": "https://mangafire.to/read/project-mars2.pmym4/en/chapter-39"
+    },
     {
       "number": "38",
       "title": "Chap 38",
@@ -242,5 +247,5 @@
       "url": "https://mangafire.to/read/project-mars2.pmym4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:33:45Z"
+  "fetched_at": "2026-05-24T07:50:06Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "beastly-things.20230",
   "title": "Beastly Things",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Beastly Things manga, read all chapters here, the latest chapter 57 is available. Read Beastly Things raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Beastly Things manga, read all chapters here, the latest chapter 58 is available. Read Beastly Things raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "58",
+      "title": "Chap 58",
+      "url": "https://mangafire.to/read/beastly-things.20230/en/chapter-58"
+    },
     {
       "number": "57",
       "title": "Chap 57",
@@ -337,5 +342,5 @@
       "url": "https://mangafire.to/read/beastly-things.20230/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:32:28Z"
+  "fetched_at": "2026-05-24T07:48:30Z"
 }

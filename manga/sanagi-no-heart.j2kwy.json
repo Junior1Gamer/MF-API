@@ -1,8 +1,8 @@
 {
   "slug": "sanagi-no-heart.j2kwy",
   "title": "The Chrysalis Heart",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "The Chrysalis Heart manga, read all chapters here, the latest chapter 5 is available. Read The Chrysalis Heart raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "The Chrysalis Heart manga, read all chapters here, the latest chapter 6 is available. Read The Chrysalis Heart raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Vol 0 -  Chap 6",
+      "url": "https://mangafire.to/read/sanagi-no-heart.j2kwy/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/sanagi-no-heart.j2kwy/en/chapter-5"
@@ -80,5 +85,5 @@
       "url": "https://mangafire.to/read/sanagi-no-heart.j2kwy/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:31:44Z"
+  "fetched_at": "2026-05-24T07:47:40Z"
 }

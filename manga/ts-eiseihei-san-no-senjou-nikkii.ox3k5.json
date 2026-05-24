@@ -1,8 +1,8 @@
 {
   "slug": "ts-eiseihei-san-no-senjou-nikkii.ox3k5",
   "title": "TS Eiseihei-san no Senjou Nikki",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "TS Eiseihei-san no Senjou Nikki manga, read all chapters here, the latest chapter 20 is available. Read TS Eiseihei-san no Senjou Nikki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "TS Eiseihei-san no Senjou Nikki manga, read all chapters here, the latest chapter 21 is available. Read TS Eiseihei-san no Senjou Nikki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "21",
+      "title": "Vol 0 -  Chap 21",
+      "url": "https://mangafire.to/read/ts-eiseihei-san-no-senjou-nikkii.ox3k5/en/chapter-21"
+    },
     {
       "number": "20",
       "title": "Vol 4 -  Chap 20",
@@ -203,5 +208,5 @@
       "url": "https://mangafire.to/read/ts-eiseihei-san-no-senjou-nikkii.ox3k5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:37:06Z"
+  "fetched_at": "2026-05-24T07:47:37Z"
 }

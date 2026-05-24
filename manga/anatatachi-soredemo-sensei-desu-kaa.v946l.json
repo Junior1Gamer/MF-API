@@ -1,8 +1,8 @@
 {
   "slug": "anatatachi-soredemo-sensei-desu-kaa.v946l",
   "title": "Anatatachi Soredemo Sensei desu ka!",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Anatatachi Soredemo Sensei desu ka! manga, read all chapters here, the latest chapter 31.5 is available. Read Anatatachi Soredemo Sensei desu ka! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "Anatatachi Soredemo Sensei desu ka! manga, read all chapters here, the latest chapter 32.1 is available. Read Anatatachi Soredemo Sensei desu ka! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "32.1",
+      "title": "Vol 5 -  Chap 32.1",
+      "url": "https://mangafire.to/read/anatatachi-soredemo-sensei-desu-kaa.v946l/en/chapter-32.1"
+    },
     {
       "number": "31.5",
       "title": "Vol 4 -  Chap 31.5",
@@ -447,7 +452,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/anatatachi-soredemo-sensei-desu-kaa.v946l/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 1 -  Chap 0",
+      "url": "https://mangafire.to/read/anatatachi-soredemo-sensei-desu-kaa.v946l/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-17T07:36:55Z"
+  "fetched_at": "2026-05-24T07:50:20Z"
 }

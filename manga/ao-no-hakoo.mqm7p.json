@@ -1,8 +1,8 @@
 {
   "slug": "ao-no-hakoo.mqm7p",
   "title": "Blue Box",
-  "cover": "https://static.mfcdn.nl/8fe2/i/9/93/938ae4679ff563ccd1201a053e118722@100.jpg",
-  "description": "Blue Box manga, read all chapters here, the latest chapter 241 is available. Read Blue Box raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3c82/i/f/f5/f594d462ee29696d4fb5d5f8b01a1490@100.jpg",
+  "description": "Blue Box manga, read all chapters here, the latest chapter 242 is available. Read Blue Box raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "242",
+      "title": "Vol 28 -  Chap 242",
+      "url": "https://mangafire.to/read/ao-no-hakoo.mqm7p/en/chapter-242"
+    },
     {
       "number": "241",
       "title": "Vol 28 -  Chap 241",
@@ -1254,5 +1259,5 @@
       "url": "https://mangafire.to/read/ao-no-hakoo.mqm7p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-17T07:34:12Z"
+  "fetched_at": "2026-05-24T07:50:12Z"
 }

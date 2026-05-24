@@ -1,7 +1,7 @@
 {
   "slug": "futsu-no-keion-buu.728z7",
   "title": "Girl Meets Rock!",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
   "description": "Girl Meets Rock! manga, read all chapters here, the latest chapter 109 is available. Read Girl Meets Rock! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "109",
+      "title": "Vol 9 -  Chap 109",
+      "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-109"
+    },
     {
       "number": "108",
       "title": "Vol 0 -  Chap 108",
@@ -604,6 +609,11 @@
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-6"
     },
     {
+      "number": "5.7",
+      "title": "Vol 0 -  Chap 5.7",
+      "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-5.7"
+    },
+    {
       "number": "5.1",
       "title": "Vol 0 -  Chap 5.1",
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-5.1"
@@ -644,6 +654,11 @@
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-2"
     },
     {
+      "number": "1.4",
+      "title": "Vol 0 -  Chap 1.4",
+      "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-1.4"
+    },
+    {
       "number": "1.1",
       "title": "Vol 0 -  Chap 1.1",
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-1.1"
@@ -659,5 +674,5 @@
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-17T07:31:32Z"
+  "fetched_at": "2026-05-24T07:49:14Z"
 }
