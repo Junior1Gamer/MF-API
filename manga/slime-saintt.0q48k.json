@@ -1,8 +1,8 @@
 {
   "slug": "slime-saintt.0q48k",
   "title": "Slime Saint",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Slime Saint manga, read all chapters here, the latest chapter 56 is available. Read Slime Saint raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Slime Saint manga, read all chapters here, the latest chapter 57 is available. Read Slime Saint raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "57",
+      "title": "Vol 0 -  Chap 57",
+      "url": "https://mangafire.to/read/slime-saintt.0q48k/en/chapter-57"
+    },
     {
       "number": "56",
       "title": "Vol 5 -  Chap 56",
@@ -360,5 +365,5 @@
       "url": "https://mangafire.to/read/slime-saintt.0q48k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:40:32Z"
+  "fetched_at": "2026-05-25T09:01:21Z"
 }

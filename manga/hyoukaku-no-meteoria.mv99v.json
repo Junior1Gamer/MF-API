@@ -1,8 +1,8 @@
 {
   "slug": "hyoukaku-no-meteoria.mv99v",
   "title": "Hyoukaku no Meteoria",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Hyoukaku no Meteoria manga, read all chapters here, the latest chapter 15.1 is available. Read Hyoukaku no Meteoria raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Hyoukaku no Meteoria manga, read all chapters here, the latest chapter 15.2 is available. Read Hyoukaku no Meteoria raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "15.2",
+      "title": "Vol 0 -  Chap 15.2",
+      "url": "https://mangafire.to/read/hyoukaku-no-meteoria.mv99v/en/chapter-15.2"
+    },
     {
       "number": "15.1",
       "title": "Vol 0 -  Chap 15.1",
@@ -159,5 +164,5 @@
       "url": "https://mangafire.to/read/hyoukaku-no-meteoria.mv99v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:46:28Z"
+  "fetched_at": "2026-05-25T09:04:09Z"
 }

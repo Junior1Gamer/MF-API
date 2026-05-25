@@ -1,8 +1,8 @@
 {
   "slug": "chan-zhi.olnw5",
   "title": "Chan Zhi",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Chan Zhi manga, read all chapters here, the latest chapter 35 is available. Read Chan Zhi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Chan Zhi manga, read all chapters here, the latest chapter 37 is available. Read Chan Zhi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "37",
+      "title": "Chap 37",
+      "url": "https://mangafire.to/read/chan-zhi.olnw5/en/chapter-37"
+    },
+    {
+      "number": "36",
+      "title": "Chap 36",
+      "url": "https://mangafire.to/read/chan-zhi.olnw5/en/chapter-36"
+    },
     {
       "number": "35",
       "title": "Chap 35",
@@ -231,5 +241,5 @@
       "url": "https://mangafire.to/read/chan-zhi.olnw5/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:35:14Z"
+  "fetched_at": "2026-05-25T09:01:03Z"
 }

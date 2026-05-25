@@ -1,8 +1,8 @@
 {
   "slug": "boruto-two-blue-vortexx.mvymp",
   "title": "Boruto: Two Blue Vortex",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Boruto: Two Blue Vortex manga, read all chapters here, the latest chapter 33 is available. Read Boruto: Two Blue Vortex raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Boruto: Two Blue Vortex manga, read all chapters here, the latest chapter 34 is available. Read Boruto: Two Blue Vortex raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "34",
+      "title": "Vol 5 -  Chap 34",
+      "url": "https://mangafire.to/read/boruto-two-blue-vortexx.mvymp/en/chapter-34"
+    },
     {
       "number": "33",
       "title": "Vol 5 -  Chap 33",
@@ -221,5 +226,5 @@
       "url": "https://mangafire.to/read/boruto-two-blue-vortexx.mvymp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:47:21Z"
+  "fetched_at": "2026-05-25T09:02:29Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "record-of-ragnarokk.n300k",
   "title": "Record of Ragnarok",
-  "cover": "https://static.mfcdn.nl/0f75/i/b/b9/b96d3e49e6c420ab550b8ebb6c2cd371@100.jpg",
-  "description": "Record of Ragnarok manga, read all chapters here, the latest chapter 118 is available. Read Record of Ragnarok raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c057/i/c/c7/e988e486bb925872053f1ab8677ca026@100.jpg",
+  "description": "Record of Ragnarok manga, read all chapters here, the latest chapter 120 is available. Read Record of Ragnarok raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,16 @@
   ],
   "chapters": [
     {
+      "number": "120",
+      "title": "Vol 29 -  Chap 120",
+      "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-120"
+    },
+    {
+      "number": "119",
+      "title": "Vol 28 -  Chap 119",
+      "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-119"
+    },
+    {
       "number": "118",
       "title": "Vol 28 -  Chap 118",
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-118"
@@ -81,22 +91,22 @@
     },
     {
       "number": "113",
-      "title": "Vol 26 -  Chap 113",
+      "title": "Vol 27 -  Chap 113",
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-113"
     },
     {
       "number": "112",
-      "title": "Vol 26 -  Chap 112",
+      "title": "Vol 27 -  Chap 112",
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-112"
     },
     {
       "number": "111",
-      "title": "Vol 26 -  Chap 111",
+      "title": "Vol 27 -  Chap 111",
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-111"
     },
     {
       "number": "110",
-      "title": "Vol 26 -  Chap 110",
+      "title": "Vol 27 -  Chap 110",
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-110"
     },
     {
@@ -1250,5 +1260,5 @@
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:45:05Z"
+  "fetched_at": "2026-05-25T08:59:32Z"
 }

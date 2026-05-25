@@ -1,8 +1,8 @@
 {
   "slug": "muteki-no-subaru.yj5wj",
   "title": "Muteki no Subaru",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Muteki no Subaru manga, read all chapters here, the latest chapter 5 is available. Read Muteki no Subaru raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Muteki no Subaru manga, read all chapters here, the latest chapter 7 is available. Read Muteki no Subaru raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Vol 0 -  Chap 7",
+      "url": "https://mangafire.to/read/muteki-no-subaru.yj5wj/en/chapter-7"
+    },
+    {
+      "number": "6",
+      "title": "Vol 0 -  Chap 6",
+      "url": "https://mangafire.to/read/muteki-no-subaru.yj5wj/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/muteki-no-subaru.yj5wj/en/chapter-5"
@@ -78,5 +88,5 @@
       "url": "https://mangafire.to/read/muteki-no-subaru.yj5wj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:39:17Z"
+  "fetched_at": "2026-05-25T09:00:14Z"
 }

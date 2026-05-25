@@ -1,8 +1,8 @@
 {
   "slug": "part-time-grim-reaper2.mjzr7",
   "title": "Part-Time Grim Reaper",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Part-Time Grim Reaper manga, read all chapters here, the latest chapter 50 is available. Read Part-Time Grim Reaper raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Part-Time Grim Reaper manga, read all chapters here, the latest chapter 51 is available. Read Part-Time Grim Reaper raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/part-time-grim-reaper2.mjzr7/en/chapter-51"
+    },
     {
       "number": "50",
       "title": "Chap 50",
@@ -316,5 +321,5 @@
       "url": "https://mangafire.to/read/part-time-grim-reaper2.mjzr7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:36:14Z"
+  "fetched_at": "2026-05-25T09:01:11Z"
 }

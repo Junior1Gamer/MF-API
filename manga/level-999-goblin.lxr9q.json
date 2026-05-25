@@ -1,8 +1,8 @@
 {
   "slug": "level-999-goblin.lxr9q",
   "title": "Level 999 Goblin",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Level 999 Goblin manga, read all chapters here, the latest chapter 54 is available. Read Level 999 Goblin raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Level 999 Goblin manga, read all chapters here, the latest chapter 55 is available. Read Level 999 Goblin raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "55",
+      "title": "Chap 55",
+      "url": "https://mangafire.to/read/level-999-goblin.lxr9q/en/chapter-55"
+    },
     {
       "number": "54",
       "title": "Chap 54",
@@ -324,5 +329,5 @@
       "url": "https://mangafire.to/read/level-999-goblin.lxr9q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:36:02Z"
+  "fetched_at": "2026-05-25T09:01:42Z"
 }

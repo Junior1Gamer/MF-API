@@ -1,8 +1,8 @@
 {
   "slug": "jaeneung-samkin-mabeopsaa.xjzjv",
   "title": "Demon Devourer",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Demon Devourer manga, read all chapters here, the latest chapter 142 is available. Read Demon Devourer raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Demon Devourer manga, read all chapters here, the latest chapter 143 is available. Read Demon Devourer raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "143",
+      "title": "Chap 143",
+      "url": "https://mangafire.to/read/jaeneung-samkin-mabeopsaa.xjzjv/en/chapter-143"
+    },
     {
       "number": "142",
       "title": "Chap 142",
@@ -780,5 +785,5 @@
       "url": "https://mangafire.to/read/jaeneung-samkin-mabeopsaa.xjzjv/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:35:01Z"
+  "fetched_at": "2026-05-25T09:01:34Z"
 }

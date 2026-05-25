@@ -1,8 +1,8 @@
 {
   "slug": "elqueenesss.3oxr",
   "title": "Elqueeness",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Elqueeness manga, read all chapters here, the latest chapter 315 is available. Read Elqueeness raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Elqueeness manga, read all chapters here, the latest chapter 316 is available. Read Elqueeness raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "316",
+      "title": "Chap 316",
+      "url": "https://mangafire.to/read/elqueenesss.3oxr/en/chapter-316"
+    },
     {
       "number": "315",
       "title": "Chap 315",
@@ -1650,5 +1655,5 @@
       "url": "https://mangafire.to/read/elqueenesss.3oxr/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:45:23Z"
+  "fetched_at": "2026-05-25T09:04:17Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "mairimashita-iruma-kunn.k71v",
   "title": "Welcome to Demon School! Iruma-kun",
-  "cover": "https://static.mfcdn.nl/dbae/i/c/c7/c7742befaa1a3d0d9e544e31fe6913e4@100.jpg",
-  "description": "Welcome to Demon School! Iruma-kun manga, read all chapters here, the latest chapter 443 is available. Read Welcome to Demon School! Iruma-kun raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/d92e/i/c/c5/79605cb48b3deecec94348b42ac7f237@100.jpg",
+  "description": "Welcome to Demon School! Iruma-kun manga, read all chapters here, the latest chapter 443.5 is available. Read Welcome to Demon School! Iruma-kun raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "443.5",
+      "title": "Vol 49 -  Chap 443.5",
+      "url": "https://mangafire.to/read/mairimashita-iruma-kunn.k71v/en/chapter-443.5"
+    },
     {
       "number": "443",
       "title": "Vol 49 -  Chap 443",
@@ -2636,5 +2641,5 @@
       "url": "https://mangafire.to/read/mairimashita-iruma-kunn.k71v/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-18T08:36:40Z"
+  "fetched_at": "2026-05-25T09:02:18Z"
 }

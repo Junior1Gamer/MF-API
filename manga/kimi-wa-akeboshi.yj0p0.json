@@ -1,8 +1,8 @@
 {
   "slug": "kimi-wa-akeboshi.yj0p0",
   "title": "Kimi wa Akeboshi",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Kimi wa Akeboshi manga, read all chapters here, the latest chapter 11 is available. Read Kimi wa Akeboshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Kimi wa Akeboshi manga, read all chapters here, the latest chapter 12 is available. Read Kimi wa Akeboshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Vol 0 -  Chap 12",
+      "url": "https://mangafire.to/read/kimi-wa-akeboshi.yj0p0/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Vol 1 -  Chap 11",
@@ -106,5 +111,5 @@
       "url": "https://mangafire.to/read/kimi-wa-akeboshi.yj0p0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:40:04Z"
+  "fetched_at": "2026-05-25T09:01:12Z"
 }

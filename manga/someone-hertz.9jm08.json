@@ -1,8 +1,8 @@
 {
   "slug": "someone-hertz.9jm08",
   "title": "Someone Hertz",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Someone Hertz manga, read all chapters here, the latest chapter 33 is available. Read Someone Hertz raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Someone Hertz manga, read all chapters here, the latest chapter 34 is available. Read Someone Hertz raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "34",
+      "title": "Vol 4 -  Chap 34",
+      "url": "https://mangafire.to/read/someone-hertz.9jm08/en/chapter-34"
+    },
+    {
+      "number": "33",
+      "title": "Vol 4 -  Chap 33",
+      "url": "https://mangafire.to/read/someone-hertz.9jm08/en/chapter-33"
+    },
     {
       "number": "32",
       "title": "Vol 4 -  Chap 32",
@@ -214,5 +224,5 @@
       "url": "https://mangafire.to/read/someone-hertz.9jm08/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:33:06Z"
+  "fetched_at": "2026-05-25T08:59:36Z"
 }

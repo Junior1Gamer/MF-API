@@ -1,8 +1,8 @@
 {
   "slug": "an-awkward-relationshipp.z1vom",
   "title": "An Awkward Relationship",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "An Awkward Relationship manga, read all chapters here, the latest chapter 4 is available. Read An Awkward Relationship raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "An Awkward Relationship manga, read all chapters here, the latest chapter 5 is available. Read An Awkward Relationship raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "5",
+      "title": "Chap 5",
+      "url": "https://mangafire.to/read/an-awkward-relationshipp.z1vom/en/chapter-5"
+    },
+    {
       "number": "4",
       "title": "Chap 4",
       "url": "https://mangafire.to/read/an-awkward-relationshipp.z1vom/en/chapter-4"
@@ -71,5 +76,5 @@
       "url": "https://mangafire.to/read/an-awkward-relationshipp.z1vom/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:33:33Z"
+  "fetched_at": "2026-05-25T09:01:07Z"
 }

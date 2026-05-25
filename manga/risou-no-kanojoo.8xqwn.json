@@ -1,8 +1,8 @@
 {
   "slug": "risou-no-kanojoo.8xqwn",
   "title": "My Ideal Girlfriend",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "My Ideal Girlfriend manga, read all chapters here, the latest chapter 34 is available. Read My Ideal Girlfriend raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "My Ideal Girlfriend manga, read all chapters here, the latest chapter 36 is available. Read My Ideal Girlfriend raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,21 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Vol 0 -  Chap 36",
+      "url": "https://mangafire.to/read/risou-no-kanojoo.8xqwn/en/chapter-36"
+    },
+    {
+      "number": "35.5",
+      "title": "Vol 3 -  Chap 35.5",
+      "url": "https://mangafire.to/read/risou-no-kanojoo.8xqwn/en/chapter-35.5"
+    },
+    {
+      "number": "35",
+      "title": "Vol 3 -  Chap 35",
+      "url": "https://mangafire.to/read/risou-no-kanojoo.8xqwn/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Vol 3 -  Chap 34",
@@ -243,5 +258,5 @@
       "url": "https://mangafire.to/read/risou-no-kanojoo.8xqwn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:36:51Z"
+  "fetched_at": "2026-05-25T09:00:27Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "tonari-no-futomomo-san.9j9q8",
   "title": "Tonari no Futomomo-san",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Tonari no Futomomo-san manga, read all chapters here, the latest chapter 3 is available. Read Tonari no Futomomo-san raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Tonari no Futomomo-san manga, read all chapters here, the latest chapter 4 is available. Read Tonari no Futomomo-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,25 +53,30 @@
   ],
   "chapters": [
     {
+      "number": "4",
+      "title": "Vol 0 -  Chap 4",
+      "url": "https://mangafire.to/read/tonari-no-futomomo-san.9j9q8/en/chapter-4"
+    },
+    {
       "number": "3",
-      "title": "Chap 3",
+      "title": "Vol 1 -  Chap 3",
       "url": "https://mangafire.to/read/tonari-no-futomomo-san.9j9q8/en/chapter-3"
     },
     {
       "number": "2",
-      "title": "Chap 2",
+      "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/tonari-no-futomomo-san.9j9q8/en/chapter-2"
     },
     {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/tonari-no-futomomo-san.9j9q8/en/chapter-1"
     },
     {
       "number": "0",
-      "title": "Chap 0",
+      "title": "Vol 1 -  Chap 0",
       "url": "https://mangafire.to/read/tonari-no-futomomo-san.9j9q8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:51:22Z"
+  "fetched_at": "2026-05-25T09:00:31Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "wild-ranker.zkkl3",
   "title": "Wild Ranker",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Wild Ranker manga, read all chapters here, the latest chapter 54 is available. Read Wild Ranker raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Wild Ranker manga, read all chapters here, the latest chapter 55 is available. Read Wild Ranker raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "55",
+      "title": "Chap 55",
+      "url": "https://mangafire.to/read/wild-ranker.zkkl3/en/chapter-55"
+    },
     {
       "number": "54",
       "title": "Chap 54",
@@ -323,5 +328,5 @@
       "url": "https://mangafire.to/read/wild-ranker.zkkl3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-18T08:35:34Z"
+  "fetched_at": "2026-05-25T09:03:50Z"
 }

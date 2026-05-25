@@ -1,8 +1,8 @@
 {
   "slug": "sakii.n2m",
   "title": "Saki",
-  "cover": "https://static.mfcdn.nl/6114/i/9/90/90319916b325b8d42d52388e1b46c2cc@100.jpg",
-  "description": "Saki manga, read all chapters here, the latest chapter 298 is available. Read Saki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/086d/i/8/86/86996423d358b4b09d1abc8f0a6594b3@100.jpg",
+  "description": "Saki manga, read all chapters here, the latest chapter 299 is available. Read Saki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,8 +56,13 @@
   ],
   "chapters": [
     {
+      "number": "299",
+      "title": "Vol 26 -  Chap 299",
+      "url": "https://mangafire.to/read/sakii.n2m/en/chapter-299"
+    },
+    {
       "number": "298",
-      "title": "Vol 0 -  Chap 298",
+      "title": "Vol 26 -  Chap 298",
       "url": "https://mangafire.to/read/sakii.n2m/en/chapter-298"
     },
     {
@@ -1681,5 +1686,5 @@
       "url": "https://mangafire.to/read/sakii.n2m/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-18T08:46:55Z"
+  "fetched_at": "2026-05-25T09:04:10Z"
 }

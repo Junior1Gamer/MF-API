@@ -1,8 +1,8 @@
 {
   "slug": "return-of-the-devourer.ro01n",
   "title": "Return of the Devourer",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Return of the Devourer manga, read all chapters here, the latest chapter 29 is available. Read Return of the Devourer raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Return of the Devourer manga, read all chapters here, the latest chapter 31 is available. Read Return of the Devourer raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "31",
+      "title": "Chap 31",
+      "url": "https://mangafire.to/read/return-of-the-devourer.ro01n/en/chapter-31"
+    },
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/return-of-the-devourer.ro01n/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Chap 29",
@@ -202,5 +212,5 @@
       "url": "https://mangafire.to/read/return-of-the-devourer.ro01n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:32:34Z"
+  "fetched_at": "2026-05-25T09:01:51Z"
 }

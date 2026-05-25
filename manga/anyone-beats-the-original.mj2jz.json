@@ -1,8 +1,8 @@
 {
   "slug": "anyone-beats-the-original.mj2jz",
   "title": "Anyone Beats the Original",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Anyone Beats the Original manga, read all chapters here, the latest chapter 70 is available. Read Anyone Beats the Original raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Anyone Beats the Original manga, read all chapters here, the latest chapter 71 is available. Read Anyone Beats the Original raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "71",
+      "title": "Chap 71",
+      "url": "https://mangafire.to/read/anyone-beats-the-original.mj2jz/en/chapter-71"
+    },
     {
       "number": "70",
       "title": "Chap 70",
@@ -448,5 +453,5 @@
       "url": "https://mangafire.to/read/anyone-beats-the-original.mj2jz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-18T08:36:55Z"
+  "fetched_at": "2026-05-25T09:01:40Z"
 }
