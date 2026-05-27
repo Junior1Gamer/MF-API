@@ -2,7 +2,7 @@
   "slug": "gibbet-room.17oom",
   "title": "Gibbet Room",
   "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Gibbet Room manga, read all chapters here, the latest chapter 8 is available. Read Gibbet Room raw, multiple language. READ NOW!!",
+  "description": "Gibbet Room manga, read all chapters here, the latest chapter 9 is available. Read Gibbet Room raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "9",
+      "title": "Vol 0 -  Chap 9",
+      "url": "https://mangafire.to/read/gibbet-room.17oom/en/chapter-9"
+    },
     {
       "number": "8",
       "title": "Vol 1 -  Chap 8",
@@ -108,5 +113,5 @@
       "url": "https://mangafire.to/read/gibbet-room.17oom/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-19T08:22:45Z"
+  "fetched_at": "2026-05-27T08:33:15Z"
 }

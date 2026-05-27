@@ -1,8 +1,8 @@
 {
   "slug": "table.60o4p",
   "title": "TABLE",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "TABLE manga, read all chapters here, the latest chapter 2 is available. Read TABLE raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "description": "TABLE manga, read all chapters here, the latest chapter 3 is available. Read TABLE raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "3",
+      "title": "Chap 3",
+      "url": "https://mangafire.to/read/table.60o4p/en/chapter-3"
+    },
+    {
       "number": "2",
       "title": "Chap 2",
       "url": "https://mangafire.to/read/table.60o4p/en/chapter-2"
@@ -62,5 +67,5 @@
       "url": "https://mangafire.to/read/table.60o4p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-20T08:14:13Z"
+  "fetched_at": "2026-05-27T08:35:25Z"
 }
