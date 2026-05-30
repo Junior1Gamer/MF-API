@@ -1,8 +1,8 @@
 {
   "slug": "osananajimi.yjwv0",
   "title": "Osananajimi",
-  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
-  "description": "Osananajimi manga, read all chapters here, the latest chapter 24 is available. Read Osananajimi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Osananajimi manga, read all chapters here, the latest chapter 23.1 is available. Read Osananajimi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,11 +52,6 @@
   ],
   "chapters": [
     {
-      "number": "24",
-      "title": "Vol 0 -  Chap 24",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-24"
-    },
-    {
       "number": "23.1",
       "title": "Vol 2 -  Chap 23.1",
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-23.1"
@@ -72,19 +67,9 @@
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-22"
     },
     {
-      "number": "21",
-      "title": "Vol 2 -  Chap 21",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-21"
-    },
-    {
       "number": "20",
       "title": "Vol 2 -  Chap 20",
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-20"
-    },
-    {
-      "number": "19",
-      "title": "Vol 2 -  Chap 19",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-19"
     },
     {
       "number": "18.5",
@@ -95,36 +80,6 @@
       "number": "18.1",
       "title": "Vol 2 -  Chap 18.1",
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-18.1"
-    },
-    {
-      "number": "18",
-      "title": "Vol 2 -  Chap 18",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-18"
-    },
-    {
-      "number": "17",
-      "title": "Vol 2 -  Chap 17",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-17"
-    },
-    {
-      "number": "16",
-      "title": "Vol 2 -  Chap 16",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-16"
-    },
-    {
-      "number": "15",
-      "title": "Vol 2 -  Chap 15",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-15"
-    },
-    {
-      "number": "14",
-      "title": "Vol 2 -  Chap 14",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-14"
-    },
-    {
-      "number": "13",
-      "title": "Vol 2 -  Chap 13",
-      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-13"
     },
     {
       "number": "12",
@@ -192,5 +147,5 @@
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:05:36Z"
+  "fetched_at": "2026-05-30T07:39:58Z"
 }

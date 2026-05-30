@@ -2,7 +2,7 @@
   "slug": "double-clickk.6lxpz",
   "title": "Double Click",
   "cover": "https://static.mfcdn.nl/ff94/i/1/1a/1a882d32faefdcf9fe3fd3c6d8df90bf@100.jpg",
-  "description": "Double Click manga, read all chapters here, the latest chapter 245 is available. Read Double Click raw, multiple language. READ NOW!!",
+  "description": "Double Click manga, read all chapters here, the latest chapter 246 is available. Read Double Click raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "246",
+      "title": "Chap 246",
+      "url": "https://mangafire.to/read/double-clickk.6lxpz/en/chapter-246"
+    },
     {
       "number": "245",
       "title": "Chap 245",
@@ -1281,5 +1286,5 @@
       "url": "https://mangafire.to/read/double-clickk.6lxpz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:06:34Z"
+  "fetched_at": "2026-05-30T07:39:10Z"
 }

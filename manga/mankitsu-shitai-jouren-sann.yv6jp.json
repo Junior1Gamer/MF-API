@@ -1,8 +1,8 @@
 {
   "slug": "mankitsu-shitai-jouren-sann.yv6jp",
   "title": "Mankitsu Shitai Jouren-san",
-  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
-  "description": "Mankitsu Shitai Jouren-san manga, read all chapters here, the latest chapter 54 is available. Read Mankitsu Shitai Jouren-san raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Mankitsu Shitai Jouren-san manga, read all chapters here, the latest chapter 55 is available. Read Mankitsu Shitai Jouren-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "55",
+      "title": "Vol 0 -  Chap 55",
+      "url": "https://mangafire.to/read/mankitsu-shitai-jouren-sann.yv6jp/en/chapter-55"
+    },
     {
       "number": "54",
       "title": "Vol 3 -  Chap 54",
@@ -443,5 +448,5 @@
       "url": "https://mangafire.to/read/mankitsu-shitai-jouren-sann.yv6jp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:11:36Z"
+  "fetched_at": "2026-05-30T07:39:33Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "try-beggingg.npqon",
   "title": "Try Begging",
-  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
-  "description": "Try Begging manga, read all chapters here, the latest chapter 72 is available. Read Try Begging raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Try Begging manga, read all chapters here, the latest chapter 74 is available. Read Try Begging raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "74",
+      "title": "Chap 74",
+      "url": "https://mangafire.to/read/try-beggingg.npqon/en/chapter-74"
+    },
+    {
+      "number": "73",
+      "title": "Chap 73",
+      "url": "https://mangafire.to/read/try-beggingg.npqon/en/chapter-73"
+    },
     {
       "number": "72",
       "title": "Chap 72",
@@ -438,5 +448,5 @@
       "url": "https://mangafire.to/read/try-beggingg.npqon/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:04:48Z"
+  "fetched_at": "2026-05-30T07:37:58Z"
 }

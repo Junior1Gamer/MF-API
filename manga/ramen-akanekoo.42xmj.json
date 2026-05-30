@@ -1,8 +1,8 @@
 {
   "slug": "ramen-akanekoo.42xmj",
   "title": "Red Cat Ramen",
-  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
-  "description": "Red Cat Ramen manga, read all chapters here, the latest chapter 191 is available. Read Red Cat Ramen raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Red Cat Ramen manga, read all chapters here, the latest chapter 192 is available. Read Red Cat Ramen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "192",
+      "title": "Vol 13 -  Chap 192",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-192"
+    },
+    {
+      "number": "191",
+      "title": "Vol 13 -  Chap 191",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-191"
+    },
     {
       "number": "190",
       "title": "Vol 13 -  Chap 190",
@@ -149,11 +159,6 @@
       "number": "174.5",
       "title": "Vol 13 -  Chap 174.5",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-174.5"
-    },
-    {
-      "number": "174.1",
-      "title": "Vol 0 -  Chap 174.1",
-      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-174.1"
     },
     {
       "number": "174",
@@ -266,11 +271,6 @@
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-159.2"
     },
     {
-      "number": "159.1",
-      "title": "Vol 0 -  Chap 159.1",
-      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-159.1"
-    },
-    {
       "number": "159",
       "title": "Vol 13 -  Chap 159",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-159"
@@ -334,11 +334,6 @@
       "number": "147.5",
       "title": "Vol 13 -  Chap 147.5",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-147.5"
-    },
-    {
-      "number": "147.1",
-      "title": "Vol 0 -  Chap 147.1",
-      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-147.1"
     },
     {
       "number": "147",
@@ -506,6 +501,11 @@
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-120.5"
     },
     {
+      "number": "120.1",
+      "title": "Vol 0 -  Chap 120.1",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-120.1"
+    },
+    {
       "number": "120",
       "title": "Vol 10 -  Chap 120",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-120"
@@ -616,6 +616,11 @@
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-101.5"
     },
     {
+      "number": "101.1",
+      "title": "Vol 0 -  Chap 101.1",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-101.1"
+    },
+    {
       "number": "101",
       "title": "Vol 9 -  Chap 101",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-101"
@@ -664,6 +669,11 @@
       "number": "93.5",
       "title": "Vol 8 -  Chap 93.5",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-93.5"
+    },
+    {
+      "number": "93.1",
+      "title": "Vol 0 -  Chap 93.1",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-93.1"
     },
     {
       "number": "93",
@@ -829,6 +839,11 @@
       "number": "66.5",
       "title": "Vol 6 -  Chap 66.5",
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-66.5"
+    },
+    {
+      "number": "66.1",
+      "title": "Vol 0 -  Chap 66.1",
+      "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-66.1"
     },
     {
       "number": "66",
@@ -1161,5 +1176,5 @@
       "url": "https://mangafire.to/read/ramen-akanekoo.42xmj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:06:40Z"
+  "fetched_at": "2026-05-30T07:39:20Z"
 }

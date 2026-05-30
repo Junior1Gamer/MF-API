@@ -1,8 +1,8 @@
 {
   "slug": "make-a-girl.vq0x4",
   "title": "Make a Girl",
-  "cover": "https://static.mfcdn.nl/56ad/i/a/8c/08ce50b92e3e6568032e880785a53e30@100.jpg",
-  "description": "Make a Girl manga, read all chapters here, the latest chapter 8 is available. Read Make a Girl raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Make a Girl manga, read all chapters here, the latest chapter 9 is available. Read Make a Girl raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,45 +53,50 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Vol 2 -  Chap 9",
+      "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-9"
+    },
+    {
       "number": "8",
-      "title": "Chap 8",
+      "title": "Vol 1 -  Chap 8",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-8"
     },
     {
       "number": "7",
-      "title": "Chap 7",
+      "title": "Vol 1 -  Chap 7",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-7"
     },
     {
       "number": "6",
-      "title": "Chap 6",
+      "title": "Vol 1 -  Chap 6",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-6"
     },
     {
       "number": "5",
-      "title": "Chap 5",
+      "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-5"
     },
     {
       "number": "4",
-      "title": "Chap 4",
+      "title": "Vol 1 -  Chap 4",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-4"
     },
     {
       "number": "3",
-      "title": "Chap 3",
+      "title": "Vol 1 -  Chap 3",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-3"
     },
     {
       "number": "2",
-      "title": "Chap 2",
+      "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-2"
     },
     {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-23T07:08:13Z"
+  "fetched_at": "2026-05-30T07:38:01Z"
 }
