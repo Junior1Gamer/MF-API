@@ -1,7 +1,7 @@
 {
   "slug": "reall.ro4y",
   "title": "Real",
-  "cover": "https://static.mfcdn.nl/a863/i/a/a0/a069b3b1761a645ac52c1e5a6f27de74@100.jpg",
+  "cover": "https://static.mfcdn.nl/9730/i/8/83/83bd6b3f01cece010e4871ec2805536a@100.jpg",
   "description": "Real manga, read all chapters here, the latest chapter 104 is available. Read Real raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -576,7 +576,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/reall.ro4y/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 5 -  Chap 0",
+      "url": "https://mangafire.to/read/reall.ro4y/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-24T07:53:55Z"
+  "fetched_at": "2026-05-31T08:19:31Z"
 }

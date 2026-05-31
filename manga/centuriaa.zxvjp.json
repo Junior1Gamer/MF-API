@@ -1,8 +1,8 @@
 {
   "slug": "centuriaa.zxvjp",
   "title": "Centuria",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Centuria manga, read all chapters here, the latest chapter 91 is available. Read Centuria raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Centuria manga, read all chapters here, the latest chapter 92 is available. Read Centuria raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "92",
+      "title": "Vol 8 -  Chap 92",
+      "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-92"
+    },
     {
       "number": "91",
       "title": "Vol 8 -  Chap 91",
@@ -510,6 +515,11 @@
       "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-8"
     },
     {
+      "number": "7.1",
+      "title": "Vol 0 -  Chap 7.1",
+      "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-7.1"
+    },
+    {
       "number": "7",
       "title": "Vol 1 -  Chap 7",
       "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-7"
@@ -553,7 +563,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 2 -  Chap 0",
+      "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-24T07:50:15Z"
+  "fetched_at": "2026-05-31T08:14:49Z"
 }

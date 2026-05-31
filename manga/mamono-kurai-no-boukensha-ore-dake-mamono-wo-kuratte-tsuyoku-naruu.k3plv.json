@@ -1,8 +1,8 @@
 {
   "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naruu.k3plv",
   "title": "Monster Eater",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Monster Eater manga, read all chapters here, the latest chapter 102 is available. Read Monster Eater raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Monster Eater manga, read all chapters here, the latest chapter 103 is available. Read Monster Eater raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "103",
+      "title": "Chap 103",
+      "url": "https://mangafire.to/read/mamono-kurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naruu.k3plv/en/chapter-103"
+    },
     {
       "number": "102",
       "title": "Chap 102",
@@ -819,5 +824,5 @@
       "url": "https://mangafire.to/read/mamono-kurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naruu.k3plv/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-24T07:48:36Z"
+  "fetched_at": "2026-05-31T08:13:36Z"
 }

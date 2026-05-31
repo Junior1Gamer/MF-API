@@ -1,8 +1,8 @@
 {
   "slug": "haru-no-regista.70z51",
   "title": "Haru no Regista",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Haru no Regista manga, read all chapters here, the latest chapter 14.2 is available. Read Haru no Regista raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Haru no Regista manga, read all chapters here, the latest chapter 15.1 is available. Read Haru no Regista raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "15.1",
+      "title": "Vol 4 -  Chap 15.1",
+      "url": "https://mangafire.to/read/haru-no-regista.70z51/en/chapter-15.1"
+    },
     {
       "number": "14.2",
       "title": "Vol 4 -  Chap 14.2",
@@ -218,5 +223,5 @@
       "url": "https://mangafire.to/read/haru-no-regista.70z51/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-24T07:55:28Z"
+  "fetched_at": "2026-05-31T08:13:16Z"
 }

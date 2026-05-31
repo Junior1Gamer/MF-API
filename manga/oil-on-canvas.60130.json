@@ -1,8 +1,8 @@
 {
   "slug": "oil-on-canvas.60130",
   "title": "Oil on Canvas",
-  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
-  "description": "Oil on Canvas manga, read all chapters here, the latest chapter 43 is available. Read Oil on Canvas raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Oil on Canvas manga, read all chapters here, the latest chapter 44 is available. Read Oil on Canvas raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Chap 44",
+      "url": "https://mangafire.to/read/oil-on-canvas.60130/en/chapter-44"
+    },
     {
       "number": "43",
       "title": "Chap 43",
@@ -312,5 +317,5 @@
       "url": "https://mangafire.to/read/oil-on-canvas.60130/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-24T07:49:33Z"
+  "fetched_at": "2026-05-31T08:13:45Z"
 }

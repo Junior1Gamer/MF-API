@@ -1,8 +1,8 @@
 {
   "slug": "nae-bunsini-geomuri-doeeoganda.vqjw6",
   "title": "My Avatars’ Path to Greatness",
-  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
-  "description": "My Avatars’ Path to Greatness manga, read all chapters here, the latest chapter 78 is available. Read My Avatars’ Path to Greatness raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "My Avatars’ Path to Greatness manga, read all chapters here, the latest chapter 79 is available. Read My Avatars’ Path to Greatness raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "79",
+      "title": "Chap 79",
+      "url": "https://mangafire.to/read/nae-bunsini-geomuri-doeeoganda.vqjw6/en/chapter-79"
+    },
     {
       "number": "78",
       "title": "Chap 78",
@@ -449,5 +454,5 @@
       "url": "https://mangafire.to/read/nae-bunsini-geomuri-doeeoganda.vqjw6/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-24T07:48:28Z"
+  "fetched_at": "2026-05-31T08:13:22Z"
 }

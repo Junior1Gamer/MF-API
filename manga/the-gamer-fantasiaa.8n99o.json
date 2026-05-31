@@ -1,8 +1,8 @@
 {
   "slug": "the-gamer-fantasiaa.8n99o",
   "title": "The Gamer: Fantasia",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "The Gamer: Fantasia manga, read all chapters here, the latest chapter 17 is available. Read The Gamer: Fantasia raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "The Gamer: Fantasia manga, read all chapters here, the latest chapter 18 is available. Read The Gamer: Fantasia raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "18",
+      "title": "Chap 18",
+      "url": "https://mangafire.to/read/the-gamer-fantasiaa.8n99o/en/chapter-18"
+    },
     {
       "number": "17",
       "title": "Chap 17",
@@ -138,5 +143,5 @@
       "url": "https://mangafire.to/read/the-gamer-fantasiaa.8n99o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-24T07:48:02Z"
+  "fetched_at": "2026-05-31T08:13:06Z"
 }
