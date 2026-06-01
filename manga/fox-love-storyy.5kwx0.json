@@ -1,8 +1,8 @@
 {
   "slug": "fox-love-storyy.5kwx0",
   "title": "Fox Love Story",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Fox Love Story manga, read all chapters here, the latest chapter 34 is available. Read Fox Love Story raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Fox Love Story manga, read all chapters here, the latest chapter 35 is available. Read Fox Love Story raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "35",
+      "title": "Chap 35",
+      "url": "https://mangafire.to/read/fox-love-storyy.5kwx0/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Chap 34",
@@ -224,5 +229,5 @@
       "url": "https://mangafire.to/read/fox-love-storyy.5kwx0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:01:27Z"
+  "fetched_at": "2026-06-01T09:55:40Z"
 }

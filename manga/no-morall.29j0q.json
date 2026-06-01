@@ -1,8 +1,8 @@
 {
   "slug": "no-morall.29j0q",
   "title": "No Moral",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "No Moral manga, read all chapters here, the latest chapter 120 is available. Read No Moral raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "No Moral manga, read all chapters here, the latest chapter 121 is available. Read No Moral raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Chap 121",
+      "url": "https://mangafire.to/read/no-morall.29j0q/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Chap 120",
@@ -676,5 +681,5 @@
       "url": "https://mangafire.to/read/no-morall.29j0q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:09:54Z"
+  "fetched_at": "2026-06-01T09:54:47Z"
 }

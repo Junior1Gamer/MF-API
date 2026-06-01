@@ -1,8 +1,8 @@
 {
   "slug": "yangachiwa-jopogagassi.pm6wj",
   "title": "Yangachiwa Jopogagassi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Yangachiwa Jopogagassi manga, read all chapters here, the latest chapter 41 is available. Read Yangachiwa Jopogagassi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Yangachiwa Jopogagassi manga, read all chapters here, the latest chapter 42 is available. Read Yangachiwa Jopogagassi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/yangachiwa-jopogagassi.pm6wj/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Chap 41",
@@ -256,5 +261,5 @@
       "url": "https://mangafire.to/read/yangachiwa-jopogagassi.pm6wj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:02:54Z"
+  "fetched_at": "2026-06-01T09:56:54Z"
 }

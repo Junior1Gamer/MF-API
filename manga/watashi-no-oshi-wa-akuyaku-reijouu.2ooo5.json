@@ -1,8 +1,8 @@
 {
   "slug": "watashi-no-oshi-wa-akuyaku-reijouu.2ooo5",
   "title": "I'm in Love with the Villainess",
-  "cover": "https://static.mfcdn.nl/a7fb/i/a/a9/a90d1c8d2dece1535b48fd7b082a292c@100.jpg",
-  "description": "I'm in Love with the Villainess manga, read all chapters here, the latest chapter 61 is available. Read I'm in Love with the Villainess raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1e67/i/9/91/913883d5793d2bc951afd206974cb297@100.jpg",
+  "description": "I'm in Love with the Villainess manga, read all chapters here, the latest chapter 62 is available. Read I'm in Love with the Villainess raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "62",
+      "title": "Vol 0 -  Chap 62",
+      "url": "https://mangafire.to/read/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5/en/chapter-62"
+    },
     {
       "number": "61",
       "title": "Vol 12 -  Chap 61",
@@ -724,7 +729,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 2 -  Chap 0",
+      "url": "https://mangafire.to/read/watashi-no-oshi-wa-akuyaku-reijouu.2ooo5/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:06:14Z"
+  "fetched_at": "2026-06-01T09:57:02Z"
 }

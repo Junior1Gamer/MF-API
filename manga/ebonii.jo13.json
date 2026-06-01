@@ -2,7 +2,7 @@
   "slug": "ebonii.jo13",
   "title": "Lady Evony",
   "cover": "https://static.mfcdn.nl/c564/i/c/c5/c5c7d0aaa941f443b97def4ff6d80c8e@100.jpg",
-  "description": "Lady Evony manga, read all chapters here, the latest chapter 192 is available. Read Lady Evony raw, multiple language. READ NOW!!",
+  "description": "Lady Evony manga, read all chapters here, the latest chapter 193 is available. Read Lady Evony raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "193",
+      "title": "Chap 193",
+      "url": "https://mangafire.to/read/ebonii.jo13/en/chapter-193"
+    },
     {
       "number": "192",
       "title": "Chap 192",
@@ -1078,5 +1083,5 @@
       "url": "https://mangafire.to/read/ebonii.jo13/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:01:01Z"
+  "fetched_at": "2026-06-01T09:55:14Z"
 }

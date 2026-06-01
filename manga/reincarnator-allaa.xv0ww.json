@@ -1,8 +1,8 @@
 {
   "slug": "reincarnator-allaa.xv0ww",
   "title": "Reincarnator (ALLA)",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Reincarnator (ALLA) manga, read all chapters here, the latest chapter 135 is available. Read Reincarnator (ALLA) raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Reincarnator (ALLA) manga, read all chapters here, the latest chapter 136 is available. Read Reincarnator (ALLA) raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "136",
+      "title": "Chap 136",
+      "url": "https://mangafire.to/read/reincarnator-allaa.xv0ww/en/chapter-136"
+    },
     {
       "number": "135",
       "title": "Chap 135",
@@ -734,5 +739,5 @@
       "url": "https://mangafire.to/read/reincarnator-allaa.xv0ww/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T08:58:55Z"
+  "fetched_at": "2026-06-01T09:53:42Z"
 }

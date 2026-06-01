@@ -1,8 +1,8 @@
 {
   "slug": "me-robocoo.1nyyx",
   "title": "Me \u0026 Roboco",
-  "cover": "https://static.mfcdn.nl/46cf/i/5/52/52f7702710ec0ae9635a87f97266ef61@100.jpg",
-  "description": "Me \u0026 Roboco manga, read all chapters here, the latest chapter 282 is available. Read Me \u0026 Roboco raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a4ef/i/d/d7/d7b8aafa0185cd88eb4200f9f9afaea2@100.jpg",
+  "description": "Me \u0026 Roboco manga, read all chapters here, the latest chapter 283 is available. Read Me \u0026 Roboco raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "283",
+      "title": "Vol 28 -  Chap 283",
+      "url": "https://mangafire.to/read/me-robocoo.1nyyx/en/chapter-283"
+    },
     {
       "number": "282",
       "title": "Vol 28 -  Chap 282",
@@ -1469,5 +1474,5 @@
       "url": "https://mangafire.to/read/me-robocoo.1nyyx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T08:59:33Z"
+  "fetched_at": "2026-06-01T09:53:51Z"
 }

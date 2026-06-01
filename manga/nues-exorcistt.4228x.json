@@ -1,8 +1,8 @@
 {
   "slug": "nues-exorcistt.4228x",
   "title": "Nue's Exorcist",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Nue's Exorcist manga, read all chapters here, the latest chapter 146 is available. Read Nue's Exorcist raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Nue's Exorcist manga, read all chapters here, the latest chapter 147 is available. Read Nue's Exorcist raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "147",
+      "title": "Vol 13 -  Chap 147",
+      "url": "https://mangafire.to/read/nues-exorcistt.4228x/en/chapter-147"
+    },
     {
       "number": "146",
       "title": "Vol 13 -  Chap 146",
@@ -782,5 +787,5 @@
       "url": "https://mangafire.to/read/nues-exorcistt.4228x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T08:59:34Z"
+  "fetched_at": "2026-06-01T09:53:51Z"
 }

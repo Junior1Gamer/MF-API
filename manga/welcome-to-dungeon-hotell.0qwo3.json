@@ -1,8 +1,8 @@
 {
   "slug": "welcome-to-dungeon-hotell.0qwo3",
   "title": "Welcome to Dungeon Hotel",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Welcome to Dungeon Hotel manga, read all chapters here, the latest chapter 89 is available. Read Welcome to Dungeon Hotel raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Welcome to Dungeon Hotel manga, read all chapters here, the latest chapter 90 is available. Read Welcome to Dungeon Hotel raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "90",
+      "title": "Chap 90",
+      "url": "https://mangafire.to/read/welcome-to-dungeon-hotell.0qwo3/en/chapter-90"
+    },
     {
       "number": "89",
       "title": "Chap 89",
@@ -498,5 +503,5 @@
       "url": "https://mangafire.to/read/welcome-to-dungeon-hotell.0qwo3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:00:54Z"
+  "fetched_at": "2026-06-01T09:55:28Z"
 }

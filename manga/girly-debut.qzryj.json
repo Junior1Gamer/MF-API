@@ -1,8 +1,8 @@
 {
   "slug": "girly-debut.qzryj",
   "title": "Girly Debut",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Girly Debut manga, read all chapters here, the latest chapter 1 is available. Read Girly Debut raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Girly Debut manga, read all chapters here, the latest chapter 2 is available. Read Girly Debut raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,10 +52,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/girly-debut.qzryj/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/girly-debut.qzryj/es-la/chapter-1"
+      "url": "https://mangafire.to/read/girly-debut.qzryj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:08:46Z"
+  "fetched_at": "2026-06-01T09:53:40Z"
 }

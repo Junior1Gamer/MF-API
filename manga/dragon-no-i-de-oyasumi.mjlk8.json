@@ -1,8 +1,8 @@
 {
   "slug": "dragon-no-i-de-oyasumi.mjlk8",
   "title": "Dragon no I de Oyasumi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Dragon no I de Oyasumi manga, read all chapters here, the latest chapter 13 is available. Read Dragon no I de Oyasumi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Dragon no I de Oyasumi manga, read all chapters here, the latest chapter 14 is available. Read Dragon no I de Oyasumi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "14",
+      "title": "Vol 0 -  Chap 14",
+      "url": "https://mangafire.to/read/dragon-no-i-de-oyasumi.mjlk8/en/chapter-14"
+    },
     {
       "number": "13",
       "title": "Vol 0 -  Chap 13",
@@ -131,5 +136,5 @@
       "url": "https://mangafire.to/read/dragon-no-i-de-oyasumi.mjlk8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T08:58:56Z"
+  "fetched_at": "2026-06-01T09:53:16Z"
 }

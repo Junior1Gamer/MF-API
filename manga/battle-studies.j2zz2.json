@@ -1,8 +1,8 @@
 {
   "slug": "battle-studies.j2zz2",
   "title": "Battle Studies",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Battle Studies manga, read all chapters here, the latest chapter 501 is available. Read Battle Studies raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Battle Studies manga, read all chapters here, the latest chapter 502 is available. Read Battle Studies raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "502",
+      "title": "Vol 0 -  Chap 502",
+      "url": "https://mangafire.to/read/battle-studies.j2zz2/en/chapter-502"
+    },
     {
       "number": "501",
       "title": "Vol 48 -  Chap 501",
@@ -2767,5 +2772,5 @@
       "url": "https://mangafire.to/read/battle-studies.j2zz2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:02:26Z"
+  "fetched_at": "2026-06-01T09:56:13Z"
 }

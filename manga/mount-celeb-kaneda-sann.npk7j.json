@@ -1,8 +1,8 @@
 {
   "slug": "mount-celeb-kaneda-sann.npk7j",
   "title": "Mount Celeb Kaneda-san",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Mount Celeb Kaneda-san manga, read all chapters here, the latest chapter 156 is available. Read Mount Celeb Kaneda-san raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Mount Celeb Kaneda-san manga, read all chapters here, the latest chapter 157 is available. Read Mount Celeb Kaneda-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "157",
+      "title": "Vol 0 -  Chap 157",
+      "url": "https://mangafire.to/read/mount-celeb-kaneda-sann.npk7j/en/chapter-157"
+    },
     {
       "number": "156",
       "title": "Vol 3 -  Chap 156",
@@ -898,5 +903,5 @@
       "url": "https://mangafire.to/read/mount-celeb-kaneda-sann.npk7j/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:15:08Z"
+  "fetched_at": "2026-06-01T09:54:52Z"
 }

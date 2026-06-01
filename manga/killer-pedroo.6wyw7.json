@@ -1,8 +1,8 @@
 {
   "slug": "killer-pedroo.6wyw7",
   "title": "Killer Pedro",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Killer Pedro manga, read all chapters here, the latest chapter 132 is available. Read Killer Pedro raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Killer Pedro manga, read all chapters here, the latest chapter 133 is available. Read Killer Pedro raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "133",
+      "title": "Chap 133",
+      "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-133"
+    },
     {
       "number": "132",
       "title": "Chap 132",
@@ -766,5 +771,5 @@
       "url": "https://mangafire.to/read/killer-pedroo.6wyw7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T08:59:15Z"
+  "fetched_at": "2026-06-01T09:54:06Z"
 }

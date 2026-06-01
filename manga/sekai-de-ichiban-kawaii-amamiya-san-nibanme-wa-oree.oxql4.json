@@ -1,8 +1,8 @@
 {
   "slug": "sekai-de-ichiban-kawaii-amamiya-san-nibanme-wa-oree.oxql4",
   "title": "Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore.",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. manga, read all chapters here, the latest chapter 14 is available. Read Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. manga, read all chapters here, the latest chapter 15 is available. Read Sekai de Ichiban “Kawaii” Amamiya-san, Nibanme wa Ore. raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Vol 3 -  Chap 15",
+      "url": "https://mangafire.to/read/sekai-de-ichiban-kawaii-amamiya-san-nibanme-wa-oree.oxql4/en/chapter-15"
+    },
     {
       "number": "14",
       "title": "Vol 3 -  Chap 14",
@@ -141,5 +146,5 @@
       "url": "https://mangafire.to/read/sekai-de-ichiban-kawaii-amamiya-san-nibanme-wa-oree.oxql4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:17:02Z"
+  "fetched_at": "2026-06-01T09:55:04Z"
 }

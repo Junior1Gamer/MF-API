@@ -2,7 +2,7 @@
   "slug": "yomi-no-tsugaii.woz86",
   "title": "Daemons of the Shadow Realm",
   "cover": "https://static.mfcdn.nl/b6b6/i/4/4c/4c65bcc411bb5d2037de83c579e0dc37@100.jpg",
-  "description": "Daemons of the Shadow Realm manga, read all chapters here, the latest chapter 52 is available. Read Daemons of the Shadow Realm raw, multiple language. READ NOW!!",
+  "description": "Daemons of the Shadow Realm manga, read all chapters here, the latest chapter 53 is available. Read Daemons of the Shadow Realm raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "53",
+      "title": "Vol 0 -  Chap 53",
+      "url": "https://mangafire.to/read/yomi-no-tsugaii.woz86/en/chapter-53"
+    },
     {
       "number": "52",
       "title": "Vol 0 -  Chap 52",
@@ -675,5 +680,5 @@
       "url": "https://mangafire.to/read/yomi-no-tsugaii.woz86/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:15:14Z"
+  "fetched_at": "2026-06-01T09:56:27Z"
 }

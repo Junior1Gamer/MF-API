@@ -1,8 +1,8 @@
 {
   "slug": "yu-gi-oh-ocg-structuress.xrpk8",
   "title": "Yu-Gi-Oh! OCG Structures",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Yu-Gi-Oh! OCG Structures manga, read all chapters here, the latest chapter 83 is available. Read Yu-Gi-Oh! OCG Structures raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Yu-Gi-Oh! OCG Structures manga, read all chapters here, the latest chapter 84 is available. Read Yu-Gi-Oh! OCG Structures raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "84",
+      "title": "Vol 0 -  Chap 84",
+      "url": "https://mangafire.to/read/yu-gi-oh-ocg-structuress.xrpk8/en/chapter-84"
+    },
     {
       "number": "83",
       "title": "Vol 10 -  Chap 83",
@@ -115,6 +120,11 @@
       "number": "71",
       "title": "Vol 10 -  Chap 71",
       "url": "https://mangafire.to/read/yu-gi-oh-ocg-structuress.xrpk8/en/chapter-71"
+    },
+    {
+      "number": "70",
+      "title": "Vol 10 -  Chap 70",
+      "url": "https://mangafire.to/read/yu-gi-oh-ocg-structuress.xrpk8/en/chapter-70"
     },
     {
       "number": "69",
@@ -472,5 +482,5 @@
       "url": "https://mangafire.to/read/yu-gi-oh-ocg-structuress.xrpk8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:14:35Z"
+  "fetched_at": "2026-06-01T09:55:33Z"
 }

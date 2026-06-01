@@ -1,8 +1,8 @@
 {
   "slug": "bad-girll.jo9y",
   "title": "Bad Girl",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Bad Girl manga, read all chapters here, the latest chapter 44.5 is available. Read Bad Girl raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Bad Girl manga, read all chapters here, the latest chapter 44.7 is available. Read Bad Girl raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "44.7",
+      "title": "Vol 4 -  Chap 44.7",
+      "url": "https://mangafire.to/read/bad-girll.jo9y/en/chapter-44.7"
+    },
+    {
+      "number": "44.6",
+      "title": "Vol 4 -  Chap 44.6",
+      "url": "https://mangafire.to/read/bad-girll.jo9y/en/chapter-44.6"
+    },
     {
       "number": "44.5",
       "title": "Vol 4 -  Chap 44.5",
@@ -462,5 +472,5 @@
       "url": "https://mangafire.to/read/bad-girll.jo9y/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:04:45Z"
+  "fetched_at": "2026-06-01T09:55:34Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "tomorrow-llamaa.1ro2w",
   "title": "Tomorrow (Llama)",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Tomorrow (Llama) manga, read all chapters here, the latest chapter 239 is available. Read Tomorrow (Llama) raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Tomorrow (Llama) manga, read all chapters here, the latest chapter 240 is available. Read Tomorrow (Llama) raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "240",
+      "title": "Chap 240",
+      "url": "https://mangafire.to/read/tomorrow-llamaa.1ro2w/en/chapter-240"
+    },
     {
       "number": "239",
       "title": "Chap 239",
@@ -1248,5 +1253,5 @@
       "url": "https://mangafire.to/read/tomorrow-llamaa.1ro2w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:00:39Z"
+  "fetched_at": "2026-06-01T09:54:55Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "nezumi-no-hatsukoii.6w4j7",
   "title": "Nezumi's First Love",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Nezumi's First Love manga, read all chapters here, the latest chapter 105 is available. Read Nezumi's First Love raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Nezumi's First Love manga, read all chapters here, the latest chapter 106 is available. Read Nezumi's First Love raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "106",
+      "title": "Vol 0 -  Chap 106",
+      "url": "https://mangafire.to/read/nezumi-no-hatsukoii.6w4j7/en/chapter-106"
+    },
     {
       "number": "105",
       "title": "Vol 0 -  Chap 105",
@@ -582,5 +587,5 @@
       "url": "https://mangafire.to/read/nezumi-no-hatsukoii.6w4j7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:04:30Z"
+  "fetched_at": "2026-06-01T09:54:57Z"
 }

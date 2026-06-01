@@ -1,8 +1,8 @@
 {
   "slug": "youth-blossoms.roqxn",
   "title": "Youth Blossoms",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Youth Blossoms manga, read all chapters here, the latest chapter 27 is available. Read Youth Blossoms raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Youth Blossoms manga, read all chapters here, the latest chapter 28 is available. Read Youth Blossoms raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "28",
+      "title": "Chap 28",
+      "url": "https://mangafire.to/read/youth-blossoms.roqxn/en/chapter-28"
+    },
     {
       "number": "27",
       "title": "Chap 27",
@@ -189,5 +194,5 @@
       "url": "https://mangafire.to/read/youth-blossoms.roqxn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:01:26Z"
+  "fetched_at": "2026-06-01T09:55:38Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "wang-zha.ol338",
   "title": "Wang Zha",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Wang Zha manga, read all chapters here, the latest chapter 37 is available. Read Wang Zha raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Wang Zha manga, read all chapters here, the latest chapter 38 is available. Read Wang Zha raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/wang-zha.ol338/en/chapter-38"
+    },
     {
       "number": "37",
       "title": "Chap 37",
@@ -243,5 +248,5 @@
       "url": "https://mangafire.to/read/wang-zha.ol338/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:01:04Z"
+  "fetched_at": "2026-06-01T09:55:17Z"
 }

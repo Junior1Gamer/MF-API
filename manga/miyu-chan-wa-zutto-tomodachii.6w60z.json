@@ -1,8 +1,8 @@
 {
   "slug": "miyu-chan-wa-zutto-tomodachii.6w60z",
   "title": "Miyu-chan wa Zutto Tomodachi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Miyu-chan wa Zutto Tomodachi manga, read all chapters here, the latest chapter 38 is available. Read Miyu-chan wa Zutto Tomodachi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Miyu-chan wa Zutto Tomodachi manga, read all chapters here, the latest chapter 39 is available. Read Miyu-chan wa Zutto Tomodachi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Vol 0 -  Chap 39",
+      "url": "https://mangafire.to/read/miyu-chan-wa-zutto-tomodachii.6w60z/en/chapter-39"
+    },
     {
       "number": "38",
       "title": "Vol 4 -  Chap 38",
@@ -250,5 +255,5 @@
       "url": "https://mangafire.to/read/miyu-chan-wa-zutto-tomodachii.6w60z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:12:17Z"
+  "fetched_at": "2026-06-01T09:53:17Z"
 }

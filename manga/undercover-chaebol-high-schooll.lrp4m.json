@@ -1,8 +1,8 @@
 {
   "slug": "undercover-chaebol-high-schooll.lrp4m",
   "title": "Undercover! Chaebol High School",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Undercover! Chaebol High School manga, read all chapters here, the latest chapter 102 is available. Read Undercover! Chaebol High School raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Undercover! Chaebol High School manga, read all chapters here, the latest chapter 103 is available. Read Undercover! Chaebol High School raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Josei"
   ],
   "chapters": [
+    {
+      "number": "103",
+      "title": "Chap 103",
+      "url": "https://mangafire.to/read/undercover-chaebol-high-schooll.lrp4m/en/chapter-103"
+    },
     {
       "number": "102",
       "title": "Chap 102",
@@ -596,5 +601,5 @@
       "url": "https://mangafire.to/read/undercover-chaebol-high-schooll.lrp4m/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-25T09:00:07Z"
+  "fetched_at": "2026-06-01T09:54:15Z"
 }

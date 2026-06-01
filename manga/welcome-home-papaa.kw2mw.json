@@ -1,8 +1,8 @@
 {
   "slug": "welcome-home-papaa.kw2mw",
   "title": "Welcome Home, Papa",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Welcome Home, Papa manga, read all chapters here, the latest chapter 35 is available. Read Welcome Home, Papa raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Welcome Home, Papa manga, read all chapters here, the latest chapter 36 is available. Read Welcome Home, Papa raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Vol 0 -  Chap 36",
+      "url": "https://mangafire.to/read/welcome-home-papaa.kw2mw/en/chapter-36"
+    },
     {
       "number": "35",
       "title": "Vol 3 -  Chap 35",
@@ -293,5 +298,5 @@
       "url": "https://mangafire.to/read/welcome-home-papaa.kw2mw/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:15:32Z"
+  "fetched_at": "2026-06-01T09:56:47Z"
 }

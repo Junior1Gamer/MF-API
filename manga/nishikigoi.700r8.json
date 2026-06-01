@@ -1,8 +1,8 @@
 {
   "slug": "nishikigoi.700r8",
   "title": "Nishikigoi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Nishikigoi manga, read all chapters here, the latest chapter 5 is available. Read Nishikigoi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Nishikigoi manga, read all chapters here, the latest chapter 6 is available. Read Nishikigoi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Chap 6",
+      "url": "https://mangafire.to/read/nishikigoi.700r8/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Chap 5",
       "url": "https://mangafire.to/read/nishikigoi.700r8/en/chapter-5"
@@ -78,5 +83,5 @@
       "url": "https://mangafire.to/read/nishikigoi.700r8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:13:45Z"
+  "fetched_at": "2026-06-01T09:57:21Z"
 }

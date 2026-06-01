@@ -1,8 +1,8 @@
 {
   "slug": "bouryoku-banzai.82043",
   "title": "Bouryoku Banzai",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Bouryoku Banzai manga, read all chapters here, the latest chapter 55 is available. Read Bouryoku Banzai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Bouryoku Banzai manga, read all chapters here, the latest chapter 56 is available. Read Bouryoku Banzai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "56",
+      "title": "Vol 0 -  Chap 56",
+      "url": "https://mangafire.to/read/bouryoku-banzai.82043/en/chapter-56"
+    },
     {
       "number": "55",
       "title": "Vol 5 -  Chap 55",
@@ -337,5 +342,5 @@
       "url": "https://mangafire.to/read/bouryoku-banzai.82043/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:05:37Z"
+  "fetched_at": "2026-06-01T09:57:18Z"
 }

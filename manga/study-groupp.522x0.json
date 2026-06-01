@@ -1,8 +1,8 @@
 {
   "slug": "study-groupp.522x0",
   "title": "Study Group",
-  "cover": "https://static.mfcdn.nl/4892/i/6/64/6419a7439322fba7e9252a38cfb6fa63@100.jpg",
-  "description": "Study Group manga, read all chapters here, the latest chapter 321 is available. Read Study Group raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/fe12/i/3/3b/3b77627da8b70572560c064cea637733@100.jpg",
+  "description": "Study Group manga, read all chapters here, the latest chapter 322 is available. Read Study Group raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "322",
+      "title": "Chap 322",
+      "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-322"
+    },
     {
       "number": "321",
       "title": "Chap 321",
@@ -1823,5 +1828,5 @@
       "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:00:28Z"
+  "fetched_at": "2026-06-01T09:54:51Z"
 }

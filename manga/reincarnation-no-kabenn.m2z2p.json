@@ -1,8 +1,8 @@
 {
   "slug": "reincarnation-no-kabenn.m2z2p",
   "title": "Petals of Reincarnation",
-  "cover": "https://static.mfcdn.nl/f3a7/i/b/b2/b2a78ea42a2569a51d9e9136a35c3827@100.jpg",
-  "description": "Petals of Reincarnation manga, read all chapters here, the latest chapter 120 is available. Read Petals of Reincarnation raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ca9c/i/c/ce/cef5409d15bb4e04d583ac828f040911@100.jpg",
+  "description": "Petals of Reincarnation manga, read all chapters here, the latest chapter 121 is available. Read Petals of Reincarnation raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Vol 24 -  Chap 121",
+      "url": "https://mangafire.to/read/reincarnation-no-kabenn.m2z2p/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Vol 24 -  Chap 120",
@@ -770,5 +775,5 @@
       "url": "https://mangafire.to/read/reincarnation-no-kabenn.m2z2p/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-05-25T09:12:53Z"
+  "fetched_at": "2026-06-01T09:54:43Z"
 }

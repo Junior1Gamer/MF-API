@@ -1,8 +1,8 @@
 {
   "slug": "lostendd.4240k",
   "title": "LOSTEND",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "LOSTEND manga, read all chapters here, the latest chapter 107 is available. Read LOSTEND raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "LOSTEND manga, read all chapters here, the latest chapter 108 is available. Read LOSTEND raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Horror"
   ],
   "chapters": [
+    {
+      "number": "108",
+      "title": "Vol 0 -  Chap 108",
+      "url": "https://mangafire.to/read/lostendd.4240k/en/chapter-108"
+    },
     {
       "number": "107",
       "title": "Vol 0 -  Chap 107",
@@ -590,5 +595,5 @@
       "url": "https://mangafire.to/read/lostendd.4240k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:00:32Z"
+  "fetched_at": "2026-06-01T09:54:45Z"
 }

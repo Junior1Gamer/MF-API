@@ -1,8 +1,8 @@
 {
   "slug": "alien-headbutt2.lxkj6",
   "title": "Alien Headbutt",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Alien Headbutt manga, read all chapters here, the latest chapter 15 is available. Read Alien Headbutt raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Alien Headbutt manga, read all chapters here, the latest chapter 16 is available. Read Alien Headbutt raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Vol 2 -  Chap 16",
+      "url": "https://mangafire.to/read/alien-headbutt2.lxkj6/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Vol 2 -  Chap 15",
@@ -117,15 +122,10 @@
       "url": "https://mangafire.to/read/alien-headbutt2.lxkj6/en/chapter-3"
     },
     {
-      "number": "2",
-      "title": "Vol 1 -  Chap 2",
-      "url": "https://mangafire.to/read/alien-headbutt2.lxkj6/en/chapter-2"
-    },
-    {
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/alien-headbutt2.lxkj6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T08:59:37Z"
+  "fetched_at": "2026-06-01T09:53:55Z"
 }

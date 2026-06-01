@@ -1,8 +1,8 @@
 {
   "slug": "kingdomm.w1qk",
   "title": "Kingdom",
-  "cover": "https://static.mfcdn.nl/04ab/i/0/05/0521545733012f45ed4905cb266f35df@100.jpg",
-  "description": "Kingdom manga, read all chapters here, the latest chapter 875 is available. Read Kingdom raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ae96/i/0/c2/14b343687dca9ebf1e52d99e73f517e5@100.jpg",
+  "description": "Kingdom manga, read all chapters here, the latest chapter 876 is available. Read Kingdom raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "876",
+      "title": "Vol 0 -  Chap 876",
+      "url": "https://mangafire.to/read/kingdomm.w1qk/en/chapter-876"
+    },
     {
       "number": "875",
       "title": "Vol 0 -  Chap 875",
@@ -4592,7 +4597,12 @@
       "number": "0.1",
       "title": "Vol 0 -  Chap 0.1",
       "url": "https://mangafire.to/read/kingdomm.w1qk/en/chapter-0.1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 6 -  Chap 0",
+      "url": "https://mangafire.to/read/kingdomm.w1qk/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-25T09:06:29Z"
+  "fetched_at": "2026-06-01T09:57:27Z"
 }

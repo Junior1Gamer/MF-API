@@ -1,8 +1,8 @@
 {
   "slug": "dead-accountt.ppr0j",
   "title": "Dead Account",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Dead Account manga, read all chapters here, the latest chapter 136 is available. Read Dead Account raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
+  "description": "Dead Account manga, read all chapters here, the latest chapter 138 is available. Read Dead Account raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "138",
+      "title": "Vol 0 -  Chap 138",
+      "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-138"
+    },
+    {
+      "number": "137",
+      "title": "Vol 0 -  Chap 137",
+      "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-137"
+    },
     {
       "number": "136",
       "title": "Vol 8 -  Chap 136",
@@ -111,11 +121,6 @@
       "number": "125.5",
       "title": "Vol 8 -  Chap 125.5",
       "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-125.5"
-    },
-    {
-      "number": "125.2",
-      "title": "Vol 8 -  Chap 125.2",
-      "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-125.2"
     },
     {
       "number": "125.1",
@@ -748,5 +753,5 @@
       "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:05:43Z"
+  "fetched_at": "2026-06-01T09:55:13Z"
 }

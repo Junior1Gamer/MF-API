@@ -1,8 +1,8 @@
 {
   "slug": "ruhai.qzpow",
   "title": "Ruhai",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Ruhai manga, read all chapters here, the latest chapter 7 is available. Read Ruhai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Ruhai manga, read all chapters here, the latest chapter 8 is available. Read Ruhai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "8",
+      "title": "Chap 8",
+      "url": "https://mangafire.to/read/ruhai.qzpow/en/chapter-8"
+    },
+    {
       "number": "7",
       "title": "Chap 7",
       "url": "https://mangafire.to/read/ruhai.qzpow/en/chapter-7"
@@ -87,5 +92,5 @@
       "url": "https://mangafire.to/read/ruhai.qzpow/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:07:53Z"
+  "fetched_at": "2026-06-01T09:57:23Z"
 }

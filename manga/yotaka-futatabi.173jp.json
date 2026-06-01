@@ -1,8 +1,8 @@
 {
   "slug": "yotaka-futatabi.173jp",
   "title": "Yotaka Futatabi",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Yotaka Futatabi manga, read all chapters here, the latest chapter 19 is available. Read Yotaka Futatabi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
+  "description": "Yotaka Futatabi manga, read all chapters here, the latest chapter 20 is available. Read Yotaka Futatabi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "20",
+      "title": "Vol 0 -  Chap 20",
+      "url": "https://mangafire.to/read/yotaka-futatabi.173jp/en/chapter-20"
+    },
     {
       "number": "19",
       "title": "Vol 2 -  Chap 19",
@@ -152,5 +157,5 @@
       "url": "https://mangafire.to/read/yotaka-futatabi.173jp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-25T09:02:29Z"
+  "fetched_at": "2026-06-01T09:56:14Z"
 }
