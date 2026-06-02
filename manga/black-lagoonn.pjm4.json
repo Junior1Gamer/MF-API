@@ -1,8 +1,8 @@
 {
   "slug": "black-lagoonn.pjm4",
   "title": "Black Lagoon",
-  "cover": "https://static.mfcdn.nl/80c6/i/0/01/015405f7f94a938c30282fe73eedc8e2@100.jpg",
-  "description": "Black Lagoon manga, read all chapters here, the latest chapter 122 is available. Read Black Lagoon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6c30/i/5/5d/5d6a1a801fa469144301adce5cd38b43@100.jpg",
+  "description": "Black Lagoon manga, read all chapters here, the latest chapter 120 is available. Read Black Lagoon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,16 +55,6 @@
   ],
   "chapters": [
     {
-      "number": "122",
-      "title": "Vol 0 -  Chap 122",
-      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-122"
-    },
-    {
-      "number": "121",
-      "title": "Vol 0 -  Chap 121",
-      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-121"
-    },
-    {
       "number": "120",
       "title": "Vol 14 -  Chap 120",
       "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-120"
@@ -93,21 +83,6 @@
       "number": "115",
       "title": "Vol 14 -  Chap 115",
       "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-115"
-    },
-    {
-      "number": "114",
-      "title": "Vol 0 -  Chap 114",
-      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-114"
-    },
-    {
-      "number": "113",
-      "title": "Vol 0 -  Chap 113",
-      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-113"
-    },
-    {
-      "number": "112",
-      "title": "Vol 0 -  Chap 112",
-      "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-112"
     },
     {
       "number": "111",
@@ -785,5 +760,5 @@
       "url": "https://mangafire.to/read/black-lagoonn.pjm4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-26T08:17:58Z"
+  "fetched_at": "2026-06-02T09:06:15Z"
 }

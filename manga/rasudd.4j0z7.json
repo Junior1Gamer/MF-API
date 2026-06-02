@@ -2,7 +2,7 @@
   "slug": "rasudd.4j0z7",
   "title": "Rasud (Colored)",
   "cover": "https://static.mfcdn.nl/3ea3/i/f/f3/f3e29956b5759e7d588454f247e8cfce@100.jpg",
-  "description": "Rasud manga, read all chapters here, the latest chapter 62 is available. Read Rasud raw, multiple language. READ NOW!!",
+  "description": "Rasud manga, read all chapters here, the latest chapter 63 is available. Read Rasud raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "63",
+      "title": "Vol 0 -  Chap 63",
+      "url": "https://mangafire.to/read/rasudd.4j0z7/en/chapter-63"
+    },
     {
       "number": "62",
       "title": "Vol 0 -  Chap 62",
@@ -349,5 +354,5 @@
       "url": "https://mangafire.to/read/rasudd.4j0z7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-26T08:17:48Z"
+  "fetched_at": "2026-06-02T09:05:43Z"
 }
