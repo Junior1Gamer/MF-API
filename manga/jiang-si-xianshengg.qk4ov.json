@@ -1,8 +1,8 @@
 {
   "slug": "jiang-si-xianshengg.qk4ov",
   "title": "Mr. Zombie",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Mr. Zombie manga, read all chapters here, the latest chapter 185 is available. Read Mr. Zombie raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Mr. Zombie manga, read all chapters here, the latest chapter 190 is available. Read Mr. Zombie raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "190",
+      "title": "Chap 190",
+      "url": "https://mangafire.to/read/jiang-si-xianshengg.qk4ov/en/chapter-190"
+    },
     {
       "number": "185",
       "title": "Chap 185",
@@ -991,5 +996,5 @@
       "url": "https://mangafire.to/read/jiang-si-xianshengg.qk4ov/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-27T08:43:39Z"
+  "fetched_at": "2026-06-03T09:24:55Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "himekishi-ga-classmatee.jvwv4",
   "title": "Himekishi ga Classmate!",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Himekishi ga Classmate! manga, read all chapters here, the latest chapter 76 is available. Read Himekishi ga Classmate! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
+  "description": "Himekishi ga Classmate! manga, read all chapters here, the latest chapter 77 is available. Read Himekishi ga Classmate! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "77",
+      "title": "Vol 0 -  Chap 77",
+      "url": "https://mangafire.to/read/himekishi-ga-classmatee.jvwv4/en/chapter-77"
+    },
     {
       "number": "76",
       "title": "Vol 9 -  Chap 76",
@@ -439,5 +444,5 @@
       "url": "https://mangafire.to/read/himekishi-ga-classmatee.jvwv4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-27T09:16:02Z"
+  "fetched_at": "2026-06-03T09:25:09Z"
 }

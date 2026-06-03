@@ -1,8 +1,8 @@
 {
   "slug": "persephonia.j213n",
   "title": "Persephonia",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Persephonia manga, read all chapters here, the latest chapter 23 is available. Read Persephonia raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Persephonia manga, read all chapters here, the latest chapter 26 is available. Read Persephonia raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Vampire"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Vol 0 -  Chap 26",
+      "url": "https://mangafire.to/read/persephonia.j213n/en/chapter-26"
+    },
+    {
+      "number": "25",
+      "title": "Vol 0 -  Chap 25",
+      "url": "https://mangafire.to/read/persephonia.j213n/en/chapter-25"
+    },
+    {
+      "number": "24",
+      "title": "Vol 0 -  Chap 24",
+      "url": "https://mangafire.to/read/persephonia.j213n/en/chapter-24"
+    },
     {
       "number": "23",
       "title": "Vol 2 -  Chap 23",
@@ -182,5 +197,5 @@
       "url": "https://mangafire.to/read/persephonia.j213n/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-27T08:44:17Z"
+  "fetched_at": "2026-06-03T09:26:07Z"
 }

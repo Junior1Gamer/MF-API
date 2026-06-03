@@ -1,8 +1,8 @@
 {
   "slug": "birds-junkiess.rlxqm",
   "title": "Birds Junkies",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Birds Junkies manga, read all chapters here, the latest chapter 7 is available. Read Birds Junkies raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Birds Junkies manga, read all chapters here, the latest chapter 10 is available. Read Birds Junkies raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,21 @@
   ],
   "chapters": [
     {
+      "number": "10",
+      "title": "Chap 10",
+      "url": "https://mangafire.to/read/birds-junkiess.rlxqm/en/chapter-10"
+    },
+    {
+      "number": "9",
+      "title": "Chap 9",
+      "url": "https://mangafire.to/read/birds-junkiess.rlxqm/en/chapter-9"
+    },
+    {
+      "number": "8",
+      "title": "Chap 8",
+      "url": "https://mangafire.to/read/birds-junkiess.rlxqm/en/chapter-8"
+    },
+    {
       "number": "7",
       "title": "Chap 7",
       "url": "https://mangafire.to/read/birds-junkiess.rlxqm/en/chapter-7"
@@ -88,5 +103,5 @@
       "url": "https://mangafire.to/read/birds-junkiess.rlxqm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-27T08:45:51Z"
+  "fetched_at": "2026-06-03T09:26:07Z"
 }

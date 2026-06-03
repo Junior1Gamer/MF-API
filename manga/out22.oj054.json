@@ -1,8 +1,8 @@
 {
   "slug": "out22.oj054",
   "title": "Out",
-  "cover": "https://static.mfcdn.nl/2b8b/i/5/54/54e3cfe7aaa55f529160a43dd0d46936@100.jpg",
-  "description": "Out manga, read all chapters here, the latest chapter 270 is available. Read Out raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ffab/i/e/e8/e8e5df8ed9653c86ac1e8e21fd4c6f83@100.jpg",
+  "description": "Out manga, read all chapters here, the latest chapter 271 is available. Read Out raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "271",
+      "title": "Vol 30 -  Chap 271",
+      "url": "https://mangafire.to/read/out22.oj054/en/chapter-271"
+    },
     {
       "number": "270",
       "title": "Vol 30 -  Chap 270",
@@ -1401,7 +1406,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/out22.oj054/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 1 -  Chap 0",
+      "url": "https://mangafire.to/read/out22.oj054/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-27T08:34:25Z"
+  "fetched_at": "2026-06-03T09:25:37Z"
 }
