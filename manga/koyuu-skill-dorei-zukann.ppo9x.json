@@ -1,8 +1,8 @@
 {
   "slug": "koyuu-skill-dorei-zukann.ppo9x",
   "title": "Koyuu Skill \"Dorei Zukan\"",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Koyuu Skill \"Dorei Zukan\" manga, read all chapters here, the latest chapter 12 is available. Read Koyuu Skill \"Dorei Zukan\" raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
+  "description": "Koyuu Skill \"Dorei Zukan\" manga, read all chapters here, the latest chapter 13 is available. Read Koyuu Skill \"Dorei Zukan\" raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "13",
+      "title": "Vol 2 -  Chap 13",
+      "url": "https://mangafire.to/read/koyuu-skill-dorei-zukann.ppo9x/en/chapter-13"
+    },
     {
       "number": "12",
       "title": "Vol 2 -  Chap 12",
@@ -111,5 +116,5 @@
       "url": "https://mangafire.to/read/koyuu-skill-dorei-zukann.ppo9x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-27T09:39:47Z"
+  "fetched_at": "2026-06-04T08:53:57Z"
 }

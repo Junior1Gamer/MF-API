@@ -2,7 +2,7 @@
   "slug": "blesss.vvr64",
   "title": "Bless",
   "cover": "https://static.mfcdn.nl/44af/i/4/44/4429d34edce792f7cb156707f91421f2@100.jpg",
-  "description": "Bless manga, read all chapters here, the latest chapter 30 is available. Read Bless raw, multiple language. READ NOW!!",
+  "description": "Bless manga, read all chapters here, the latest chapter 31 is available. Read Bless raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "31",
+      "title": "Vol 0 -  Chap 31",
+      "url": "https://mangafire.to/read/blesss.vvr64/en/chapter-31"
+    },
     {
       "number": "30",
       "title": "Vol 6 -  Chap 30",
@@ -226,5 +231,5 @@
       "url": "https://mangafire.to/read/blesss.vvr64/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-27T09:32:12Z"
+  "fetched_at": "2026-06-04T08:54:11Z"
 }

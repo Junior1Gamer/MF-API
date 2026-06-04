@@ -1,9 +1,9 @@
 {
   "slug": "koiseyo-kimono-otome.qzlqj",
   "title": "Koiseyo Kimono Otome",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
+  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
   "description": "Koiseyo Kimono Otome manga, read all chapters here, the latest chapter 77 is available. Read Koiseyo Kimono Otome raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -51,6 +51,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Vol 7 -  Chap 42",
+      "url": "https://mangafire.to/read/koiseyo-kimono-otome.qzlqj/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Vol 7 -  Chap 41",
@@ -282,5 +287,5 @@
       "url": "https://mangafire.to/read/koiseyo-kimono-otome.qzlqj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-27T09:29:47Z"
+  "fetched_at": "2026-06-04T08:59:29Z"
 }
