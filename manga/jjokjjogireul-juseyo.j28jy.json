@@ -1,8 +1,8 @@
 {
   "slug": "jjokjjogireul-juseyo.j28jy",
   "title": "Gimme That Pacifier!",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Gimme That Pacifier! manga, read all chapters here, the latest chapter 131 is available. Read Gimme That Pacifier! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Gimme That Pacifier! manga, read all chapters here, the latest chapter 132 is available. Read Gimme That Pacifier! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "132",
+      "title": "Chap 132",
+      "url": "https://mangafire.to/read/jjokjjogireul-juseyo.j28jy/en/chapter-132"
+    },
     {
       "number": "131",
       "title": "Chap 131",
@@ -708,5 +713,5 @@
       "url": "https://mangafire.to/read/jjokjjogireul-juseyo.j28jy/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:38Z"
+  "fetched_at": "2026-06-06T07:44:21Z"
 }

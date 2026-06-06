@@ -1,8 +1,8 @@
 {
   "slug": "the-shepherd-wizard.mj5qp",
   "title": "The Shepherd Wizard",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "The Shepherd Wizard manga, read all chapters here, the latest chapter 21 is available. Read The Shepherd Wizard raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "The Shepherd Wizard manga, read all chapters here, the latest chapter 22 is available. Read The Shepherd Wizard raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "22",
+      "title": "Chap 22",
+      "url": "https://mangafire.to/read/the-shepherd-wizard.mj5qp/en/chapter-22"
+    },
     {
       "number": "21",
       "title": "Chap 21",
@@ -164,5 +169,5 @@
       "url": "https://mangafire.to/read/the-shepherd-wizard.mj5qp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:38:57Z"
+  "fetched_at": "2026-06-06T07:45:16Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "kuutei-dragonss.jvr8y",
   "title": "Drifting Dragons",
-  "cover": "https://static.mfcdn.nl/e906/i/4/4a/4ae804dbf464560f50a1e93323b42dc8@100.jpg",
-  "description": "Drifting Dragons manga, read all chapters here, the latest chapter 116 is available. Read Drifting Dragons raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2da2/i/5/5b/5b2383311b62fd259fc08bd9791533df@100.jpg",
+  "description": "Drifting Dragons manga, read all chapters here, the latest chapter 117 is available. Read Drifting Dragons raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "117",
+      "title": "Vol 0 -  Chap 117",
+      "url": "https://mangafire.to/read/kuutei-dragonss.jvr8y/en/chapter-117"
+    },
     {
       "number": "116",
       "title": "Vol 0 -  Chap 116",
@@ -648,5 +653,5 @@
       "url": "https://mangafire.to/read/kuutei-dragonss.jvr8y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:42:34Z"
+  "fetched_at": "2026-06-06T07:45:01Z"
 }

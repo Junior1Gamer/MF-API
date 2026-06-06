@@ -1,8 +1,8 @@
 {
   "slug": "okaeri-suiheisen.nkpln",
   "title": "Home at the Horizon",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Home at the Horizon manga, read all chapters here, the latest chapter 24.1 is available. Read Home at the Horizon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Home at the Horizon manga, read all chapters here, the latest chapter 25 is available. Read Home at the Horizon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,9 +51,19 @@
   ],
   "chapters": [
     {
+      "number": "25",
+      "title": "Vol 1 -  Chap 25",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-25"
+    },
+    {
       "number": "24.1",
       "title": "Vol 1 -  Chap 24.1",
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-24.1"
+    },
+    {
+      "number": "24",
+      "title": "Vol 1 -  Chap 24",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-24"
     },
     {
       "number": "23",
@@ -61,14 +71,49 @@
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-23"
     },
     {
+      "number": "22",
+      "title": "Vol 1 -  Chap 22",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-22"
+    },
+    {
       "number": "21.1",
       "title": "Vol 1 -  Chap 21.1",
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-21.1"
     },
     {
+      "number": "21",
+      "title": "Vol 1 -  Chap 21",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-21"
+    },
+    {
+      "number": "20",
+      "title": "Vol 1 -  Chap 20",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-20"
+    },
+    {
+      "number": "19",
+      "title": "Vol 1 -  Chap 19",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-19"
+    },
+    {
+      "number": "18",
+      "title": "Vol 1 -  Chap 18",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-18"
+    },
+    {
       "number": "17.1",
       "title": "Vol 1 -  Chap 17.1",
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-17.1"
+    },
+    {
+      "number": "17",
+      "title": "Vol 1 -  Chap 17",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-17"
+    },
+    {
+      "number": "16",
+      "title": "Vol 1 -  Chap 16",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-16"
     },
     {
       "number": "15",
@@ -186,5 +231,5 @@
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:41:34Z"
+  "fetched_at": "2026-06-06T07:45:30Z"
 }

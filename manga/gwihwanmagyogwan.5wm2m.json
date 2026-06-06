@@ -1,8 +1,8 @@
 {
   "slug": "gwihwanmagyogwan.5wm2m",
   "title": "Gwihwanmagyogwan",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Gwihwanmagyogwan manga, read all chapters here, the latest chapter 51 is available. Read Gwihwanmagyogwan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Gwihwanmagyogwan manga, read all chapters here, the latest chapter 52 is available. Read Gwihwanmagyogwan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "52",
+      "title": "Chap 52",
+      "url": "https://mangafire.to/read/gwihwanmagyogwan.5wm2m/en/chapter-52"
+    },
     {
       "number": "51",
       "title": "Chap 51",
@@ -307,5 +312,5 @@
       "url": "https://mangafire.to/read/gwihwanmagyogwan.5wm2m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:36Z"
+  "fetched_at": "2026-06-06T07:46:18Z"
 }

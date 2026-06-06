@@ -1,8 +1,8 @@
 {
   "slug": "dandadann.3r5x9",
   "title": "Dandadan",
-  "cover": "https://static.mfcdn.nl/b225/i/5/5c/5c597a622f9d0e05e162fdb49d7140b8@100.jpg",
-  "description": "Dandadan manga, read all chapters here, the latest chapter 234 is available. Read Dandadan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c057/i/c/c7/e988e486bb925872053f1ab8677ca026@100.jpg",
+  "description": "Dandadan manga, read all chapters here, the latest chapter 235 is available. Read Dandadan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,9 +58,19 @@
   ],
   "chapters": [
     {
+      "number": "235",
+      "title": "Vol 0 -  Chap 235",
+      "url": "https://mangafire.to/read/dandadann.3r5x9/en/chapter-235"
+    },
+    {
       "number": "234",
       "title": "Vol 25 -  Chap 234",
       "url": "https://mangafire.to/read/dandadann.3r5x9/en/chapter-234"
+    },
+    {
+      "number": "232",
+      "title": "Vol 0 -  Chap 232",
+      "url": "https://mangafire.to/read/dandadann.3r5x9/en/chapter-232"
     },
     {
       "number": "231",
@@ -1263,5 +1273,5 @@
       "url": "https://mangafire.to/read/dandadann.3r5x9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-30T07:40:23Z"
+  "fetched_at": "2026-06-06T07:46:01Z"
 }

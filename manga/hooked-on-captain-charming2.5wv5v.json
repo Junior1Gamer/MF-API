@@ -1,8 +1,8 @@
 {
   "slug": "hooked-on-captain-charming2.5wv5v",
   "title": "Hooked on Captain Charming",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Hooked on Captain Charming manga, read all chapters here, the latest chapter 55 is available. Read Hooked on Captain Charming raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Hooked on Captain Charming manga, read all chapters here, the latest chapter 56 is available. Read Hooked on Captain Charming raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "56",
+      "title": "Chap 56",
+      "url": "https://mangafire.to/read/hooked-on-captain-charming2.5wv5v/en/chapter-56"
+    },
     {
       "number": "55",
       "title": "Chap 55",
@@ -354,5 +359,5 @@
       "url": "https://mangafire.to/read/hooked-on-captain-charming2.5wv5v/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:48Z"
+  "fetched_at": "2026-06-06T07:44:46Z"
 }

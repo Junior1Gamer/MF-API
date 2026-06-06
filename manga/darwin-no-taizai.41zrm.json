@@ -1,8 +1,8 @@
 {
   "slug": "darwin-no-taizai.41zrm",
   "title": "Darwin's Deadly Sins",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Darwin's Deadly Sins manga, read all chapters here, the latest chapter 24 is available. Read Darwin's Deadly Sins raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Darwin's Deadly Sins manga, read all chapters here, the latest chapter 25 is available. Read Darwin's Deadly Sins raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "25",
+      "title": "Vol 3 -  Chap 25",
+      "url": "https://mangafire.to/read/darwin-no-taizai.41zrm/en/chapter-25"
+    },
     {
       "number": "24",
       "title": "Vol 3 -  Chap 24",
@@ -178,5 +183,5 @@
       "url": "https://mangafire.to/read/darwin-no-taizai.41zrm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:00Z"
+  "fetched_at": "2026-06-06T07:46:10Z"
 }

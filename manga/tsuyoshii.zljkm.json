@@ -1,8 +1,8 @@
 {
   "slug": "tsuyoshii.zljkm",
   "title": "Tsuyoshi",
-  "cover": "https://static.mfcdn.nl/7371/i/5/5c/5c92b9115097c794ef75e13ceb6b41bd@100.jpg",
-  "description": "Tsuyoshi manga, read all chapters here, the latest chapter 354 is available. Read Tsuyoshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5951/i/e/e3/e3a45bab6dd4634d7e7af8193ba6b5c1@100.jpg",
+  "description": "Tsuyoshi manga, read all chapters here, the latest chapter 355 is available. Read Tsuyoshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "355",
+      "title": "Vol 27 -  Chap 355",
+      "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-355"
+    },
     {
       "number": "354",
       "title": "Vol 27 -  Chap 354",
@@ -1876,5 +1881,5 @@
       "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:40:01Z"
+  "fetched_at": "2026-06-06T07:45:22Z"
 }

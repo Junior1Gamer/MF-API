@@ -1,8 +1,8 @@
 {
   "slug": "mousou-senseii.42wjo",
   "title": "Mousou Sensei",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Mousou Sensei manga, read all chapters here, the latest chapter 73 is available. Read Mousou Sensei raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Mousou Sensei manga, read all chapters here, the latest chapter 74 is available. Read Mousou Sensei raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "74",
+      "title": "Vol 6 -  Chap 74",
+      "url": "https://mangafire.to/read/mousou-senseii.42wjo/en/chapter-74"
+    },
     {
       "number": "73",
       "title": "Vol 6 -  Chap 73",
@@ -442,5 +447,5 @@
       "url": "https://mangafire.to/read/mousou-senseii.42wjo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:45Z"
+  "fetched_at": "2026-06-06T07:44:34Z"
 }

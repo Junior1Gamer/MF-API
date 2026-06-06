@@ -2,7 +2,7 @@
   "slug": "aideenn.pr0zj",
   "title": "Aideen",
   "cover": "https://static.mfcdn.nl/82f6/i/8/8b/8bd920775a2be650fd3a6005bb5498be@100.jpg",
-  "description": "Aideen manga, read all chapters here, the latest chapter 75 is available. Read Aideen raw, multiple language. READ NOW!!",
+  "description": "Aideen manga, read all chapters here, the latest chapter 76 is available. Read Aideen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "76",
+      "title": "Chap 76",
+      "url": "https://mangafire.to/read/aideenn.pr0zj/en/chapter-76"
+    },
     {
       "number": "75",
       "title": "Chap 75",
@@ -427,5 +432,5 @@
       "url": "https://mangafire.to/read/aideenn.pr0zj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:38:07Z"
+  "fetched_at": "2026-06-06T07:44:47Z"
 }

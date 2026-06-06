@@ -1,8 +1,8 @@
 {
   "slug": "roku-no-okashina-ie.308w9",
   "title": "Roku's House of Oddities",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Roku's House of Oddities manga, read all chapters here, the latest chapter 7 is available. Read Roku's House of Oddities raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
+  "description": "Roku's House of Oddities manga, read all chapters here, the latest chapter 8 is available. Read Roku's House of Oddities raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "8",
+      "title": "Chap 8",
+      "url": "https://mangafire.to/read/roku-no-okashina-ie.308w9/en/chapter-8"
+    },
+    {
       "number": "7",
       "title": "Chap 7",
       "url": "https://mangafire.to/read/roku-no-okashina-ie.308w9/en/chapter-7"
@@ -88,5 +93,5 @@
       "url": "https://mangafire.to/read/roku-no-okashina-ie.308w9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-30T07:39:18Z"
+  "fetched_at": "2026-06-06T07:46:14Z"
 }
