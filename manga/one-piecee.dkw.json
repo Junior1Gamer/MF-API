@@ -1,7 +1,7 @@
 {
   "slug": "one-piecee.dkw",
   "title": "One Piece",
-  "cover": "https://static.mfcdn.nl/932d/i/b/b2/b295b9556ab5088b504e33bcc0f1d339@100.jpg",
+  "cover": "https://static.mfcdn.nl/a5fd/i/c/c0/c0afe30354fa01dd58ff5f1ad9ad3eed@100.jpg",
   "description": "One Piece manga, read all chapters here, the latest chapter 1184 is available. Read One Piece raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -57,8 +57,23 @@
   "chapters": [
     {
       "number": "1184",
-      "title": "Vol 0 -  Chap 1184",
+      "title": "Vol 117 -  Chap 1184",
       "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-1184"
+    },
+    {
+      "number": "1183",
+      "title": "Vol 117 -  Chap 1183",
+      "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-1183"
+    },
+    {
+      "number": "1182",
+      "title": "Vol 117 -  Chap 1182",
+      "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-1182"
+    },
+    {
+      "number": "1181",
+      "title": "Vol 116 -  Chap 1181",
+      "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-1181"
     },
     {
       "number": "1180",
@@ -6141,5 +6156,5 @@
       "url": "https://mangafire.to/read/one-piecee.dkw/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-31T08:13:30Z"
+  "fetched_at": "2026-06-07T08:25:35Z"
 }

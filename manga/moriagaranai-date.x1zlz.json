@@ -1,8 +1,8 @@
 {
   "slug": "moriagaranai-date.x1zlz",
   "title": "Moriagaranai Date",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Moriagaranai Date manga, read all chapters here, the latest chapter 35 is available. Read Moriagaranai Date raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "Moriagaranai Date manga, read all chapters here, the latest chapter 36 is available. Read Moriagaranai Date raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Vol 0 -  Chap 36",
+      "url": "https://mangafire.to/read/moriagaranai-date.x1zlz/en/chapter-36"
+    },
     {
       "number": "35",
       "title": "Vol 3 -  Chap 35",
@@ -258,5 +263,5 @@
       "url": "https://mangafire.to/read/moriagaranai-date.x1zlz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-31T08:16:42Z"
+  "fetched_at": "2026-06-07T08:25:25Z"
 }

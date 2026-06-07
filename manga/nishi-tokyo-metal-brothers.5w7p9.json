@@ -1,8 +1,8 @@
 {
   "slug": "nishi-tokyo-metal-brothers.5w7p9",
   "title": "West Tokyo Metal Bros",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "West Tokyo Metal Bros manga, read all chapters here, the latest chapter 13 is available. Read West Tokyo Metal Bros raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "West Tokyo Metal Bros manga, read all chapters here, the latest chapter 14 is available. Read West Tokyo Metal Bros raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,14 +51,29 @@
   ],
   "chapters": [
     {
+      "number": "14",
+      "title": "Vol 0 -  Chap 14",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-14"
+    },
+    {
       "number": "13",
-      "title": "Vol 0 -  Chap 13",
+      "title": "Vol 1 -  Chap 13",
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-13"
+    },
+    {
+      "number": "12",
+      "title": "Vol 1 -  Chap 12",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-12"
     },
     {
       "number": "11",
       "title": "Vol 1 -  Chap 11",
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-11"
+    },
+    {
+      "number": "10",
+      "title": "Vol 1 -  Chap 10",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-10"
     },
     {
       "number": "9",
@@ -71,9 +86,34 @@
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-8"
     },
     {
+      "number": "7",
+      "title": "Vol 1 -  Chap 7",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-7"
+    },
+    {
       "number": "6",
       "title": "Vol 1 -  Chap 6",
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-6"
+    },
+    {
+      "number": "5",
+      "title": "Vol 1 -  Chap 5",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-5"
+    },
+    {
+      "number": "4",
+      "title": "Vol 1 -  Chap 4",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-4"
+    },
+    {
+      "number": "3",
+      "title": "Vol 1 -  Chap 3",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-3"
+    },
+    {
+      "number": "2",
+      "title": "Vol 1 -  Chap 2",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-2"
     },
     {
       "number": "1",
@@ -81,5 +121,5 @@
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-31T08:13:29Z"
+  "fetched_at": "2026-06-07T08:23:29Z"
 }

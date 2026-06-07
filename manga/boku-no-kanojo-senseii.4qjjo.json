@@ -1,8 +1,8 @@
 {
   "slug": "boku-no-kanojo-senseii.4qjjo",
   "title": "Boku no Kanojo Sensei",
-  "cover": "https://static.mfcdn.nl/ba9e/i/e/eb/ebd170e0395f579de27d7938d0e2ddc2@100.jpg",
-  "description": "Boku no Kanojo Sensei manga, read all chapters here, the latest chapter 67 is available. Read Boku no Kanojo Sensei raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8e2d/i/b/bb/bb244eafeab771beafc5d58862232301@100.jpg",
+  "description": "Boku no Kanojo Sensei manga, read all chapters here, the latest chapter 68 is available. Read Boku no Kanojo Sensei raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "68",
+      "title": "Vol 11 -  Chap 68",
+      "url": "https://mangafire.to/read/boku-no-kanojo-senseii.4qjjo/en/chapter-68"
+    },
     {
       "number": "67",
       "title": "Vol 0 -  Chap 67",
@@ -436,5 +441,5 @@
       "url": "https://mangafire.to/read/boku-no-kanojo-senseii.4qjjo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-31T08:14:36Z"
+  "fetched_at": "2026-06-07T08:25:02Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "kichiku-eiyuuu.kk49v",
   "title": "Savage Hero",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Savage Hero manga, read all chapters here, the latest chapter 98.5 is available. Read Savage Hero raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "Savage Hero manga, read all chapters here, the latest chapter 99 is available. Read Savage Hero raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,8 +56,13 @@
   ],
   "chapters": [
     {
+      "number": "99",
+      "title": "Vol 13 -  Chap 99",
+      "url": "https://mangafire.to/read/kichiku-eiyuuu.kk49v/en/chapter-99"
+    },
+    {
       "number": "98.5",
-      "title": "Vol 0 -  Chap 98.5",
+      "title": "Vol 13 -  Chap 98.5",
       "url": "https://mangafire.to/read/kichiku-eiyuuu.kk49v/en/chapter-98.5"
     },
     {
@@ -596,5 +601,5 @@
       "url": "https://mangafire.to/read/kichiku-eiyuuu.kk49v/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-31T08:17:08Z"
+  "fetched_at": "2026-06-07T08:24:11Z"
 }

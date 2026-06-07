@@ -1,8 +1,8 @@
 {
   "slug": "aoz-re-boot-gundam-inle-kuro-usagi-no-mita-yumee.0r015",
   "title": "A.O.Z Re-Boot Gundam Inle - Kuro Usagi no Mita Yume",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "A.O.Z Re-Boot Gundam Inle - Kuro Usagi no Mita Yume manga, read all chapters here, the latest chapter 9 is available. Read A.O.Z Re-Boot Gundam Inle - Kuro Usagi no Mita Yume raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "A.O.Z Re-Boot Gundam Inle - Kuro Usagi no Mita Yume manga, read all chapters here, the latest chapter 10 is available. Read A.O.Z Re-Boot Gundam Inle - Kuro Usagi no Mita Yume raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "10",
+      "title": "Vol 4 -  Chap 10",
+      "url": "https://mangafire.to/read/aoz-re-boot-gundam-inle-kuro-usagi-no-mita-yumee.0r015/en/chapter-10"
+    },
     {
       "number": "9",
       "title": "Vol 4 -  Chap 9",
@@ -123,5 +128,5 @@
       "url": "https://mangafire.to/read/aoz-re-boot-gundam-inle-kuro-usagi-no-mita-yumee.0r015/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-31T08:18:53Z"
+  "fetched_at": "2026-06-07T08:24:18Z"
 }

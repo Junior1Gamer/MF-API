@@ -1,8 +1,8 @@
 {
   "slug": "lookismm.rjoy",
   "title": "Lookism",
-  "cover": "https://static.mfcdn.nl/686b/i/3/35/350d516d1b2671b2f35c0eb5bf0d3ab8@100.jpg",
-  "description": "Lookism manga, read all chapters here, the latest chapter 609 is available. Read Lookism raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/aa9b/i/d/d8/d8277f2266227da15165ae430e4c30b1@100.jpg",
+  "description": "Lookism manga, read all chapters here, the latest chapter 610 is available. Read Lookism raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "610",
+      "title": "Chap 610",
+      "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-610"
+    },
     {
       "number": "609",
       "title": "Chap 609",
@@ -3191,5 +3196,5 @@
       "url": "https://mangafire.to/read/lookismm.rjoy/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-31T08:13:48Z"
+  "fetched_at": "2026-06-07T08:24:21Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "devils-wishh.42l9o",
   "title": "Devil's Wish",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Devil's Wish manga, read all chapters here, the latest chapter 91 is available. Read Devil's Wish raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "Devil's Wish manga, read all chapters here, the latest chapter 92 is available. Read Devil's Wish raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "92",
+      "title": "Chap 92",
+      "url": "https://mangafire.to/read/devils-wishh.42l9o/en/chapter-92"
+    },
     {
       "number": "91",
       "title": "Chap 91",
@@ -517,5 +522,5 @@
       "url": "https://mangafire.to/read/devils-wishh.42l9o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-05-31T08:15:06Z"
+  "fetched_at": "2026-06-07T08:23:38Z"
 }

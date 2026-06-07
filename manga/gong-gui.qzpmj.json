@@ -1,8 +1,8 @@
 {
   "slug": "gong-gui.qzpmj",
   "title": "Gong Gui",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Gong Gui manga, read all chapters here, the latest chapter 1 is available. Read Gong Gui raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Gong Gui manga, read all chapters here, the latest chapter 2 is available. Read Gong Gui raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/gong-gui.qzpmj/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/gong-gui.qzpmj/en/chapter-1"
@@ -63,5 +68,5 @@
       "url": "https://mangafire.to/read/gong-gui.qzpmj/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-31T08:17:41Z"
+  "fetched_at": "2026-06-07T08:24:17Z"
 }

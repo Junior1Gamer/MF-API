@@ -1,8 +1,8 @@
 {
   "slug": "gal-to-gal-no-yuri.822py",
   "title": "#Gal to Gal no Yuri",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "#Gal to Gal no Yuri manga, read all chapters here, the latest chapter 13 is available. Read #Gal to Gal no Yuri raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
+  "description": "#Gal to Gal no Yuri manga, read all chapters here, the latest chapter 14 is available. Read #Gal to Gal no Yuri raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "14",
+      "title": "Vol 2 -  Chap 14",
+      "url": "https://mangafire.to/read/gal-to-gal-no-yuri.822py/en/chapter-14"
+    },
+    {
       "number": "13",
       "title": "Vol 2 -  Chap 13",
       "url": "https://mangafire.to/read/gal-to-gal-no-yuri.822py/en/chapter-13"
@@ -76,11 +81,6 @@
       "number": "11.4",
       "title": "Vol 1 -  Chap 11.4",
       "url": "https://mangafire.to/read/gal-to-gal-no-yuri.822py/en/chapter-11.4"
-    },
-    {
-      "number": "11.1",
-      "title": "Vol 1 -  Chap 11.1",
-      "url": "https://mangafire.to/read/gal-to-gal-no-yuri.822py/en/chapter-11.1"
     },
     {
       "number": "11",
@@ -143,5 +143,5 @@
       "url": "https://mangafire.to/read/gal-to-gal-no-yuri.822py/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-05-31T08:14:31Z"
+  "fetched_at": "2026-06-07T08:25:22Z"
 }
