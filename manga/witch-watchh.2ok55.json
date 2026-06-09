@@ -1,8 +1,8 @@
 {
   "slug": "witch-watchh.2ok55",
   "title": "WITCH WATCH",
-  "cover": "https://static.mfcdn.nl/6e0d/i/6/63/63fe30968b66dcb0f462c00d8dc52160@100.jpg",
-  "description": "WITCH WATCH manga, read all chapters here, the latest chapter 249 is available. Read WITCH WATCH raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/de75/i/4/42/42ca959c32d609b516bf9b79f9bafd33@100.jpg",
+  "description": "WITCH WATCH manga, read all chapters here, the latest chapter 250 is available. Read WITCH WATCH raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "250",
+      "title": "Vol 26 -  Chap 250",
+      "url": "https://mangafire.to/read/witch-watchh.2ok55/en/chapter-250"
+    },
     {
       "number": "249",
       "title": "Vol 26 -  Chap 249",
@@ -1304,5 +1309,5 @@
       "url": "https://mangafire.to/read/witch-watchh.2ok55/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:54Z"
+  "fetched_at": "2026-06-09T08:23:17Z"
 }

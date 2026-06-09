@@ -1,8 +1,8 @@
 {
   "slug": "i-live-in-isekai.wqn16",
   "title": "I Live in Isekai",
-  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
-  "description": "I Live in Isekai manga, read all chapters here, the latest chapter 41 is available. Read I Live in Isekai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "I Live in Isekai manga, read all chapters here, the latest chapter 42 is available. Read I Live in Isekai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "42",
+      "title": "Vol 4 -  Chap 42",
+      "url": "https://mangafire.to/read/i-live-in-isekai.wqn16/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Vol 4 -  Chap 41",
@@ -284,5 +289,5 @@
       "url": "https://mangafire.to/read/i-live-in-isekai.wqn16/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:40Z"
+  "fetched_at": "2026-06-09T08:23:36Z"
 }

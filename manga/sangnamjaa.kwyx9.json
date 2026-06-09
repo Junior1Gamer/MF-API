@@ -1,8 +1,8 @@
 {
   "slug": "sangnamjaa.kwyx9",
   "title": "A Man's Man",
-  "cover": "https://static.mfcdn.nl/df33/i/d/d5/d5640b68c5613c8bcda4c423026327bd@100.jpg",
-  "description": "A Man's Man manga, read all chapters here, the latest chapter 254 is available. Read A Man's Man raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2a14/i/1/1c/1c693e1ae9209aa9111c498fc274c76d@100.jpg",
+  "description": "A Man's Man manga, read all chapters here, the latest chapter 256 is available. Read A Man's Man raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "256",
+      "title": "Chap 256",
+      "url": "https://mangafire.to/read/sangnamjaa.kwyx9/en/chapter-256"
+    },
+    {
+      "number": "255",
+      "title": "Chap 255",
+      "url": "https://mangafire.to/read/sangnamjaa.kwyx9/en/chapter-255"
+    },
     {
       "number": "254",
       "title": "Chap 254",
@@ -1352,5 +1362,5 @@
       "url": "https://mangafire.to/read/sangnamjaa.kwyx9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T09:56:24Z"
+  "fetched_at": "2026-06-09T08:23:43Z"
 }

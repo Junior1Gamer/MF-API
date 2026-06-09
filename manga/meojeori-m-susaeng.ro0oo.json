@@ -1,8 +1,8 @@
 {
   "slug": "meojeori-m-susaeng.ro0oo",
   "title": "Meojeori M-susaeng",
-  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
-  "description": "Meojeori M-susaeng manga, read all chapters here, the latest chapter 21 is available. Read Meojeori M-susaeng raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Meojeori M-susaeng manga, read all chapters here, the latest chapter 22 is available. Read Meojeori M-susaeng raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "22",
+      "title": "Chap 22",
+      "url": "https://mangafire.to/read/meojeori-m-susaeng.ro0oo/en/chapter-22"
+    },
     {
       "number": "21",
       "title": "Chap 21",
@@ -155,5 +160,5 @@
       "url": "https://mangafire.to/read/meojeori-m-susaeng.ro0oo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:43Z"
+  "fetched_at": "2026-06-09T08:23:30Z"
 }

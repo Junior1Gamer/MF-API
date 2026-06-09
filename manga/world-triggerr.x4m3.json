@@ -1,8 +1,8 @@
 {
   "slug": "world-triggerr.x4m3",
   "title": "World Trigger",
-  "cover": "https://static.mfcdn.nl/dcd9/i/d/d0/d06967e8a37a2081b82a8315ab4bbf59@100.jpg",
-  "description": "World Trigger manga, read all chapters here, the latest chapter 261 is available. Read World Trigger raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/d203/i/c/c0/c02c967d967c34a22dbb82006fee0494@100.jpg",
+  "description": "World Trigger manga, read all chapters here, the latest chapter 262 is available. Read World Trigger raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
   ],
   "chapters": [
     {
+      "number": "262",
+      "title": "Vol 259 -  Chap 262",
+      "url": "https://mangafire.to/read/world-triggerr.x4m3/en/chapter-262"
+    },
+    {
       "number": "261",
       "title": "Vol 259 -  Chap 261",
       "url": "https://mangafire.to/read/world-triggerr.x4m3/en/chapter-261"
@@ -72,7 +77,7 @@
     },
     {
       "number": "258",
-      "title": "Vol 259 -  Chap 258",
+      "title": "Vol 30 -  Chap 258",
       "url": "https://mangafire.to/read/world-triggerr.x4m3/en/chapter-258"
     },
     {
@@ -1391,5 +1396,5 @@
       "url": "https://mangafire.to/read/world-triggerr.x4m3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:12:00Z"
+  "fetched_at": "2026-06-09T08:24:15Z"
 }

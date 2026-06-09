@@ -1,8 +1,8 @@
 {
   "slug": "isekai-yakkyokuu.xrw1q",
   "title": "Parallel World Pharmacy",
-  "cover": "https://static.mfcdn.nl/4c85/i/2/2e/2ee994fd6d580ccd4a099e70ade4fb9a@100.jpg",
-  "description": "Parallel World Pharmacy manga, read all chapters here, the latest chapter 66 is available. Read Parallel World Pharmacy raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/fb6b/i/c/c9/c9c2c2500180cde716140cd138828643@100.jpg",
+  "description": "Parallel World Pharmacy manga, read all chapters here, the latest chapter 67 is available. Read Parallel World Pharmacy raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "67",
+      "title": "Vol 0 -  Chap 67",
+      "url": "https://mangafire.to/read/isekai-yakkyokuu.xrw1q/en/chapter-67"
+    },
     {
       "number": "66",
       "title": "Vol 0 -  Chap 66",
@@ -508,5 +513,5 @@
       "url": "https://mangafire.to/read/isekai-yakkyokuu.xrw1q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:58:23Z"
+  "fetched_at": "2026-06-09T08:26:27Z"
 }

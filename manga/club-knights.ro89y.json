@@ -1,8 +1,8 @@
 {
   "slug": "club-knights.ro89y",
   "title": "Club Knights",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Club Knights manga, read all chapters here, the latest chapter 34 is available. Read Club Knights raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "Club Knights manga, read all chapters here, the latest chapter 36 is available. Read Club Knights raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Chap 36",
+      "url": "https://mangafire.to/read/club-knights.ro89y/en/chapter-36"
+    },
+    {
+      "number": "35",
+      "title": "Chap 35",
+      "url": "https://mangafire.to/read/club-knights.ro89y/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Chap 34",
@@ -222,5 +232,5 @@
       "url": "https://mangafire.to/read/club-knights.ro89y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:56:39Z"
+  "fetched_at": "2026-06-09T08:22:31Z"
 }

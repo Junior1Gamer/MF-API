@@ -1,8 +1,8 @@
 {
   "slug": "kagurabachii.v92q7",
   "title": "Kagurabachi",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Kagurabachi manga, read all chapters here, the latest chapter 122 is available. Read Kagurabachi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Kagurabachi manga, read all chapters here, the latest chapter 123 is available. Read Kagurabachi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "123",
+      "title": "Vol 0 -  Chap 123",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-123"
+    },
+    {
       "number": "122",
       "title": "Vol 13 -  Chap 122",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-122"
@@ -88,9 +93,19 @@
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-116.5"
     },
     {
+      "number": "116",
+      "title": "Vol 0 -  Chap 116",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-116"
+    },
+    {
       "number": "115.5",
       "title": "Vol 12 -  Chap 115.5",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-115.5"
+    },
+    {
+      "number": "115",
+      "title": "Vol 0 -  Chap 115",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-115"
     },
     {
       "number": "114.5",
@@ -98,14 +113,29 @@
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-114.5"
     },
     {
+      "number": "114",
+      "title": "Vol 0 -  Chap 114",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-114"
+    },
+    {
       "number": "113.5",
       "title": "Vol 12 -  Chap 113.5",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-113.5"
     },
     {
+      "number": "113",
+      "title": "Vol 0 -  Chap 113",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-113"
+    },
+    {
       "number": "112.5",
       "title": "Vol 12 -  Chap 112.5",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-112.5"
+    },
+    {
+      "number": "112.1",
+      "title": "Vol 0 -  Chap 112.1",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-112.1"
     },
     {
       "number": "112",
@@ -138,6 +168,11 @@
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-107"
     },
     {
+      "number": "106",
+      "title": "Vol 0 -  Chap 106",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-106"
+    },
+    {
       "number": "105",
       "title": "Vol 11 -  Chap 105",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-105"
@@ -146,6 +181,11 @@
       "number": "104",
       "title": "Vol 11 -  Chap 104",
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-104"
+    },
+    {
+      "number": "103",
+      "title": "Vol 0 -  Chap 103",
+      "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-103"
     },
     {
       "number": "102",
@@ -693,5 +733,5 @@
       "url": "https://mangafire.to/read/kagurabachii.v92q7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:57:46Z"
+  "fetched_at": "2026-06-09T08:22:00Z"
 }

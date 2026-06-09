@@ -2,7 +2,7 @@
   "slug": "dark-gatheringg.yk07z",
   "title": "Dark Gathering",
   "cover": "https://static.mfcdn.nl/fa11/i/2/26/26b49782a967040f08fe2f98427346a2@100.jpg",
-  "description": "Dark Gathering manga, read all chapters here, the latest chapter 80 is available. Read Dark Gathering raw, multiple language. READ NOW!!",
+  "description": "Dark Gathering manga, read all chapters here, the latest chapter 81 is available. Read Dark Gathering raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Horror"
   ],
   "chapters": [
+    {
+      "number": "81",
+      "title": "Vol 19 -  Chap 81",
+      "url": "https://mangafire.to/read/dark-gatheringg.yk07z/en/chapter-81"
+    },
     {
       "number": "80",
       "title": "Vol 19 -  Chap 80",
@@ -472,5 +477,5 @@
       "url": "https://mangafire.to/read/dark-gatheringg.yk07z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:07:06Z"
+  "fetched_at": "2026-06-09T08:24:49Z"
 }

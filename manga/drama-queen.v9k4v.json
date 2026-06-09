@@ -1,8 +1,8 @@
 {
   "slug": "drama-queen.v9k4v",
   "title": "Drama Queen",
-  "cover": "https://static.mfcdn.nl/50fd/i/b/ba/ba0c0c3058b7befd103265143f7fca23@100.jpg",
-  "description": "Drama Queen manga, read all chapters here, the latest chapter 57 is available. Read Drama Queen raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c057/i/c/c7/e988e486bb925872053f1ab8677ca026@100.jpg",
+  "description": "Drama Queen manga, read all chapters here, the latest chapter 58 is available. Read Drama Queen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "58",
+      "title": "Vol 5 -  Chap 58",
+      "url": "https://mangafire.to/read/drama-queen.v9k4v/en/chapter-58"
+    },
     {
       "number": "57",
       "title": "Vol 5 -  Chap 57",
@@ -126,6 +131,11 @@
       "number": "43",
       "title": "Vol 4 -  Chap 43",
       "url": "https://mangafire.to/read/drama-queen.v9k4v/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Vol 0 -  Chap 42",
+      "url": "https://mangafire.to/read/drama-queen.v9k4v/en/chapter-42"
     },
     {
       "number": "41",
@@ -338,5 +348,5 @@
       "url": "https://mangafire.to/read/drama-queen.v9k4v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:52Z"
+  "fetched_at": "2026-06-09T08:23:57Z"
 }

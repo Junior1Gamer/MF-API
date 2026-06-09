@@ -1,8 +1,8 @@
 {
   "slug": "byeongariban-hunter-neun-hyodo-jung.60olz",
   "title": "Dungeons and Crayons",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Dungeons and Crayons manga, read all chapters here, the latest chapter 72 is available. Read Dungeons and Crayons raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "Dungeons and Crayons manga, read all chapters here, the latest chapter 73 is available. Read Dungeons and Crayons raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "73",
+      "title": "Chap 73",
+      "url": "https://mangafire.to/read/byeongariban-hunter-neun-hyodo-jung.60olz/en/chapter-73"
+    },
     {
       "number": "72",
       "title": "Chap 72",
@@ -412,5 +417,5 @@
       "url": "https://mangafire.to/read/byeongariban-hunter-neun-hyodo-jung.60olz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:16Z"
+  "fetched_at": "2026-06-09T08:23:39Z"
 }

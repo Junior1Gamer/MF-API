@@ -2,7 +2,7 @@
   "slug": "nano-machinee.m2y8v",
   "title": "Nano Machine",
   "cover": "https://static.mfcdn.nl/655d/i/3/38/3870f205fc2c1845757fc42639b5e8ba@100.jpg",
-  "description": "Nano Machine manga, read all chapters here, the latest chapter 314 is available. Read Nano Machine raw, multiple language. READ NOW!!",
+  "description": "Nano Machine manga, read all chapters here, the latest chapter 315 is available. Read Nano Machine raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "315",
+      "title": "Chap 315",
+      "url": "https://mangafire.to/read/nano-machinee.m2y8v/en/chapter-315"
+    },
     {
       "number": "314",
       "title": "Chap 314",
@@ -1644,5 +1649,5 @@
       "url": "https://mangafire.to/read/nano-machinee.m2y8v/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T09:56:08Z"
+  "fetched_at": "2026-06-09T08:26:03Z"
 }

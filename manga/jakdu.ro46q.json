@@ -1,8 +1,8 @@
 {
   "slug": "jakdu.ro46q",
   "title": "JAKDU: Shaman's Blade",
-  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
-  "description": "JAKDU: Shaman's Blade manga, read all chapters here, the latest chapter 97 is available. Read JAKDU: Shaman's Blade raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "JAKDU: Shaman's Blade manga, read all chapters here, the latest chapter 99 is available. Read JAKDU: Shaman's Blade raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "99",
+      "title": "Chap 99",
+      "url": "https://mangafire.to/read/jakdu.ro46q/en/chapter-99"
+    },
+    {
+      "number": "98",
+      "title": "Chap 98",
+      "url": "https://mangafire.to/read/jakdu.ro46q/en/chapter-98"
+    },
     {
       "number": "97",
       "title": "Chap 97",
@@ -542,5 +552,5 @@
       "url": "https://mangafire.to/read/jakdu.ro46q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:58:03Z"
+  "fetched_at": "2026-06-09T08:24:30Z"
 }

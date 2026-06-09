@@ -1,8 +1,8 @@
 {
   "slug": "ane-no-tomodachi.mv0o7",
   "title": "Older Sister's Friend",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Older Sister's Friend manga, read all chapters here, the latest chapter 30.3 is available. Read Older Sister's Friend raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Older Sister's Friend manga, read all chapters here, the latest chapter 31.1 is available. Read Older Sister's Friend raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "31",
+      "title": "Vol 4 -  Chap 31",
+      "url": "https://mangafire.to/read/ane-no-tomodachi.mv0o7/en/chapter-31"
+    },
     {
       "number": "30",
       "title": "Vol 5 -  Chap 30",
@@ -272,5 +277,5 @@
       "url": "https://mangafire.to/read/ane-no-tomodachi.mv0o7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:07:29Z"
+  "fetched_at": "2026-06-09T08:27:37Z"
 }

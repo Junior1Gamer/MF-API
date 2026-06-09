@@ -1,8 +1,8 @@
 {
   "slug": "a-match-with-me.qzrn5",
   "title": "A Match with Me",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "A Match with Me manga, read all chapters here, the latest chapter 9 is available. Read A Match with Me raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "A Match with Me manga, read all chapters here, the latest chapter 12 is available. Read A Match with Me raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
   ],
   "chapters": [
     {
+      "number": "12",
+      "title": "Chap 12",
+      "url": "https://mangafire.to/read/a-match-with-me.qzrn5/en/chapter-12"
+    },
+    {
+      "number": "10",
+      "title": "Chap 10",
+      "url": "https://mangafire.to/read/a-match-with-me.qzrn5/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Chap 9",
       "url": "https://mangafire.to/read/a-match-with-me.qzrn5/en/chapter-9"
@@ -98,5 +108,5 @@
       "url": "https://mangafire.to/read/a-match-with-me.qzrn5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:01:13Z"
+  "fetched_at": "2026-06-09T08:23:12Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "108p-1-nengo-ni-zettai-108p-suru-hanashi.5wmq9",
   "title": "108P! 1-nengo ni Zettai 108P Suru Hanashi",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "108P! 1-nengo ni Zettai 108P Suru Hanashi manga, read all chapters here, the latest chapter 24.2 is available. Read 108P! 1-nengo ni Zettai 108P Suru Hanashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "108P! 1-nengo ni Zettai 108P Suru Hanashi manga, read all chapters here, the latest chapter 25 is available. Read 108P! 1-nengo ni Zettai 108P Suru Hanashi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "25",
+      "title": "Vol 0 -  Chap 25",
+      "url": "https://mangafire.to/read/108p-1-nengo-ni-zettai-108p-suru-hanashi.5wmq9/en/chapter-25"
+    },
     {
       "number": "24.2",
       "title": "Vol 0 -  Chap 24.2",
@@ -182,5 +187,5 @@
       "url": "https://mangafire.to/read/108p-1-nengo-ni-zettai-108p-suru-hanashi.5wmq9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:01:22Z"
+  "fetched_at": "2026-06-09T08:21:37Z"
 }

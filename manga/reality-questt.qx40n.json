@@ -1,8 +1,8 @@
 {
   "slug": "reality-questt.qx40n",
   "title": "Reality Quest",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Reality Quest manga, read all chapters here, the latest chapter 207 is available. Read Reality Quest raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Reality Quest manga, read all chapters here, the latest chapter 208 is available. Read Reality Quest raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "208",
+      "title": "Chap 208",
+      "url": "https://mangafire.to/read/reality-questt.qx40n/en/chapter-208"
+    },
     {
       "number": "207",
       "title": "Chap 207",
@@ -1273,5 +1278,5 @@
       "url": "https://mangafire.to/read/reality-questt.qx40n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T09:55:59Z"
+  "fetched_at": "2026-06-09T08:22:36Z"
 }

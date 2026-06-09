@@ -1,8 +1,8 @@
 {
   "slug": "my-fake-crush.nk4xj",
   "title": "My Fake Crush",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "My Fake Crush manga, read all chapters here, the latest chapter 64 is available. Read My Fake Crush raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "My Fake Crush manga, read all chapters here, the latest chapter 587 is available. Read My Fake Crush raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,36 @@
     "Shoujo"
   ],
   "chapters": [
+    {
+      "number": "587",
+      "title": "Chap 587",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-587"
+    },
+    {
+      "number": "578",
+      "title": "Chap 578",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-578"
+    },
+    {
+      "number": "567",
+      "title": "Chap 567",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-567"
+    },
+    {
+      "number": "557",
+      "title": "Chap 557",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-557"
+    },
+    {
+      "number": "537",
+      "title": "Chap 537",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-537"
+    },
+    {
+      "number": "527",
+      "title": "Chap 527",
+      "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-527"
+    },
     {
       "number": "64",
       "title": "Chap 64",
@@ -372,5 +402,5 @@
       "url": "https://mangafire.to/read/my-fake-crush.nk4xj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:05:23Z"
+  "fetched_at": "2026-06-09T08:21:38Z"
 }

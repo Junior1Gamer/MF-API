@@ -1,8 +1,8 @@
 {
   "slug": "the-evil-ringg.rwnlp",
   "title": "The Evil Ring",
-  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
-  "description": "The Evil Ring manga, read all chapters here, the latest chapter 87 is available. Read The Evil Ring raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "The Evil Ring manga, read all chapters here, the latest chapter 88 is available. Read The Evil Ring raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "88",
+      "title": "Chap 88",
+      "url": "https://mangafire.to/read/the-evil-ringg.rwnlp/en/chapter-88"
+    },
     {
       "number": "87",
       "title": "Chap 87",
@@ -498,5 +503,5 @@
       "url": "https://mangafire.to/read/the-evil-ringg.rwnlp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T09:57:31Z"
+  "fetched_at": "2026-06-09T08:23:05Z"
 }

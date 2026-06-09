@@ -1,8 +1,8 @@
 {
   "slug": "godzilla-galaxy-odyssey.60197",
   "title": "Godzilla Galaxy Odyssey",
-  "cover": "https://static.mfcdn.nl/a3ea/i/e/ee/ee3e4eab98e6ee9c19b96177581da8f8@100.jpg",
-  "description": "Godzilla Galaxy Odyssey manga, read all chapters here, the latest chapter 22 is available. Read Godzilla Galaxy Odyssey raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Godzilla Galaxy Odyssey manga, read all chapters here, the latest chapter 22.1 is available. Read Godzilla Galaxy Odyssey raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "22.1",
+      "title": "Vol 1 -  Chap 22.1",
+      "url": "https://mangafire.to/read/godzilla-galaxy-odyssey.60197/en/chapter-22.1"
+    },
     {
       "number": "22",
       "title": "Vol 0 -  Chap 22",
@@ -247,5 +252,5 @@
       "url": "https://mangafire.to/read/godzilla-galaxy-odyssey.60197/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:58:02Z"
+  "fetched_at": "2026-06-09T08:22:47Z"
 }

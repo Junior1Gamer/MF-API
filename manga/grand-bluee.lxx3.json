@@ -1,8 +1,8 @@
 {
   "slug": "grand-bluee.lxx3",
   "title": "Grand Blue Dreaming",
-  "cover": "https://static.mfcdn.nl/d0a0/i/b/bd/bdf17e05bd18329e77786f71dee23683@100.jpg",
-  "description": "Grand Blue Dreaming manga, read all chapters here, the latest chapter 108 is available. Read Grand Blue Dreaming raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5e1b/i/7/7e/7e295153f6a1b72aef8f7ac0fbb513b1@100.jpg",
+  "description": "Grand Blue Dreaming manga, read all chapters here, the latest chapter 109 is available. Read Grand Blue Dreaming raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "109",
+      "title": "Vol 0 -  Chap 109",
+      "url": "https://mangafire.to/read/grand-bluee.lxx3/en/chapter-109"
+    },
     {
       "number": "108",
       "title": "Vol 0 -  Chap 108",
@@ -797,7 +802,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/grand-bluee.lxx3/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 0 -  Chap 0",
+      "url": "https://mangafire.to/read/grand-bluee.lxx3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T10:09:14Z"
+  "fetched_at": "2026-06-09T08:25:55Z"
 }

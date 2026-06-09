@@ -1,8 +1,8 @@
 {
   "slug": "akane-banashii.kk76",
   "title": "Akane-banashi",
-  "cover": "https://static.mfcdn.nl/1c96/i/7/7d/7daee37362c4b6a8fe2668e590a8e079@100.jpg",
-  "description": "Akane-banashi manga, read all chapters here, the latest chapter 208 is available. Read Akane-banashi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a012/i/9/99/997e1e02512a5b0cba34134202e18e37@100.jpg",
+  "description": "Akane-banashi manga, read all chapters here, the latest chapter 209 is available. Read Akane-banashi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "209",
+      "title": "Vol 22 -  Chap 209",
+      "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-209"
+    },
     {
       "number": "208",
       "title": "Vol 22 -  Chap 208",
@@ -1097,5 +1102,5 @@
       "url": "https://mangafire.to/read/akane-banashii.kk76/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-01T09:53:53Z"
+  "fetched_at": "2026-06-09T08:23:17Z"
 }

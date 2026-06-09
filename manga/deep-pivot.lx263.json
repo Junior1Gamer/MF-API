@@ -1,8 +1,8 @@
 {
   "slug": "deep-pivot.lx263",
   "title": "Deep Pivot",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "Deep Pivot manga, read all chapters here, the latest chapter 40 is available. Read Deep Pivot raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
+  "description": "Deep Pivot manga, read all chapters here, the latest chapter 41 is available. Read Deep Pivot raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/deep-pivot.lx263/en/chapter-41"
+    },
     {
       "number": "40",
       "title": "Chap 40",
@@ -256,5 +261,5 @@
       "url": "https://mangafire.to/read/deep-pivot.lx263/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T09:54:31Z"
+  "fetched_at": "2026-06-09T08:24:28Z"
 }

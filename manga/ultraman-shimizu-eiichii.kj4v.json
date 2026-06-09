@@ -1,8 +1,8 @@
 {
   "slug": "ultraman-shimizu-eiichii.kj4v",
   "title": "Ultraman",
-  "cover": "https://static.mfcdn.nl/9034/i/4/4e/4e6d64973315167db0dbeb0a88784661@100.jpg",
-  "description": "Ultraman manga, read all chapters here, the latest chapter 149 is available. Read Ultraman raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/fa53/i/3/39/394c7c6f92bb863a704965e2886ce1c2@100.jpg",
+  "description": "Ultraman manga, read all chapters here, the latest chapter 150 is available. Read Ultraman raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "150",
+      "title": "Vol 0 -  Chap 150",
+      "url": "https://mangafire.to/read/ultraman-shimizu-eiichii.kj4v/en/chapter-150"
+    },
     {
       "number": "149",
       "title": "Vol 0 -  Chap 149",
@@ -122,6 +127,11 @@
       "number": "138.5",
       "title": "Vol 0 -  Chap 138.5",
       "url": "https://mangafire.to/read/ultraman-shimizu-eiichii.kj4v/en/chapter-138.5"
+    },
+    {
+      "number": "138.1",
+      "title": "Vol 0 -  Chap 138.1",
+      "url": "https://mangafire.to/read/ultraman-shimizu-eiichii.kj4v/en/chapter-138.1"
     },
     {
       "number": "138",
@@ -864,5 +874,5 @@
       "url": "https://mangafire.to/read/ultraman-shimizu-eiichii.kj4v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:07:25Z"
+  "fetched_at": "2026-06-09T08:22:17Z"
 }

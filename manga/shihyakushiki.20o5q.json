@@ -1,8 +1,8 @@
 {
   "slug": "shihyakushiki.20o5q",
   "title": "404 Demons",
-  "cover": "https://static.mfcdn.nl/5cce/i/f/fc/fcb065a73b45e13aea466a91c67b83a8@100.jpg",
-  "description": "404 Demons manga, read all chapters here, the latest chapter 42.3 is available. Read 404 Demons raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
+  "description": "404 Demons manga, read all chapters here, the latest chapter 44 is available. Read 404 Demons raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Vol 0 -  Chap 44",
+      "url": "https://mangafire.to/read/shihyakushiki.20o5q/en/chapter-44"
+    },
+    {
+      "number": "43",
+      "title": "Vol 0 -  Chap 43",
+      "url": "https://mangafire.to/read/shihyakushiki.20o5q/en/chapter-43"
+    },
     {
       "number": "42.3",
       "title": "Vol 0 -  Chap 42.3",
@@ -998,5 +1008,5 @@
       "url": "https://mangafire.to/read/shihyakushiki.20o5q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-01T10:02:15Z"
+  "fetched_at": "2026-06-09T08:21:50Z"
 }

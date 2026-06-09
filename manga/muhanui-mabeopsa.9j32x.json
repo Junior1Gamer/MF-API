@@ -1,8 +1,8 @@
 {
   "slug": "muhanui-mabeopsa.9j32x",
   "title": "The Infinite Mage",
-  "cover": "https://static.mfcdn.nl/4997/i/0/00/00ff15a38c71d52097100b54182347f2@100.jpg",
-  "description": "The Infinite Mage manga, read all chapters here, the latest chapter 170 is available. Read The Infinite Mage raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/e163/i/f/f7/f76b728f8f9851381914339a6fe0faa3@100.jpg",
+  "description": "The Infinite Mage manga, read all chapters here, the latest chapter 171 is available. Read The Infinite Mage raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "171",
+      "title": "Chap 171",
+      "url": "https://mangafire.to/read/muhanui-mabeopsa.9j32x/en/chapter-171"
+    },
     {
       "number": "170",
       "title": "Chap 170",
@@ -945,5 +950,5 @@
       "url": "https://mangafire.to/read/muhanui-mabeopsa.9j32x/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-06-01T09:56:48Z"
+  "fetched_at": "2026-06-09T08:26:47Z"
 }
