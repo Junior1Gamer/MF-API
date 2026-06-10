@@ -1,8 +1,8 @@
 {
   "slug": "maou-sama-re-re-revenge.kx73r",
   "title": "Maou-sama, Re Re Revenge!",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "Maou-sama, Re Re Revenge! manga, read all chapters here, the latest chapter 1 is available. Read Maou-sama, Re Re Revenge! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Maou-sama, Re Re Revenge! manga, read all chapters here, the latest chapter 3 is available. Read Maou-sama, Re Re Revenge! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,10 +50,20 @@
   ],
   "chapters": [
     {
+      "number": "3",
+      "title": "Vol 1 -  Chap 3",
+      "url": "https://mangafire.to/read/maou-sama-re-re-revenge.kx73r/en/chapter-3"
+    },
+    {
+      "number": "2",
+      "title": "Vol 1 -  Chap 2",
+      "url": "https://mangafire.to/read/maou-sama-re-re-revenge.kx73r/en/chapter-2"
+    },
+    {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 0 -  Chap 1",
       "url": "https://mangafire.to/read/maou-sama-re-re-revenge.kx73r/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-02T09:05:37Z"
+  "fetched_at": "2026-06-10T08:44:15Z"
 }
