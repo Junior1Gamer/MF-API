@@ -2,7 +2,7 @@
   "slug": "sousei-no-taigaa.rjm3q",
   "title": "Taiga of Genesis",
   "cover": "https://static.mfcdn.nl/05d1/i/0/0f/0f082062228fb5f8e6e4109a5788a109@100.jpg",
-  "description": "Taiga of Genesis manga, read all chapters here, the latest chapter 120 is available. Read Taiga of Genesis raw, multiple language. READ NOW!!",
+  "description": "Taiga of Genesis manga, read all chapters here, the latest chapter 121 is available. Read Taiga of Genesis raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Vol 0 -  Chap 121",
+      "url": "https://mangafire.to/read/sousei-no-taigaa.rjm3q/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Vol 0 -  Chap 120",
@@ -655,5 +660,5 @@
       "url": "https://mangafire.to/read/sousei-no-taigaa.rjm3q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:31:59Z"
+  "fetched_at": "2026-06-11T09:14:27Z"
 }

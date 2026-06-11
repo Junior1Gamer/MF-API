@@ -1,8 +1,8 @@
 {
   "slug": "catch-you-later.roklp",
   "title": "Catch You Later",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Catch You Later manga, read all chapters here, the latest chapter 3 is available. Read Catch You Later raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Catch You Later manga, read all chapters here, the latest chapter 4 is available. Read Catch You Later raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
   ],
   "chapters": [
     {
+      "number": "4",
+      "title": "Chap 4",
+      "url": "https://mangafire.to/read/catch-you-later.roklp/en/chapter-4"
+    },
+    {
       "number": "3",
       "title": "Chap 3",
       "url": "https://mangafire.to/read/catch-you-later.roklp/en/chapter-3"
@@ -65,5 +70,5 @@
       "url": "https://mangafire.to/read/catch-you-later.roklp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:25:25Z"
+  "fetched_at": "2026-06-11T09:14:11Z"
 }

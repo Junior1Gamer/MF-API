@@ -1,8 +1,8 @@
 {
   "slug": "zero-to-hyaku.mj6xp",
   "title": "Zero to Hyaku",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Zero to Hyaku manga, read all chapters here, the latest chapter 7 is available. Read Zero to Hyaku raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Zero to Hyaku manga, read all chapters here, the latest chapter 8 is available. Read Zero to Hyaku raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "8",
+      "title": "Vol 2 -  Chap 8",
+      "url": "https://mangafire.to/read/zero-to-hyaku.mj6xp/en/chapter-8"
+    },
+    {
       "number": "7",
       "title": "Vol 2 -  Chap 7",
       "url": "https://mangafire.to/read/zero-to-hyaku.mj6xp/en/chapter-7"
@@ -86,5 +91,5 @@
       "url": "https://mangafire.to/read/zero-to-hyaku.mj6xp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:26:53Z"
+  "fetched_at": "2026-06-11T09:15:45Z"
 }

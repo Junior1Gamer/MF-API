@@ -1,8 +1,8 @@
 {
   "slug": "i-am-m.yj57z",
   "title": "I Am M",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "I Am M manga, read all chapters here, the latest chapter 29 is available. Read I Am M raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "I Am M manga, read all chapters here, the latest chapter 30 is available. Read I Am M raw, multiple language. READ NOW!!",
   "status": "Info",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/i-am-m.yj57z/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Chap 29",
@@ -198,5 +203,5 @@
       "url": "https://mangafire.to/read/i-am-m.yj57z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:25:33Z"
+  "fetched_at": "2026-06-11T09:15:23Z"
 }

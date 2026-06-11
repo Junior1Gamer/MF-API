@@ -1,7 +1,7 @@
 {
   "slug": "18-koi.kxjr4",
   "title": "18 / Koi",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
   "description": "18 / Koi manga, read all chapters here, the latest chapter 2 is available. Read 18 / Koi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,10 +50,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/18-koi.kxjr4/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/18-koi.kxjr4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:25:06Z"
+  "fetched_at": "2026-06-11T09:16:02Z"
 }

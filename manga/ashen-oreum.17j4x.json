@@ -1,8 +1,8 @@
 {
   "slug": "ashen-oreum.17j4x",
   "title": "Ashen Oreum",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Ashen Oreum manga, read all chapters here, the latest chapter 37 is available. Read Ashen Oreum raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Ashen Oreum manga, read all chapters here, the latest chapter 39 is available. Read Ashen Oreum raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -57,6 +57,16 @@
   ],
   "chapters": [
     {
+      "number": "39",
+      "title": "Chap 39",
+      "url": "https://mangafire.to/read/ashen-oreum.17j4x/en/chapter-39"
+    },
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/ashen-oreum.17j4x/en/chapter-38"
+    },
+    {
       "number": "37",
       "title": "Chap 37",
       "url": "https://mangafire.to/read/ashen-oreum.17j4x/en/chapter-37"
@@ -102,5 +112,5 @@
       "url": "https://mangafire.to/read/ashen-oreum.17j4x/en/chapter-29"
     }
   ],
-  "fetched_at": "2026-06-03T09:25:59Z"
+  "fetched_at": "2026-06-11T09:15:02Z"
 }

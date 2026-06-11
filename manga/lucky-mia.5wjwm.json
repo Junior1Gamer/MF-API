@@ -1,8 +1,8 @@
 {
   "slug": "lucky-mia.5wjwm",
   "title": "Lucky Mia!",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Lucky Mia! manga, read all chapters here, the latest chapter 25 is available. Read Lucky Mia! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Lucky Mia! manga, read all chapters here, the latest chapter 26 is available. Read Lucky Mia! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Chap 26",
+      "url": "https://mangafire.to/read/lucky-mia.5wjwm/en/chapter-26"
+    },
     {
       "number": "25",
       "title": "Chap 25",
@@ -175,5 +180,5 @@
       "url": "https://mangafire.to/read/lucky-mia.5wjwm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:24:43Z"
+  "fetched_at": "2026-06-11T09:15:26Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "itsuwari-no-freyjaa.ykpz1",
   "title": "Prince Freya",
-  "cover": "https://static.mfcdn.nl/45b4/i/e/e2/e2c5bbb05b135daf82264928f37698e0@100.jpg",
-  "description": "Prince Freya manga, read all chapters here, the latest chapter 36.1 is available. Read Prince Freya raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/bfd9/i/9/92/92db3ec187207f4a62e1fcabeac03f35@100.jpg",
+  "description": "Prince Freya manga, read all chapters here, the latest chapter 39 is available. Read Prince Freya raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "39",
+      "title": "Vol 13 -  Chap 39",
+      "url": "https://mangafire.to/read/itsuwari-no-freyjaa.ykpz1/en/chapter-39"
+    },
+    {
+      "number": "38",
+      "title": "Vol 13 -  Chap 38",
+      "url": "https://mangafire.to/read/itsuwari-no-freyjaa.ykpz1/en/chapter-38"
+    },
+    {
+      "number": "37",
+      "title": "Vol 13 -  Chap 37",
+      "url": "https://mangafire.to/read/itsuwari-no-freyjaa.ykpz1/en/chapter-37"
+    },
     {
       "number": "36.1",
       "title": "Vol 0 -  Chap 36.1",
@@ -332,5 +347,5 @@
       "url": "https://mangafire.to/read/itsuwari-no-freyjaa.ykpz1/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:27:12Z"
+  "fetched_at": "2026-06-11T09:14:53Z"
 }

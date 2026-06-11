@@ -1,8 +1,8 @@
 {
   "slug": "can-i-cry-now.pm7p9",
   "title": "Can I Cry Now?",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Can I Cry Now? manga, read all chapters here, the latest chapter 43 is available. Read Can I Cry Now? raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Can I Cry Now? manga, read all chapters here, the latest chapter 44 is available. Read Can I Cry Now? raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Chap 44",
+      "url": "https://mangafire.to/read/can-i-cry-now.pm7p9/en/chapter-44"
+    },
     {
       "number": "43",
       "title": "Chap 43",
@@ -267,5 +272,5 @@
       "url": "https://mangafire.to/read/can-i-cry-now.pm7p9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T09:24:52Z"
+  "fetched_at": "2026-06-11T09:14:09Z"
 }

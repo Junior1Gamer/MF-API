@@ -1,8 +1,8 @@
 {
   "slug": "lili-menn.1r35p",
   "title": "Lili-Men",
-  "cover": "https://static.mfcdn.nl/eb19/i/0/0e/0e2422ee85a74121b551d2b65d493afe@100.jpg",
-  "description": "Lili-Men manga, read all chapters here, the latest chapter 98 is available. Read Lili-Men raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Lili-Men manga, read all chapters here, the latest chapter 101 is available. Read Lili-Men raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,21 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "101",
+      "title": "Vol 0 -  Chap 101",
+      "url": "https://mangafire.to/read/lili-menn.1r35p/en/chapter-101"
+    },
+    {
+      "number": "100",
+      "title": "Vol 0 -  Chap 100",
+      "url": "https://mangafire.to/read/lili-menn.1r35p/en/chapter-100"
+    },
+    {
+      "number": "99",
+      "title": "Vol 0 -  Chap 99",
+      "url": "https://mangafire.to/read/lili-menn.1r35p/en/chapter-99"
+    },
     {
       "number": "98",
       "title": "Vol 7 -  Chap 98",
@@ -544,5 +559,5 @@
       "url": "https://mangafire.to/read/lili-menn.1r35p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-03T10:13:43Z"
+  "fetched_at": "2026-06-11T09:14:53Z"
 }

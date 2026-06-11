@@ -1,7 +1,7 @@
 {
   "slug": "madoromi-barmaidd.zlzpp",
   "title": "Sleepy Barmaid",
-  "cover": "https://static.mfcdn.nl/8b12/i/0/0d/0d5bd30bf74f1acebfdddd1ce25787a5@100.jpg",
+  "cover": "https://static.mfcdn.nl/7a85/i/4/4d/4d7b51dca42683b7b098248c9632e4bd@100.jpg",
   "description": "Sleepy Barmaid manga, read all chapters here, the latest chapter 119 is available. Read Sleepy Barmaid raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "34",
+      "title": "Vol 5 -  Chap 34",
+      "url": "https://mangafire.to/read/madoromi-barmaidd.zlzpp/en/chapter-34"
+    },
     {
       "number": "33",
       "title": "Vol 5 -  Chap 33",
@@ -218,5 +223,5 @@
       "url": "https://mangafire.to/read/madoromi-barmaidd.zlzpp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-04T09:00:28Z"
+  "fetched_at": "2026-06-11T10:12:43Z"
 }
