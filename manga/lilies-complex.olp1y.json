@@ -1,8 +1,8 @@
 {
   "slug": "lilies-complex.olp1y",
   "title": "Lilies Complex",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Lilies Complex manga, read all chapters here, the latest chapter 15 is available. Read Lilies Complex raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Lilies Complex manga, read all chapters here, the latest chapter 16 is available. Read Lilies Complex raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Vol 2 -  Chap 16",
+      "url": "https://mangafire.to/read/lilies-complex.olp1y/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Vol 2 -  Chap 15",
@@ -131,5 +136,5 @@
       "url": "https://mangafire.to/read/lilies-complex.olp1y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:47:08Z"
+  "fetched_at": "2026-06-13T08:17:15Z"
 }

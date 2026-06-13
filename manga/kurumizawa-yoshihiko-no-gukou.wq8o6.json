@@ -1,8 +1,8 @@
 {
   "slug": "kurumizawa-yoshihiko-no-gukou.wq8o6",
   "title": "Kurumizawa's Folly",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Kurumizawa's Folly manga, read all chapters here, the latest chapter 20 is available. Read Kurumizawa's Folly raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Kurumizawa's Folly manga, read all chapters here, the latest chapter 20.1 is available. Read Kurumizawa's Folly raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "20.1",
+      "title": "Vol 1 -  Chap 20.1",
+      "url": "https://mangafire.to/read/kurumizawa-yoshihiko-no-gukou.wq8o6/en/chapter-20.1"
+    },
     {
       "number": "20",
       "title": "Vol 1 -  Chap 20",
@@ -168,5 +173,5 @@
       "url": "https://mangafire.to/read/kurumizawa-yoshihiko-no-gukou.wq8o6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:45:31Z"
+  "fetched_at": "2026-06-13T08:17:38Z"
 }

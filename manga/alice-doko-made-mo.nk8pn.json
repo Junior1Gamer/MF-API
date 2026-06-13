@@ -1,8 +1,8 @@
 {
   "slug": "alice-doko-made-mo.nk8pn",
   "title": "Alice, Doko made mo",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Alice, Doko made mo manga, read all chapters here, the latest chapter 27 is available. Read Alice, Doko made mo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Alice, Doko made mo manga, read all chapters here, the latest chapter 28 is available. Read Alice, Doko made mo raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "28",
+      "title": "Vol 5 -  Chap 28",
+      "url": "https://mangafire.to/read/alice-doko-made-mo.nk8pn/en/chapter-28"
+    },
     {
       "number": "27",
       "title": "Vol 5 -  Chap 27",
@@ -188,5 +193,5 @@
       "url": "https://mangafire.to/read/alice-doko-made-mo.nk8pn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:45:22Z"
+  "fetched_at": "2026-06-13T08:17:41Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "psycho-eyes.0m0l9",
   "title": "Psycho Eyes",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Psycho Eyes manga, read all chapters here, the latest chapter 18 is available. Read Psycho Eyes raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Psycho Eyes manga, read all chapters here, the latest chapter 19 is available. Read Psycho Eyes raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 2 -  Chap 19",
+      "url": "https://mangafire.to/read/psycho-eyes.0m0l9/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 2 -  Chap 18",
@@ -148,5 +153,5 @@
       "url": "https://mangafire.to/read/psycho-eyes.0m0l9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:46:36Z"
+  "fetched_at": "2026-06-13T08:15:41Z"
 }

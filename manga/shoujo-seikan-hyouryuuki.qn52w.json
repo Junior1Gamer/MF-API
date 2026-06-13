@@ -1,8 +1,8 @@
 {
   "slug": "shoujo-seikan-hyouryuuki.qn52w",
   "title": "Shoujo Seikan Hyouryuuki",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Shoujo Seikan Hyouryuuki manga, read all chapters here, the latest chapter 12.2 is available. Read Shoujo Seikan Hyouryuuki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Shoujo Seikan Hyouryuuki manga, read all chapters here, the latest chapter 12.3 is available. Read Shoujo Seikan Hyouryuuki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Adventure"
   ],
   "chapters": [
+    {
+      "number": "12.3",
+      "title": "Vol 1 -  Chap 12.3",
+      "url": "https://mangafire.to/read/shoujo-seikan-hyouryuuki.qn52w/en/chapter-12.3"
+    },
     {
       "number": "12.2",
       "title": "Vol 1 -  Chap 12.2",
@@ -126,5 +131,5 @@
       "url": "https://mangafire.to/read/shoujo-seikan-hyouryuuki.qn52w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:44:41Z"
+  "fetched_at": "2026-06-13T08:17:40Z"
 }

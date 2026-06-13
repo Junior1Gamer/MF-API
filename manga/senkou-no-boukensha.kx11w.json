@@ -1,8 +1,8 @@
 {
   "slug": "senkou-no-boukensha.kx11w",
   "title": "Senkou no Boukensha",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Senkou no Boukensha manga, read all chapters here, the latest chapter 5.3 is available. Read Senkou no Boukensha raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Senkou no Boukensha manga, read all chapters here, the latest chapter 6.3 is available. Read Senkou no Boukensha raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "6.3",
+      "title": "Vol 0 -  Chap 6.3",
+      "url": "https://mangafire.to/read/senkou-no-boukensha.kx11w/en/chapter-6.3"
+    },
+    {
+      "number": "6.2",
+      "title": "Vol 0 -  Chap 6.2",
+      "url": "https://mangafire.to/read/senkou-no-boukensha.kx11w/en/chapter-6.2"
+    },
+    {
+      "number": "6.1",
+      "title": "Vol 0 -  Chap 6.1",
+      "url": "https://mangafire.to/read/senkou-no-boukensha.kx11w/en/chapter-6.1"
+    },
     {
       "number": "5.3",
       "title": "Vol 0 -  Chap 5.3",
@@ -132,5 +147,5 @@
       "url": "https://mangafire.to/read/senkou-no-boukensha.kx11w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:47:38Z"
+  "fetched_at": "2026-06-13T08:16:43Z"
 }

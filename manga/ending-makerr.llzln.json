@@ -1,8 +1,8 @@
 {
   "slug": "ending-makerr.llzln",
   "title": "Ending Maker",
-  "cover": "https://static.mfcdn.nl/8990/i/f/64/94c3196077bd55f6887ad4fff5d35bfa@100.jpg",
-  "description": "Ending Maker manga, read all chapters here, the latest chapter 74 is available. Read Ending Maker raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/384c/i/6/64/64f744e215180a4f804a1b1e4ee2e84e@100.jpg",
+  "description": "Ending Maker manga, read all chapters here, the latest chapter 75 is available. Read Ending Maker raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "75",
+      "title": "Chap 75",
+      "url": "https://mangafire.to/read/ending-makerr.llzln/en/chapter-75"
+    },
     {
       "number": "74",
       "title": "Chap 74",
@@ -457,5 +462,5 @@
       "url": "https://mangafire.to/read/ending-makerr.llzln/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-06T07:46:41Z"
+  "fetched_at": "2026-06-13T08:16:19Z"
 }

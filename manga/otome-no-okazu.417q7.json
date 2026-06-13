@@ -1,8 +1,8 @@
 {
   "slug": "otome-no-okazu.417q7",
   "title": "Otome no Okazu",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Otome no Okazu manga, read all chapters here, the latest chapter 8 is available. Read Otome no Okazu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Otome no Okazu manga, read all chapters here, the latest chapter 9 is available. Read Otome no Okazu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Chap 9",
+      "url": "https://mangafire.to/read/otome-no-okazu.417q7/en/chapter-9"
+    },
+    {
       "number": "8",
       "title": "Chap 8",
       "url": "https://mangafire.to/read/otome-no-okazu.417q7/en/chapter-8"
@@ -92,5 +97,5 @@
       "url": "https://mangafire.to/read/otome-no-okazu.417q7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:48:43Z"
+  "fetched_at": "2026-06-13T08:16:07Z"
 }

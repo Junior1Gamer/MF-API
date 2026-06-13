@@ -1,8 +1,8 @@
 {
   "slug": "urasekai-picnicc.7ww31",
   "title": "Otherside Picnic",
-  "cover": "https://static.mfcdn.nl/bfcb/i/2/2d/2d408d7bc4305da328968ff7dcdf37a1@100.jpg",
-  "description": "Otherside Picnic manga, read all chapters here, the latest chapter 89 is available. Read Otherside Picnic raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2ec5/i/c/c8/c8ac9b1700f285bc9837a02ccf4199ec@100.jpg",
+  "description": "Otherside Picnic manga, read all chapters here, the latest chapter 90 is available. Read Otherside Picnic raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Horror"
   ],
   "chapters": [
+    {
+      "number": "90",
+      "title": "Vol 0 -  Chap 90",
+      "url": "https://mangafire.to/read/urasekai-picnicc.7ww31/en/chapter-90"
+    },
     {
       "number": "89",
       "title": "Vol 0 -  Chap 89",
@@ -1646,5 +1651,5 @@
       "url": "https://mangafire.to/read/urasekai-picnicc.7ww31/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:46:50Z"
+  "fetched_at": "2026-06-13T08:16:38Z"
 }

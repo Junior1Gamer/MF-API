@@ -1,8 +1,8 @@
 {
   "slug": "eleceedd.qx0v5",
   "title": "Eleceed",
-  "cover": "https://static.mfcdn.nl/8519/i/f/f5/f5de3a8aa53a4360358d96644d39b17c@100.jpg",
-  "description": "Eleceed manga, read all chapters here, the latest chapter 404 is available. Read Eleceed raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8277/i/7/7c/7c6af2db1e66420afa3222788523a1af@100.jpg",
+  "description": "Eleceed manga, read all chapters here, the latest chapter 405 is available. Read Eleceed raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "405",
+      "title": "Chap 405",
+      "url": "https://mangafire.to/read/eleceedd.qx0v5/en/chapter-405"
+    },
     {
       "number": "404",
       "title": "Chap 404",
@@ -2274,5 +2279,5 @@
       "url": "https://mangafire.to/read/eleceedd.qx0v5/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-06T07:45:09Z"
+  "fetched_at": "2026-06-13T08:16:44Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "that-which-flows-byy.jpz2n",
   "title": "That Which Flows By",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "That Which Flows By manga, read all chapters here, the latest chapter 110 is available. Read That Which Flows By raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "That Which Flows By manga, read all chapters here, the latest chapter 111 is available. Read That Which Flows By raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "111",
+      "title": "Chap 111",
+      "url": "https://mangafire.to/read/that-which-flows-byy.jpz2n/en/chapter-111"
+    },
     {
       "number": "110",
       "title": "Chap 110",
@@ -622,5 +627,5 @@
       "url": "https://mangafire.to/read/that-which-flows-byy.jpz2n/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:46:07Z"
+  "fetched_at": "2026-06-13T08:17:19Z"
 }

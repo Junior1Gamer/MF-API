@@ -1,8 +1,8 @@
 {
   "slug": "okaeri-suiheisen.nkpln",
   "title": "Home at the Horizon",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Home at the Horizon manga, read all chapters here, the latest chapter 25 is available. Read Home at the Horizon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Home at the Horizon manga, read all chapters here, the latest chapter 26 is available. Read Home at the Horizon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Vol 1 -  Chap 26",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-26"
+    },
     {
       "number": "25",
       "title": "Vol 1 -  Chap 25",
@@ -186,6 +191,11 @@
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-7.5"
     },
     {
+      "number": "7.1",
+      "title": "Vol 0 -  Chap 7.1",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-7.1"
+    },
+    {
       "number": "7",
       "title": "Vol 1 -  Chap 7",
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-7"
@@ -204,6 +214,11 @@
       "number": "5.2",
       "title": "Vol 1 -  Chap 5.2",
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-5.2"
+    },
+    {
+      "number": "5.1",
+      "title": "Vol 0 -  Chap 5.1",
+      "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-5.1"
     },
     {
       "number": "5",
@@ -231,5 +246,5 @@
       "url": "https://mangafire.to/read/okaeri-suiheisen.nkpln/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:45:30Z"
+  "fetched_at": "2026-06-13T08:17:40Z"
 }

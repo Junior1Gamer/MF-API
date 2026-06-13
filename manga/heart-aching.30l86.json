@@ -1,8 +1,8 @@
 {
   "slug": "heart-aching.30l86",
   "title": "Heart-Aching",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Heart-Aching manga, read all chapters here, the latest chapter 11 is available. Read Heart-Aching raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Heart-Aching manga, read all chapters here, the latest chapter 12 is available. Read Heart-Aching raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Chap 12",
+      "url": "https://mangafire.to/read/heart-aching.30l86/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Chap 11",
@@ -105,5 +110,5 @@
       "url": "https://mangafire.to/read/heart-aching.30l86/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-06T07:44:49Z"
+  "fetched_at": "2026-06-13T08:17:22Z"
 }

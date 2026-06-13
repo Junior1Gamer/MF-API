@@ -1,8 +1,8 @@
 {
   "slug": "surikomi.pm8y6",
   "title": "Surikomi!",
-  "cover": "https://static.mfcdn.nl/4dfc/i/b/be/be1dbde4fa283c80529ab0ae54b486bd@100.jpg",
-  "description": "Surikomi! manga, read all chapters here, the latest chapter 34 is available. Read Surikomi! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Surikomi! manga, read all chapters here, the latest chapter 35 is available. Read Surikomi! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "35",
+      "title": "Vol 0 -  Chap 35",
+      "url": "https://mangafire.to/read/surikomi.pm8y6/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Vol 3 -  Chap 34",
@@ -228,5 +233,5 @@
       "url": "https://mangafire.to/read/surikomi.pm8y6/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-06T07:45:25Z"
+  "fetched_at": "2026-06-13T08:15:40Z"
 }
