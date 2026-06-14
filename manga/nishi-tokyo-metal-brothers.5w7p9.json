@@ -1,8 +1,8 @@
 {
   "slug": "nishi-tokyo-metal-brothers.5w7p9",
   "title": "West Tokyo Metal Bros",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "West Tokyo Metal Bros manga, read all chapters here, the latest chapter 14 is available. Read West Tokyo Metal Bros raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "West Tokyo Metal Bros manga, read all chapters here, the latest chapter 15 is available. Read West Tokyo Metal Bros raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,8 +51,13 @@
   ],
   "chapters": [
     {
+      "number": "15",
+      "title": "Vol 0 -  Chap 15",
+      "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-15"
+    },
+    {
       "number": "14",
-      "title": "Vol 0 -  Chap 14",
+      "title": "Vol 1 -  Chap 14",
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-14"
     },
     {
@@ -121,5 +126,5 @@
       "url": "https://mangafire.to/read/nishi-tokyo-metal-brothers.5w7p9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:23:29Z"
+  "fetched_at": "2026-06-14T08:47:03Z"
 }

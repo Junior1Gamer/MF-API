@@ -1,8 +1,8 @@
 {
   "slug": "under-doctor2.5w73q",
   "title": "Under Doctor",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Under Doctor manga, read all chapters here, the latest chapter 18 is available. Read Under Doctor raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Under Doctor manga, read all chapters here, the latest chapter 19 is available. Read Under Doctor raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 2 -  Chap 19",
+      "url": "https://mangafire.to/read/under-doctor2.5w73q/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 2 -  Chap 18",
@@ -141,5 +146,5 @@
       "url": "https://mangafire.to/read/under-doctor2.5w73q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:33Z"
+  "fetched_at": "2026-06-14T08:49:10Z"
 }

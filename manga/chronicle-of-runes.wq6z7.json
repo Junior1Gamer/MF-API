@@ -1,8 +1,8 @@
 {
   "slug": "chronicle-of-runes.wq6z7",
   "title": "Chronicle of Runes",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Chronicle of Runes manga, read all chapters here, the latest chapter 40 is available. Read Chronicle of Runes raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Chronicle of Runes manga, read all chapters here, the latest chapter 44 is available. Read Chronicle of Runes raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,26 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Chap 44",
+      "url": "https://mangafire.to/read/chronicle-of-runes.wq6z7/en/chapter-44"
+    },
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/chronicle-of-runes.wq6z7/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/chronicle-of-runes.wq6z7/en/chapter-42"
+    },
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/chronicle-of-runes.wq6z7/en/chapter-41"
+    },
     {
       "number": "40",
       "title": "Chap 40",
@@ -254,5 +274,5 @@
       "url": "https://mangafire.to/read/chronicle-of-runes.wq6z7/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:23:34Z"
+  "fetched_at": "2026-06-14T08:48:23Z"
 }

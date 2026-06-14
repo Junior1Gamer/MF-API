@@ -1,8 +1,8 @@
 {
   "slug": "shinobi-undercoverr.v9w76",
   "title": "Shinobi Undercover",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Shinobi Undercover manga, read all chapters here, the latest chapter 83 is available. Read Shinobi Undercover raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Shinobi Undercover manga, read all chapters here, the latest chapter 84 is available. Read Shinobi Undercover raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Action"
   ],
   "chapters": [
+    {
+      "number": "84",
+      "title": "Vol 12 -  Chap 84",
+      "url": "https://mangafire.to/read/shinobi-undercoverr.v9w76/en/chapter-84"
+    },
     {
       "number": "83",
       "title": "Vol 12 -  Chap 83",
@@ -465,5 +470,5 @@
       "url": "https://mangafire.to/read/shinobi-undercoverr.v9w76/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:09Z"
+  "fetched_at": "2026-06-14T08:49:01Z"
 }

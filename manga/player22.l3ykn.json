@@ -2,7 +2,7 @@
   "slug": "player22.l3ykn",
   "title": "Player",
   "cover": "https://static.mfcdn.nl/19b1/i/c/c0/c0d07e2f216a009cb232653b942d63db@100.jpg",
-  "description": "Player manga, read all chapters here, the latest chapter 261 is available. Read Player raw, multiple language. READ NOW!!",
+  "description": "Player manga, read all chapters here, the latest chapter 262 is available. Read Player raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "262",
+      "title": "Chap 262",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-262"
+    },
     {
       "number": "261",
       "title": "Chap 261",
@@ -755,6 +760,11 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-128"
     },
     {
+      "number": "127",
+      "title": "Chap 127",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-127"
+    },
+    {
       "number": "126",
       "title": "Chap 126",
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-126"
@@ -1440,5 +1450,5 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:24:21Z"
+  "fetched_at": "2026-06-14T08:47:28Z"
 }

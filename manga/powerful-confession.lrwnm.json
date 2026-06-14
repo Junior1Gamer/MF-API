@@ -1,8 +1,8 @@
 {
   "slug": "powerful-confession.lrwnm",
   "title": "Powerful Confession",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Powerful Confession manga, read all chapters here, the latest chapter 78 is available. Read Powerful Confession raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Powerful Confession manga, read all chapters here, the latest chapter 79 is available. Read Powerful Confession raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "79",
+      "title": "Vol 0 -  Chap 79",
+      "url": "https://mangafire.to/read/powerful-confession.lrwnm/en/chapter-79"
+    },
     {
       "number": "78",
       "title": "Vol 0 -  Chap 78",
@@ -103,7 +108,7 @@
     },
     {
       "number": "68",
-      "title": "Vol 1 -  Chap 68",
+      "title": "Vol 0 -  Chap 68",
       "url": "https://mangafire.to/read/powerful-confession.lrwnm/en/chapter-68"
     },
     {
@@ -447,5 +452,5 @@
       "url": "https://mangafire.to/read/powerful-confession.lrwnm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:26:11Z"
+  "fetched_at": "2026-06-14T08:48:47Z"
 }

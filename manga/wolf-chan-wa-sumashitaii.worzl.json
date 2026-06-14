@@ -1,8 +1,8 @@
 {
   "slug": "wolf-chan-wa-sumashitaii.worzl",
   "title": "Wolf-chan wa Sumashitai",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Wolf-chan wa Sumashitai manga, read all chapters here, the latest chapter 70 is available. Read Wolf-chan wa Sumashitai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Wolf-chan wa Sumashitai manga, read all chapters here, the latest chapter 71 is available. Read Wolf-chan wa Sumashitai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "71",
+      "title": "Vol 4 -  Chap 71",
+      "url": "https://mangafire.to/read/wolf-chan-wa-sumashitaii.worzl/en/chapter-71"
+    },
     {
       "number": "70",
       "title": "Vol 4 -  Chap 70",
@@ -491,5 +496,5 @@
       "url": "https://mangafire.to/read/wolf-chan-wa-sumashitaii.worzl/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:28:29Z"
+  "fetched_at": "2026-06-14T08:48:20Z"
 }

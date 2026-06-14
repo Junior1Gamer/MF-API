@@ -1,8 +1,8 @@
 {
   "slug": "the-extras-academy-survival-guidee.w50ll",
   "title": "The Extra's Academy Survival Guide",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "The Extra's Academy Survival Guide manga, read all chapters here, the latest chapter 109 is available. Read The Extra's Academy Survival Guide raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "The Extra's Academy Survival Guide manga, read all chapters here, the latest chapter 110 is available. Read The Extra's Academy Survival Guide raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "110",
+      "title": "Chap 110",
+      "url": "https://mangafire.to/read/the-extras-academy-survival-guidee.w50ll/en/chapter-110"
+    },
     {
       "number": "109",
       "title": "Chap 109",
@@ -631,5 +636,5 @@
       "url": "https://mangafire.to/read/the-extras-academy-survival-guidee.w50ll/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:24:09Z"
+  "fetched_at": "2026-06-14T08:47:36Z"
 }

@@ -2,7 +2,7 @@
   "slug": "aoki-hagane-no-arpeggioo.m9x",
   "title": "Arpeggio of Blue Steel",
   "cover": "https://static.mfcdn.nl/65de/i/7/7e/7e1b6ccc2548a6d97f0c88918c878be3@100.jpg",
-  "description": "Arpeggio of Blue Steel manga, read all chapters here, the latest chapter 176 is available. Read Arpeggio of Blue Steel raw, multiple language. READ NOW!!",
+  "description": "Arpeggio of Blue Steel manga, read all chapters here, the latest chapter 177 is available. Read Arpeggio of Blue Steel raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "177",
+      "title": "Vol 29 -  Chap 177",
+      "url": "https://mangafire.to/read/aoki-hagane-no-arpeggioo.m9x/en/chapter-177"
+    },
     {
       "number": "176",
       "title": "Vol 29 -  Chap 176",
@@ -186,6 +191,11 @@
       "number": "150",
       "title": "Vol 26 -  Chap 150",
       "url": "https://mangafire.to/read/aoki-hagane-no-arpeggioo.m9x/en/chapter-150"
+    },
+    {
+      "number": "149.5",
+      "title": "Vol 26 -  Chap 149.5",
+      "url": "https://mangafire.to/read/aoki-hagane-no-arpeggioo.m9x/en/chapter-149.5"
     },
     {
       "number": "149",
@@ -1003,5 +1013,5 @@
       "url": "https://mangafire.to/read/aoki-hagane-no-arpeggioo.m9x/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:23:24Z"
+  "fetched_at": "2026-06-14T08:47:48Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "nukodukee.n54l",
   "title": "Nukoduke!",
-  "cover": "https://static.mfcdn.nl/eb26/i/c/ce/ceba1c156bc6e3ff6dc6bced435b03b0@100.jpg",
-  "description": "Nukoduke! manga, read all chapters here, the latest chapter 299 is available. Read Nukoduke! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/b4c4/i/b/ba/baf864d8214745c689e366339aa021d8@100.jpg",
+  "description": "Nukoduke! manga, read all chapters here, the latest chapter 300 is available. Read Nukoduke! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "300",
+      "title": "Vol 12 -  Chap 300",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-300"
+    },
     {
       "number": "299",
       "title": "Vol 12 -  Chap 299",
@@ -723,6 +728,26 @@
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-122"
     },
     {
+      "number": "121",
+      "title": "Vol 0 -  Chap 121",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-121"
+    },
+    {
+      "number": "120",
+      "title": "Vol 0 -  Chap 120",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-120"
+    },
+    {
+      "number": "119",
+      "title": "Vol 0 -  Chap 119",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-119"
+    },
+    {
+      "number": "118",
+      "title": "Vol 0 -  Chap 118",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-118"
+    },
+    {
       "number": "117",
       "title": "Vol 5 -  Chap 117",
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-117"
@@ -738,14 +763,29 @@
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-115"
     },
     {
+      "number": "114",
+      "title": "Vol 0 -  Chap 114",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-114"
+    },
+    {
       "number": "113",
       "title": "Vol 5 -  Chap 113",
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-113"
     },
     {
+      "number": "112",
+      "title": "Vol 0 -  Chap 112",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-112"
+    },
+    {
       "number": "111",
       "title": "Vol 5 -  Chap 111",
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-111"
+    },
+    {
+      "number": "110",
+      "title": "Vol 0 -  Chap 110",
+      "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-110"
     },
     {
       "number": "109",
@@ -1498,5 +1538,5 @@
       "url": "https://mangafire.to/read/nukodukee.n54l/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:29:03Z"
+  "fetched_at": "2026-06-14T08:48:34Z"
 }

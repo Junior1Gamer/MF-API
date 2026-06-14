@@ -1,8 +1,8 @@
 {
   "slug": "welcome-to-japan-elf-sann.2o2mq",
   "title": "Welcome to Japan, Ms. Elf!",
-  "cover": "https://static.mfcdn.nl/0cd0/i/3/30/3071979146bd52f059984f12980b4d47@100.jpg",
-  "description": "Welcome to Japan, Ms. Elf! manga, read all chapters here, the latest chapter 67 is available. Read Welcome to Japan, Ms. Elf! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/7043/i/0/02/0249410a42798912da897c718e4d3c98@100.jpg",
+  "description": "Welcome to Japan, Ms. Elf! manga, read all chapters here, the latest chapter 68 is available. Read Welcome to Japan, Ms. Elf! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "68",
+      "title": "Vol 0 -  Chap 68",
+      "url": "https://mangafire.to/read/welcome-to-japan-elf-sann.2o2mq/en/chapter-68"
+    },
     {
       "number": "67",
       "title": "Vol 0 -  Chap 67",
@@ -537,7 +542,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/welcome-to-japan-elf-sann.2o2mq/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 0 -  Chap 0",
+      "url": "https://mangafire.to/read/welcome-to-japan-elf-sann.2o2mq/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:33:26Z"
+  "fetched_at": "2026-06-14T08:47:51Z"
 }

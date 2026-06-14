@@ -2,7 +2,7 @@
   "slug": "kuro-no-shoukanshii.xvkv",
   "title": "Black Summoner",
   "cover": "https://static.mfcdn.nl/79bd/i/a/ac/ac33781ae4e9b3f41ad8b6ff186af636@100.jpg",
-  "description": "Black Summoner manga, read all chapters here, the latest chapter 191 is available. Read Black Summoner raw, multiple language. READ NOW!!",
+  "description": "Black Summoner manga, read all chapters here, the latest chapter 193.1 is available. Read Black Summoner raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,16 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "193.1",
+      "title": "Vol 0 -  Chap 193.1",
+      "url": "https://mangafire.to/read/kuro-no-shoukanshii.xvkv/en/chapter-193.1"
+    },
+    {
+      "number": "192",
+      "title": "Vol 0 -  Chap 192",
+      "url": "https://mangafire.to/read/kuro-no-shoukanshii.xvkv/en/chapter-192"
+    },
     {
       "number": "191",
       "title": "Vol 25 -  Chap 191",
@@ -1095,5 +1105,5 @@
       "url": "https://mangafire.to/read/kuro-no-shoukanshii.xvkv/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:24Z"
+  "fetched_at": "2026-06-14T08:48:22Z"
 }

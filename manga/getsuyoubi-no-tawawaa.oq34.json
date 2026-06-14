@@ -1,8 +1,8 @@
 {
   "slug": "getsuyoubi-no-tawawaa.oq34",
   "title": "Tawawa on Monday",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Tawawa on Monday manga, read all chapters here, the latest chapter 127 is available. Read Tawawa on Monday raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Tawawa on Monday manga, read all chapters here, the latest chapter 128 is available. Read Tawawa on Monday raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "128",
+      "title": "Vol 13 -  Chap 128",
+      "url": "https://mangafire.to/read/getsuyoubi-no-tawawaa.oq34/en/chapter-128"
+    },
     {
       "number": "127",
       "title": "Vol 13 -  Chap 127",
@@ -730,5 +735,5 @@
       "url": "https://mangafire.to/read/getsuyoubi-no-tawawaa.oq34/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:33:33Z"
+  "fetched_at": "2026-06-14T08:48:52Z"
 }

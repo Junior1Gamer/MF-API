@@ -1,8 +1,8 @@
 {
   "slug": "satanica.20k5l",
   "title": "SATANICA",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "SATANICA manga, read all chapters here, the latest chapter 6 is available. Read SATANICA raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "SATANICA manga, read all chapters here, the latest chapter 6.5 is available. Read SATANICA raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
   ],
   "chapters": [
     {
+      "number": "6.5",
+      "title": "Vol 0 -  Chap 6.5",
+      "url": "https://mangafire.to/read/satanica.20k5l/en/chapter-6.5"
+    },
+    {
       "number": "6",
       "title": "Vol 1 -  Chap 6",
       "url": "https://mangafire.to/read/satanica.20k5l/en/chapter-6"
@@ -84,5 +89,5 @@
       "url": "https://mangafire.to/read/satanica.20k5l/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:24:04Z"
+  "fetched_at": "2026-06-14T08:47:31Z"
 }

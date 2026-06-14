@@ -1,8 +1,8 @@
 {
   "slug": "mixx.mylz",
   "title": "MIX",
-  "cover": "https://static.mfcdn.nl/fb60/i/a/aa/aa8c70cc6bf905ffeffcee8c154c6e33@100.jpg",
-  "description": "MIX manga, read all chapters here, the latest chapter 157 is available. Read MIX raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/00d7/i/c/c1/c16e1001cb3224a133753383815a7397@100.jpg",
+  "description": "MIX manga, read all chapters here, the latest chapter 158 is available. Read MIX raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "158",
+      "title": "Vol 1 -  Chap 158",
+      "url": "https://mangafire.to/read/mixx.mylz/en/chapter-158"
+    },
     {
       "number": "157",
       "title": "Vol 1 -  Chap 157",
@@ -854,5 +859,5 @@
       "url": "https://mangafire.to/read/mixx.mylz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:12Z"
+  "fetched_at": "2026-06-14T08:47:24Z"
 }

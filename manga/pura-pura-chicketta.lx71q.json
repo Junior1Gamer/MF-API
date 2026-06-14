@@ -1,8 +1,8 @@
 {
   "slug": "pura-pura-chicketta.lx71q",
   "title": "Pura Pura Chicketta",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Pura Pura Chicketta manga, read all chapters here, the latest chapter 1 is available. Read Pura Pura Chicketta raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Pura Pura Chicketta manga, read all chapters here, the latest chapter 2 is available. Read Pura Pura Chicketta raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,10 +51,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/pura-pura-chicketta.lx71q/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/pura-pura-chicketta.lx71q/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:23:40Z"
+  "fetched_at": "2026-06-14T08:47:06Z"
 }

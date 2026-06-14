@@ -1,8 +1,8 @@
 {
   "slug": "gakuen-soshiki.wqk8k",
   "title": "Gakuen Soshiki",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Gakuen Soshiki manga, read all chapters here, the latest chapter 57 is available. Read Gakuen Soshiki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Gakuen Soshiki manga, read all chapters here, the latest chapter 62 is available. Read Gakuen Soshiki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,31 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "62",
+      "title": "Vol 0 -  Chap 62",
+      "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-62"
+    },
+    {
+      "number": "61",
+      "title": "Vol 0 -  Chap 61",
+      "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-61"
+    },
+    {
+      "number": "60",
+      "title": "Vol 0 -  Chap 60",
+      "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-60"
+    },
+    {
+      "number": "59",
+      "title": "Vol 0 -  Chap 59",
+      "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-59"
+    },
+    {
+      "number": "58",
+      "title": "Vol 0 -  Chap 58",
+      "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-58"
+    },
     {
       "number": "57",
       "title": "Vol 0 -  Chap 57",
@@ -336,5 +361,5 @@
       "url": "https://mangafire.to/read/gakuen-soshiki.wqk8k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:27:32Z"
+  "fetched_at": "2026-06-14T08:46:47Z"
 }

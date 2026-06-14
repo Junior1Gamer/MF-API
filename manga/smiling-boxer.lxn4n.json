@@ -1,8 +1,8 @@
 {
   "slug": "smiling-boxer.lxn4n",
   "title": "Smiling Boxer",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Smiling Boxer manga, read all chapters here, the latest chapter 41 is available. Read Smiling Boxer raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Smiling Boxer manga, read all chapters here, the latest chapter 43 is available. Read Smiling Boxer raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "43",
+      "title": "Chap 43",
+      "url": "https://mangafire.to/read/smiling-boxer.lxn4n/en/chapter-43"
+    },
+    {
+      "number": "42",
+      "title": "Chap 42",
+      "url": "https://mangafire.to/read/smiling-boxer.lxn4n/en/chapter-42"
+    },
     {
       "number": "41",
       "title": "Chap 41",
@@ -268,5 +278,5 @@
       "url": "https://mangafire.to/read/smiling-boxer.lxn4n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:23Z"
+  "fetched_at": "2026-06-14T08:48:17Z"
 }

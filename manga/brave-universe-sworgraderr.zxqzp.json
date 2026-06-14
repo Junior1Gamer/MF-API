@@ -1,8 +1,8 @@
 {
   "slug": "brave-universe-sworgraderr.zxqzp",
   "title": "Brave Universe Sworgrader",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Brave Universe Sworgrader manga, read all chapters here, the latest chapter 14 is available. Read Brave Universe Sworgrader raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Brave Universe Sworgrader manga, read all chapters here, the latest chapter 15 is available. Read Brave Universe Sworgrader raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Vol 2 -  Chap 15",
+      "url": "https://mangafire.to/read/brave-universe-sworgraderr.zxqzp/en/chapter-15"
+    },
     {
       "number": "14",
       "title": "Vol 2 -  Chap 14",
@@ -123,5 +128,5 @@
       "url": "https://mangafire.to/read/brave-universe-sworgraderr.zxqzp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:32:41Z"
+  "fetched_at": "2026-06-14T08:49:06Z"
 }

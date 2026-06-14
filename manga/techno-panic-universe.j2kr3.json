@@ -1,8 +1,8 @@
 {
   "slug": "techno-panic-universe.j2kr3",
   "title": "Techno Panic Universe",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Techno Panic Universe manga, read all chapters here, the latest chapter 1 is available. Read Techno Panic Universe raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Techno Panic Universe manga, read all chapters here, the latest chapter 1.5 is available. Read Techno Panic Universe raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,10 +52,15 @@
   ],
   "chapters": [
     {
+      "number": "1.5",
+      "title": "Chap 1.5",
+      "url": "https://mangafire.to/read/techno-panic-universe.j2kr3/en/chapter-1.5"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/techno-panic-universe.j2kr3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:27:52Z"
+  "fetched_at": "2026-06-14T08:47:49Z"
 }

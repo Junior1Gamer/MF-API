@@ -1,8 +1,8 @@
 {
   "slug": "witchriv.70327",
   "title": "WITCHRIV",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "WITCHRIV manga, read all chapters here, the latest chapter 28 is available. Read WITCHRIV raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "WITCHRIV manga, read all chapters here, the latest chapter 29 is available. Read WITCHRIV raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,8 +53,13 @@
   ],
   "chapters": [
     {
+      "number": "29",
+      "title": "Vol 1 -  Chap 29",
+      "url": "https://mangafire.to/read/witchriv.70327/en/chapter-29"
+    },
+    {
       "number": "28",
-      "title": "Vol 0 -  Chap 28",
+      "title": "Vol 1 -  Chap 28",
       "url": "https://mangafire.to/read/witchriv.70327/en/chapter-28"
     },
     {
@@ -193,5 +198,5 @@
       "url": "https://mangafire.to/read/witchriv.70327/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:24:36Z"
+  "fetched_at": "2026-06-14T08:48:04Z"
 }

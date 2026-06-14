@@ -1,8 +1,8 @@
 {
   "slug": "manga-lover.20p40",
   "title": "Manga Lover",
-  "cover": "https://static.mfcdn.nl/4812/i/f/f9/0b17f7f1f18590c9178fe29ee4dfd595@100.jpg",
-  "description": "Manga Lover manga, read all chapters here, the latest chapter 12 is available. Read Manga Lover raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
+  "description": "Manga Lover manga, read all chapters here, the latest chapter 13 is available. Read Manga Lover raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "13",
+      "title": "Vol 4 -  Chap 13",
+      "url": "https://mangafire.to/read/manga-lover.20p40/en/chapter-13"
+    },
     {
       "number": "12",
       "title": "Vol 3 -  Chap 12",
@@ -111,5 +116,5 @@
       "url": "https://mangafire.to/read/manga-lover.20p40/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-07T08:25:43Z"
+  "fetched_at": "2026-06-14T08:47:47Z"
 }
