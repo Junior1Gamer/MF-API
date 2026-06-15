@@ -1,8 +1,8 @@
 {
   "slug": "beyblade-xx.jpwn4",
   "title": "BEYBLADE X",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "BEYBLADE X manga, read all chapters here, the latest chapter 29 is available. Read BEYBLADE X raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6ba6/i/1/7a/d088edcb6df7738da33affa71bf56ea5@100.jpg",
+  "description": "BEYBLADE X manga, read all chapters here, the latest chapter 36 is available. Read BEYBLADE X raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,41 @@
     "Adventure"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Vol 0 -  Chap 36",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-36"
+    },
+    {
+      "number": "35",
+      "title": "Vol 0 -  Chap 35",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-35"
+    },
+    {
+      "number": "34",
+      "title": "Vol 0 -  Chap 34",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-34"
+    },
+    {
+      "number": "33",
+      "title": "Vol 0 -  Chap 33",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-33"
+    },
+    {
+      "number": "32",
+      "title": "Vol 0 -  Chap 32",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-32"
+    },
+    {
+      "number": "31",
+      "title": "Vol 0 -  Chap 31",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-31"
+    },
+    {
+      "number": "30",
+      "title": "Vol 0 -  Chap 30",
+      "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-30"
+    },
     {
       "number": "29",
       "title": "Vol 8 -  Chap 29",
@@ -282,5 +317,5 @@
       "url": "https://mangafire.to/read/beyblade-xx.jpwn4/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-08T09:28:06Z"
+  "fetched_at": "2026-06-15T10:52:28Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "hi-nichijo-kareshi.yj9l1",
   "title": "Hi Nichijo Kareshi",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Hi Nichijo Kareshi manga, read all chapters here, the latest chapter 2 is available. Read Hi Nichijo Kareshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6ba6/i/1/7a/d088edcb6df7738da33affa71bf56ea5@100.jpg",
+  "description": "Hi Nichijo Kareshi manga, read all chapters here, the latest chapter 3 is available. Read Hi Nichijo Kareshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
   ],
   "chapters": [
     {
+      "number": "3",
+      "title": "Chap 3",
+      "url": "https://mangafire.to/read/hi-nichijo-kareshi.yj9l1/en/chapter-3"
+    },
+    {
       "number": "2",
       "title": "Chap 2",
       "url": "https://mangafire.to/read/hi-nichijo-kareshi.yj9l1/en/chapter-2"
@@ -59,5 +64,5 @@
       "url": "https://mangafire.to/read/hi-nichijo-kareshi.yj9l1/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-08T09:27:28Z"
+  "fetched_at": "2026-06-15T10:52:24Z"
 }
