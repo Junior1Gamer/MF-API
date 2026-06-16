@@ -1,8 +1,8 @@
 {
   "slug": "shibuya-near-familyy.pr884",
   "title": "Shibuya Near Family",
-  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
-  "description": "Shibuya Near Family manga, read all chapters here, the latest chapter 160 is available. Read Shibuya Near Family raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Shibuya Near Family manga, read all chapters here, the latest chapter 161 is available. Read Shibuya Near Family raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "161",
+      "title": "Vol 6 -  Chap 161",
+      "url": "https://mangafire.to/read/shibuya-near-familyy.pr884/en/chapter-161"
+    },
     {
       "number": "160",
       "title": "Vol 6 -  Chap 160",
@@ -898,5 +903,5 @@
       "url": "https://mangafire.to/read/shibuya-near-familyy.pr884/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:27:19Z"
+  "fetched_at": "2026-06-16T09:57:17Z"
 }

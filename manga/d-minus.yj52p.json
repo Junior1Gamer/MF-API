@@ -1,8 +1,8 @@
 {
   "slug": "d-minus.yj52p",
   "title": "D Minus",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "D Minus manga, read all chapters here, the latest chapter 15 is available. Read D Minus raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "D Minus manga, read all chapters here, the latest chapter 16 is available. Read D Minus raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Chap 16",
+      "url": "https://mangafire.to/read/d-minus.yj52p/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Chap 15",
@@ -127,5 +132,5 @@
       "url": "https://mangafire.to/read/d-minus.yj52p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:26:16Z"
+  "fetched_at": "2026-06-16T09:59:00Z"
 }

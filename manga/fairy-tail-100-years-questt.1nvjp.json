@@ -1,8 +1,8 @@
 {
   "slug": "fairy-tail-100-years-questt.1nvjp",
   "title": "Fairy Tail: 100 Years Quest",
-  "cover": "https://static.mfcdn.nl/70d3/i/d/d2/d2e624434cdc4bb8048131a0d2b862c5@100.jpg",
-  "description": "Fairy Tail: 100 Years Quest manga, read all chapters here, the latest chapter 212 is available. Read Fairy Tail: 100 Years Quest raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8b40/i/2/2e/2e048468530b2de7fa64ed73c33ff0ad@100.jpg",
+  "description": "Fairy Tail: 100 Years Quest manga, read all chapters here, the latest chapter 213 is available. Read Fairy Tail: 100 Years Quest raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "213",
+      "title": "Vol 0 -  Chap 213",
+      "url": "https://mangafire.to/read/fairy-tail-100-years-questt.1nvjp/en/chapter-213"
+    },
     {
       "number": "212",
       "title": "Vol 0 -  Chap 212",
@@ -1181,5 +1186,5 @@
       "url": "https://mangafire.to/read/fairy-tail-100-years-questt.1nvjp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:27:19Z"
+  "fetched_at": "2026-06-16T09:59:22Z"
 }

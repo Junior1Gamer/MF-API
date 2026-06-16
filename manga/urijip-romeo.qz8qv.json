@@ -1,8 +1,8 @@
 {
   "slug": "urijip-romeo.qz8qv",
   "title": "Urijip Romeo",
-  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
-  "description": "Urijip Romeo manga, read all chapters here, the latest chapter 44 is available. Read Urijip Romeo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Urijip Romeo manga, read all chapters here, the latest chapter 45 is available. Read Urijip Romeo raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "45",
+      "title": "Chap 45",
+      "url": "https://mangafire.to/read/urijip-romeo.qz8qv/en/chapter-45"
+    },
     {
       "number": "44",
       "title": "Chap 44",
@@ -272,5 +277,5 @@
       "url": "https://mangafire.to/read/urijip-romeo.qz8qv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:25:36Z"
+  "fetched_at": "2026-06-16T09:58:19Z"
 }

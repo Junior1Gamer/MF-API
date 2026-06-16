@@ -1,8 +1,8 @@
 {
   "slug": "witch-hunterr.37r8",
   "title": "Witch Hunter",
-  "cover": "https://static.mfcdn.nl/9fff/i/3/32/321832d4c29cbb69db51352f1c32d60c@100.jpg",
-  "description": "Witch Hunter manga, read all chapters here, the latest chapter 244 is available. Read Witch Hunter raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5607/i/b/bd/bd4c8daf04120a2356bee73e1c2de0e1@100.jpg",
+  "description": "Witch Hunter manga, read all chapters here, the latest chapter 245 is available. Read Witch Hunter raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "245",
+      "title": "Vol 24 -  Chap 245",
+      "url": "https://mangafire.to/read/witch-hunterr.37r8/en/chapter-245"
+    },
     {
       "number": "244",
       "title": "Vol 24 -  Chap 244",
@@ -1282,5 +1287,5 @@
       "url": "https://mangafire.to/read/witch-hunterr.37r8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:31:21Z"
+  "fetched_at": "2026-06-16T09:59:13Z"
 }

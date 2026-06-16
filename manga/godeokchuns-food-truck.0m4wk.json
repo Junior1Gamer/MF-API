@@ -1,8 +1,8 @@
 {
   "slug": "godeokchuns-food-truck.0m4wk",
   "title": "Godeokchun's Food Truck",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Godeokchun's Food Truck manga, read all chapters here, the latest chapter 35 is available. Read Godeokchun's Food Truck raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Godeokchun's Food Truck manga, read all chapters here, the latest chapter 36 is available. Read Godeokchun's Food Truck raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "36",
+      "title": "Chap 36",
+      "url": "https://mangafire.to/read/godeokchuns-food-truck.0m4wk/en/chapter-36"
+    },
     {
       "number": "35",
       "title": "Chap 35",
@@ -228,5 +233,5 @@
       "url": "https://mangafire.to/read/godeokchuns-food-truck.0m4wk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:24:22Z"
+  "fetched_at": "2026-06-16T09:54:55Z"
 }

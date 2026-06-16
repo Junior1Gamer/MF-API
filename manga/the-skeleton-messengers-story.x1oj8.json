@@ -1,8 +1,8 @@
 {
   "slug": "the-skeleton-messengers-story.x1oj8",
   "title": "The Tale of the Skeleton Messenger",
-  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
-  "description": "The Tale of the Skeleton Messenger manga, read all chapters here, the latest chapter 37 is available. Read The Tale of the Skeleton Messenger raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "The Tale of the Skeleton Messenger manga, read all chapters here, the latest chapter 38 is available. Read The Tale of the Skeleton Messenger raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/the-skeleton-messengers-story.x1oj8/en/chapter-38"
+    },
     {
       "number": "37",
       "title": "Chap 37",
@@ -247,5 +252,5 @@
       "url": "https://mangafire.to/read/the-skeleton-messengers-story.x1oj8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:30:32Z"
+  "fetched_at": "2026-06-16T09:58:27Z"
 }

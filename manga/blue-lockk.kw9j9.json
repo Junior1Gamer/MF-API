@@ -1,7 +1,7 @@
 {
   "slug": "blue-lockk.kw9j9",
   "title": "Blue Lock",
-  "cover": "https://static.mfcdn.nl/2996/i/2/25/257add512769cfccc9806c624e862d91@100.jpg",
+  "cover": "https://static.mfcdn.nl/4a7e/i/f/fa/fa95eb56014e3434341c2cbe84ddc6ba@100.jpg",
   "description": "Blue Lock manga, read all chapters here, the latest chapter 349 is available. Read Blue Lock raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -52,6 +52,11 @@
     "Sports"
   ],
   "chapters": [
+    {
+      "number": "349",
+      "title": "Vol 0 -  Chap 349",
+      "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-349"
+    },
     {
       "number": "348",
       "title": "Vol 0 -  Chap 348",
@@ -1853,5 +1858,5 @@
       "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:22:24Z"
+  "fetched_at": "2026-06-16T10:00:22Z"
 }

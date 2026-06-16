@@ -1,8 +1,8 @@
 {
   "slug": "tate-no-yuusha-no-nariagarii.9o8",
   "title": "The Rising of the Shield Hero",
-  "cover": "https://static.mfcdn.nl/9072/i/4/4e/4e4fd68e018c0a14c1a4be213d311faa@100.jpg",
-  "description": "The Rising of the Shield Hero manga, read all chapters here, the latest chapter 124 is available. Read The Rising of the Shield Hero raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a358/i/1/17/17953d090d55b947ce3ff77c2da4a391@100.jpg",
+  "description": "The Rising of the Shield Hero manga, read all chapters here, the latest chapter 125 is available. Read The Rising of the Shield Hero raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "125",
+      "title": "Vol 31 -  Chap 125",
+      "url": "https://mangafire.to/read/tate-no-yuusha-no-nariagarii.9o8/en/chapter-125"
+    },
     {
       "number": "124",
       "title": "Vol 30 -  Chap 124",
@@ -921,5 +926,5 @@
       "url": "https://mangafire.to/read/tate-no-yuusha-no-nariagarii.9o8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:40:20Z"
+  "fetched_at": "2026-06-16T09:59:42Z"
 }

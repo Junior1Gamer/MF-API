@@ -1,8 +1,8 @@
 {
   "slug": "honey-bear.1qp5w",
   "title": "Honey Bear",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Honey Bear manga, read all chapters here, the latest chapter 95 is available. Read Honey Bear raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Honey Bear manga, read all chapters here, the latest chapter 97 is available. Read Honey Bear raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "97",
+      "title": "Chap 97",
+      "url": "https://mangafire.to/read/honey-bear.1qp5w/en/chapter-97"
+    },
+    {
+      "number": "96",
+      "title": "Chap 96",
+      "url": "https://mangafire.to/read/honey-bear.1qp5w/en/chapter-96"
+    },
     {
       "number": "95",
       "title": "Chap 95",
@@ -295,6 +305,11 @@
       "number": "86",
       "title": "Chap 86",
       "url": "https://mangafire.to/read/honey-bear.1qp5w/en/chapter-86"
+    },
+    {
+      "number": "85.1",
+      "title": "Chap 85.1",
+      "url": "https://mangafire.to/read/honey-bear.1qp5w/en/chapter-85.1"
     },
     {
       "number": "85",
@@ -827,5 +842,5 @@
       "url": "https://mangafire.to/read/honey-bear.1qp5w/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:29:37Z"
+  "fetched_at": "2026-06-16T09:57:06Z"
 }

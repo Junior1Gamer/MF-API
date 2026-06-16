@@ -1,8 +1,8 @@
 {
   "slug": "game-of-familia-kazoku-senkii.ll85n",
   "title": "Game of Familia: Kazoku Senki",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Game of Familia: Kazoku Senki manga, read all chapters here, the latest chapter 82 is available. Read Game of Familia: Kazoku Senki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Game of Familia: Kazoku Senki manga, read all chapters here, the latest chapter 83 is available. Read Game of Familia: Kazoku Senki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "83",
+      "title": "Vol 0 -  Chap 83",
+      "url": "https://mangafire.to/read/game-of-familia-kazoku-senkii.ll85n/en/chapter-83"
+    },
     {
       "number": "82",
       "title": "Vol 17 -  Chap 82",
@@ -481,5 +486,5 @@
       "url": "https://mangafire.to/read/game-of-familia-kazoku-senkii.ll85n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:33:41Z"
+  "fetched_at": "2026-06-16T09:58:20Z"
 }

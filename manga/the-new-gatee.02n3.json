@@ -1,8 +1,8 @@
 {
   "slug": "the-new-gatee.02n3",
   "title": "The New Gate",
-  "cover": "https://static.mfcdn.nl/cc8f/i/b/b7/b73cb10b6516a2d79032be102d822fc4@100.jpg",
-  "description": "The New Gate manga, read all chapters here, the latest chapter 123 is available. Read The New Gate raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/7813/i/f/f5/f560cb7fd1988325107712514d3bec95@100.jpg",
+  "description": "The New Gate manga, read all chapters here, the latest chapter 124 is available. Read The New Gate raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "124",
+      "title": "Vol 17 -  Chap 124",
+      "url": "https://mangafire.to/read/the-new-gatee.02n3/en/chapter-124"
+    },
     {
       "number": "123",
       "title": "Vol 0 -  Chap 123",
@@ -732,5 +737,5 @@
       "url": "https://mangafire.to/read/the-new-gatee.02n3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:27:15Z"
+  "fetched_at": "2026-06-16T09:58:56Z"
 }

@@ -2,7 +2,7 @@
   "slug": "choujin-xx.oj985",
   "title": "Choujin X",
   "cover": "https://static.mfcdn.nl/50fd/i/b/ba/ba0c0c3058b7befd103265143f7fca23@100.jpg",
-  "description": "Choujin X manga, read all chapters here, the latest chapter 72.3 is available. Read Choujin X raw, multiple language. READ NOW!!",
+  "description": "Choujin X manga, read all chapters here, the latest chapter 73 is available. Read Choujin X raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "73",
+      "title": "Vol 13 -  Chap 73",
+      "url": "https://mangafire.to/read/choujin-xx.oj985/en/chapter-73"
+    },
     {
       "number": "72.3",
       "title": "Vol 13 -  Chap 72.3",
@@ -826,5 +831,5 @@
       "url": "https://mangafire.to/read/choujin-xx.oj985/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:27:15Z"
+  "fetched_at": "2026-06-16T09:58:45Z"
 }

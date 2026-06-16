@@ -1,8 +1,8 @@
 {
   "slug": "oishinbo.30vv2",
   "title": "Oishinbo",
-  "cover": "https://static.mfcdn.nl/5f6b/i/f/f6/f6650c1debd3e28083c96ca1d5d00876@100.jpg",
-  "description": "Oishinbo manga, read all chapters here, the latest chapter 296 is available. Read Oishinbo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/fdac/i/3/36/36d701951bf620543fe18f6893760aff@100.jpg",
+  "description": "Oishinbo manga, read all chapters here, the latest chapter 298 is available. Read Oishinbo raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "298",
+      "title": "Vol 32 -  Chap 298",
+      "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-298"
+    },
+    {
+      "number": "297",
+      "title": "Vol 32 -  Chap 297",
+      "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-297"
+    },
     {
       "number": "296",
       "title": "Vol 32 -  Chap 296",
@@ -1538,5 +1548,5 @@
       "url": "https://mangafire.to/read/oishinbo.30vv2/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:22:43Z"
+  "fetched_at": "2026-06-16T09:56:47Z"
 }

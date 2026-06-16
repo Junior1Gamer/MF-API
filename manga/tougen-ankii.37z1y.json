@@ -1,8 +1,8 @@
 {
   "slug": "tougen-ankii.37z1y",
   "title": "Tougen Anki",
-  "cover": "https://static.mfcdn.nl/c057/i/c/c7/e988e486bb925872053f1ab8677ca026@100.jpg",
-  "description": "Tougen Anki manga, read all chapters here, the latest chapter 272 is available. Read Tougen Anki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/27f0/i/9/97/97547986f9877743e05c70ff6a173351@100.jpg",
+  "description": "Tougen Anki manga, read all chapters here, the latest chapter 273 is available. Read Tougen Anki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -57,6 +57,11 @@
   ],
   "chapters": [
     {
+      "number": "273",
+      "title": "Vol 31 -  Chap 273",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-273"
+    },
+    {
       "number": "272",
       "title": "Vol 31 -  Chap 272",
       "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-272"
@@ -90,6 +95,51 @@
       "number": "266",
       "title": "Vol 31 -  Chap 266",
       "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-266"
+    },
+    {
+      "number": "256",
+      "title": "Vol 29 -  Chap 256",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-256"
+    },
+    {
+      "number": "255",
+      "title": "Vol 29 -  Chap 255",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-255"
+    },
+    {
+      "number": "254",
+      "title": "Vol 29 -  Chap 254",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-254"
+    },
+    {
+      "number": "253",
+      "title": "Vol 29 -  Chap 253",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-253"
+    },
+    {
+      "number": "252",
+      "title": "Vol 29 -  Chap 252",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-252"
+    },
+    {
+      "number": "251",
+      "title": "Vol 29 -  Chap 251",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-251"
+    },
+    {
+      "number": "250",
+      "title": "Vol 29 -  Chap 250",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-250"
+    },
+    {
+      "number": "249",
+      "title": "Vol 29 -  Chap 249",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-249"
+    },
+    {
+      "number": "248",
+      "title": "Vol 29 -  Chap 248",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-248"
     },
     {
       "number": "242",
@@ -1312,5 +1362,5 @@
       "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:24:04Z"
+  "fetched_at": "2026-06-16T09:58:00Z"
 }

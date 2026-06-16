@@ -1,8 +1,8 @@
 {
   "slug": "tonikaku-kawaiii.zl113",
   "title": "Fly Me to the Moon",
-  "cover": "https://static.mfcdn.nl/2642/i/d/da/dac74acc2ac01721e10a29bcb14f49ec@100.jpg",
-  "description": "Fly Me to the Moon manga, read all chapters here, the latest chapter 349 is available. Read Fly Me to the Moon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/44ee/i/b/b2/b21e166d1a61b838d4fcd44318df56e5@100.jpg",
+  "description": "Fly Me to the Moon manga, read all chapters here, the latest chapter 350 is available. Read Fly Me to the Moon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "350",
+      "title": "Vol 0 -  Chap 350",
+      "url": "https://mangafire.to/read/tonikaku-kawaiii.zl113/en/chapter-350"
+    },
     {
       "number": "349",
       "title": "Vol 0 -  Chap 349",
@@ -2455,5 +2460,5 @@
       "url": "https://mangafire.to/read/tonikaku-kawaiii.zl113/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:26:35Z"
+  "fetched_at": "2026-06-16T09:59:21Z"
 }

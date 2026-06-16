@@ -1,8 +1,8 @@
 {
   "slug": "run-away-from-mee.oxr4y",
   "title": "Run Away, From Me",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Run Away, From Me manga, read all chapters here, the latest chapter 94 is available. Read Run Away, From Me raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Run Away, From Me manga, read all chapters here, the latest chapter 95 is available. Read Run Away, From Me raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "95",
+      "title": "Chap 95",
+      "url": "https://mangafire.to/read/run-away-from-mee.oxr4y/en/chapter-95"
+    },
     {
       "number": "94",
       "title": "Chap 94",
@@ -523,5 +528,5 @@
       "url": "https://mangafire.to/read/run-away-from-mee.oxr4y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:26:47Z"
+  "fetched_at": "2026-06-16T09:59:29Z"
 }

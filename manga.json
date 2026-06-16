@@ -1,21 +1,1341 @@
 [
   {
-    "slug": "fog-land.mj46z",
-    "title": "Fog Land",
-    "cover": "https://static.mfcdn.nl/9b3e/i/5/60/7d6ac0374240fe7405208e0b9d29d700.jpg",
-    "url": "https://mangafire.to/manga/fog-land.mj46z"
+    "slug": "osananajimi-wo-miru-me-ga-kawatte-shimatta2.kx654",
+    "title": "Osananajimi wo Miru Me ga Kawatte Shimatta",
+    "cover": "https://static.mfcdn.nl/ae18/i/1/21/241482dad33b4f44d25d5544f7af5ccc.jpg",
+    "url": "https://mangafire.to/manga/osananajimi-wo-miru-me-ga-kawatte-shimatta2.kx654"
   },
   {
-    "slug": "i-was-the-final-boss.roykn",
-    "title": "I Was the Final Boss",
-    "cover": "https://static.mfcdn.nl/f28c/i/5/95/25f866b1a6cc1bf7db6f325dcddc1486.jpg",
-    "url": "https://mangafire.to/manga/i-was-the-final-boss.roykn"
+    "slug": "i-obtained-a-mythic-itemm.8035n",
+    "title": "Mythic Item Obtained",
+    "cover": "https://static.mfcdn.nl/47b2/i/1/14/1426c3be50ade13101b8be39ea07ba2a.jpg",
+    "url": "https://mangafire.to/manga/i-obtained-a-mythic-itemm.8035n"
+  },
+  {
+    "slug": "healing-agency.qz9yj",
+    "title": "Healing Agency",
+    "cover": "https://static.mfcdn.nl/fbb8/i/7/c2/456d7b3a9c928431a2edc805a7aa96ef.jpg",
+    "url": "https://mangafire.to/manga/healing-agency.qz9yj"
+  },
+  {
+    "slug": "boredom-alert.j20y3",
+    "title": "Boredom Alert",
+    "cover": "https://static.mfcdn.nl/ce39/i/7/57/f22a847d58ee6ed7b37577564f983ae8.jpg",
+    "url": "https://mangafire.to/manga/boredom-alert.j20y3"
+  },
+  {
+    "slug": "zatsuyou-fuyojutsushi-ga-jibun-no-saikyou-ni-kidzuku-madee.0qmr7",
+    "title": "Magical Buffs: The Support Caster is Stronger Than He Realized",
+    "cover": "https://static.mfcdn.nl/3c5b/i/d/d1/d1a1f91bfb1a9fb8596e2a7c2f5f8543.jpg",
+    "url": "https://mangafire.to/manga/zatsuyou-fuyojutsushi-ga-jibun-no-saikyou-ni-kidzuku-madee.0qmr7"
+  },
+  {
+    "slug": "cheonmayukseongg.2o1m4",
+    "title": "Murim RPG Simulation",
+    "cover": "https://static.mfcdn.nl/6455/i/1/10/10b229f975ceaf809754408a178f0faf.jpg",
+    "url": "https://mangafire.to/manga/cheonmayukseongg.2o1m4"
+  },
+  {
+    "slug": "jungjeungoesang-center-oegwauisa-baek-kang-hyeok.j2572",
+    "title": "Trauma Center: Dr. Baek",
+    "cover": "https://static.mfcdn.nl/584a/i/f/19/7cdc0477614c5d95e1bddec7d48e1b2e.jpg",
+    "url": "https://mangafire.to/manga/jungjeungoesang-center-oegwauisa-baek-kang-hyeok.j2572"
+  },
+  {
+    "slug": "shodai-sama-no-kikan-shijou-saikyou-ga-1000-nen-go-no-shison-ni-tensei-suru.qz2vv",
+    "title": "Return of the First Patriarch: The Strongest Reincarnates into His Descendant 1000 Years Later",
+    "cover": "https://static.mfcdn.nl/5afc/i/8/e3/7f0e89d25698b4185b52020a18d5f174.jpg",
+    "url": "https://mangafire.to/manga/shodai-sama-no-kikan-shijou-saikyou-ga-1000-nen-go-no-shison-ni-tensei-suru.qz2vv"
+  },
+  {
+    "slug": "joou-no-rakuin-horobi-no-kuni-no-yotogi-miko.x1o03",
+    "title": "Joou no Rakuin: Horobi no Kuni no Yotogi Miko",
+    "cover": "https://static.mfcdn.nl/5533/i/d/c1/4df1a76dd511f255e9486dc4da2e7f79.jpg",
+    "url": "https://mangafire.to/manga/joou-no-rakuin-horobi-no-kuni-no-yotogi-miko.x1o03"
+  },
+  {
+    "slug": "dungeon-haishin-wo-kiriwasurerta-yuumei-haishinsha-wo-tasuketara-densetsu-no-tansakusha-toshite-bazuri-hajimeta-inkya-no-ore-nazo-skill-da-to-omotteita-rule-mushi-de-ukkari-musou.x1rpz",
+    "title": "Dungeon Haishin wo Kiriwasurerta Yuumei Haishinsha wo Tasuketara, Densetsu no Tansakusha toshite Bazuri Hajimeta: Inkya no Ore, Nazo Skill da to Omotteita \"Rule Mushi\" de Ukkari Musou",
+    "cover": "https://static.mfcdn.nl/d17c/i/3/c7/edf53d8e798f2f22f77f84ccfaac2c14.jpg",
+    "url": "https://mangafire.to/manga/dungeon-haishin-wo-kiriwasurerta-yuumei-haishinsha-wo-tasuketara-densetsu-no-tansakusha-toshite-bazuri-hajimeta-inkya-no-ore-nazo-skill-da-to-omotteita-rule-mushi-de-ukkari-musou.x1rpz"
+  },
+  {
+    "slug": "genius-hitter-hits-fastballl.qnoqw",
+    "title": "Genius Hitter Hits Fastball",
+    "cover": "https://static.mfcdn.nl/7e55/i/3/3a/1c33226eb9c48fd6a708219327528155.jpg",
+    "url": "https://mangafire.to/manga/genius-hitter-hits-fastballl.qnoqw"
+  },
+  {
+    "slug": "musou-no-kaitaishii.qnoxj",
+    "title": "Musou no Kaitaishi",
+    "cover": "https://static.mfcdn.nl/8fbd/i/5/50/af95972143ac5127ea8034dd0b279e88.jpg",
+    "url": "https://mangafire.to/manga/musou-no-kaitaishii.qnoxj"
+  },
+  {
+    "slug": "apocalyptic-chef-awakeningg.lr25n",
+    "title": "Apocalyptic Chef Awakening",
+    "cover": "https://static.mfcdn.nl/423e/i/d/db/db34ec4da61a5bc828641dd459d444ff.jpg",
+    "url": "https://mangafire.to/manga/apocalyptic-chef-awakeningg.lr25n"
+  },
+  {
+    "slug": "boukenka-ni-narou-skill-board-de-dungeon-kouryakuu.v5j1l",
+    "title": "CALL TO ADVENTURE! Defeating Dungeons with a Skill Board",
+    "cover": "https://static.mfcdn.nl/782c/i/5/58/58e0336f778c41b338dec8de272b18c2.jpg",
+    "url": "https://mangafire.to/manga/boukenka-ni-narou-skill-board-de-dungeon-kouryakuu.v5j1l"
+  },
+  {
+    "slug": "otome-kaijuu-caramelizee.l3pjz",
+    "title": "Kaiju Girl Caramelise",
+    "cover": "https://static.mfcdn.nl/7c3b/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
+    "url": "https://mangafire.to/manga/otome-kaijuu-caramelizee.l3pjz"
+  },
+  {
+    "slug": "ore-wa-seikan-kokka-no-akutoku-ryoshuu.9oz2n",
+    "title": "I’m the Evil Lord of an Intergalactic Empire!",
+    "cover": "https://static.mfcdn.nl/d37c/i/a/af/afd5f7b0f7df8343e15137be074e41bf.jpg",
+    "url": "https://mangafire.to/manga/ore-wa-seikan-kokka-no-akutoku-ryoshuu.9oz2n"
+  },
+  {
+    "slug": "this-emperor-commits-marriage-fraud.0mwx3",
+    "title": "This Emperor Commits Marriage Fraud",
+    "cover": "https://static.mfcdn.nl/caf9/i/1/c7/eb67df35a25af0c29a4b8ef225252951.jpg",
+    "url": "https://mangafire.to/manga/this-emperor-commits-marriage-fraud.0mwx3"
+  },
+  {
+    "slug": "i-faked-a-pregnancy-but-my-husband-returned.5wj9m",
+    "title": "I Faked a Pregnancy, but My Husband Returned",
+    "cover": "https://static.mfcdn.nl/cee2/i/d/aa/9151d1fa24577e44f88d3e89798dfd54.jpg",
+    "url": "https://mangafire.to/manga/i-faked-a-pregnancy-but-my-husband-returned.5wj9m"
+  },
+  {
+    "slug": "shachiku-tamer-kawaii-slime-no-okage-de-mujikaku-na-mama-musou-suru-ukkari-kokunai-top-no-haishin-ni-utsurikonde-saikyou-ga-baremashita.wq3kk",
+    "title": "Shachiku Tamer, I'm Unconsciously Unmatched Thanks to My Cute Slime.",
+    "cover": "https://static.mfcdn.nl/3a6a/i/e/d3/a9336b3ae013bea29e0750729ff43591.jpg",
+    "url": "https://mangafire.to/manga/shachiku-tamer-kawaii-slime-no-okage-de-mujikaku-na-mama-musou-suru-ukkari-kokunai-top-no-haishin-ni-utsurikonde-saikyou-ga-baremashita.wq3kk"
+  },
+  {
+    "slug": "godeokchuns-food-truck.0m4wk",
+    "title": "Godeokchun's Food Truck",
+    "cover": "https://static.mfcdn.nl/0453/i/5/75/9a668ce122fb852614e0a6a433d97307.jpg",
+    "url": "https://mangafire.to/manga/godeokchuns-food-truck.0m4wk"
+  },
+  {
+    "slug": "isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-moto-eiyuu-wa-ai-omome-na-nakama-to-heiwa-ni-kurashitai.pm156",
+    "title": "Isekai Summoner, Shinwa no Kaibutsu-tachi to Gendai de Musou suru: Uragirareta Moto Eiyuu wa, Ai Omome na Nakama to Heiwa ni Kurashitai",
+    "cover": "https://static.mfcdn.nl/6043/i/d/49/5ae8ea03305c9beeae5d0193d7a04607.jpg",
+    "url": "https://mangafire.to/manga/isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-moto-eiyuu-wa-ai-omome-na-nakama-to-heiwa-ni-kurashitai.pm156"
+  },
+  {
+    "slug": "the-reason-why-that-villainess-picked-up-a-sword.301q8",
+    "title": "The Reason Why That Villainess Picked up a Sword",
+    "cover": "https://static.mfcdn.nl/3488/i/1/92/0b8cc6d09ffd8fa1f104aeb6a16f9a3b.jpg",
+    "url": "https://mangafire.to/manga/the-reason-why-that-villainess-picked-up-a-sword.301q8"
+  },
+  {
+    "slug": "iljin-demonic-cult.0mq0k",
+    "title": "Iljin Demonic Cult",
+    "cover": "https://static.mfcdn.nl/8ba2/i/7/2f/156d642c6d9cc18e2f4e64642f473e3f.jpg",
+    "url": "https://mangafire.to/manga/iljin-demonic-cult.0mq0k"
+  },
+  {
+    "slug": "blood-demon-reincarnation.rolrn",
+    "title": "Blood Demon Reincarnation",
+    "cover": "https://static.mfcdn.nl/d005/i/f/69/f3ddf637f5ecbb8a0681be90c2634e0c.jpg",
+    "url": "https://mangafire.to/manga/blood-demon-reincarnation.rolrn"
+  },
+  {
+    "slug": "the-billion-luck-player.82kqq",
+    "title": "The Billion-Luck Player",
+    "cover": "https://static.mfcdn.nl/fbcb/i/1/7d/be39599c8c2d3f26692acaf9fe209214.jpg",
+    "url": "https://mangafire.to/manga/the-billion-luck-player.82kqq"
+  },
+  {
+    "slug": "saijaku-na-boku-wa-kabenuke-bugs-de-nariagaruu.3pyo9",
+    "title": "Saijaku na Boku wa \"Kabenuke Bugs\" de Nariagaru",
+    "cover": "https://static.mfcdn.nl/2ef4/i/9/97/97ad213a13e933205ba8010d9812e5ab.jpg",
+    "url": "https://mangafire.to/manga/saijaku-na-boku-wa-kabenuke-bugs-de-nariagaruu.3pyo9"
+  },
+  {
+    "slug": "kasugai-kun-wa-mousou-jk-to-xx-shitaii.2pzm2",
+    "title": "Kasugai-kun wa, Mousou JK to XX shitai",
+    "cover": "https://static.mfcdn.nl/e4f2/i/7/70/706cc1596195997d8b22f9fe10ddd836.jpg",
+    "url": "https://mangafire.to/manga/kasugai-kun-wa-mousou-jk-to-xx-shitaii.2pzm2"
+  },
+  {
+    "slug": "do-you-think-someone-like-you-could-defeat-the-demon-lordd.6vvj9",
+    "title": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "cover": "https://static.mfcdn.nl/2223/i/3/3d/3df51546fe74acbf919fbaa2e1fbc08b.jpg",
+    "url": "https://mangafire.to/manga/do-you-think-someone-like-you-could-defeat-the-demon-lordd.6vvj9"
+  },
+  {
+    "slug": "god-of-martial-artss.02k13",
+    "title": "God of Martial Arts (Colored)",
+    "cover": "https://static.mfcdn.nl/62ca/i/0/05/055bb66855f4597bf2a91b03fd80e7ac.jpg",
+    "url": "https://mangafire.to/manga/god-of-martial-artss.02k13"
+  },
+  {
+    "slug": "skip-and-loaferr.ojj48",
+    "title": "Skip and Loafer",
+    "cover": "https://static.mfcdn.nl/59bc/i/c/c3/c37fbf3fd3016681a62e1a06cbc6526c.jpg",
+    "url": "https://mangafire.to/manga/skip-and-loaferr.ojj48"
+  },
+  {
+    "slug": "ice-ice-babyy.lvnn",
+    "title": "Ice Ice Baby",
+    "cover": "https://static.mfcdn.nl/5805/i/8/89/89127259180d05dfb5608840ef9b249f.jpg",
+    "url": "https://mangafire.to/manga/ice-ice-babyy.lvnn"
+  },
+  {
+    "slug": "moto-saikyou-boukensha-no-rojiura-caffe-nonbiri-kaigyouroku2.60kj7",
+    "title": "Moto Saikyou Boukensha no Rojiura Caffe Nonbiri Kaigyouroku",
+    "cover": "https://static.mfcdn.nl/94d0/i/8/76/6d84dceed438833bd535cc6b4fdef810.jpg",
+    "url": "https://mangafire.to/manga/moto-saikyou-boukensha-no-rojiura-caffe-nonbiri-kaigyouroku2.60kj7"
+  },
+  {
+    "slug": "saikyou-shoukanshi-wa-arasa-ossan-card-wo-oya-ni-shobun-sareta-card-gamer-no-isekai-musou.82q8o",
+    "title": "Saikyou Shoukanshi wa Arasa Ossan: Card wo Oya ni Shobun sareta Card Gamer no Isekai Musou",
+    "cover": "https://static.mfcdn.nl/40b1/i/b/d2/b5a0e2ebfd69e6df76ba3f69d853a74e.jpg",
+    "url": "https://mangafire.to/manga/saikyou-shoukanshi-wa-arasa-ossan-card-wo-oya-ni-shobun-sareta-card-gamer-no-isekai-musou.82q8o"
+  },
+  {
+    "slug": "doumo-butsuyoku-no-seijo-desu-musou-skill-clear-houshuu-de-seidai-ni-kanchigai-saremashita.82qzv",
+    "title": "Doumo, Butsuyoku no Seijo desu: Musou Skill [Clear Houshuu] de Seidai ni Kanchigai Saremashita",
+    "cover": "https://static.mfcdn.nl/b8e3/i/d/2c/62bdc6774c431dcabca293d90cd115d1.jpg",
+    "url": "https://mangafire.to/manga/doumo-butsuyoku-no-seijo-desu-musou-skill-clear-houshuu-de-seidai-ni-kanchigai-saremashita.82qzv"
+  },
+  {
+    "slug": "wakiyaku-ni-tensei-shita-hazu-ga-itsunomanika-densetsu-no-renkinjutsushi-ni-natteta-nakama-tachi-ga-eiyuu-demo-ore-wa-shienshoku-nanda-ga.yj58p",
+    "title": "I Should Have Been Reincarnated as a Supporting Role, but Before I Knew It, I Had Become a Legendary Alchemist.",
+    "cover": "https://static.mfcdn.nl/2e30/i/c/d1/09edd2e3f0cc2c0de2dbbaaddacce257.jpg",
+    "url": "https://mangafire.to/manga/wakiyaku-ni-tensei-shita-hazu-ga-itsunomanika-densetsu-no-renkinjutsushi-ni-natteta-nakama-tachi-ga-eiyuu-demo-ore-wa-shienshoku-nanda-ga.yj58p"
+  },
+  {
+    "slug": "shiitagerareta-tsuihou-oujo-wa-tenseishita-densetsu-no-majo-deshita.0m15r",
+    "title": "The Legendary Witch Is Reborn as an Oppressed Princess",
+    "cover": "https://static.mfcdn.nl/e608/i/a/06/80cf8e64e679e572e87ecca1c7f02aa4.jpg",
+    "url": "https://mangafire.to/manga/shiitagerareta-tsuihou-oujo-wa-tenseishita-densetsu-no-majo-deshita.0m15r"
+  },
+  {
+    "slug": "eternal-youth.wq3jl",
+    "title": "Eternal Youth",
+    "cover": "https://static.mfcdn.nl/0969/i/3/82/e97b8b1e7c91d9c12c5d1a94d26e43f9.jpg",
+    "url": "https://mangafire.to/manga/eternal-youth.wq3jl"
+  },
+  {
+    "slug": "club-knights.ro89y",
+    "title": "Club Knights",
+    "cover": "https://static.mfcdn.nl/0b76/i/6/c4/2648cda39889130063673c4aea2d16c0.jpg",
+    "url": "https://mangafire.to/manga/club-knights.ro89y"
+  },
+  {
+    "slug": "the-18-year-old-demon-king.yj04z",
+    "title": "The 18-Year Old Demon King",
+    "cover": "https://static.mfcdn.nl/7106/i/c/9a/2f92eaf9f76b53584ebfb295ab0a6d92.jpg",
+    "url": "https://mangafire.to/manga/the-18-year-old-demon-king.yj04z"
+  },
+  {
+    "slug": "haiiro-no-asshu-teikokukishi-dan-o-kubi-ni-natta-ore-wa-dungeon-toshi-de-haiiro-no-jinsei-o-hikkurikaesu.yj01j",
+    "title": "Gray Ash: The Exiled Imperial Knight’s Rise in the Dungeon Kingdom",
+    "cover": "https://static.mfcdn.nl/9b65/i/4/9e/3ba80cf0aeae1877faa57138fba42eed.jpg",
+    "url": "https://mangafire.to/manga/haiiro-no-asshu-teikokukishi-dan-o-kubi-ni-natta-ore-wa-dungeon-toshi-de-haiiro-no-jinsei-o-hikkurikaesu.yj01j"
+  },
+  {
+    "slug": "i-was-reincarnated-as-king-danjongs-nanny.x1zjv",
+    "title": "I Was Reincarnated as King Danjong's Nanny",
+    "cover": "https://static.mfcdn.nl/aa2d/i/1/66/028fd91c875ee5a6607493a3f8e24778.jpg",
+    "url": "https://mangafire.to/manga/i-was-reincarnated-as-king-danjongs-nanny.x1zjv"
+  },
+  {
+    "slug": "underboxer2.82l4y",
+    "title": "Underboxer",
+    "cover": "https://static.mfcdn.nl/8f45/i/7/ae/1c798e81b498b4acedfd0aff3c41a3d9.jpg",
+    "url": "https://mangafire.to/manga/underboxer2.82l4y"
+  },
+  {
+    "slug": "defense-breaker.pmwoq",
+    "title": "Defense Breaker",
+    "cover": "https://static.mfcdn.nl/5812/i/b/68/7d0906a0039e909c43c3579d7515d30b.jpg",
+    "url": "https://mangafire.to/manga/defense-breaker.pmwoq"
+  },
+  {
+    "slug": "happy-face-from-slave-to-arena-legend.17qzm",
+    "title": "Happy Face: From Slave to Arena Legend",
+    "cover": "https://static.mfcdn.nl/33dc/i/f/d8/fd1e42bee4a8390250c3edfdd5307bed.jpg",
+    "url": "https://mangafire.to/manga/happy-face-from-slave-to-arena-legend.17qzm"
+  },
+  {
+    "slug": "prosecutor-who-doesnt-know-the-laww.lr08q",
+    "title": "Prosecutor Who Doesn't Know the Law",
+    "cover": "https://static.mfcdn.nl/99ad/i/4/40/5ba5edb33f1dd85d2c2c23b7e3bec398.jpg",
+    "url": "https://mangafire.to/manga/prosecutor-who-doesnt-know-the-laww.lr08q"
+  },
+  {
+    "slug": "the-evil-ringg.rwnlp",
+    "title": "The Evil Ring",
+    "cover": "https://static.mfcdn.nl/c1f8/i/c/ce/7cb9a76a3bc64f1451f1cc6a562f2f35.jpg",
+    "url": "https://mangafire.to/manga/the-evil-ringg.rwnlp"
+  },
+  {
+    "slug": "seijuu-ni-sodaterareta-shounen-no-isekai-yururi-hourouki-kami-sama-kara-moratta-cheat-mahou-de-nakama-tachi-to-slow-life-wo-mankitsu-chuuu.909vm",
+    "title": "Seijuu ni Sodaterareta Shounen no Isekai Yururi Hourouki - Kami-sama kara Moratta Cheat Mahou de, Nakama-tachi to Slow Life wo Mankitsu-chuu",
+    "cover": "https://static.mfcdn.nl/ac95/i/c/c9/c92cc1e8dc64724062f5b1eb81e95bd6.jpg",
+    "url": "https://mangafire.to/manga/seijuu-ni-sodaterareta-shounen-no-isekai-yururi-hourouki-kami-sama-kara-moratta-cheat-mahou-de-nakama-tachi-to-slow-life-wo-mankitsu-chuuu.909vm"
+  },
+  {
+    "slug": "the-reason-why-i-quit-being-the-demon-kingg.pp5vq",
+    "title": "The Reason Why I Quit Being the Demon King",
+    "cover": "https://static.mfcdn.nl/21ed/i/a/a5/a58731025c24e6ad85349a81ca4ae00a.jpg",
+    "url": "https://mangafire.to/manga/the-reason-why-i-quit-being-the-demon-kingg.pp5vq"
+  },
+  {
+    "slug": "veterinarian-helloo.w5zv7",
+    "title": "Veterinarian! Hello?",
+    "cover": "https://static.mfcdn.nl/6a45/i/4/43/43988bbdcd3de38ae3adf765c645980a.jpg",
+    "url": "https://mangafire.to/manga/veterinarian-helloo.w5zv7"
+  },
+  {
+    "slug": "game-choegang-trollerr.90y8n",
+    "title": "World's Strongest Troll",
+    "cover": "https://static.mfcdn.nl/5b16/i/c/c7/c7baed55fa82000577ed1ecf804cb905.jpg",
+    "url": "https://mangafire.to/manga/game-choegang-trollerr.90y8n"
+  },
+  {
+    "slug": "lord-of-money22.8xk2n",
+    "title": "Lord of Money",
+    "cover": "https://static.mfcdn.nl/4f34/i/2/21/217259ff90274284689577900f41f0a2.jpg",
+    "url": "https://mangafire.to/manga/lord-of-money22.8xk2n"
+  },
+  {
+    "slug": "success-story-of-the-omnipotent-soldierr.yk600",
+    "title": "Success Story of the Omnipotent Soldier",
+    "cover": "https://static.mfcdn.nl/86f3/i/3/3e/3e275d5e18017c8bfb12ce485a7e50ee.jpg",
+    "url": "https://mangafire.to/manga/success-story-of-the-omnipotent-soldierr.yk600"
+  },
+  {
+    "slug": "sudachi-no-maoujouu.7jnl8",
+    "title": "Sudachi no Maoujou",
+    "cover": "https://static.mfcdn.nl/92a9/i/3/38/38b4c85e4edb7495cbf07c7a6c340eff.jpg",
+    "url": "https://mangafire.to/manga/sudachi-no-maoujouu.7jnl8"
+  },
+  {
+    "slug": "isekai-nonbiri-noukaa.6lyk9",
+    "title": "Farming Life in Another World",
+    "cover": "https://static.mfcdn.nl/2b0c/i/8/89/89de3290f7a808d2292283bf9589461a.jpg",
+    "url": "https://mangafire.to/manga/isekai-nonbiri-noukaa.6lyk9"
+  },
+  {
+    "slug": "yuukyuu-no-gusha-asley-no-kenja-no-susumee.qxzv3",
+    "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
+    "cover": "https://static.mfcdn.nl/0ae8/i/b/b9/b9ead6bde3a6658c6352a47dfa6138f7.jpg",
+    "url": "https://mangafire.to/manga/yuukyuu-no-gusha-asley-no-kenja-no-susumee.qxzv3"
+  },
+  {
+    "slug": "stay-low-profile-sect-chieff.29702",
+    "title": "Keep a Low Profile, Sect Leader",
+    "cover": "https://static.mfcdn.nl/8dd6/i/e/ee/ee57271f26f9814e8d4ea726dbbc7444.jpg",
+    "url": "https://mangafire.to/manga/stay-low-profile-sect-chieff.29702"
+  },
+  {
+    "slug": "shinigami-kun.9jn7x",
+    "title": "Shinigami-kun",
+    "cover": "https://static.mfcdn.nl/cd29/i/5/e0/95eb25ad1ad41e5368430599d7ed41ff.jpg",
+    "url": "https://mangafire.to/manga/shinigami-kun.9jn7x"
+  },
+  {
+    "slug": "the-shepherd-wizard.mj5qp",
+    "title": "The Shepherd Wizard",
+    "cover": "https://static.mfcdn.nl/07d7/i/3/8b/5f5a07b520a6eb71479cfb58197a2dcd.jpg",
+    "url": "https://mangafire.to/manga/the-shepherd-wizard.mj5qp"
+  },
+  {
+    "slug": "sihanbu-cheonjaega-saranamneun-beop.nk0pn",
+    "title": "Chronicles of a Doomed Prodigy",
+    "cover": "https://static.mfcdn.nl/aaf8/i/8/09/95f9ed47d3ae526f9d5731f66b50b0a8.jpg",
+    "url": "https://mangafire.to/manga/sihanbu-cheonjaega-saranamneun-beop.nk0pn"
+  },
+  {
+    "slug": "saejang-bakkui-peuresepe.ro9wo",
+    "title": "Praesepe Outside the Cage",
+    "cover": "https://static.mfcdn.nl/dee3/i/6/b2/1ebd707f254be04054b74f204a057b83.jpg",
+    "url": "https://mangafire.to/manga/saejang-bakkui-peuresepe.ro9wo"
+  },
+  {
+    "slug": "ore-no-yubisaki-de-nureru-sekai.zkwvl",
+    "title": "Ore no Yubisaki de Nureru sekai",
+    "cover": "https://static.mfcdn.nl/eb6d/i/0/90/94d2f6cc68a4f4d9b8bcc8546b25f520.jpg",
+    "url": "https://mangafire.to/manga/ore-no-yubisaki-de-nureru-sekai.zkwvl"
+  },
+  {
+    "slug": "can-i-borrow-the-firee.jpy5n",
+    "title": "Can I Borrow the Fire?",
+    "cover": "https://static.mfcdn.nl/c423/i/0/0d/70b592e97c9cb7455acd0db8a7e9848d.jpg",
+    "url": "https://mangafire.to/manga/can-i-borrow-the-firee.jpy5n"
+  },
+  {
+    "slug": "the-heavenly-demon-cant-live-a-normal-lifee.zlnn3",
+    "title": "Descended from Divinity",
+    "cover": "https://static.mfcdn.nl/ff6d/i/d/db/dbeabfba7bfb2c89e67b9b20b1c9723c.jpg",
+    "url": "https://mangafire.to/manga/the-heavenly-demon-cant-live-a-normal-lifee.zlnn3"
+  },
+  {
+    "slug": "desire-me-if-you-can.82mn3",
+    "title": "Desire Me if You Can",
+    "cover": "https://static.mfcdn.nl/2118/i/4/bd/7baf706e34f49734fa7408121b0dd758.jpg",
+    "url": "https://mangafire.to/manga/desire-me-if-you-can.82mn3"
+  },
+  {
+    "slug": "hunter-sesangui-jeongwonsa.0mv5r",
+    "title": "The Gardener in a Hunter World",
+    "cover": "https://static.mfcdn.nl/9a84/i/3/01/6cce37f749cfd959f9f3f4a4ddca7a3d.jpg",
+    "url": "https://mangafire.to/manga/hunter-sesangui-jeongwonsa.0mv5r"
+  },
+  {
+    "slug": "system-universe.827my",
+    "title": "System Universe",
+    "cover": "https://static.mfcdn.nl/2f6b/i/a/26/27d54f78d9c99089263042ba4412b36c.jpg",
+    "url": "https://mangafire.to/manga/system-universe.827my"
+  },
+  {
+    "slug": "summer-moon-the-cupid.yj2j0",
+    "title": "Summer Moon: The Cupid",
+    "cover": "https://static.mfcdn.nl/6854/i/9/56/5b7154be8e65f05ab016bf77d0c4aafd.jpg",
+    "url": "https://mangafire.to/manga/summer-moon-the-cupid.yj2j0"
+  },
+  {
+    "slug": "acting-gangster.kxww9",
+    "title": "Acting Gangster",
+    "cover": "https://static.mfcdn.nl/854c/i/4/9f/2145fb25aabf33628d6a54f84e4cba5f.jpg",
+    "url": "https://mangafire.to/manga/acting-gangster.kxww9"
+  },
+  {
+    "slug": "kinki-no-tensei-daimadoushii.z1ozl",
+    "title": "The Reincarnation of the Forbidden Archmage",
+    "cover": "https://static.mfcdn.nl/62a1/i/1/15/15d67e6416715b7fa59dc71aa7acd4ee.jpg",
+    "url": "https://mangafire.to/manga/kinki-no-tensei-daimadoushii.z1ozl"
+  },
+  {
+    "slug": "the-player-that-cant-level-upp.4qpno",
+    "title": "The Player Who Can't Level Up",
+    "cover": "https://static.mfcdn.nl/09cb/i/2/27/27150b3065b494109056d1338d5b9d33.jpg",
+    "url": "https://mangafire.to/manga/the-player-that-cant-level-upp.4qpno"
+  },
+  {
+    "slug": "zero-gamee.ojrvy",
+    "title": "Zero Game",
+    "cover": "https://static.mfcdn.nl/ec2c/i/7/7a/7a4fc80ecf138c62e1841720a086f8ed.jpg",
+    "url": "https://mangafire.to/manga/zero-gamee.ojrvy"
   },
   {
     "slug": "i-used-to-be-a-bosss.62z0",
     "title": "I Used to Be a Boss",
     "cover": "https://static.mfcdn.nl/7189/i/5/5a/5abfe89d865384085c6c954b9b9d5949.jpg",
     "url": "https://mangafire.to/manga/i-used-to-be-a-bosss.62z0"
+  },
+  {
+    "slug": "i-was-supposed-to-be-a-stalker-lady-but-somehow-im-being-adored-instead.wq0zk",
+    "title": "I Was Supposed to Be a Stalker Lady, but Somehow I'm Being Adored Instead",
+    "cover": "https://static.mfcdn.nl/8bf8/i/d/79/6a279fcd016acfb0db046a2a8386b87a.jpg",
+    "url": "https://mangafire.to/manga/i-was-supposed-to-be-a-stalker-lady-but-somehow-im-being-adored-instead.wq0zk"
+  },
+  {
+    "slug": "rice-shoulder.yj841",
+    "title": "Rice Shoulder",
+    "cover": "https://static.mfcdn.nl/3ae4/i/2/ef/86f19f155249acc8510be8c3c3a2cca9.jpg",
+    "url": "https://mangafire.to/manga/rice-shoulder.yj841"
+  },
+  {
+    "slug": "gal-to-gal-no-yuri.822py",
+    "title": "#Gal to Gal no Yuri",
+    "cover": "https://static.mfcdn.nl/dafd/i/8/45/f0a3b34ab9375b0795c31aca1e7d5bfc.jpg",
+    "url": "https://mangafire.to/manga/gal-to-gal-no-yuri.822py"
+  },
+  {
+    "slug": "watashi-no-kokoro-wa-ojisan-de-aru.qn5mn",
+    "title": "This Alluring Dark Elf Has the Heart of a Middle-Aged Man!",
+    "cover": "https://static.mfcdn.nl/feb8/i/4/f9/fcf02acb7da69586b35b232809a1722a.jpg",
+    "url": "https://mangafire.to/manga/watashi-no-kokoro-wa-ojisan-de-aru.qn5mn"
+  },
+  {
+    "slug": "powerful-confession.lrwnm",
+    "title": "Powerful Confession",
+    "cover": "https://static.mfcdn.nl/5710/i/e/ed/38b8ef15939aad03ebc3028b6b989014.jpg",
+    "url": "https://mangafire.to/manga/powerful-confession.lrwnm"
+  },
+  {
+    "slug": "densetsu-no-ansatsusha-tensei-shitara-ouke-no-aisare-suemusume-ni-natte-shimaimashitee.jpm3y",
+    "title": "Densetsu no Ansatsusha, Tensei Shitara Ouke no Aisare Suemusume ni Natte Shimaimashite",
+    "cover": "https://static.mfcdn.nl/3d74/i/4/44/18b346377cf4f0de9cdfd1c8f40749ac.jpg",
+    "url": "https://mangafire.to/manga/densetsu-no-ansatsusha-tensei-shitara-ouke-no-aisare-suemusume-ni-natte-shimaimashitee.jpm3y"
+  },
+  {
+    "slug": "absolute-regressionn.2pmll",
+    "title": "Absolute Regression",
+    "cover": "https://static.mfcdn.nl/480f/i/f/fe/8ead1906e1c35342dc463b7dcf467a50.jpg",
+    "url": "https://mangafire.to/manga/absolute-regressionn.2pmll"
+  },
+  {
+    "slug": "houkago-kitaku-biyorii.pp5m9",
+    "title": "Houkago Kitaku Biyori",
+    "cover": "https://static.mfcdn.nl/aa18/i/f/f4/f485dcf3f52790c3250b42f27bc83240.jpg",
+    "url": "https://mangafire.to/manga/houkago-kitaku-biyorii.pp5m9"
+  },
+  {
+    "slug": "akuyaku-no-goreisoku-no-dounika-shitai-nichijouu.3pxn9",
+    "title": "Akuyaku no Goreisoku no Dounika shitai Nichijou",
+    "cover": "https://static.mfcdn.nl/a396/i/f/fa/fa1c1f8f25f28ad7b8e2aec64f884559.jpg",
+    "url": "https://mangafire.to/manga/akuyaku-no-goreisoku-no-dounika-shitai-nichijouu.3pxn9"
+  },
+  {
+    "slug": "maryoku-9999-man-zen-zokusei-tsukai-no-dai-kenjaa.qk4wn",
+    "title": "Magic Level 99990000 All-Attribute Great Sage",
+    "cover": "https://static.mfcdn.nl/0828/i/d/d0/d09497dd2a983149a4fb81a2fbaddd43.jpg",
+    "url": "https://mangafire.to/manga/maryoku-9999-man-zen-zokusei-tsukai-no-dai-kenjaa.qk4wn"
+  },
+  {
+    "slug": "gendai-majo-no-shuushoku-jijouu.xj9nz",
+    "title": "Gendai Majo no Shuushoku Jijou",
+    "cover": "https://static.mfcdn.nl/5ea6/i/d/d8/d88c2be953f7c7f6cc1366b1dd79301e.jpg",
+    "url": "https://mangafire.to/manga/gendai-majo-no-shuushoku-jijouu.xj9nz"
+  },
+  {
+    "slug": "loop-7-kai-me-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimamana-hanayome-hitojichi-seikatsu-wo-mankitsu-suruu.yqy4p",
+    "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+    "cover": "https://static.mfcdn.nl/e943/i/d/d3/d3b1db80507e1096da778c4af673c942.jpg",
+    "url": "https://mangafire.to/manga/loop-7-kai-me-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimamana-hanayome-hitojichi-seikatsu-wo-mankitsu-suruu.yqy4p"
+  },
+  {
+    "slug": "a-girl-who-cant-speak-thinks-she-is-too-kindd.ll0o3",
+    "title": "A Girl Who Can't Speak Thinks \"She Is Too Kind.\"",
+    "cover": "https://static.mfcdn.nl/19e8/i/7/73/73f25cd534fb76eb220a7db9c46972ca.jpg",
+    "url": "https://mangafire.to/manga/a-girl-who-cant-speak-thinks-she-is-too-kindd.ll0o3"
+  },
+  {
+    "slug": "one-room-ta.mj74x",
+    "title": "One-Room TA",
+    "cover": "https://static.mfcdn.nl/e638/i/4/00/81897e08499df86fe15c0f5e254c6de2.jpg",
+    "url": "https://mangafire.to/manga/one-room-ta.mj74x"
+  },
+  {
+    "slug": "buin-eun-milbat-eseo-gidaryeotda.kx74v",
+    "title": "Buin-eun Milbat-eseo Gidaryeotda",
+    "cover": "https://static.mfcdn.nl/a3c8/i/a/c7/6bd288e916acce4f0c6404534c51138f.jpg",
+    "url": "https://mangafire.to/manga/buin-eun-milbat-eseo-gidaryeotda.kx74v"
+  },
+  {
+    "slug": "sono-otoko-numa-ni-tsuki.60ky7",
+    "title": "Sono Otoko, Numa ni Tsuki.",
+    "cover": "https://static.mfcdn.nl/1402/i/4/e8/a0ad0d52328201a4bd18170869b0d595.jpg",
+    "url": "https://mangafire.to/manga/sono-otoko-numa-ni-tsuki.60ky7"
+  },
+  {
+    "slug": "amado-mujeokbulpae.kx7k6",
+    "title": "Maybe Undefeatable",
+    "cover": "https://static.mfcdn.nl/a327/i/b/ea/84af2d66b0154619c010d343a0015645.jpg",
+    "url": "https://mangafire.to/manga/amado-mujeokbulpae.kx7k6"
+  },
+  {
+    "slug": "i-was-thrown-into-an-unknown-manga.zkvrl",
+    "title": "I Was Thrown Into an Unknown Manga",
+    "cover": "https://static.mfcdn.nl/db7f/i/7/5b/c2ac3e87bac7ef98ca223883b281ddac.jpg",
+    "url": "https://mangafire.to/manga/i-was-thrown-into-an-unknown-manga.zkvrl"
+  },
+  {
+    "slug": "one-day-i-became-a-hatchling.rov7p",
+    "title": "One Day, I Became a Hatchling",
+    "cover": "https://static.mfcdn.nl/eeac/i/e/d5/1aaea33da94caba51c9385807d7a5b76.jpg",
+    "url": "https://mangafire.to/manga/one-day-i-became-a-hatchling.rov7p"
+  },
+  {
+    "slug": "i-stole-the-trash-crown-princes-first-night.20k72",
+    "title": "I Stole the Trash Crown Prince's First Night",
+    "cover": "https://static.mfcdn.nl/4140/i/c/8a/291a26c66468f87bb3c1d7e45613c824.jpg",
+    "url": "https://mangafire.to/manga/i-stole-the-trash-crown-princes-first-night.20k72"
+  },
+  {
+    "slug": "isegyeseo-yubunamdoen-sseol.5wn7q",
+    "title": "Isegyeseo Yubunamdoen Sseol",
+    "cover": "https://static.mfcdn.nl/e3d6/i/4/83/c3c1a70900e7a1cc8aa7ebeb560a8af1.jpg",
+    "url": "https://mangafire.to/manga/isegyeseo-yubunamdoen-sseol.5wn7q"
+  },
+  {
+    "slug": "titan-forge.17jow",
+    "title": "Titan Forge",
+    "cover": "https://static.mfcdn.nl/136a/i/c/ca/13e3002d3f475a0e2357eb7c68295f4f.jpg",
+    "url": "https://mangafire.to/manga/titan-forge.17jow"
+  },
+  {
+    "slug": "if-the-fairy-is-heartless-then-let-her-become-a-furnace.vq4r4",
+    "title": "If the Fairy is Heartless, Then Let Her Become a Furnace!",
+    "cover": "https://static.mfcdn.nl/3bc5/i/d/8f/6e39cd5561805e8955fcbffb2d101f9d.jpg",
+    "url": "https://mangafire.to/manga/if-the-fairy-is-heartless-then-let-her-become-a-furnace.vq4r4"
+  },
+  {
+    "slug": "returnees-hidden-strategy-streaming.yj300",
+    "title": "Returnee's Hidden Strategy Streaming",
+    "cover": "https://static.mfcdn.nl/0647/i/0/6a/c332a7537b0a876bce30f0491911c63c.jpg",
+    "url": "https://mangafire.to/manga/returnees-hidden-strategy-streaming.yj300"
+  },
+  {
+    "slug": "the-ss-class-freshman-of-the-magic-academy.wq30k",
+    "title": "The SS-Class Freshman of the Magic Academy",
+    "cover": "https://static.mfcdn.nl/3681/i/e/7c/f709a7330a9fcc842cecaf861ae82b72.jpg",
+    "url": "https://mangafire.to/manga/the-ss-class-freshman-of-the-magic-academy.wq30k"
+  },
+  {
+    "slug": "binguihaetdeoni-goedami-dwae-beoryeotda.708y6",
+    "title": "Binguihaetdeoni Goedami Dwae Beoryeotda",
+    "cover": "https://static.mfcdn.nl/f111/i/c/76/325a46864f7861b9605cc0edb10bf180.jpg",
+    "url": "https://mangafire.to/manga/binguihaetdeoni-goedami-dwae-beoryeotda.708y6"
+  },
+  {
+    "slug": "i-was-possessed-but-it-became-a-ghost-story2.4189o",
+    "title": "I Was Possessed, but It Became a Ghost Story",
+    "cover": "https://static.mfcdn.nl/dff2/i/2/30/d49322d932779f4ce4ed3de67f4b67cb.jpg",
+    "url": "https://mangafire.to/manga/i-was-possessed-but-it-became-a-ghost-story2.4189o"
+  },
+  {
+    "slug": "tsuihou-sareta-saikyou-no-ketsukaishi-wa-yome-to-nonbiri-tabi-shitai.kx69v",
+    "title": "The Exiled Ultimate Barrier Mage Wants a Relaxing Journey With His Bride",
+    "cover": "https://static.mfcdn.nl/1ed4/i/1/b9/7fa7e1ed98365bdf0f4c82715665d935.jpg",
+    "url": "https://mangafire.to/manga/tsuihou-sareta-saikyou-no-ketsukaishi-wa-yome-to-nonbiri-tabi-shitai.kx69v"
+  },
+  {
+    "slug": "i-became-the-first-prince-legend-of-swords-song.304l2",
+    "title": "I Became the First Prince: Legend of Sword's Song",
+    "cover": "https://static.mfcdn.nl/1323/i/e/e1/860fa2d2fa5f9a22d0d4409b48ac8c5f.jpg",
+    "url": "https://mangafire.to/manga/i-became-the-first-prince-legend-of-swords-song.304l2"
+  },
+  {
+    "slug": "psychopath-in-murim.vq0w6",
+    "title": "Psychopath in Murim",
+    "cover": "https://static.mfcdn.nl/9c09/i/0/1f/2efe0aacd7aca4ed6203e237e27f49ad.jpg",
+    "url": "https://mangafire.to/manga/psychopath-in-murim.vq0w6"
+  },
+  {
+    "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors.vq0m2",
+    "title": "High-Martial World: One Hand to Overwhelm Three Thousand Emperors!",
+    "cover": "https://static.mfcdn.nl/75cc/i/1/c3/ff92114634d4ba0c2aa83dad5f9cb34f.jpg",
+    "url": "https://mangafire.to/manga/high-martial-world-one-hand-to-overwhelm-three-thousand-emperors.vq0m2"
+  },
+  {
+    "slug": "kidnapped-dragons.lx2xz",
+    "title": "Kidnapped Dragons",
+    "cover": "https://static.mfcdn.nl/5177/i/5/3c/caa6a0e6c21a43759f83b70be0b5b421.jpg",
+    "url": "https://mangafire.to/manga/kidnapped-dragons.lx2xz"
+  },
+  {
+    "slug": "gaenyeom-jamneun-mabeop-cheonjae.7039j",
+    "title": "Gaenyeom Jamneun Mabeop Cheonjae",
+    "cover": "https://static.mfcdn.nl/b488/i/e/96/5fe7f6c69ebd00391ae28d10f4d243e4.jpg",
+    "url": "https://mangafire.to/manga/gaenyeom-jamneun-mabeop-cheonjae.7039j"
+  },
+  {
+    "slug": "fog-land.mj46z",
+    "title": "Fog Land",
+    "cover": "https://static.mfcdn.nl/9b3e/i/5/60/7d6ac0374240fe7405208e0b9d29d700.jpg",
+    "url": "https://mangafire.to/manga/fog-land.mj46z"
+  },
+  {
+    "slug": "nahonja-tabeseo-nongsa.j23j4",
+    "title": "The Top Dungeon Farmer",
+    "cover": "https://static.mfcdn.nl/a76f/i/9/b7/ec4576117a3f90d4fc067e082f021395.jpg",
+    "url": "https://mangafire.to/manga/nahonja-tabeseo-nongsa.j23j4"
+  },
+  {
+    "slug": "gyeoulseongui-agi-joesunim.wqn96",
+    "title": "Baby Prisoner of the Winter Castle",
+    "cover": "https://static.mfcdn.nl/1e7a/i/5/04/3456373da760daf81574ffb3e38123b8.jpg",
+    "url": "https://mangafire.to/manga/gyeoulseongui-agi-joesunim.wqn96"
+  },
+  {
+    "slug": "quan-qiu-yi-neng-kaiju-juexing-zi-xiao-shen-lei.nkwjj",
+    "title": "Awakening the Purple Thunder at the Beginning",
+    "cover": "https://static.mfcdn.nl/51bc/i/2/0e/8697d124279e0a82d17d1f0a1a59e9fc.jpg",
+    "url": "https://mangafire.to/manga/quan-qiu-yi-neng-kaiju-juexing-zi-xiao-shen-lei.nkwjj"
+  },
+  {
+    "slug": "dungeon-architect.j2jyy",
+    "title": "Dungeon Architect",
+    "cover": "https://static.mfcdn.nl/c4ae/i/7/25/17854737b5b4bcd409eb5a5b47ef34a3.jpg",
+    "url": "https://mangafire.to/manga/dungeon-architect.j2jyy"
+  },
+  {
+    "slug": "love-letter-from-the-future.30q26",
+    "title": "Love Letter From the Future",
+    "cover": "https://static.mfcdn.nl/7986/i/f/8d/ed27dccca678542e1806560486145f8c.jpg",
+    "url": "https://mangafire.to/manga/love-letter-from-the-future.30q26"
+  },
+  {
+    "slug": "the-prince-doesnt-cry-from-mere-onions.qn5yn",
+    "title": "The Prince Doesn't Cry From Mere Onions",
+    "cover": "https://static.mfcdn.nl/844f/i/0/0c/ac5edbd8a54dc902392b050e60d975a1.jpg",
+    "url": "https://mangafire.to/manga/the-prince-doesnt-cry-from-mere-onions.qn5yn"
+  },
+  {
+    "slug": "i-found-a-family-that-wasnt-in-my-adoption-plan.jpoj2",
+    "title": "I Found A Family That Wasn’t In My Adoption Plan",
+    "cover": "https://static.mfcdn.nl/cb9f/i/8/69/58eef38b0a9e753da9b55a8625ffdcd8.jpg",
+    "url": "https://mangafire.to/manga/i-found-a-family-that-wasnt-in-my-adoption-plan.jpoj2"
+  },
+  {
+    "slug": "perhaps-invincible.59lvv",
+    "title": "Perhaps Invincible",
+    "cover": "https://static.mfcdn.nl/bbc4/i/2/25/81b4f85025e9a28a7782c582a79fa1f7.jpg",
+    "url": "https://mangafire.to/manga/perhaps-invincible.59lvv"
+  },
+  {
+    "slug": "reincarnated-heavenly-demonn.72lz7",
+    "title": "Reincarnated Murim Lord",
+    "cover": "https://static.mfcdn.nl/034e/i/1/1f/9206d91ba605c42049d2fc077d08e300.jpg",
+    "url": "https://mangafire.to/manga/reincarnated-heavenly-demonn.72lz7"
+  },
+  {
+    "slug": "the-reborn-young-lord-is-an-assassinn.oxpw8",
+    "title": "The Regressed Youngest Son of the Duke Is an Assassin",
+    "cover": "https://static.mfcdn.nl/bad7/i/d/d9/d9e8d211ea78305bdf7a2fc52c5f8e65.jpg",
+    "url": "https://mangafire.to/manga/the-reborn-young-lord-is-an-assassinn.oxpw8"
+  },
+  {
+    "slug": "star-embracing-swordmasterr.w5y8k",
+    "title": "The Stellar Swordmaster",
+    "cover": "https://static.mfcdn.nl/bbfc/i/a/6b/33d63377b72d7c0cb839c1e75fecb255.jpg",
+    "url": "https://mangafire.to/manga/star-embracing-swordmasterr.w5y8k"
+  },
+  {
+    "slug": "only-i-farm-in-the-dungeonn.zx57l",
+    "title": "Only I Farm in the Dungeon",
+    "cover": "https://static.mfcdn.nl/94d1/i/2/25/25b2af69401cd8d0ba66ea00b3885166.jpg",
+    "url": "https://mangafire.to/manga/only-i-farm-in-the-dungeonn.zx57l"
+  },
+  {
+    "slug": "useless-wizardd.rwl9n",
+    "title": "Useless Wizard",
+    "cover": "https://static.mfcdn.nl/b97f/i/7/7b/7b242939383258e866570d3d77dd250d.jpg",
+    "url": "https://mangafire.to/manga/useless-wizardd.rwl9n"
+  },
+  {
+    "slug": "max-talent-playerr.w59o4",
+    "title": "Max Talent Player",
+    "cover": "https://static.mfcdn.nl/9763/i/3/3d/3dd42d4001475213ac8b4e423a1f5b5e.jpg",
+    "url": "https://mangafire.to/manga/max-talent-playerr.w59o4"
+  },
+  {
+    "slug": "shenji-shengji-xitongg.293x4",
+    "title": "Shenji Shengji Xitong (Colored)",
+    "cover": "https://static.mfcdn.nl/9079/i/9/90/90441a95b39321639e9c92da02592cb3.jpg",
+    "url": "https://mangafire.to/manga/shenji-shengji-xitongg.293x4"
+  },
+  {
+    "slug": "comic-party-wonder-lovee.7w1ry",
+    "title": "Comic Party Wonder Love",
+    "cover": "https://static.mfcdn.nl/8523/i/f/fe/fec6ce976032d60af0081b4c9e4a085b.jpg",
+    "url": "https://mangafire.to/manga/comic-party-wonder-lovee.7w1ry"
+  },
+  {
+    "slug": "the-novels-extraa.4qz4k",
+    "title": "The Novel's Extra",
+    "cover": "https://static.mfcdn.nl/a295/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
+    "url": "https://mangafire.to/manga/the-novels-extraa.4qz4k"
+  },
+  {
+    "slug": "hwataga-doen-oegwauisaa.xrj2q",
+    "title": "The Divine Surgeon",
+    "cover": "https://static.mfcdn.nl/5bfa/i/a/aa/aa6797f16e929582d64343ad1e8b8248.jpg",
+    "url": "https://mangafire.to/manga/hwataga-doen-oegwauisaa.xrj2q"
+  },
+  {
+    "slug": "return-of-the-blossoming-bladee.4n07",
+    "title": "Return of the Blossoming Blade",
+    "cover": "https://static.mfcdn.nl/81a2/i/8/88/88102396a4a8d256fa443cc62c8ddd0b.jpg",
+    "url": "https://mangafire.to/manga/return-of-the-blossoming-bladee.4n07"
+  },
+  {
+    "slug": "swordmanship-veterans-game-stream.70l08",
+    "title": "Swordmanship Veteran's Game Stream",
+    "cover": "https://static.mfcdn.nl/2995/i/9/fd/f38439e8b5ab1e8d0ab079d69d0ff072.jpg",
+    "url": "https://mangafire.to/manga/swordmanship-veterans-game-stream.70l08"
+  },
+  {
+    "slug": "greetings-sect-leader.kxj3v",
+    "title": "Greetings, Sect Leader",
+    "cover": "https://static.mfcdn.nl/e186/i/9/96/187e3c3caa69a12aa342f014cbd1b98f.jpg",
+    "url": "https://mangafire.to/manga/greetings-sect-leader.kxj3v"
+  },
+  {
+    "slug": "mount-hua-sects-genius-phantom-swordsman.lxp4m",
+    "title": "Mount Hua Sect's Genius Phantom Swordsman",
+    "cover": "https://static.mfcdn.nl/2d23/i/6/b5/9a06aac4ddd07dd3160667ec265ec334.jpg",
+    "url": "https://mangafire.to/manga/mount-hua-sects-genius-phantom-swordsman.lxp4m"
+  },
+  {
+    "slug": "im-a-villainess-but-im-good-at-cookingg.jp00n",
+    "title": "I'm a Villainess, but I'm Good at Cooking",
+    "cover": "https://static.mfcdn.nl/7f8b/i/a/af/af02bfefa60268a5f814bd0f44880e88.jpg",
+    "url": "https://mangafire.to/manga/im-a-villainess-but-im-good-at-cookingg.jp00n"
+  },
+  {
+    "slug": "heart-aching.30l86",
+    "title": "Heart-Aching",
+    "cover": "https://static.mfcdn.nl/4c13/i/d/ce/857323a12a420af595edb5361e16a8d4.jpg",
+    "url": "https://mangafire.to/manga/heart-aching.30l86"
+  },
+  {
+    "slug": "hoegwihan-yongbyeongeun-da-gyehoegi-itda.5wzkj",
+    "title": "The Regressed Mercenary Has a Plan",
+    "cover": "https://static.mfcdn.nl/eeec/i/5/12/0af7c203c677e248e2247d714d932d89.jpg",
+    "url": "https://mangafire.to/manga/hoegwihan-yongbyeongeun-da-gyehoegi-itda.5wzkj"
+  },
+  {
+    "slug": "akujo-alicia-no-kyuukoku-recipe.pp304",
+    "title": "How The Villainous Alicia Saves The Day",
+    "cover": "https://static.mfcdn.nl/a2c0/i/6/9f/b4e72f688cb71fe1a377259f15e69b4b.jpg",
+    "url": "https://mangafire.to/manga/akujo-alicia-no-kyuukoku-recipe.pp304"
+  },
+  {
+    "slug": "the-regressed-mercenarys-machinationss.w5x0o",
+    "title": "The Regressed Mercenary's Machinations",
+    "cover": "https://static.mfcdn.nl/74e0/i/5/5b/8e592f00f6d4a998187db688aa043795.jpg",
+    "url": "https://mangafire.to/manga/the-regressed-mercenarys-machinationss.w5x0o"
+  },
+  {
+    "slug": "childhood-friend-complexx.1q8vv",
+    "title": "Childhood Friend Complex",
+    "cover": "https://static.mfcdn.nl/1717/i/4/42/f59ed26cb9b6f90ff38dd6921b7a6016.jpg",
+    "url": "https://mangafire.to/manga/childhood-friend-complexx.1q8vv"
+  },
+  {
+    "slug": "wo-tian-ming-da-fanpaii.m2wxz",
+    "title": "I Am The Fated Villain (Colored)",
+    "cover": "https://static.mfcdn.nl/8d2f/i/6/62/62420146cbd8d7205b588f484072e20e.jpg",
+    "url": "https://mangafire.to/manga/wo-tian-ming-da-fanpaii.m2wxz"
+  },
+  {
+    "slug": "because-im-the-goddesss.4x3x",
+    "title": "Because I'm the Goddess",
+    "cover": "https://static.mfcdn.nl/bc2f/i/5/50/50b642ccca41b038a1cd205a6f9ffd7a.jpg",
+    "url": "https://mangafire.to/manga/because-im-the-goddesss.4x3x"
+  },
+  {
+    "slug": "saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedoo.jp3m8",
+    "title": "Saibai Cheat de Saikyou Saien - E, Tada no Katei Saiendesu kedo?",
+    "cover": "https://static.mfcdn.nl/3707/i/e/e4/e434941c05d56d801bbbf97f0bba0918.jpg",
+    "url": "https://mangafire.to/manga/saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedoo.jp3m8"
+  },
+  {
+    "slug": "the-dukes-chef-a-little-chef-who-lived-for-300-yearss.wo1zl",
+    "title": "The Duke's Chef ~A Little Chef Who Lived For 300 Years~",
+    "cover": "https://static.mfcdn.nl/3ef0/i/8/8d/8db2f368ff5ba3ab2d9c0c758e0d7490.jpg",
+    "url": "https://mangafire.to/manga/the-dukes-chef-a-little-chef-who-lived-for-300-yearss.wo1zl"
+  },
+  {
+    "slug": "tensei-youjo-wa-akiramenaii.xrqm3",
+    "title": "Reincarnation's little girl never gives up",
+    "cover": "https://static.mfcdn.nl/b399/i/f/f5/f5c902bf06e639b13d111d43888fca0a.jpg",
+    "url": "https://mangafire.to/manga/tensei-youjo-wa-akiramenaii.xrqm3"
+  },
+  {
+    "slug": "seongjaneun-gaeppul-hyeondaeuihagui-himida.nkm0k",
+    "title": "The Holy Power of Modern Medicine",
+    "cover": "https://static.mfcdn.nl/ed00/i/d/08/d09a7bc65c877b4a8c99e5feec09046d.jpg",
+    "url": "https://mangafire.to/manga/seongjaneun-gaeppul-hyeondaeuihagui-himida.nkm0k"
+  },
+  {
+    "slug": "decide-to-be-a-villain.yj08p",
+    "title": "Decide to Be a Villain",
+    "cover": "https://static.mfcdn.nl/db93/i/2/4d/795866a7a1a9c9b0e2e2fc4e8bc04e3a.jpg",
+    "url": "https://mangafire.to/manga/decide-to-be-a-villain.yj08p"
+  },
+  {
+    "slug": "enishi-kun-wa-harem-taishitsu-ni-mezamemashita.x1oxz",
+    "title": "Enishi-kun wa Harem Taishitsu ni Mezamemashita",
+    "cover": "https://static.mfcdn.nl/9ba5/i/0/8d/f5395b392fe00487b9212264cb7e9f09.jpg",
+    "url": "https://mangafire.to/manga/enishi-kun-wa-harem-taishitsu-ni-mezamemashita.x1oxz"
+  },
+  {
+    "slug": "odebu-akujo-ni-tensei-shitara-naze-ka-last-boss-ouji-sama-ni-shuuchaku-sareteimasuu.zx9ql",
+    "title": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku sareteimasu",
+    "cover": "https://static.mfcdn.nl/0a43/i/4/4d/2ab7bb3f52f11a9fe8a9f4eb1fbd7923.jpg",
+    "url": "https://mangafire.to/manga/odebu-akujo-ni-tensei-shitara-naze-ka-last-boss-ouji-sama-ni-shuuchaku-sareteimasuu.zx9ql"
+  },
+  {
+    "slug": "maria-no-danzaii.oxlo4",
+    "title": "Maria no Danzai",
+    "cover": "https://static.mfcdn.nl/8805/i/0/05/05b130d29b132ccc7ef20f7a19020e81.jpg",
+    "url": "https://mangafire.to/manga/maria-no-danzaii.oxlo4"
+  },
+  {
+    "slug": "seongjaneun-gaeppul-hyeondaeuihagui-himidaa.0qpvr",
+    "title": "The Holy Power of Modern Medicine",
+    "cover": "https://static.mfcdn.nl/f17d/i/f/fd/fdbe0f194fa5efe9c8c89f3ef0693ba8.jpg",
+    "url": "https://mangafire.to/manga/seongjaneun-gaeppul-hyeondaeuihagui-himidaa.0qpvr"
+  },
+  {
+    "slug": "yotsubatoo.qk165",
+    "title": "Yotsubato! (Colored)",
+    "cover": "https://static.mfcdn.nl/2b12/i/b/b3/b395e911374d9b70b417143daed7a526.jpg",
+    "url": "https://mangafire.to/manga/yotsubatoo.qk165"
+  },
+  {
+    "slug": "kanojo-ga-flag-wo-oraretaraa.4417",
+    "title": "Kanojo ga Flag wo Oraretara",
+    "cover": "https://static.mfcdn.nl/4862/i/8/8f/8f7ac5aec18f9944540eb1b214d56c35.jpg",
+    "url": "https://mangafire.to/manga/kanojo-ga-flag-wo-oraretaraa.4417"
+  },
+  {
+    "slug": "sono-bouken-sha-toriatsukai-chuui-shoutai-wa-muteki-no-geboku-tachi-o-suberu-isekai-saikyou-no-madou-ou.9jnmx",
+    "title": "Sono Bouken-sha, Toriatsukai chuui. ~Shoutai wa Muteki no Geboku-tachi o Suberu Isekai Saikyou no Madou-ou~",
+    "cover": "https://static.mfcdn.nl/55e8/i/2/cd/fa6b34fbe4b9608a50d759a15b5b91df.jpg",
+    "url": "https://mangafire.to/manga/sono-bouken-sha-toriatsukai-chuui-shoutai-wa-muteki-no-geboku-tachi-o-suberu-isekai-saikyou-no-madou-ou.9jnmx"
+  },
+  {
+    "slug": "unmyeongeul-boneun-hoesawon.203m2",
+    "title": "Office Worker Who Sees Fate",
+    "cover": "https://static.mfcdn.nl/5f7b/i/f/3f/fb1bedec879c08fa4593e4497b7b9e15.jpg",
+    "url": "https://mangafire.to/manga/unmyeongeul-boneun-hoesawon.203m2"
+  },
+  {
+    "slug": "moralless-scandal.kx25r",
+    "title": "Moralless Scandal",
+    "cover": "https://static.mfcdn.nl/f65b/i/8/4d/eacde6d34c8952b89e4fd2ad82e734ab.jpg",
+    "url": "https://mangafire.to/manga/moralless-scandal.kx25r"
+  },
+  {
+    "slug": "the-investor-who-sees-the-futuree.8xj2y",
+    "title": "The Investor Who Sees The Future",
+    "cover": "https://static.mfcdn.nl/2549/i/0/01/17e3ef9c5f9f7eee12866edbd8fbf992.jpg",
+    "url": "https://mangafire.to/manga/the-investor-who-sees-the-futuree.8xj2y"
+  },
+  {
+    "slug": "dai-shizen-no-mahoushi-ashto-sutareta-ryouchi-de-slow-lifee.jp7p8",
+    "title": "Nature Mage Ashto’s Slow Life in an Abandoned Forest",
+    "cover": "https://static.mfcdn.nl/2d3e/i/0/01/58583361ea2bae7f15609efd2ebb28a4.jpg",
+    "url": "https://mangafire.to/manga/dai-shizen-no-mahoushi-ashto-sutareta-ryouchi-de-slow-lifee.jp7p8"
+  },
+  {
+    "slug": "state-level-labyrinth-designer.mj5p8",
+    "title": "State-Level Labyrinth Designer",
+    "cover": "https://static.mfcdn.nl/2fe9/i/7/fd/cc9bf5b6e085cd5cba19219cc1d65cf1.jpg",
+    "url": "https://mangafire.to/manga/state-level-labyrinth-designer.mj5p8"
+  },
+  {
+    "slug": "resurrection-boy.wq3oo",
+    "title": "Resurrection Boy",
+    "cover": "https://static.mfcdn.nl/ddbe/i/b/71/4cd63a211c5dc558145d1a4409d2a993.jpg",
+    "url": "https://mangafire.to/manga/resurrection-boy.wq3oo"
+  },
+  {
+    "slug": "kono-inu-to-kitara-mago-no-koto-shika-kangaeteinai-kensei-maou-no-yarinokoshi.60479",
+    "title": "Kono Inu to Kitara Mago no Koto shika Kangaeteinai: Kensei Maou no Yarinokoshi",
+    "cover": "https://static.mfcdn.nl/0352/i/e/b8/07c622de75d9ef1922dce6cbc2f12f57.jpg",
+    "url": "https://mangafire.to/manga/kono-inu-to-kitara-mago-no-koto-shika-kangaeteinai-kensei-maou-no-yarinokoshi.60479"
+  },
+  {
+    "slug": "muhan-level-up-in-murim.yj6xz",
+    "title": "Infinite Leveling: Murim",
+    "cover": "https://static.mfcdn.nl/98d0/i/0/50/2c22f294cb946b14ee27b39d58043671.jpg",
+    "url": "https://mangafire.to/manga/muhan-level-up-in-murim.yj6xz"
+  },
+  {
+    "slug": "kaban-no-yuusha-no-isekai-nonbiri-tabi-jitsuwa-kaban-wa-nani-demo-kyuushuu-dekirushi-nihon-kara-nandemo-toriyose-ga-dekiru-cheat-bukideshita.qz3zn",
+    "title": "Kaban no Yuusha no Isekai Nonbiri Tabi ~Jitsuwa \"Kaban\" wa nani demo Kyuushuu Dekirushi, Nihon kara nandemo Toriyose ga Dekiru Cheat bukideshita~",
+    "cover": "https://static.mfcdn.nl/cf22/i/8/53/d5e9201d3839c28dcd0fe682fff04611.jpg",
+    "url": "https://mangafire.to/manga/kaban-no-yuusha-no-isekai-nonbiri-tabi-jitsuwa-kaban-wa-nani-demo-kyuushuu-dekirushi-nihon-kara-nandemo-toriyose-ga-dekiru-cheat-bukideshita.qz3zn"
+  },
+  {
+    "slug": "school-of-streets.30332",
+    "title": "Skool of Street",
+    "cover": "https://static.mfcdn.nl/55f0/i/d/2e/c23aedcdeb3057af4c0ff69b2badcfb6.jpg",
+    "url": "https://mangafire.to/manga/school-of-streets.30332"
+  },
+  {
+    "slug": "sugar-trap.20wr4",
+    "title": "Sugar Trap",
+    "cover": "https://static.mfcdn.nl/67e0/i/1/57/7b99a43bb29016752d5f0101fef90049.jpg",
+    "url": "https://mangafire.to/manga/sugar-trap.20wr4"
+  },
+  {
+    "slug": "usotsuki-heika-ga-watashi-ni-shuuchaku-suru-riyuu.307w6",
+    "title": "Usotsuki Heika ga Watashi ni Shuuchaku Suru Riyuu",
+    "cover": "https://static.mfcdn.nl/6658/i/a/22/4f793a1bb39eff6e68ca7e00f2d4e958.jpg",
+    "url": "https://mangafire.to/manga/usotsuki-heika-ga-watashi-ni-shuuchaku-suru-riyuu.307w6"
+  },
+  {
+    "slug": "heika-watashi-o-wasurete-kudasai.yvyxp",
+    "title": "Forget That Night, Your Majesty",
+    "cover": "https://static.mfcdn.nl/5b70/i/e/44/90bae3dca58834e68201c69b7cfb1aae.jpg",
+    "url": "https://mangafire.to/manga/heika-watashi-o-wasurete-kudasai.yvyxp"
+  },
+  {
+    "slug": "graymarkk.npqxk",
+    "title": "Graymark",
+    "cover": "https://static.mfcdn.nl/0c9b/i/5/5d/7bc9a25ebff32ceb902d85c55ef44036.jpg",
+    "url": "https://mangafire.to/manga/graymarkk.npqxk"
+  },
+  {
+    "slug": "infinite-leveling-murimm.pjm6q",
+    "title": "Infinite Leveling: Murim",
+    "cover": "https://static.mfcdn.nl/046f/i/7/70/707e32a77f37f74a0b3f7d8876debac8.jpg",
+    "url": "https://mangafire.to/manga/infinite-leveling-murimm.pjm6q"
+  },
+  {
+    "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naruu.p31x",
+    "title": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru",
+    "cover": "https://static.mfcdn.nl/af5b/i/a/a0/a0047c262df33823b6bada0dbcbabcb3.jpg",
+    "url": "https://mangafire.to/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naruu.p31x"
+  },
+  {
+    "slug": "isegye-chakgak-hunter.7094y",
+    "title": "Illusion Hunter from Another World",
+    "cover": "https://static.mfcdn.nl/b43d/i/2/f2/653d015989320ad817c8d92afbfa3ee3.jpg",
+    "url": "https://mangafire.to/manga/isegye-chakgak-hunter.7094y"
+  },
+  {
+    "slug": "kougekiryoku-zero-kara-hajimeru-kenseitan.17vjp",
+    "title": "Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen",
+    "cover": "https://static.mfcdn.nl/7b88/i/a/14/0cb588a2abaac9a64978b49a1cfa899a.jpg",
+    "url": "https://mangafire.to/manga/kougekiryoku-zero-kara-hajimeru-kenseitan.17vjp"
+  },
+  {
+    "slug": "i-became-the-genius-bastard-of-a-noble-dark-clan.17rwq",
+    "title": "I Became the Genius Bastard of a Noble Dark Clan",
+    "cover": "https://static.mfcdn.nl/b50f/i/e/70/41f967d1c6cdaa8e54fc2c422cb5152f.jpg",
+    "url": "https://mangafire.to/manga/i-became-the-genius-bastard-of-a-noble-dark-clan.17rwq"
+  },
+  {
+    "slug": "otherworldly-illusion-hunterr.726w1",
+    "title": "Illusion Hunter from Another World",
+    "cover": "https://static.mfcdn.nl/2be2/i/0/66/7c10d81b127be98c4ef1b5b8b3e9eb98.jpg",
+    "url": "https://mangafire.to/manga/otherworldly-illusion-hunterr.726w1"
+  },
+  {
+    "slug": "guild-no-uketsuke-majin-mugen-tutorial-de-kansuto-toppaa.8x97q",
+    "title": "Guild no Uketsuke Majin - Mugen Tutorial de Kansuto Toppa",
+    "cover": "https://static.mfcdn.nl/9fd3/i/2/21/28076ab94f71a09670bbc2eaa010fd74.jpg",
+    "url": "https://mangafire.to/manga/guild-no-uketsuke-majin-mugen-tutorial-de-kansuto-toppaa.8x97q"
+  },
+  {
+    "slug": "ken-to-mahou-to-gakureki-shakaii.np75k",
+    "title": "Ken to Mahou to Gakureki Shakai",
+    "cover": "https://static.mfcdn.nl/18e6/i/9/90/fac63997d188415a647b43c11d8a1579.jpg",
+    "url": "https://mangafire.to/manga/ken-to-mahou-to-gakureki-shakaii.np75k"
+  },
+  {
+    "slug": "saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orettee.8x2yn",
+    "title": "Saitei Rank no Boukensha, Yuusha Shoujo wo Sodateru Orette",
+    "cover": "https://static.mfcdn.nl/25c0/i/3/31/318085ecae1824c2d18f47f44ed61fac.jpg",
+    "url": "https://mangafire.to/manga/saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orettee.8x2yn"
+  },
+  {
+    "slug": "the-small-village-of-the-young-lady-without-blessingg.zlvn2",
+    "title": "The Small Village of the Young Lady Without Blessing",
+    "cover": "https://static.mfcdn.nl/3cd0/i/8/82/82848833927d26ba29f0e1d0c2057155.jpg",
+    "url": "https://mangafire.to/manga/the-small-village-of-the-young-lady-without-blessingg.zlvn2"
+  },
+  {
+    "slug": "living-in-this-world-with-cut-pastee.rl0om",
+    "title": "Living in This World With Cut \u0026 Paste",
+    "cover": "https://static.mfcdn.nl/7a86/i/3/35/352d4415544c1dc8ced474a96fba1d13.jpg",
+    "url": "https://mangafire.to/manga/living-in-this-world-with-cut-pastee.rl0om"
+  },
+  {
+    "slug": "saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirundagaa.vv05v",
+    "title": "The Reincarnation of the Strongest Exorcist in Another World",
+    "cover": "https://static.mfcdn.nl/009a/i/5/5f/5f72e565df3f482b8c90285a70a1a04b.jpg",
+    "url": "https://mangafire.to/manga/saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirundagaa.vv05v"
+  },
+  {
+    "slug": "rabu-kuee.qx6pv",
+    "title": "Love Quest",
+    "cover": "https://static.mfcdn.nl/3215/i/8/8a/8a300b011e745b5fe9598f81ec2c7957.jpg",
+    "url": "https://mangafire.to/manga/rabu-kuee.qx6pv"
+  },
+  {
+    "slug": "yakuza-reincarnationn.3ry98",
+    "title": "Yakuza Reincarnation",
+    "cover": "https://static.mfcdn.nl/99c2/i/9/bc/870df9048260fa9d2211f4a9dba78280.jpg",
+    "url": "https://mangafire.to/manga/yakuza-reincarnationn.3ry98"
+  },
+  {
+    "slug": "undead-catastrophe-a-sea-of-bones-at-my-command.9jnzx",
+    "title": "Undead Catastrophe: A Sea of Bones at My Command",
+    "cover": "https://static.mfcdn.nl/2db1/i/8/30/955d91088cf3ed11942b3e3e247df879.jpg",
+    "url": "https://mangafire.to/manga/undead-catastrophe-a-sea-of-bones-at-my-command.9jnzx"
+  },
+  {
+    "slug": "kono-to-ai-wa-chi-yori-koku.9jr38",
+    "title": "Kono to Ai wa Chi Yori Koku",
+    "cover": "https://static.mfcdn.nl/448d/i/5/e3/51b92d86f7429088c9b2b091af30c86a.jpg",
+    "url": "https://mangafire.to/manga/kono-to-ai-wa-chi-yori-koku.9jr38"
+  },
+  {
+    "slug": "blossoms-of-the-white-night.70ony",
+    "title": "Blossoms of the White Night",
+    "cover": "https://static.mfcdn.nl/274e/i/0/00/f4eb3b8c582463f198bfaabc9a370cc3.jpg",
+    "url": "https://mangafire.to/manga/blossoms-of-the-white-night.70ony"
+  },
+  {
+    "slug": "boku-no-ikezu-na-konyakusha.wq884",
+    "title": "My Fiance Is so Mean!",
+    "cover": "https://static.mfcdn.nl/a813/i/b/d5/f3bbf3d50e919d888f12156097b2c655.jpg",
+    "url": "https://mangafire.to/manga/boku-no-ikezu-na-konyakusha.wq884"
+  },
+  {
+    "slug": "ana-ume-kekkon-kigen-tsuki-koushaku-fujin-wa-kujikenai.5wwlj",
+    "title": "A Marriage of Convenience: The Time-Limited Duchess Won't Give Up",
+    "cover": "https://static.mfcdn.nl/59f2/i/a/98/cfe4ef85a611b5fb51e41ba435f93b4d.jpg",
+    "url": "https://mangafire.to/manga/ana-ume-kekkon-kigen-tsuki-koushaku-fujin-wa-kujikenai.5wwlj"
+  },
+  {
+    "slug": "the-war-of-corpses.5w2mv",
+    "title": "The War of Corpses",
+    "cover": "https://static.mfcdn.nl/3a66/i/b/f8/41bda73c327c499493b3dd44c4c72f22.jpg",
+    "url": "https://mangafire.to/manga/the-war-of-corpses.5w2mv"
+  },
+  {
+    "slug": "royal-bridegroomm.zxnym",
+    "title": "Royal Bridegroom",
+    "cover": "https://static.mfcdn.nl/19d1/i/3/3d/3da7d74b7496eb9c7000d48e87ec7aa6.jpg",
+    "url": "https://mangafire.to/manga/royal-bridegroomm.zxnym"
+  },
+  {
+    "slug": "soul-land-iv-the-ultimate-combatt.xj5k3",
+    "title": "Soul Land IV: Ultimate Fighting",
+    "cover": "https://static.mfcdn.nl/db96/i/2/2c/2c7028c11c8abb22725c41fe2f4b4052.jpg",
+    "url": "https://mangafire.to/manga/soul-land-iv-the-ultimate-combatt.xj5k3"
+  },
+  {
+    "slug": "tsuki-ga-michibiku-isekai-douchuuu.vvrpl",
+    "title": "Tsukimichi: Moonlit Fantasy",
+    "cover": "https://static.mfcdn.nl/980c/i/f/f9/f99f9b0ed2046761448ef79a7cf26bdf.jpg",
+    "url": "https://mangafire.to/manga/tsuki-ga-michibiku-isekai-douchuuu.vvrpl"
+  },
+  {
+    "slug": "dourostar2.mjnyx",
+    "title": "ROAD☆STAR",
+    "cover": "https://static.mfcdn.nl/503b/i/d/27/52953ebeafd1602a8d68acd30bddc0c1.jpg",
+    "url": "https://mangafire.to/manga/dourostar2.mjnyx"
+  },
+  {
+    "slug": "dourostar.lx596",
+    "title": "Douro☆Star",
+    "cover": "https://static.mfcdn.nl/a418/i/e/d5/d8574048d5ab36fb145d045799a6af85.jpg",
+    "url": "https://mangafire.to/manga/dourostar.lx596"
+  },
+  {
+    "slug": "genkai-ol-kirigiri-giriko.x10mw",
+    "title": "The Struggle is Real with Giriko Kirigiri!",
+    "cover": "https://static.mfcdn.nl/f26e/i/d/9c/ed25269d75479580fedd7e6c6896c0f2.jpg",
+    "url": "https://mangafire.to/manga/genkai-ol-kirigiri-giriko.x10mw"
+  },
+  {
+    "slug": "a-dot-alice.20j35",
+    "title": ".A -dot Alice-",
+    "cover": "https://static.mfcdn.nl/3cfd/i/5/b3/a559d293e9363c39e767752c7a2bd6b5.jpg",
+    "url": "https://mangafire.to/manga/a-dot-alice.20j35"
+  },
+  {
+    "slug": "koujo-tensei-densetsu-no-daimadoushi-hime-kishi-to-narite-densetsu-no-reijou-kishidan-wo-tsukuri-musou-suru.x1lv8",
+    "title": "Koujo Tensei: Densetsu no Daimadoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru",
+    "cover": "https://static.mfcdn.nl/aa6e/i/a/f3/453eaa9e02b9336be04921e008d018d2.jpg",
+    "url": "https://mangafire.to/manga/koujo-tensei-densetsu-no-daimadoushi-hime-kishi-to-narite-densetsu-no-reijou-kishidan-wo-tsukuri-musou-suru.x1lv8"
+  },
+  {
+    "slug": "yang-energy.ro96q",
+    "title": "Goblin Bride",
+    "cover": "https://static.mfcdn.nl/d680/i/5/cd/2743d66ff1e5e2f28179fb06f9165ad8.jpg",
+    "url": "https://mangafire.to/manga/yang-energy.ro96q"
+  },
+  {
+    "slug": "baekjakga-maknaeadeuleun-player.wq8lo",
+    "title": "The Count's Youngest Son is a Gamer",
+    "cover": "https://static.mfcdn.nl/2b95/i/7/da/3bf516ddb4d8f23db2d54b58cba28d3d.jpg",
+    "url": "https://mangafire.to/manga/baekjakga-maknaeadeuleun-player.wq8lo"
+  },
+  {
+    "slug": "cherry-yuusha-to-sei-naru-ken.yvl6j",
+    "title": "Cherry Yuusha to \"Sei\" naru Ken",
+    "cover": "https://static.mfcdn.nl/48cf/i/b/b0/af0bf318118e2536d5d2d88d58162fcd.jpg",
+    "url": "https://mangafire.to/manga/cherry-yuusha-to-sei-naru-ken.yvl6j"
+  },
+  {
+    "slug": "kamisama-ga-mitenai-karaa.jp48y",
+    "title": "Kamisama ga Mitenai kara",
+    "cover": "https://static.mfcdn.nl/9284/i/9/96/1f5bacecccfded310e74e7877503c097.jpg",
+    "url": "https://mangafire.to/manga/kamisama-ga-mitenai-karaa.jp48y"
+  },
+  {
+    "slug": "madd.90658",
+    "title": "MAD",
+    "cover": "https://static.mfcdn.nl/789d/i/9/9b/467a2bc086a122ed97fac3c3e58311d7.jpg",
+    "url": "https://mangafire.to/manga/madd.90658"
+  },
+  {
+    "slug": "itoko-no-onee-chan-ni-amaechauu.9062q",
+    "title": "Itoko no Onee-chan ni Amaechau?",
+    "cover": "https://static.mfcdn.nl/1675/i/f/fd/055b22ae47086ea98acc1749e518eee4.jpg",
+    "url": "https://mangafire.to/manga/itoko-no-onee-chan-ni-amaechauu.9062q"
+  },
+  {
+    "slug": "rebirth-of-the-ultimate-masterr.qk47j",
+    "title": "Rebirth of the Ultimate Master",
+    "cover": "https://static.mfcdn.nl/ddcf/i/4/4a/4a574c21686cecf5c7a762fc9e7fa482.jpg",
+    "url": "https://mangafire.to/manga/rebirth-of-the-ultimate-masterr.qk47j"
+  },
+  {
+    "slug": "insagangg.xjm13",
+    "title": "I am Unbeatable",
+    "cover": "https://static.mfcdn.nl/a194/i/c/2e/be1666ed1ef25bbe1477bccfd652c943.jpg",
+    "url": "https://mangafire.to/manga/insagangg.xjm13"
+  },
+  {
+    "slug": "wo-de-tudi-dou-shi-da-fanpaii.jjx23",
+    "title": "My Disciples Are All Big Villains",
+    "cover": "https://static.mfcdn.nl/1503/i/5/53/53a98cc534d1f1886d1be49149d5ee95.jpg",
+    "url": "https://mangafire.to/manga/wo-de-tudi-dou-shi-da-fanpaii.jjx23"
+  },
+  {
+    "slug": "akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanaraa.qx7nn",
+    "title": "If the Villainess and Villain Met and Fell in Love",
+    "cover": "https://static.mfcdn.nl/dc7a/i/6/6a/6a70af92ede181fe4d650d2266330092.jpg",
+    "url": "https://mangafire.to/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanaraa.qx7nn"
+  },
+  {
+    "slug": "yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akiraa.prmjj",
+    "title": "The Man Devoted 25 Years to the Weakest Skill \"Restore,\" Finally He Got the Strongest One",
+    "cover": "https://static.mfcdn.nl/ca75/i/c/cb/cb4f6cc372c00b793290df8da0b61984.jpg",
+    "url": "https://mangafire.to/manga/yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akiraa.prmjj"
+  },
+  {
+    "slug": "dandadann.3r5x9",
+    "title": "Dandadan",
+    "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc.jpg",
+    "url": "https://mangafire.to/manga/dandadann.3r5x9"
+  },
+  {
+    "slug": "daesahyeong-lee-hoe.ol7oz",
+    "title": "Daesahyeong Lee-Hoe",
+    "cover": "https://static.mfcdn.nl/5684/i/a/b4/c858b4f911ebe0b0b3799668c1746f1d.jpg",
+    "url": "https://mangafire.to/manga/daesahyeong-lee-hoe.ol7oz"
+  },
+  {
+    "slug": "devil-ice2.mjn07",
+    "title": "Devil \u0026 Ice",
+    "cover": "https://static.mfcdn.nl/f454/i/c/c8/55a340949c07589672e6136f0d79868f.jpg",
+    "url": "https://mangafire.to/manga/devil-ice2.mjn07"
+  },
+  {
+    "slug": "the-crown-i-will-seize.5w8rv",
+    "title": "The Crown I Will Seize",
+    "cover": "https://static.mfcdn.nl/e5c9/i/8/0c/cb4b2293e3673c5dd974e999e1bfc8c9.jpg",
+    "url": "https://mangafire.to/manga/the-crown-i-will-seize.5w8rv"
+  },
+  {
+    "slug": "the-hunters-gonna-lay-low.qz645",
+    "title": "The Hunter's Gonna Lay Low",
+    "cover": "https://static.mfcdn.nl/e3ad/i/f/6f/3966e426a50011f9872b1db833aa760b.jpg",
+    "url": "https://mangafire.to/manga/the-hunters-gonna-lay-low.qz645"
+  },
+  {
+    "slug": "2-level-hoegwihan-musin.zknol",
+    "title": "The Martial God Who Regressed Back to Level 2",
+    "cover": "https://static.mfcdn.nl/875b/i/e/c3/bd779bef5666e9bfaa1cb9baf425bb86.jpg",
+    "url": "https://mangafire.to/manga/2-level-hoegwihan-musin.zknol"
+  },
+  {
+    "slug": "amber-alert.lx87m",
+    "title": "Amber Alert",
+    "cover": "https://static.mfcdn.nl/4739/i/f/6a/a19dae2141321bb54906f535aa09e29b.jpg",
+    "url": "https://mangafire.to/manga/amber-alert.lx87m"
+  },
+  {
+    "slug": "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql",
+    "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
+    "cover": "https://static.mfcdn.nl/d531/i/7/72/72c48e51a6e51008627106b70f9dfbc1.jpg",
+    "url": "https://mangafire.to/manga/isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql"
+  },
+  {
+    "slug": "kurai-anoko-to-shitai-kotoo.ll61z",
+    "title": "Kurai Anoko to Shitai koto",
+    "cover": "https://static.mfcdn.nl/63c3/i/4/4b/4b1b732c8f70fa034ed836494f41b1d9.jpg",
+    "url": "https://mangafire.to/manga/kurai-anoko-to-shitai-kotoo.ll61z"
+  },
+  {
+    "slug": "a-hero-who-knows-his-stuff.30knr",
+    "title": "World-Saving Is a Skill",
+    "cover": "https://static.mfcdn.nl/1384/i/2/5d/0d1033557502af9e075186000cb7f94d.jpg",
+    "url": "https://mangafire.to/manga/a-hero-who-knows-his-stuff.30knr"
+  },
+  {
+    "slug": "beorin-sseuregineun-dasi-jupji-anneunda.pm684",
+    "title": "Trash Will Always Be Trash",
+    "cover": "https://static.mfcdn.nl/584b/i/3/9e/e8650b22f21d3685a99354f7847d75c7.jpg",
+    "url": "https://mangafire.to/manga/beorin-sseuregineun-dasi-jupji-anneunda.pm684"
+  },
+  {
+    "slug": "i-will-return-my-new-brother.30v78",
+    "title": "I Will Return My New Brother",
+    "cover": "https://static.mfcdn.nl/29f5/i/d/8f/54f6605794d33da4233bacb6832760f5.jpg",
+    "url": "https://mangafire.to/manga/i-will-return-my-new-brother.30v78"
+  },
+  {
+    "slug": "anyone-can-see-its-a-beast.j2jon",
+    "title": "Anyone Can See It's a Beast",
+    "cover": "https://static.mfcdn.nl/2849/i/2/be/d5b26c6758604cad1e85c3897ed37d1c.jpg",
+    "url": "https://mangafire.to/manga/anyone-can-see-its-a-beast.j2jon"
+  },
+  {
+    "slug": "anyone-beats-the-original.mj2jz",
+    "title": "Anyone Beats the Original",
+    "cover": "https://static.mfcdn.nl/a59e/i/3/a5/6920d27f582f146822cce2ebfa4ef44c.jpg",
+    "url": "https://mangafire.to/manga/anyone-beats-the-original.mj2jz"
+  },
+  {
+    "slug": "warrior-grandpa-and-supreme-granddaughterr.4295j",
+    "title": "Warrior Grandpa and Supreme Granddaughter",
+    "cover": "https://static.mfcdn.nl/6fb1/i/a/a5/a51c8139eb4021733c81d9889ff06d68.jpg",
+    "url": "https://mangafire.to/manga/warrior-grandpa-and-supreme-granddaughterr.4295j"
+  },
+  {
+    "slug": "i-became-the-tyrant-of-a-defense-gamee.kwnyw",
+    "title": "Tyrant of the Tower Defense Game",
+    "cover": "https://static.mfcdn.nl/3e6e/i/4/41/413e6cb0d8fbecd2230827301bf098fc.jpg",
+    "url": "https://mangafire.to/manga/i-became-the-tyrant-of-a-defense-gamee.kwnyw"
+  },
+  {
+    "slug": "hg-ni-koisuru-futari.0m7wk",
+    "title": "HG ni Koisuru Futari",
+    "cover": "https://static.mfcdn.nl/180c/i/9/17/855908d45c8727cdc193d6da76d8ff1e.jpg",
+    "url": "https://mangafire.to/manga/hg-ni-koisuru-futari.0m7wk"
+  },
+  {
+    "slug": "jibun-wo-sss-kyuu-da-to-omoi-kondeiru-c-kyuu-majutsu-gakusei.x1468",
+    "title": "C-Level Magic Student Who Thinks He Is SSS Class",
+    "cover": "https://static.mfcdn.nl/ceb5/i/6/77/3b6a74bc634d0bad874e8f52113b7dc7.jpg",
+    "url": "https://mangafire.to/manga/jibun-wo-sss-kyuu-da-to-omoi-kondeiru-c-kyuu-majutsu-gakusei.x1468"
+  },
+  {
+    "slug": "jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei.zk34p",
+    "title": "Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei",
+    "cover": "https://static.mfcdn.nl/478d/i/e/29/f3b85a9e2ab06e64745a59b79764cc69.jpg",
+    "url": "https://mangafire.to/manga/jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei.zk34p"
+  },
+  {
+    "slug": "youmuin-san-wa-yuusha-ja-arimasen-no-de.202l4",
+    "title": "Because Janitor-san Is Not a Hero",
+    "cover": "https://static.mfcdn.nl/b9b4/i/c/71/ad266353bab3167c3dc78cc8af80be0a.jpg",
+    "url": "https://mangafire.to/manga/youmuin-san-wa-yuusha-ja-arimasen-no-de.202l4"
+  },
+  {
+    "slug": "hg-ni-koisuru-futarii.w20o",
+    "title": "HG ni Koisuru Futari (Colored)",
+    "cover": "https://static.mfcdn.nl/811c/i/5/5c/5c068c7d53f2c2097f3dd54e33930b01.jpg",
+    "url": "https://mangafire.to/manga/hg-ni-koisuru-futarii.w20o"
+  },
+  {
+    "slug": "i-was-the-final-boss.roykn",
+    "title": "I Was the Final Boss",
+    "cover": "https://static.mfcdn.nl/f28c/i/5/95/25f866b1a6cc1bf7db6f325dcddc1486.jpg",
+    "url": "https://mangafire.to/manga/i-was-the-final-boss.roykn"
   },
   {
     "slug": "jinn.9z8q",
@@ -34,12 +1354,6 @@
     "title": "Ojousama-kei Teihen Dungeon Haishinsha, Meiwaku-kei wo Bokottara Bazutte Densetsu ni Nattemasu wa!?",
     "cover": "https://static.mfcdn.nl/5fd2/i/6/65/50db72cb88ff83154c76d3c203a75e91.jpg",
     "url": "https://mangafire.to/manga/ojousama-kei-teihen-dungeon-haishinsha-meiwaku-kei-wo-bokottara-bazutte-densetsu-ni-nattemasu-wa.mj55z"
-  },
-  {
-    "slug": "the-ss-class-freshman-of-the-magic-academy.wq30k",
-    "title": "The SS-Class Freshman of the Magic Academy",
-    "cover": "https://static.mfcdn.nl/3681/i/e/7c/f709a7330a9fcc842cecaf861ae82b72.jpg",
-    "url": "https://mangafire.to/manga/the-ss-class-freshman-of-the-magic-academy.wq30k"
   },
   {
     "slug": "dragon-no-i-de-oyasumi.mjlk8",
@@ -82,12 +1396,6 @@
     "title": "SSS Ji Chaoyue Changli De Sheng Qishi",
     "cover": "https://static.mfcdn.nl/cb65/i/8/62/47a81d3f1f4cc75ab5bba779a1456e99.jpg",
     "url": "https://mangafire.to/manga/sss-ji-chaoyue-changli-de-sheng-qishi.ol558"
-  },
-  {
-    "slug": "reincarnated-heavenly-demonn.72lz7",
-    "title": "Reincarnated Murim Lord",
-    "cover": "https://static.mfcdn.nl/034e/i/1/1f/9206d91ba605c42049d2fc077d08e300.jpg",
-    "url": "https://mangafire.to/manga/reincarnated-heavenly-demonn.72lz7"
   },
   {
     "slug": "sss-ji-chaoyue-changli-de-sheng-qishii.4289m",
@@ -142,18 +1450,6 @@
     "title": "The Dropout 1☆ Magician Unconsciously Uses Cheats Today as Well",
     "cover": "https://static.mfcdn.nl/e8d4/i/b/be/be8166a72b36ae344ac9c23815122dcf.jpg",
     "url": "https://mangafire.to/manga/ochikobore-1-mahou-tsukai-wa-kyou-mo-muishiki-ni-cheat-wo-tsukauu.w1koo"
-  },
-  {
-    "slug": "school-of-streets.30332",
-    "title": "Skool of Street",
-    "cover": "https://static.mfcdn.nl/55f0/i/d/2e/c23aedcdeb3057af4c0ff69b2badcfb6.jpg",
-    "url": "https://mangafire.to/manga/school-of-streets.30332"
-  },
-  {
-    "slug": "moralless-scandal.kx25r",
-    "title": "Moralless Scandal",
-    "cover": "https://static.mfcdn.nl/f65b/i/8/4d/eacde6d34c8952b89e4fd2ad82e734ab.jpg",
-    "url": "https://mangafire.to/manga/moralless-scandal.kx25r"
   },
   {
     "slug": "i-got-the-weakest-class-dragon-tamerr.0q7q9",
@@ -234,12 +1530,6 @@
     "url": "https://mangafire.to/manga/gyuges-no-futari.pm4n9"
   },
   {
-    "slug": "if-the-fairy-is-heartless-then-let-her-become-a-furnace.vq4r4",
-    "title": "If the Fairy is Heartless, Then Let Her Become a Furnace!",
-    "cover": "https://static.mfcdn.nl/3bc5/i/d/8f/6e39cd5561805e8955fcbffb2d101f9d.jpg",
-    "url": "https://mangafire.to/manga/if-the-fairy-is-heartless-then-let-her-become-a-furnace.vq4r4"
-  },
-  {
     "slug": "worlds-greatest-senior-disciplee.rj78m",
     "title": "World's Greatest Senior Disciple",
     "cover": "https://static.mfcdn.nl/abd2/i/0/04/04ba0faed90769a6df9046b712f9f148.jpg",
@@ -300,12 +1590,6 @@
     "url": "https://mangafire.to/manga/awai-no-homura.mj7zx"
   },
   {
-    "slug": "this-emperor-commits-marriage-fraud.0mwx3",
-    "title": "This Emperor Commits Marriage Fraud",
-    "cover": "https://static.mfcdn.nl/caf9/i/1/c7/eb67df35a25af0c29a4b8ef225252951.jpg",
-    "url": "https://mangafire.to/manga/this-emperor-commits-marriage-fraud.0mwx3"
-  },
-  {
     "slug": "a-akuma-chan.ol74z",
     "title": "Hey! Devil Girl!",
     "cover": "https://static.mfcdn.nl/e66c/i/5/05/7502e12ff3365a46ddd48cc9d23bd704.jpg",
@@ -352,12 +1636,6 @@
     "title": "The Archduke's Adopted Saint",
     "cover": "https://static.mfcdn.nl/0114/i/3/82/be4eaeff8543682e353a509685961d88.jpg",
     "url": "https://mangafire.to/manga/daegonggae-ibyangdoen-seongnyeonim.30482"
-  },
-  {
-    "slug": "a-hero-who-knows-his-stuff.30knr",
-    "title": "World-Saving Is a Skill",
-    "cover": "https://static.mfcdn.nl/1384/i/2/5d/0d1033557502af9e075186000cb7f94d.jpg",
-    "url": "https://mangafire.to/manga/a-hero-who-knows-his-stuff.30knr"
   },
   {
     "slug": "sarangbanneun-mangnaeneun-cheoeumira.60n60",
@@ -570,18 +1848,6 @@
     "url": "https://mangafire.to/manga/the-sword-eating-swordmaster.20jkl"
   },
   {
-    "slug": "high-martial-world-one-hand-to-overwhelm-three-thousand-emperors.vq0m2",
-    "title": "High-Martial World: One Hand to Overwhelm Three Thousand Emperors!",
-    "cover": "https://static.mfcdn.nl/75cc/i/1/c3/ff92114634d4ba0c2aa83dad5f9cb34f.jpg",
-    "url": "https://mangafire.to/manga/high-martial-world-one-hand-to-overwhelm-three-thousand-emperors.vq0m2"
-  },
-  {
-    "slug": "quan-qiu-yi-neng-kaiju-juexing-zi-xiao-shen-lei.nkwjj",
-    "title": "Awakening the Purple Thunder at the Beginning",
-    "cover": "https://static.mfcdn.nl/51bc/i/2/0e/8697d124279e0a82d17d1f0a1a59e9fc.jpg",
-    "url": "https://mangafire.to/manga/quan-qiu-yi-neng-kaiju-juexing-zi-xiao-shen-lei.nkwjj"
-  },
-  {
     "slug": "emperor-of-solo-play.82n6o",
     "title": "Emperor of Solo Play",
     "cover": "https://static.mfcdn.nl/967a/i/a/1a/a45297a275ab0992542aa90212862616.jpg",
@@ -654,12 +1920,6 @@
     "url": "https://mangafire.to/manga/baby-squirrel-is-good-at-everythingg.qk6qn"
   },
   {
-    "slug": "wo-tian-ming-da-fanpaii.m2wxz",
-    "title": "I Am The Fated Villain (Colored)",
-    "cover": "https://static.mfcdn.nl/8d2f/i/6/62/62420146cbd8d7205b588f484072e20e.jpg",
-    "url": "https://mangafire.to/manga/wo-tian-ming-da-fanpaii.m2wxz"
-  },
-  {
     "slug": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasuu.2o45l",
     "title": "The Banished Court Magician Aims to Become the Strongest",
     "cover": "https://static.mfcdn.nl/e1b8/i/d/db/db7a684b0ab6fdf17acc05dd441cd368.jpg",
@@ -694,12 +1954,6 @@
     "title": "I Live in Isekai",
     "cover": "https://static.mfcdn.nl/954e/i/1/81/b86f892a8792cb701de89919bf064223.jpg",
     "url": "https://mangafire.to/manga/i-live-in-isekai.wqn16"
-  },
-  {
-    "slug": "the-reborn-young-lord-is-an-assassinn.oxpw8",
-    "title": "The Regressed Youngest Son of the Duke Is an Assassin",
-    "cover": "https://static.mfcdn.nl/bad7/i/d/d9/d9e8d211ea78305bdf7a2fc52c5f8e65.jpg",
-    "url": "https://mangafire.to/manga/the-reborn-young-lord-is-an-assassinn.oxpw8"
   },
   {
     "slug": "how-to-survive-as-the-devils-childd.mq0o8",
@@ -922,12 +2176,6 @@
     "title": "Sakura-san Goshimei Desu yo",
     "cover": "https://static.mfcdn.nl/4d55/i/2/2d/2daaf0ea30718b86b33e5e705b7ba41a.jpg",
     "url": "https://mangafire.to/manga/sakura-san-goshimei-desu-yoo.yk63x"
-  },
-  {
-    "slug": "undead-catastrophe-a-sea-of-bones-at-my-command.9jnzx",
-    "title": "Undead Catastrophe: A Sea of Bones at My Command",
-    "cover": "https://static.mfcdn.nl/2db1/i/8/30/955d91088cf3ed11942b3e3e247df879.jpg",
-    "url": "https://mangafire.to/manga/undead-catastrophe-a-sea-of-bones-at-my-command.9jnzx"
   },
   {
     "slug": "hirotta-no-ga-hontou-ni-neko-ka-wa-utagawashii.zkvq2",
@@ -1314,28 +2562,10 @@
     "url": "https://mangafire.to/manga/happy-antimoral.wqp5o"
   },
   {
-    "slug": "i-stole-the-trash-crown-princes-first-night.20k72",
-    "title": "I Stole the Trash Crown Prince's First Night",
-    "cover": "https://static.mfcdn.nl/4140/i/c/8a/291a26c66468f87bb3c1d7e45613c824.jpg",
-    "url": "https://mangafire.to/manga/i-stole-the-trash-crown-princes-first-night.20k72"
-  },
-  {
     "slug": "i-am-m.yj57z",
     "title": "I Am M",
     "cover": "https://static.mfcdn.nl/775d/i/1/17/71a796bc0bf1d9ce3c6b196fbf4cbb53.jpg",
     "url": "https://mangafire.to/manga/i-am-m.yj57z"
-  },
-  {
-    "slug": "binguihaetdeoni-goedami-dwae-beoryeotda.708y6",
-    "title": "Binguihaetdeoni Goedami Dwae Beoryeotda",
-    "cover": "https://static.mfcdn.nl/f111/i/c/76/325a46864f7861b9605cc0edb10bf180.jpg",
-    "url": "https://mangafire.to/manga/binguihaetdeoni-goedami-dwae-beoryeotda.708y6"
-  },
-  {
-    "slug": "i-was-possessed-but-it-became-a-ghost-story2.4189o",
-    "title": "I Was Possessed, but It Became a Ghost Story",
-    "cover": "https://static.mfcdn.nl/dff2/i/2/30/d49322d932779f4ce4ed3de67f4b67cb.jpg",
-    "url": "https://mangafire.to/manga/i-was-possessed-but-it-became-a-ghost-story2.4189o"
   },
   {
     "slug": "jeonseolgeup-yeongungeun-academy-udeungsaeng.nk09n",
@@ -1366,12 +2596,6 @@
     "title": "Chainsmoker Cat",
     "cover": "https://static.mfcdn.nl/31fa/i/7/7c/b8464220d0e3c4de7f1233369ff70d0b.jpg",
     "url": "https://mangafire.to/manga/yani-nekoo.rwl3q"
-  },
-  {
-    "slug": "max-talent-playerr.w59o4",
-    "title": "Max Talent Player",
-    "cover": "https://static.mfcdn.nl/9763/i/3/3d/3dd42d4001475213ac8b4e423a1f5b5e.jpg",
-    "url": "https://mangafire.to/manga/max-talent-playerr.w59o4"
   },
   {
     "slug": "hottoite-kudasai-juuma-to-cheat-life-tanoshii-mitaii.1rp5v",
@@ -1674,12 +2898,6 @@
     "url": "https://mangafire.to/manga/ddiverr.lr1wq"
   },
   {
-    "slug": "ore-no-yubisaki-de-nureru-sekai.zkwvl",
-    "title": "Ore no Yubisaki de Nureru sekai",
-    "cover": "https://static.mfcdn.nl/eb6d/i/0/90/94d2f6cc68a4f4d9b8bcc8546b25f520.jpg",
-    "url": "https://mangafire.to/manga/ore-no-yubisaki-de-nureru-sekai.zkwvl"
-  },
-  {
     "slug": "utsushicha-dame-na-kaoo.72x48",
     "title": "Utsushicha Dame na Kao",
     "cover": "https://static.mfcdn.nl/f113/i/4/4b/4be0e4a60b42037b7e029fdd8e75a635.jpg",
@@ -1692,12 +2910,6 @@
     "url": "https://mangafire.to/manga/boku-no-kanojo-wa-boku-no-koto-ga-sukijanai.lx7lm"
   },
   {
-    "slug": "hg-ni-koisuru-futari.0m7wk",
-    "title": "HG ni Koisuru Futari",
-    "cover": "https://static.mfcdn.nl/180c/i/9/17/855908d45c8727cdc193d6da76d8ff1e.jpg",
-    "url": "https://mangafire.to/manga/hg-ni-koisuru-futari.0m7wk"
-  },
-  {
     "slug": "zhuansheng-monv-yang-chengle-sheng-dian-qishii.yvr6p",
     "title": "Zhuansheng Monv Yang Chengle Sheng Dian Qishi",
     "cover": "https://static.mfcdn.nl/7119/i/6/67/0da3f9e19ec184e6fff4ba8acf6a0581.jpg",
@@ -1708,12 +2920,6 @@
     "title": "The Maid Holds the Leash of the Tyrant",
     "cover": "https://static.mfcdn.nl/95a0/i/1/18/18cff929dd5e6995ba984a8bbdbcd661.jpg",
     "url": "https://mangafire.to/manga/the-maid-holds-the-leash-of-the-tyrantt.k3264"
-  },
-  {
-    "slug": "hg-ni-koisuru-futarii.w20o",
-    "title": "HG ni Koisuru Futari (Colored)",
-    "cover": "https://static.mfcdn.nl/811c/i/5/5c/5c068c7d53f2c2097f3dd54e33930b01.jpg",
-    "url": "https://mangafire.to/manga/hg-ni-koisuru-futarii.w20o"
   },
   {
     "slug": "isekai-walkingg.kwzrw",
@@ -2064,22 +3270,10 @@
     "url": "https://mangafire.to/manga/becoming-necromancer-god-through-a-skeleton-clone.0mw09"
   },
   {
-    "slug": "swordmanship-veterans-game-stream.70l08",
-    "title": "Swordmanship Veteran's Game Stream",
-    "cover": "https://static.mfcdn.nl/2995/i/9/fd/f38439e8b5ab1e8d0ab079d69d0ff072.jpg",
-    "url": "https://mangafire.to/manga/swordmanship-veterans-game-stream.70l08"
-  },
-  {
     "slug": "i-became-the-supreme-martial-god-through-dream-reincarnation.20y0q",
     "title": "I Became the Supreme Martial God Through Dream Reincarnation",
     "cover": "https://static.mfcdn.nl/2317/i/a/4a/2c199f9085682114d0ad4da19f4723c1.jpg",
     "url": "https://mangafire.to/manga/i-became-the-supreme-martial-god-through-dream-reincarnation.20y0q"
-  },
-  {
-    "slug": "daesahyeong-lee-hoe.ol7oz",
-    "title": "Daesahyeong Lee-Hoe",
-    "cover": "https://static.mfcdn.nl/5684/i/a/b4/c858b4f911ebe0b0b3799668c1746f1d.jpg",
-    "url": "https://mangafire.to/manga/daesahyeong-lee-hoe.ol7oz"
   },
   {
     "slug": "chouetsu-kyuu-seikenshi-makenshika-no-sue-musuko-ni-kaiki-suru.17j0p",
@@ -2100,22 +3294,10 @@
     "url": "https://mangafire.to/manga/i-am-the-5-year-old-spy-who-kidnapped-the-villain.olpp8"
   },
   {
-    "slug": "heart-aching.30l86",
-    "title": "Heart-Aching",
-    "cover": "https://static.mfcdn.nl/4c13/i/d/ce/857323a12a420af595edb5361e16a8d4.jpg",
-    "url": "https://mangafire.to/manga/heart-aching.30l86"
-  },
-  {
     "slug": "sand-mage-of-the-burnt-desert.olpn4",
     "title": "Sand Mage of the Burnt Desert",
     "cover": "https://static.mfcdn.nl/b3e8/i/3/b7/64ccf25a35958dff2fb2a720b1e9d750.jpg",
     "url": "https://mangafire.to/manga/sand-mage-of-the-burnt-desert.olpn4"
-  },
-  {
-    "slug": "titan-forge.17jow",
-    "title": "Titan Forge",
-    "cover": "https://static.mfcdn.nl/136a/i/c/ca/13e3002d3f475a0e2357eb7c68295f4f.jpg",
-    "url": "https://mangafire.to/manga/titan-forge.17jow"
   },
   {
     "slug": "angnyeoneun-baengmanjangja-haegyeolsa.70pw8",
@@ -2520,12 +3702,6 @@
     "url": "https://mangafire.to/manga/the-dignity-of-a-chaeboll.yv4rp"
   },
   {
-    "slug": "royal-bridegroomm.zxnym",
-    "title": "Royal Bridegroom",
-    "cover": "https://static.mfcdn.nl/19d1/i/3/3d/3da7d74b7496eb9c7000d48e87ec7aa6.jpg",
-    "url": "https://mangafire.to/manga/royal-bridegroomm.zxnym"
-  },
-  {
     "slug": "return-of-the-bloodthirsty-policee.2po14",
     "title": "Return of the Bloodthirsty Police",
     "cover": "https://static.mfcdn.nl/a2ef/i/e/e5/e557c80143c6400e7b142d8bb2be03df.jpg",
@@ -2754,12 +3930,6 @@
     "url": "https://mangafire.to/manga/catgirl-in-the-backrooms.zkko2"
   },
   {
-    "slug": "silent-hill-f.olp64",
-    "title": "SILENT HILL f",
-    "cover": "https://static.mfcdn.nl/cdb7/i/1/26/142f5079f201f9a6563200e75a342f6d.jpg",
-    "url": "https://mangafire.to/manga/silent-hill-f.olp64"
-  },
-  {
     "slug": "nippon-sangokuu.lr813",
     "title": "Nippon Sangoku",
     "cover": "https://static.mfcdn.nl/24b2/i/5/58/58eb323ff307f0c1f51e11ebf169f29e.jpg",
@@ -2872,12 +4042,6 @@
     "title": "Reincarnation Colosseum",
     "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a.jpg",
     "url": "https://mangafire.to/manga/reincarnation-coliseumm.02nmk"
-  },
-  {
-    "slug": "i-was-thrown-into-an-unknown-manga.zkvrl",
-    "title": "I Was Thrown Into an Unknown Manga",
-    "cover": "https://static.mfcdn.nl/db7f/i/7/5b/c2ac3e87bac7ef98ca223883b281ddac.jpg",
-    "url": "https://mangafire.to/manga/i-was-thrown-into-an-unknown-manga.zkvrl"
   },
   {
     "slug": "oshiete-shitsuji-kun2.vqzp6",
@@ -3504,12 +4668,6 @@
     "url": "https://mangafire.to/manga/nampyeon-doduk.j27n8"
   },
   {
-    "slug": "one-day-i-became-a-hatchling.rov7p",
-    "title": "One Day, I Became a Hatchling",
-    "cover": "https://static.mfcdn.nl/eeac/i/e/d5/1aaea33da94caba51c9385807d7a5b76.jpg",
-    "url": "https://mangafire.to/manga/one-day-i-became-a-hatchling.rov7p"
-  },
-  {
     "slug": "i-survive-through-the-game-by-dominating-the-wild-monster-information-network.kxlq6",
     "title": "I Survive Through the Game by Dominating the Wild Monster Information Network",
     "cover": "https://static.mfcdn.nl/9ce1/i/5/43/853662b731ddcacf14c0243737119683.jpg",
@@ -3520,12 +4678,6 @@
     "title": "Shadow Master -Gekka no Musou Geki-",
     "cover": "https://static.mfcdn.nl/c29a/i/f/de/5171245f312cf2f0fc52ec6742de27d8.jpg",
     "url": "https://mangafire.to/manga/shadow-master-gekka-no-musou-geki.9jr8q"
-  },
-  {
-    "slug": "isegyeseo-yubunamdoen-sseol.5wn7q",
-    "title": "Isegyeseo Yubunamdoen Sseol",
-    "cover": "https://static.mfcdn.nl/e3d6/i/4/83/c3c1a70900e7a1cc8aa7ebeb560a8af1.jpg",
-    "url": "https://mangafire.to/manga/isegyeseo-yubunamdoen-sseol.5wn7q"
   },
   {
     "slug": "uri-ije-moreuneun-sai-haeyo.41mlo",
@@ -3544,18 +4696,6 @@
     "title": "I Became a God Devouring Souls at the Crematorium",
     "cover": "https://static.mfcdn.nl/24c1/i/2/11/4e14e610d1acf694d0001a48c4a5ae21.jpg",
     "url": "https://mangafire.to/manga/i-became-a-god-devouring-souls-at-the-crematorium.wq327"
-  },
-  {
-    "slug": "state-level-labyrinth-designer.mj5p8",
-    "title": "State-Level Labyrinth Designer",
-    "cover": "https://static.mfcdn.nl/2fe9/i/7/fd/cc9bf5b6e085cd5cba19219cc1d65cf1.jpg",
-    "url": "https://mangafire.to/manga/state-level-labyrinth-designer.mj5p8"
-  },
-  {
-    "slug": "returnees-hidden-strategy-streaming.yj300",
-    "title": "Returnee's Hidden Strategy Streaming",
-    "cover": "https://static.mfcdn.nl/0647/i/0/6a/c332a7537b0a876bce30f0491911c63c.jpg",
-    "url": "https://mangafire.to/manga/returnees-hidden-strategy-streaming.yj300"
   },
   {
     "slug": "thought-it-was-the-end-only-to-return-to-a-changed-genre.9j978",
@@ -3648,12 +4788,6 @@
     "url": "https://mangafire.to/manga/genius-grandson-of-the-loan-shark-kingg.yv40p"
   },
   {
-    "slug": "the-reason-why-i-quit-being-the-demon-kingg.pp5vq",
-    "title": "The Reason Why I Quit Being the Demon King",
-    "cover": "https://static.mfcdn.nl/21ed/i/a/a5/a58731025c24e6ad85349a81ca4ae00a.jpg",
-    "url": "https://mangafire.to/manga/the-reason-why-i-quit-being-the-demon-kingg.pp5vq"
-  },
-  {
     "slug": "31-beonjjae-mareun-geimpaneul-dwieopneundaa.mvol8",
     "title": "The 31st Piece Turns the Tables",
     "cover": "https://static.mfcdn.nl/09c5/i/c/cd/cd186b3893dbb8883fe2121f45a7af3a.jpg",
@@ -3670,12 +4804,6 @@
     "title": "So I'm a Spider, So What?",
     "cover": "https://static.mfcdn.nl/b515/i/c/c8/c83baa72d2b188ceb64c5b1871ab6af3.jpg",
     "url": "https://mangafire.to/manga/kumo-desu-ga-nani-kaa.92l3m"
-  },
-  {
-    "slug": "cheonmayukseongg.2o1m4",
-    "title": "Murim RPG Simulation",
-    "cover": "https://static.mfcdn.nl/6455/i/1/10/10b229f975ceaf809754408a178f0faf.jpg",
-    "url": "https://mangafire.to/manga/cheonmayukseongg.2o1m4"
   },
   {
     "slug": "noblesse-rais-adventuree.ll9xm",
@@ -3820,12 +4948,6 @@
     "title": "Our Guild's Idol",
     "cover": "https://static.mfcdn.nl/3846/i/2/ab/80e5c9a149a8b38beca917788d6c0ead.jpg",
     "url": "https://mangafire.to/manga/uri-guild-idol.yj5zz"
-  },
-  {
-    "slug": "isegye-chakgak-hunter.7094y",
-    "title": "Illusion Hunter from Another World",
-    "cover": "https://static.mfcdn.nl/b43d/i/2/f2/653d015989320ad817c8d92afbfa3ee3.jpg",
-    "url": "https://mangafire.to/manga/isegye-chakgak-hunter.7094y"
   },
   {
     "slug": "our-guild-idol.ox1z4",
@@ -4068,12 +5190,6 @@
     "url": "https://mangafire.to/manga/try-beggingg.npqon"
   },
   {
-    "slug": "wo-de-tudi-dou-shi-da-fanpaii.jjx23",
-    "title": "My Disciples Are All Big Villains",
-    "cover": "https://static.mfcdn.nl/1503/i/5/53/53a98cc534d1f1886d1be49149d5ee95.jpg",
-    "url": "https://mangafire.to/manga/wo-de-tudi-dou-shi-da-fanpaii.jjx23"
-  },
-  {
     "slug": "shinmai-ossan-bouken-sha-saikyou-paati-ni-shinu-hodo-kitae-rarete-muteki-ni-naruu.v5j3l",
     "title": "The Middle-Aged Newbie Adventurer, Trained to Death by the Strongest Party, Became Unbeatable",
     "cover": "https://static.mfcdn.nl/3bd1/i/4/4f/4fddd04cfa05fa3eba0f4c64884a1b0b.jpg",
@@ -4134,12 +5250,6 @@
     "url": "https://mangafire.to/manga/wang-zha.ol338"
   },
   {
-    "slug": "nahonja-tabeseo-nongsa.j23j4",
-    "title": "The Top Dungeon Farmer",
-    "cover": "https://static.mfcdn.nl/a76f/i/9/b7/ec4576117a3f90d4fc067e082f021395.jpg",
-    "url": "https://mangafire.to/manga/nahonja-tabeseo-nongsa.j23j4"
-  },
-  {
     "slug": "the-demonic-warrior.kxok9",
     "title": "The Demonic Warrior",
     "cover": "https://static.mfcdn.nl/2df6/i/d/53/795eb885ba3ec81fbaf221eff93b32f6.jpg",
@@ -4150,12 +5260,6 @@
     "title": "I Was Born as The Daughter of a Low-Ranking Concubine",
     "cover": "https://static.mfcdn.nl/24c1/i/b/bf/15cfa4eaaa3fa28b29c11a13b7a9be69.jpg",
     "url": "https://mangafire.to/manga/i-was-born-as-the-daughter-of-a-low-ranking-concubine.pp096"
-  },
-  {
-    "slug": "only-i-farm-in-the-dungeonn.zx57l",
-    "title": "Only I Farm in the Dungeon",
-    "cover": "https://static.mfcdn.nl/94d1/i/2/25/25b2af69401cd8d0ba66ea00b3885166.jpg",
-    "url": "https://mangafire.to/manga/only-i-farm-in-the-dungeonn.zx57l"
   },
   {
     "slug": "the-worlds-best-sect-of-dependencyy.59kpm",
@@ -4650,12 +5754,6 @@
     "url": "https://mangafire.to/manga/yankee-jk-kuzuhana-chann.zlq83"
   },
   {
-    "slug": "love-letter-from-the-future.30q26",
-    "title": "Love Letter From the Future",
-    "cover": "https://static.mfcdn.nl/7986/i/f/8d/ed27dccca678542e1806560486145f8c.jpg",
-    "url": "https://mangafire.to/manga/love-letter-from-the-future.30q26"
-  },
-  {
     "slug": "only-sense-onlinee.5251v",
     "title": "Only Sense Online",
     "cover": "https://static.mfcdn.nl/a802/i/9/9d/9d2ffc7647a3f043592d8b706340922d.jpg",
@@ -4776,12 +5874,6 @@
     "url": "https://mangafire.to/manga/fox-love-storyy.5kwx0"
   },
   {
-    "slug": "rice-shoulder.yj841",
-    "title": "Rice Shoulder",
-    "cover": "https://static.mfcdn.nl/3ae4/i/2/ef/86f19f155249acc8510be8c3c3a2cca9.jpg",
-    "url": "https://mangafire.to/manga/rice-shoulder.yj841"
-  },
-  {
     "slug": "mamono-kurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naruu.k3plv",
     "title": "Monster Eater",
     "cover": "https://static.mfcdn.nl/43eb/i/4/49/c5197f1cac31163e384bcc8f517ac17f.jpg",
@@ -4860,18 +5952,6 @@
     "url": "https://mangafire.to/manga/houfuku-no-ansatsu-ningyou-assassin-doll.kx72v"
   },
   {
-    "slug": "sono-bouken-sha-toriatsukai-chuui-shoutai-wa-muteki-no-geboku-tachi-o-suberu-isekai-saikyou-no-madou-ou.9jnmx",
-    "title": "Sono Bouken-sha, Toriatsukai chuui. ~Shoutai wa Muteki no Geboku-tachi o Suberu Isekai Saikyou no Madou-ou~",
-    "cover": "https://static.mfcdn.nl/55e8/i/2/cd/fa6b34fbe4b9608a50d759a15b5b91df.jpg",
-    "url": "https://mangafire.to/manga/sono-bouken-sha-toriatsukai-chuui-shoutai-wa-muteki-no-geboku-tachi-o-suberu-isekai-saikyou-no-madou-ou.9jnmx"
-  },
-  {
-    "slug": "moto-saikyou-boukensha-no-rojiura-caffe-nonbiri-kaigyouroku2.60kj7",
-    "title": "Moto Saikyou Boukensha no Rojiura Caffe Nonbiri Kaigyouroku",
-    "cover": "https://static.mfcdn.nl/94d0/i/8/76/6d84dceed438833bd535cc6b4fdef810.jpg",
-    "url": "https://mangafire.to/manga/moto-saikyou-boukensha-no-rojiura-caffe-nonbiri-kaigyouroku2.60kj7"
-  },
-  {
     "slug": "the-bratty-lady-throws-a-tantrum.5wjvj",
     "title": "The Bratty Lady Throws a Tantrum",
     "cover": "https://static.mfcdn.nl/136b/i/b/15/3193805bbd527b016d4edb4cd8c053f0.jpg",
@@ -4888,12 +5968,6 @@
     "title": "Just One Skill and Everything Fell Apart",
     "cover": "https://static.mfcdn.nl/0fc5/i/a/c2/6221e30a2251284d52b82e07ada9a216.jpg",
     "url": "https://mangafire.to/manga/i-turn-skills-into-broken-ones-with-a-single-word.9jnoq"
-  },
-  {
-    "slug": "devil-ice2.mjn07",
-    "title": "Devil \u0026 Ice",
-    "cover": "https://static.mfcdn.nl/f454/i/c/c8/55a340949c07589672e6136f0d79868f.jpg",
-    "url": "https://mangafire.to/manga/devil-ice2.mjn07"
   },
   {
     "slug": "just-graduated-and-its-the-apocalypse-starting-with-a-trillion-i-become-a-super-tycoon.0m793",
@@ -4914,12 +5988,6 @@
     "url": "https://mangafire.to/manga/i-only-need-the-dukes-child.5wnrv"
   },
   {
-    "slug": "eternal-youth.wq3jl",
-    "title": "Eternal Youth",
-    "cover": "https://static.mfcdn.nl/0969/i/3/82/e97b8b1e7c91d9c12c5d1a94d26e43f9.jpg",
-    "url": "https://mangafire.to/manga/eternal-youth.wq3jl"
-  },
-  {
     "slug": "observing-my-moms-friends-son.171jm",
     "title": "Observing My Mom's Friend's Son",
     "cover": "https://static.mfcdn.nl/2d8a/i/d/98/81dcb03844f85f623e53bcd4240943b8.jpg",
@@ -4932,46 +6000,10 @@
     "url": "https://mangafire.to/manga/a-saint-who-levels-up-through-necromancy.0m11k"
   },
   {
-    "slug": "club-knights.ro89y",
-    "title": "Club Knights",
-    "cover": "https://static.mfcdn.nl/0b76/i/6/c4/2648cda39889130063673c4aea2d16c0.jpg",
-    "url": "https://mangafire.to/manga/club-knights.ro89y"
-  },
-  {
-    "slug": "resurrection-boy.wq3oo",
-    "title": "Resurrection Boy",
-    "cover": "https://static.mfcdn.nl/ddbe/i/b/71/4cd63a211c5dc558145d1a4409d2a993.jpg",
-    "url": "https://mangafire.to/manga/resurrection-boy.wq3oo"
-  },
-  {
-    "slug": "the-18-year-old-demon-king.yj04z",
-    "title": "The 18-Year Old Demon King",
-    "cover": "https://static.mfcdn.nl/7106/i/c/9a/2f92eaf9f76b53584ebfb295ab0a6d92.jpg",
-    "url": "https://mangafire.to/manga/the-18-year-old-demon-king.yj04z"
-  },
-  {
     "slug": "i-became-the-scoundrel-of-the-cheon-family.20462",
     "title": "I Became the Scoundrel of the Cheon Family",
     "cover": "https://static.mfcdn.nl/ac8b/i/e/8d/0bd1ac939be190d2d208d65b0cf6de05.jpg",
     "url": "https://mangafire.to/manga/i-became-the-scoundrel-of-the-cheon-family.20462"
-  },
-  {
-    "slug": "greetings-sect-leader.kxj3v",
-    "title": "Greetings, Sect Leader",
-    "cover": "https://static.mfcdn.nl/e186/i/9/96/187e3c3caa69a12aa342f014cbd1b98f.jpg",
-    "url": "https://mangafire.to/manga/greetings-sect-leader.kxj3v"
-  },
-  {
-    "slug": "muhan-level-up-in-murim.yj6xz",
-    "title": "Infinite Leveling: Murim",
-    "cover": "https://static.mfcdn.nl/98d0/i/0/50/2c22f294cb946b14ee27b39d58043671.jpg",
-    "url": "https://mangafire.to/manga/muhan-level-up-in-murim.yj6xz"
-  },
-  {
-    "slug": "kidnapped-dragons.lx2xz",
-    "title": "Kidnapped Dragons",
-    "cover": "https://static.mfcdn.nl/5177/i/5/3c/caa6a0e6c21a43759f83b70be0b5b421.jpg",
-    "url": "https://mangafire.to/manga/kidnapped-dragons.lx2xz"
   },
   {
     "slug": "crimson-reset.mj8qx",
@@ -5004,18 +6036,6 @@
     "url": "https://mangafire.to/manga/the-steel-emperor.lx6q6"
   },
   {
-    "slug": "shodai-sama-no-kikan-shijou-saikyou-ga-1000-nen-go-no-shison-ni-tensei-suru.qz2vv",
-    "title": "Return of the First Patriarch: The Strongest Reincarnates into His Descendant 1000 Years Later",
-    "cover": "https://static.mfcdn.nl/5afc/i/8/e3/7f0e89d25698b4185b52020a18d5f174.jpg",
-    "url": "https://mangafire.to/manga/shodai-sama-no-kikan-shijou-saikyou-ga-1000-nen-go-no-shison-ni-tensei-suru.qz2vv"
-  },
-  {
-    "slug": "the-reason-why-that-villainess-picked-up-a-sword.301q8",
-    "title": "The Reason Why That Villainess Picked up a Sword",
-    "cover": "https://static.mfcdn.nl/3488/i/1/92/0b8cc6d09ffd8fa1f104aeb6a16f9a3b.jpg",
-    "url": "https://mangafire.to/manga/the-reason-why-that-villainess-picked-up-a-sword.301q8"
-  },
-  {
     "slug": "cheonmaharago-nuga-kaldeulgo-hyeopbakam.yj8o1",
     "title": "Cheonmaharago Nuga Kaldeulgo Hyeopbakam",
     "cover": "https://static.mfcdn.nl/0d93/i/8/a2/d0474e25cd7a72f6e136715675a4cc04.jpg",
@@ -5032,18 +6052,6 @@
     "title": "The End Has Come",
     "cover": "https://static.mfcdn.nl/b96a/i/0/15/54f56e854b2b4802431b5c2dd6068587.jpg",
     "url": "https://mangafire.to/manga/the-end-has-come.nk45m"
-  },
-  {
-    "slug": "i-became-the-genius-bastard-of-a-noble-dark-clan.17rwq",
-    "title": "I Became the Genius Bastard of a Noble Dark Clan",
-    "cover": "https://static.mfcdn.nl/b50f/i/e/70/41f967d1c6cdaa8e54fc2c422cb5152f.jpg",
-    "url": "https://mangafire.to/manga/i-became-the-genius-bastard-of-a-noble-dark-clan.17rwq"
-  },
-  {
-    "slug": "the-investor-who-sees-the-futuree.8xj2y",
-    "title": "The Investor Who Sees The Future",
-    "cover": "https://static.mfcdn.nl/2549/i/0/01/17e3ef9c5f9f7eee12866edbd8fbf992.jpg",
-    "url": "https://mangafire.to/manga/the-investor-who-sees-the-futuree.8xj2y"
   },
   {
     "slug": "all-my-alter-egos-are-tycoonss.npl5n",
@@ -5082,12 +6090,6 @@
     "url": "https://mangafire.to/manga/a-wizards-restaurantt.42lkx"
   },
   {
-    "slug": "warrior-grandpa-and-supreme-granddaughterr.4295j",
-    "title": "Warrior Grandpa and Supreme Granddaughter",
-    "cover": "https://static.mfcdn.nl/6fb1/i/a/a5/a51c8139eb4021733c81d9889ff06d68.jpg",
-    "url": "https://mangafire.to/manga/warrior-grandpa-and-supreme-granddaughterr.4295j"
-  },
-  {
     "slug": "dokkaebis-nightt.k323v",
     "title": "Goblin's Night",
     "cover": "https://static.mfcdn.nl/6a06/i/d/da/da30c8ab9ddce3a8c2a402cd74f877b7.jpg",
@@ -5116,12 +6118,6 @@
     "title": "Heart Break Club",
     "cover": "https://static.mfcdn.nl/8206/i/b/b4/b471615a80f892c4307102a61bdc15f3.jpg",
     "url": "https://mangafire.to/manga/seishun-shonbori-clubb.ykll0"
-  },
-  {
-    "slug": "infinite-leveling-murimm.pjm6q",
-    "title": "Infinite Leveling: Murim",
-    "cover": "https://static.mfcdn.nl/046f/i/7/70/707e32a77f37f74a0b3f7d8876debac8.jpg",
-    "url": "https://mangafire.to/manga/infinite-leveling-murimm.pjm6q"
   },
   {
     "slug": "reality-questt.qx40n",
@@ -5182,12 +6178,6 @@
     "title": "It Turns Out That I Have Been Invincible For A Long Time",
     "cover": "https://static.mfcdn.nl/c943/i/c/cb/cbaf25390063af6f56274add4984bf20.jpg",
     "url": "https://mangafire.to/manga/it-turns-out-that-i-have-been-invincible-for-a-long-timee.mvlx7"
-  },
-  {
-    "slug": "im-a-villainess-but-im-good-at-cookingg.jp00n",
-    "title": "I'm a Villainess, but I'm Good at Cooking",
-    "cover": "https://static.mfcdn.nl/7f8b/i/a/af/af02bfefa60268a5f814bd0f44880e88.jpg",
-    "url": "https://mangafire.to/manga/im-a-villainess-but-im-good-at-cookingg.jp00n"
   },
   {
     "slug": "sensitive-boyy.zx5r2",
@@ -5430,12 +6420,6 @@
     "url": "https://mangafire.to/manga/kore-wa-suki-ja-arimasen.20ywq"
   },
   {
-    "slug": "isekai-nonbiri-noukaa.6lyk9",
-    "title": "Farming Life in Another World",
-    "cover": "https://static.mfcdn.nl/2b0c/i/8/89/89de3290f7a808d2292283bf9589461a.jpg",
-    "url": "https://mangafire.to/manga/isekai-nonbiri-noukaa.6lyk9"
-  },
-  {
     "slug": "feasting-lord-in-another-world.j25q3",
     "title": "Feasting Lord in Another World",
     "cover": "https://static.mfcdn.nl/4665/i/1/90/7abdfe95028fc4a7d74922c3a44ff960.jpg",
@@ -5458,12 +6442,6 @@
     "title": "Taking My Reincarnation One Step at a Time: No One Told Me There Would Be Monsters!",
     "cover": "https://static.mfcdn.nl/0cec/i/7/c5/b1f0fe5052af170fbb77fde9cec4a9a1.jpg",
     "url": "https://mangafire.to/manga/tensei-shoujo-wa-mazu-ippo-kara-hajimetai-mamono-ga-iru-toka-kiitenai.60yzp"
-  },
-  {
-    "slug": "graymarkk.npqxk",
-    "title": "Graymark",
-    "cover": "https://static.mfcdn.nl/0c9b/i/5/5d/7bc9a25ebff32ceb902d85c55ef44036.jpg",
-    "url": "https://mangafire.to/manga/graymarkk.npqxk"
   },
   {
     "slug": "welcome-to-japan-elf-sann.2o2mq",
@@ -5646,12 +6624,6 @@
     "url": "https://mangafire.to/manga/cuprums-bridee.l3poz"
   },
   {
-    "slug": "loop-7-kai-me-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimamana-hanayome-hitojichi-seikatsu-wo-mankitsu-suruu.yqy4p",
-    "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-    "cover": "https://static.mfcdn.nl/e943/i/d/d3/d3b1db80507e1096da778c4af673c942.jpg",
-    "url": "https://mangafire.to/manga/loop-7-kai-me-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimamana-hanayome-hitojichi-seikatsu-wo-mankitsu-suruu.yqy4p"
-  },
-  {
     "slug": "roku-hime-wa-kami-goei-ni-koi-wo-suru-saikyou-no-shugo-kishi-tenseishite-mahou-gakuen-ni-ikuu.52q00",
     "title": "The God-Tier Guardian and the Love of Six Princesses",
     "cover": "https://static.mfcdn.nl/b7a2/i/9/91/91575a7e4194a1feba72381c897aa07a.jpg",
@@ -5734,12 +6706,6 @@
     "title": "Villager A Wants to Save the Villainess no Matter What!",
     "cover": "https://static.mfcdn.nl/1a2b/i/b/b6/b68e336b6a6d0914c3d62532bcfcdd0f.jpg",
     "url": "https://mangafire.to/manga/villager-a-wants-to-save-the-villainess-no-matter-whatt.n338m"
-  },
-  {
-    "slug": "unmyeongeul-boneun-hoesawon.203m2",
-    "title": "Office Worker Who Sees Fate",
-    "cover": "https://static.mfcdn.nl/5f7b/i/f/3f/fb1bedec879c08fa4593e4497b7b9e15.jpg",
-    "url": "https://mangafire.to/manga/unmyeongeul-boneun-hoesawon.203m2"
   },
   {
     "slug": "game-sekai-de-mamono-ni-tensei-shiteshimatta-ore-zense-de-oshi-datta-heroine-wo-hirotteshimau.70371",
@@ -5890,6 +6856,12 @@
     "title": "The Brilliant Healer's New Life in the Shadows",
     "cover": "https://static.mfcdn.nl/b55b/i/9/90/90044f3c9aa3dc877c04f58026182862.jpg",
     "url": "https://mangafire.to/manga/isshun-de-chiryou-shiteita-no-ni-yakudatazu-to-tsuihou-sareta-tensai-chiyushi-yami-hero-toshite-tanoshiku-ikiruu.oxn64"
+  },
+  {
+    "slug": "silent-hill-f.olp64",
+    "title": "SILENT HILL f",
+    "cover": "https://static.mfcdn.nl/cdb7/i/1/26/142f5079f201f9a6563200e75a342f6d.jpg",
+    "url": "https://mangafire.to/manga/silent-hill-f.olp64"
   },
   {
     "slug": "17-sai-kara-yarinaosu-proposee.ll0l6",
@@ -6216,18 +7188,6 @@
     "url": "https://mangafire.to/manga/sigani-meomun-jip.603pz"
   },
   {
-    "slug": "beorin-sseuregineun-dasi-jupji-anneunda.pm684",
-    "title": "Trash Will Always Be Trash",
-    "cover": "https://static.mfcdn.nl/584b/i/3/9e/e8650b22f21d3685a99354f7847d75c7.jpg",
-    "url": "https://mangafire.to/manga/beorin-sseuregineun-dasi-jupji-anneunda.pm684"
-  },
-  {
-    "slug": "hoegwihan-yongbyeongeun-da-gyehoegi-itda.5wzkj",
-    "title": "The Regressed Mercenary Has a Plan",
-    "cover": "https://static.mfcdn.nl/eeec/i/5/12/0af7c203c677e248e2247d714d932d89.jpg",
-    "url": "https://mangafire.to/manga/hoegwihan-yongbyeongeun-da-gyehoegi-itda.5wzkj"
-  },
-  {
     "slug": "the-martial-god-who-levels-up.82krv",
     "title": "The Martial God Who Levels Up",
     "cover": "https://static.mfcdn.nl/d2d7/i/0/13/5e87550a6ffbb4b24f14cb9db41082c1.jpg",
@@ -6244,18 +7204,6 @@
     "title": "The Days of Diamond",
     "cover": "https://static.mfcdn.nl/38fa/i/d/d6/d6d78c7674fcd4770dceb70aafa08571.jpg",
     "url": "https://mangafire.to/manga/diamond-no-kouzaii.k3mqr"
-  },
-  {
-    "slug": "the-regressed-mercenarys-machinationss.w5x0o",
-    "title": "The Regressed Mercenary's Machinations",
-    "cover": "https://static.mfcdn.nl/74e0/i/5/5b/8e592f00f6d4a998187db688aa043795.jpg",
-    "url": "https://mangafire.to/manga/the-regressed-mercenarys-machinationss.w5x0o"
-  },
-  {
-    "slug": "childhood-friend-complexx.1q8vv",
-    "title": "Childhood Friend Complex",
-    "cover": "https://static.mfcdn.nl/1717/i/4/42/f59ed26cb9b6f90ff38dd6921b7a6016.jpg",
-    "url": "https://mangafire.to/manga/childhood-friend-complexx.1q8vv"
   },
   {
     "slug": "the-flower-that-stands-talll.v5mnv",
@@ -6390,16 +7338,16 @@
     "url": "https://mangafire.to/manga/villain-to-killl.w17p6"
   },
   {
-    "slug": "i-obtained-a-mythic-itemm.8035n",
-    "title": "Mythic Item Obtained",
-    "cover": "https://static.mfcdn.nl/47b2/i/1/14/1426c3be50ade13101b8be39ea07ba2a.jpg",
-    "url": "https://mangafire.to/manga/i-obtained-a-mythic-itemm.8035n"
-  },
-  {
     "slug": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw",
     "title": "Medaka Kuroiwa is Impervious to My Charms",
     "cover": "https://static.mfcdn.nl/0eb9/i/0/57/ffbfbc27d459fe7ff8c0e8b97d1ad33d.jpg",
     "url": "https://mangafire.to/manga/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinaii.kmmw"
+  },
+  {
+    "slug": "regression-of-the-yong-clan-heir.lrv86",
+    "title": "Regression of the Yong Clan Heir",
+    "cover": "https://static.mfcdn.nl/a9c5/i/d/7d/e8f6d196a6c2fee9b2b615a6e900bd77.jpg",
+    "url": "https://mangafire.to/manga/regression-of-the-yong-clan-heir.lrv86"
   },
   {
     "slug": "sekai-saigo-no-hibi.pmq2j",
@@ -6448,12 +7396,6 @@
     "title": "Level 999 Goblin",
     "cover": "https://static.mfcdn.nl/0048/i/9/3f/80a8090dd9929b7b89193fbab764faf0.jpg",
     "url": "https://mangafire.to/manga/level-999-goblin.lxr9q"
-  },
-  {
-    "slug": "iljin-demonic-cult.0mq0k",
-    "title": "Iljin Demonic Cult",
-    "cover": "https://static.mfcdn.nl/8ba2/i/7/2f/156d642c6d9cc18e2f4e64642f473e3f.jpg",
-    "url": "https://mangafire.to/manga/iljin-demonic-cult.0mq0k"
   },
   {
     "slug": "moushin-listener-yami-ochi-haishinsha-ni-koishite.np1vn",
@@ -6510,12 +7452,6 @@
     "url": "https://mangafire.to/manga/saikyou-ansatsusha-class-teni-de-isekai-e.0mxxk"
   },
   {
-    "slug": "i-will-return-my-new-brother.30v78",
-    "title": "I Will Return My New Brother",
-    "cover": "https://static.mfcdn.nl/29f5/i/d/8f/54f6605794d33da4233bacb6832760f5.jpg",
-    "url": "https://mangafire.to/manga/i-will-return-my-new-brother.30v78"
-  },
-  {
     "slug": "i-tried-to-debut-my-kid-but-ended-up-debuting-myself.kx999",
     "title": "I Tried to Debut My Kid, But Ended Up Debuting Myself",
     "cover": "https://static.mfcdn.nl/72c1/i/2/33/fd1dd49f41205c6af67e35d5ee0c05fc.jpg",
@@ -6526,12 +7462,6 @@
     "title": "Mother's Contract Marriage",
     "cover": "https://static.mfcdn.nl/a843/i/3/3f/3f0f894a0ad03d9755ee1424ca88bb45.jpg",
     "url": "https://mangafire.to/manga/eommaga-gyeyakgyeolhon-haetdaa.yvqy0"
-  },
-  {
-    "slug": "soul-land-iv-the-ultimate-combatt.xj5k3",
-    "title": "Soul Land IV: Ultimate Fighting",
-    "cover": "https://static.mfcdn.nl/db96/i/2/2c/2c7028c11c8abb22725c41fe2f4b4052.jpg",
-    "url": "https://mangafire.to/manga/soul-land-iv-the-ultimate-combatt.xj5k3"
   },
   {
     "slug": "himekishi-ga-classmatee.jvwv4",
@@ -6568,12 +7498,6 @@
     "title": "After School, We Wander in Space.",
     "cover": "https://static.mfcdn.nl/d73c/i/7/cf/6fc7f89958efe22317c7b3080c8afe18.jpg",
     "url": "https://mangafire.to/manga/houkago-bokura-wa-uchuu-ni-madou.vqv8l"
-  },
-  {
-    "slug": "anyone-beats-the-original.mj2jz",
-    "title": "Anyone Beats the Original",
-    "cover": "https://static.mfcdn.nl/a59e/i/3/a5/6920d27f582f146822cce2ebfa4ef44c.jpg",
-    "url": "https://mangafire.to/manga/anyone-beats-the-original.mj2jz"
   },
   {
     "slug": "idolidol-storyy.jvjjn",
@@ -7110,24 +8034,6 @@
     "url": "https://mangafire.to/manga/be-the-bad-bosss-man.703oj"
   },
   {
-    "slug": "i-faked-a-pregnancy-but-my-husband-returned.5wj9m",
-    "title": "I Faked a Pregnancy, but My Husband Returned",
-    "cover": "https://static.mfcdn.nl/cee2/i/d/aa/9151d1fa24577e44f88d3e89798dfd54.jpg",
-    "url": "https://mangafire.to/manga/i-faked-a-pregnancy-but-my-husband-returned.5wj9m"
-  },
-  {
-    "slug": "i-became-the-first-prince-legend-of-swords-song.304l2",
-    "title": "I Became the First Prince: Legend of Sword's Song",
-    "cover": "https://static.mfcdn.nl/1323/i/e/e1/860fa2d2fa5f9a22d0d4409b48ac8c5f.jpg",
-    "url": "https://mangafire.to/manga/i-became-the-first-prince-legend-of-swords-song.304l2"
-  },
-  {
-    "slug": "i-was-supposed-to-be-a-stalker-lady-but-somehow-im-being-adored-instead.wq0zk",
-    "title": "I Was Supposed to Be a Stalker Lady, but Somehow I'm Being Adored Instead",
-    "cover": "https://static.mfcdn.nl/8bf8/i/d/79/6a279fcd016acfb0db046a2a8386b87a.jpg",
-    "url": "https://mangafire.to/manga/i-was-supposed-to-be-a-stalker-lady-but-somehow-im-being-adored-instead.wq0zk"
-  },
-  {
     "slug": "for-the-young-villains-happy-ending.pmj0j",
     "title": "For the Young Villain's Happy Ending",
     "cover": "https://static.mfcdn.nl/9e6c/i/4/7f/5f8fc81b6f76e8569e5e769150247f7b.jpg",
@@ -7144,12 +8050,6 @@
     "title": "Tune In to the Midnight Heart",
     "cover": "https://static.mfcdn.nl/bd0a/i/d/dd/15cafc796e174d4f4183df128b308350.jpg",
     "url": "https://mangafire.to/manga/mayonaka-heart-tunee.pp6pj"
-  },
-  {
-    "slug": "star-embracing-swordmasterr.w5y8k",
-    "title": "The Stellar Swordmaster",
-    "cover": "https://static.mfcdn.nl/bbfc/i/a/6b/33d63377b72d7c0cb839c1e75fecb255.jpg",
-    "url": "https://mangafire.to/manga/star-embracing-swordmasterr.w5y8k"
   },
   {
     "slug": "eiyuu-to-kenja-no-tensei-konn.rj27q",
@@ -7272,12 +8172,6 @@
     "url": "https://mangafire.to/manga/tonikaku-kawaiii.zl113"
   },
   {
-    "slug": "return-of-the-blossoming-bladee.4n07",
-    "title": "Return of the Blossoming Blade",
-    "cover": "https://static.mfcdn.nl/81a2/i/8/88/88102396a4a8d256fa443cc62c8ddd0b.jpg",
-    "url": "https://mangafire.to/manga/return-of-the-blossoming-bladee.4n07"
-  },
-  {
     "slug": "my-deskmate-alya-sometimes-hides-her-feelings-in-russiann.m6nz",
     "title": "Alya Sometimes Hides Her Feelings in Russian",
     "cover": "https://static.mfcdn.nl/69b0/i/8/8d/8d019fe1381c6831836b18b653ab3456.jpg",
@@ -7330,12 +8224,6 @@
     "title": "Not-Sew-Wicked Stepmom",
     "cover": "https://static.mfcdn.nl/7c15/i/b/b2/b227b5e81b57020ea9717c274e4da15e.jpg",
     "url": "https://mangafire.to/manga/not-sew-wicked-stepmomm.7wm2j"
-  },
-  {
-    "slug": "psychopath-in-murim.vq0w6",
-    "title": "Psychopath in Murim",
-    "cover": "https://static.mfcdn.nl/9c09/i/0/1f/2efe0aacd7aca4ed6203e237e27f49ad.jpg",
-    "url": "https://mangafire.to/manga/psychopath-in-murim.vq0w6"
   },
   {
     "slug": "smiling-boxer.lxn4n",
@@ -7440,12 +8328,6 @@
     "url": "https://mangafire.to/manga/muhanui-mabeopsaa.kkym4"
   },
   {
-    "slug": "the-small-village-of-the-young-lady-without-blessingg.zlvn2",
-    "title": "The Small Village of the Young Lady Without Blessing",
-    "cover": "https://static.mfcdn.nl/3cd0/i/8/82/82848833927d26ba29f0e1d0c2057155.jpg",
-    "url": "https://mangafire.to/manga/the-small-village-of-the-young-lady-without-blessingg.zlvn2"
-  },
-  {
     "slug": "higanjima-saigo-no-47-hiaii.ll0rm",
     "title": "Higanjima - Saigo no 47 Hiai",
     "cover": "https://static.mfcdn.nl/185f/i/1/14/14d722df0a223d9992abff80e740d944.jpg",
@@ -7498,12 +8380,6 @@
     "title": "Run Away, From Me",
     "cover": "https://static.mfcdn.nl/263c/i/9/95/e5194b8792865b21e912b12de624f6da.jpg",
     "url": "https://mangafire.to/manga/run-away-from-mee.oxr4y"
-  },
-  {
-    "slug": "lord-of-money22.8xk2n",
-    "title": "Lord of Money",
-    "cover": "https://static.mfcdn.nl/4f34/i/2/21/217259ff90274284689577900f41f0a2.jpg",
-    "url": "https://mangafire.to/manga/lord-of-money22.8xk2n"
   },
   {
     "slug": "helseu-dungeonn.291p2",
@@ -7866,12 +8742,6 @@
     "url": "https://mangafire.to/manga/the-redemption-of-earl-nottinghamm.8x4yv"
   },
   {
-    "slug": "veterinarian-helloo.w5zv7",
-    "title": "Veterinarian! Hello?",
-    "cover": "https://static.mfcdn.nl/6a45/i/4/43/43988bbdcd3de38ae3adf765c645980a.jpg",
-    "url": "https://mangafire.to/manga/veterinarian-helloo.w5zv7"
-  },
-  {
     "slug": "jiang-si-xianshengg.qk4ov",
     "title": "Mr. Zombie",
     "cover": "https://static.mfcdn.nl/fe75/i/5/58/587eb915f17ef200d63996a645fff910.jpg",
@@ -7912,18 +8782,6 @@
     "title": "Wo Duzi Nian Jun",
     "cover": "https://static.mfcdn.nl/5475/i/9/bc/47ae09cc9e3750a93125d25b1dfbff27.jpg",
     "url": "https://mangafire.to/manga/wo-duzi-nian-jun.zkvww"
-  },
-  {
-    "slug": "kono-to-ai-wa-chi-yori-koku.9jr38",
-    "title": "Kono to Ai wa Chi Yori Koku",
-    "cover": "https://static.mfcdn.nl/448d/i/5/e3/51b92d86f7429088c9b2b091af30c86a.jpg",
-    "url": "https://mangafire.to/manga/kono-to-ai-wa-chi-yori-koku.9jr38"
-  },
-  {
-    "slug": "jungjeungoesang-center-oegwauisa-baek-kang-hyeok.j2572",
-    "title": "Trauma Center: Dr. Baek",
-    "cover": "https://static.mfcdn.nl/584a/i/f/19/7cdc0477614c5d95e1bddec7d48e1b2e.jpg",
-    "url": "https://mangafire.to/manga/jungjeungoesang-center-oegwauisa-baek-kang-hyeok.j2572"
   },
   {
     "slug": "les-fourmis.wq09o",
@@ -8088,12 +8946,6 @@
     "url": "https://mangafire.to/manga/seinaru-otome-to-himegoto-woo.mvrpv"
   },
   {
-    "slug": "blossoms-of-the-white-night.70ony",
-    "title": "Blossoms of the White Night",
-    "cover": "https://static.mfcdn.nl/274e/i/0/00/f4eb3b8c582463f198bfaabc9a370cc3.jpg",
-    "url": "https://mangafire.to/manga/blossoms-of-the-white-night.70ony"
-  },
-  {
     "slug": "watashi-no-hatsukoi-wa-hazukashisugite-dare-ni-mo-ienai.ro97m",
     "title": "Watashi no Hatsukoi wa Hazukashisugite Dare ni mo Ienai",
     "cover": "https://static.mfcdn.nl/8aaa/i/1/f8/829013c3b5a581c6ac1f2b0684aca065.jpg",
@@ -8128,12 +8980,6 @@
     "title": "Danshi dato Omotteita Osanajimi tono Shinkon Seikatsu ga Umaku Ikisugiru ken ni Tsuite",
     "cover": "https://static.mfcdn.nl/5f50/i/5/5f/5f8a7ca80810ae03735763903ba4aad5.jpg",
     "url": "https://mangafire.to/manga/danshi-dato-omotteita-osanajimi-tono-shinkon-seikatsu-ga-umaku-ikisugiru-ken-ni-tsuitee.mv3mx"
-  },
-  {
-    "slug": "ana-ume-kekkon-kigen-tsuki-koushaku-fujin-wa-kujikenai.5wwlj",
-    "title": "A Marriage of Convenience: The Time-Limited Duchess Won't Give Up",
-    "cover": "https://static.mfcdn.nl/59f2/i/a/98/cfe4ef85a611b5fb51e41ba435f93b4d.jpg",
-    "url": "https://mangafire.to/manga/ana-ume-kekkon-kigen-tsuki-koushaku-fujin-wa-kujikenai.5wwlj"
   },
   {
     "slug": "kyou-kara-tsukaeru-isekai-renai-manyuaru.41r6m",
@@ -8626,12 +9472,6 @@
     "title": "Ultraman (KAZUMINE Daiji)",
     "cover": "https://static.mfcdn.nl/5e2a/i/a/a9/8e96d949fd7ae9b922f4906c5563e169.jpg",
     "url": "https://mangafire.to/manga/ultraman-kazumine-daijii.xvq2v"
-  },
-  {
-    "slug": "dai-shizen-no-mahoushi-ashto-sutareta-ryouchi-de-slow-lifee.jp7p8",
-    "title": "Nature Mage Ashto’s Slow Life in an Abandoned Forest",
-    "cover": "https://static.mfcdn.nl/2d3e/i/0/01/58583361ea2bae7f15609efd2ebb28a4.jpg",
-    "url": "https://mangafire.to/manga/dai-shizen-no-mahoushi-ashto-sutareta-ryouchi-de-slow-lifee.jp7p8"
   },
   {
     "slug": "kimi-wa-kawaii-reptilee.rwv9o",
@@ -9510,34 +10350,10 @@
     "url": "https://mangafire.to/manga/stray-eden.60kx4"
   },
   {
-    "slug": "hunter-sesangui-jeongwonsa.0mv5r",
-    "title": "The Gardener in a Hunter World",
-    "cover": "https://static.mfcdn.nl/9a84/i/3/01/6cce37f749cfd959f9f3f4a4ddca7a3d.jpg",
-    "url": "https://mangafire.to/manga/hunter-sesangui-jeongwonsa.0mv5r"
-  },
-  {
     "slug": "haburare-rune-tsukai-no-isekai-boukentan.17w3x",
     "title": "The Adventures of a Rune Master",
     "cover": "https://static.mfcdn.nl/b7f2/i/5/41/3d421a3da6cf256e6286f6b05d9dc13d.jpg",
     "url": "https://mangafire.to/manga/haburare-rune-tsukai-no-isekai-boukentan.17w3x"
-  },
-  {
-    "slug": "system-universe.827my",
-    "title": "System Universe",
-    "cover": "https://static.mfcdn.nl/2f6b/i/a/26/27d54f78d9c99089263042ba4412b36c.jpg",
-    "url": "https://mangafire.to/manga/system-universe.827my"
-  },
-  {
-    "slug": "summer-moon-the-cupid.yj2j0",
-    "title": "Summer Moon: The Cupid",
-    "cover": "https://static.mfcdn.nl/6854/i/9/56/5b7154be8e65f05ab016bf77d0c4aafd.jpg",
-    "url": "https://mangafire.to/manga/summer-moon-the-cupid.yj2j0"
-  },
-  {
-    "slug": "acting-gangster.kxww9",
-    "title": "Acting Gangster",
-    "cover": "https://static.mfcdn.nl/854c/i/4/9f/2145fb25aabf33628d6a54f84e4cba5f.jpg",
-    "url": "https://mangafire.to/manga/acting-gangster.kxww9"
   },
   {
     "slug": "realization-of-justice.0q5k3",
@@ -9546,40 +10362,10 @@
     "url": "https://mangafire.to/manga/realization-of-justice.0q5k3"
   },
   {
-    "slug": "powerful-confession.lrwnm",
-    "title": "Powerful Confession",
-    "cover": "https://static.mfcdn.nl/5710/i/e/ed/38b8ef15939aad03ebc3028b6b989014.jpg",
-    "url": "https://mangafire.to/manga/powerful-confession.lrwnm"
-  },
-  {
     "slug": "gosu-wakes-up-as-a-concubinee.v9q3v",
     "title": "Gosu, Wakes Up as a Concubine",
     "cover": "https://static.mfcdn.nl/cdd4/i/7/7f/7fd0d75203a2901aaf852d1535128211.jpg",
     "url": "https://mangafire.to/manga/gosu-wakes-up-as-a-concubinee.v9q3v"
-  },
-  {
-    "slug": "kinki-no-tensei-daimadoushii.z1ozl",
-    "title": "The Reincarnation of the Forbidden Archmage",
-    "cover": "https://static.mfcdn.nl/62a1/i/1/15/15d67e6416715b7fa59dc71aa7acd4ee.jpg",
-    "url": "https://mangafire.to/manga/kinki-no-tensei-daimadoushii.z1ozl"
-  },
-  {
-    "slug": "zero-gamee.ojrvy",
-    "title": "Zero Game",
-    "cover": "https://static.mfcdn.nl/ec2c/i/7/7a/7a4fc80ecf138c62e1841720a086f8ed.jpg",
-    "url": "https://mangafire.to/manga/zero-gamee.ojrvy"
-  },
-  {
-    "slug": "rabu-kuee.qx6pv",
-    "title": "Love Quest",
-    "cover": "https://static.mfcdn.nl/3215/i/8/8a/8a300b011e745b5fe9598f81ec2c7957.jpg",
-    "url": "https://mangafire.to/manga/rabu-kuee.qx6pv"
-  },
-  {
-    "slug": "the-heavenly-demon-cant-live-a-normal-lifee.zlnn3",
-    "title": "Descended from Divinity",
-    "cover": "https://static.mfcdn.nl/ff6d/i/d/db/dbeabfba7bfb2c89e67b9b20b1c9723c.jpg",
-    "url": "https://mangafire.to/manga/the-heavenly-demon-cant-live-a-normal-lifee.zlnn3"
   },
   {
     "slug": "osananajimi-no-s-kyuu-party-kara-tsuihou-sareta-seijuutsukai-bannou-shien-mahou-to-nakama-wo-fuyashite-saikyou-ee.9oyq0",
@@ -9612,22 +10398,10 @@
     "url": "https://mangafire.to/manga/ano-saisekijou-de-hanataba-wo.nk8rn"
   },
   {
-    "slug": "densetsu-no-ansatsusha-tensei-shitara-ouke-no-aisare-suemusume-ni-natte-shimaimashitee.jpm3y",
-    "title": "Densetsu no Ansatsusha, Tensei Shitara Ouke no Aisare Suemusume ni Natte Shimaimashite",
-    "cover": "https://static.mfcdn.nl/3d74/i/4/44/18b346377cf4f0de9cdfd1c8f40749ac.jpg",
-    "url": "https://mangafire.to/manga/densetsu-no-ansatsusha-tensei-shitara-ouke-no-aisare-suemusume-ni-natte-shimaimashitee.jpm3y"
-  },
-  {
     "slug": "baronn.jpw62",
     "title": "Baron",
     "cover": "https://static.mfcdn.nl/74f4/i/7/76/760937c5fbb35ece68f7d308cb0500bf.jpg",
     "url": "https://mangafire.to/manga/baronn.jpw62"
-  },
-  {
-    "slug": "maryoku-9999-man-zen-zokusei-tsukai-no-dai-kenjaa.qk4wn",
-    "title": "Magic Level 99990000 All-Attribute Great Sage",
-    "cover": "https://static.mfcdn.nl/0828/i/d/d0/d09497dd2a983149a4fb81a2fbaddd43.jpg",
-    "url": "https://mangafire.to/manga/maryoku-9999-man-zen-zokusei-tsukai-no-dai-kenjaa.qk4wn"
   },
   {
     "slug": "suzumiya-haruhi-no-yuuutsuu.o4k5",
@@ -9652,12 +10426,6 @@
     "title": "Delinquent Gacha",
     "cover": "https://static.mfcdn.nl/4ff7/i/4/b1/a839c62b8c89b7514f5cae603591f9d2.jpg",
     "url": "https://mangafire.to/manga/gachankii.30382"
-  },
-  {
-    "slug": "genkai-ol-kirigiri-giriko.x10mw",
-    "title": "The Struggle is Real with Giriko Kirigiri!",
-    "cover": "https://static.mfcdn.nl/f26e/i/d/9c/ed25269d75479580fedd7e6c6896c0f2.jpg",
-    "url": "https://mangafire.to/manga/genkai-ol-kirigiri-giriko.x10mw"
   },
   {
     "slug": "shima-rock.kx0n6",
@@ -9696,28 +10464,10 @@
     "url": "https://mangafire.to/manga/bishuu-gyakuten-sekai-de-chiryoushi-yattemasuu.xvo0q"
   },
   {
-    "slug": "the-player-that-cant-level-upp.4qpno",
-    "title": "The Player Who Can't Level Up",
-    "cover": "https://static.mfcdn.nl/09cb/i/2/27/27150b3065b494109056d1338d5b9d33.jpg",
-    "url": "https://mangafire.to/manga/the-player-that-cant-level-upp.4qpno"
-  },
-  {
-    "slug": "yakuza-reincarnationn.3ry98",
-    "title": "Yakuza Reincarnation",
-    "cover": "https://static.mfcdn.nl/99c2/i/9/bc/870df9048260fa9d2211f4a9dba78280.jpg",
-    "url": "https://mangafire.to/manga/yakuza-reincarnationn.3ry98"
-  },
-  {
     "slug": "san-kyuu-pitchh.72vnj",
     "title": "Strikeout Pitch",
     "cover": "https://static.mfcdn.nl/13b4/i/8/84/43ebe404610cc1808321875e5db84bc2.jpg",
     "url": "https://mangafire.to/manga/san-kyuu-pitchh.72vnj"
-  },
-  {
-    "slug": "the-novels-extraa.4qz4k",
-    "title": "The Novel's Extra",
-    "cover": "https://static.mfcdn.nl/a295/i/b/b2/b211561c560cd99e0894928c2f30eef8.jpg",
-    "url": "https://mangafire.to/manga/the-novels-extraa.4qz4k"
   },
   {
     "slug": "isekai-de-zenra-yuusha-to-yobanaide.ol7xz",
@@ -9730,18 +10480,6 @@
     "title": "Ashen Oreum",
     "cover": "https://static.mfcdn.nl/cae5/i/5/90/1dabeb500b9c38dd75664c74551a4196.jpg",
     "url": "https://mangafire.to/manga/ashen-oreum.17j4x"
-  },
-  {
-    "slug": "the-shepherd-wizard.mj5qp",
-    "title": "The Shepherd Wizard",
-    "cover": "https://static.mfcdn.nl/07d7/i/3/8b/5f5a07b520a6eb71479cfb58197a2dcd.jpg",
-    "url": "https://mangafire.to/manga/the-shepherd-wizard.mj5qp"
-  },
-  {
-    "slug": "absolute-regressionn.2pmll",
-    "title": "Absolute Regression",
-    "cover": "https://static.mfcdn.nl/480f/i/f/fe/8ead1906e1c35342dc463b7dcf467a50.jpg",
-    "url": "https://mangafire.to/manga/absolute-regressionn.2pmll"
   },
   {
     "slug": "tsubasa-reservoir-chroniclee.ypz",
@@ -9774,40 +10512,16 @@
     "url": "https://mangafire.to/manga/kichiku-eiyuuu.kk49v"
   },
   {
-    "slug": "desire-me-if-you-can.82mn3",
-    "title": "Desire Me if You Can",
-    "cover": "https://static.mfcdn.nl/2118/i/4/bd/7baf706e34f49734fa7408121b0dd758.jpg",
-    "url": "https://mangafire.to/manga/desire-me-if-you-can.82mn3"
-  },
-  {
     "slug": "assault-on-a-superior.wq466",
     "title": "Assault on a Superior",
     "cover": "https://static.mfcdn.nl/1ee3/i/c/22/d1192a98df63a52900e7e1f300f0b2e5.jpg",
     "url": "https://mangafire.to/manga/assault-on-a-superior.wq466"
   },
   {
-    "slug": "akujo-alicia-no-kyuukoku-recipe.pp304",
-    "title": "How The Villainous Alicia Saves The Day",
-    "cover": "https://static.mfcdn.nl/a2c0/i/6/9f/b4e72f688cb71fe1a377259f15e69b4b.jpg",
-    "url": "https://mangafire.to/manga/akujo-alicia-no-kyuukoku-recipe.pp304"
-  },
-  {
-    "slug": "gal-to-gal-no-yuri.822py",
-    "title": "#Gal to Gal no Yuri",
-    "cover": "https://static.mfcdn.nl/dafd/i/8/45/f0a3b34ab9375b0795c31aca1e7d5bfc.jpg",
-    "url": "https://mangafire.to/manga/gal-to-gal-no-yuri.822py"
-  },
-  {
     "slug": "charisma-kyou-mo-heiwa-desuu.yky5j",
     "title": "Charisma - Kyou mo Heiwa desu",
     "cover": "https://static.mfcdn.nl/6814/i/3/3e/3ebad7d96ec2640ed5757d8827945d45.jpg",
     "url": "https://mangafire.to/manga/charisma-kyou-mo-heiwa-desuu.yky5j"
-  },
-  {
-    "slug": "tensei-youjo-wa-akiramenaii.xrqm3",
-    "title": "Reincarnation's little girl never gives up",
-    "cover": "https://static.mfcdn.nl/b399/i/f/f5/f5c902bf06e639b13d111d43888fca0a.jpg",
-    "url": "https://mangafire.to/manga/tensei-youjo-wa-akiramenaii.xrqm3"
   },
   {
     "slug": "saenai-ossan-jitsu-wa-saikyou.wqpqo",
@@ -9846,24 +10560,6 @@
     "url": "https://mangafire.to/manga/my-angel-childhood-friend-was-a-gal-when-we-met-again-fan-coloredd.59189"
   },
   {
-    "slug": "mount-hua-sects-genius-phantom-swordsman.lxp4m",
-    "title": "Mount Hua Sect's Genius Phantom Swordsman",
-    "cover": "https://static.mfcdn.nl/2d23/i/6/b5/9a06aac4ddd07dd3160667ec265ec334.jpg",
-    "url": "https://mangafire.to/manga/mount-hua-sects-genius-phantom-swordsman.lxp4m"
-  },
-  {
-    "slug": "heika-watashi-o-wasurete-kudasai.yvyxp",
-    "title": "Forget That Night, Your Majesty",
-    "cover": "https://static.mfcdn.nl/5b70/i/e/44/90bae3dca58834e68201c69b7cfb1aae.jpg",
-    "url": "https://mangafire.to/manga/heika-watashi-o-wasurete-kudasai.yvyxp"
-  },
-  {
-    "slug": "odebu-akujo-ni-tensei-shitara-naze-ka-last-boss-ouji-sama-ni-shuuchaku-sareteimasuu.zx9ql",
-    "title": "Odebu Akujo ni Tensei Shitara, Naze ka Last Boss Ouji-sama ni Shuuchaku sareteimasu",
-    "cover": "https://static.mfcdn.nl/0a43/i/4/4d/2ab7bb3f52f11a9fe8a9f4eb1fbd7923.jpg",
-    "url": "https://mangafire.to/manga/odebu-akujo-ni-tensei-shitara-naze-ka-last-boss-ouji-sama-ni-shuuchaku-sareteimasuu.zx9ql"
-  },
-  {
     "slug": "gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deruu.rjykn",
     "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
     "cover": "https://static.mfcdn.nl/0299/i/f/f5/f5a6a9af0d27c93a1bc601d02d0fe035.jpg",
@@ -9894,12 +10590,6 @@
     "url": "https://mangafire.to/manga/kimi-to-nara-koi-wo-shite-mite-moo.qnlwn"
   },
   {
-    "slug": "maria-no-danzaii.oxlo4",
-    "title": "Maria no Danzai",
-    "cover": "https://static.mfcdn.nl/8805/i/0/05/05b130d29b132ccc7ef20f7a19020e81.jpg",
-    "url": "https://mangafire.to/manga/maria-no-danzaii.oxlo4"
-  },
-  {
     "slug": "gimai-seikatsuu.mqx1p",
     "title": "Days with My Stepsister",
     "cover": "https://static.mfcdn.nl/c7d0/i/8/8f/8fba47ad7f95636bf66c88fa3fa37aee.jpg",
@@ -9910,12 +10600,6 @@
     "title": "The Yandere Pet Cat is Overly Domineering",
     "cover": "https://static.mfcdn.nl/5758/i/e/ea/eaa4dd1faf8437d4e02087bd1501b4bb.jpg",
     "url": "https://mangafire.to/manga/the-yandere-pet-cat-is-overly-domineeringg.mq1rz"
-  },
-  {
-    "slug": "gyeoulseongui-agi-joesunim.wqn96",
-    "title": "Baby Prisoner of the Winter Castle",
-    "cover": "https://static.mfcdn.nl/1e7a/i/5/04/3456373da760daf81574ffb3e38123b8.jpg",
-    "url": "https://mangafire.to/manga/gyeoulseongui-agi-joesunim.wqn96"
   },
   {
     "slug": "vampires-alchemy2.vq86v",
@@ -9960,12 +10644,6 @@
     "url": "https://mangafire.to/manga/spyfamilyy.yqxmj"
   },
   {
-    "slug": "haiiro-no-asshu-teikokukishi-dan-o-kubi-ni-natta-ore-wa-dungeon-toshi-de-haiiro-no-jinsei-o-hikkurikaesu.yj01j",
-    "title": "Gray Ash: The Exiled Imperial Knight’s Rise in the Dungeon Kingdom",
-    "cover": "https://static.mfcdn.nl/9b65/i/4/9e/3ba80cf0aeae1877faa57138fba42eed.jpg",
-    "url": "https://mangafire.to/manga/haiiro-no-asshu-teikokukishi-dan-o-kubi-ni-natta-ore-wa-dungeon-toshi-de-haiiro-no-jinsei-o-hikkurikaesu.yj01j"
-  },
-  {
     "slug": "koiseyo-mayakashi-tenshi-domoo.v9546",
     "title": "Fall In Love, You False Angels",
     "cover": "https://static.mfcdn.nl/48d8/i/d/d9/d9ce7fe9c870c40b3f5c51967a8f1ef3.jpg",
@@ -9996,12 +10674,6 @@
     "url": "https://mangafire.to/manga/hana-wanan.mjmj8"
   },
   {
-    "slug": "the-prince-doesnt-cry-from-mere-onions.qn5yn",
-    "title": "The Prince Doesn't Cry From Mere Onions",
-    "cover": "https://static.mfcdn.nl/844f/i/0/0c/ac5edbd8a54dc902392b050e60d975a1.jpg",
-    "url": "https://mangafire.to/manga/the-prince-doesnt-cry-from-mere-onions.qn5yn"
-  },
-  {
     "slug": "the-reincarnated-assassin-is-a-genius-swordsmann.lrykn",
     "title": "The Reincarnated Assassin Is a Swordmaster",
     "cover": "https://static.mfcdn.nl/63e0/i/f/fc/fc54d7532fad1bbd3c595291aede055d.jpg",
@@ -10024,12 +10696,6 @@
     "title": "Trauma Center",
     "cover": "https://static.mfcdn.nl/68dd/i/0/02/02ca119ff596d83942c8d6a4fa42346e.jpg",
     "url": "https://mangafire.to/manga/trauma-centerr.527o9"
-  },
-  {
-    "slug": "hwataga-doen-oegwauisaa.xrj2q",
-    "title": "The Divine Surgeon",
-    "cover": "https://static.mfcdn.nl/5bfa/i/a/aa/aa6797f16e929582d64343ad1e8b8248.jpg",
-    "url": "https://mangafire.to/manga/hwataga-doen-oegwauisaa.xrj2q"
   },
   {
     "slug": "ano-ko-wa-kishi.0m3p9",
@@ -10066,48 +10732,6 @@
     "title": "Lilies Complex",
     "cover": "https://static.mfcdn.nl/3445/i/f/23/2e1c0a51febde2f9b0aa434f1fe0e1b1.jpg",
     "url": "https://mangafire.to/manga/lilies-complex.olp1y"
-  },
-  {
-    "slug": "yang-energy.ro96q",
-    "title": "Goblin Bride",
-    "cover": "https://static.mfcdn.nl/d680/i/5/cd/2743d66ff1e5e2f28179fb06f9165ad8.jpg",
-    "url": "https://mangafire.to/manga/yang-energy.ro96q"
-  },
-  {
-    "slug": "baekjakga-maknaeadeuleun-player.wq8lo",
-    "title": "The Count's Youngest Son is a Gamer",
-    "cover": "https://static.mfcdn.nl/2b95/i/7/da/3bf516ddb4d8f23db2d54b58cba28d3d.jpg",
-    "url": "https://mangafire.to/manga/baekjakga-maknaeadeuleun-player.wq8lo"
-  },
-  {
-    "slug": "amber-alert.lx87m",
-    "title": "Amber Alert",
-    "cover": "https://static.mfcdn.nl/4739/i/f/6a/a19dae2141321bb54906f535aa09e29b.jpg",
-    "url": "https://mangafire.to/manga/amber-alert.lx87m"
-  },
-  {
-    "slug": "rebirth-of-the-ultimate-masterr.qk47j",
-    "title": "Rebirth of the Ultimate Master",
-    "cover": "https://static.mfcdn.nl/ddcf/i/4/4a/4a574c21686cecf5c7a762fc9e7fa482.jpg",
-    "url": "https://mangafire.to/manga/rebirth-of-the-ultimate-masterr.qk47j"
-  },
-  {
-    "slug": "insagangg.xjm13",
-    "title": "I am Unbeatable",
-    "cover": "https://static.mfcdn.nl/a194/i/c/2e/be1666ed1ef25bbe1477bccfd652c943.jpg",
-    "url": "https://mangafire.to/manga/insagangg.xjm13"
-  },
-  {
-    "slug": "dandadann.3r5x9",
-    "title": "Dandadan",
-    "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc.jpg",
-    "url": "https://mangafire.to/manga/dandadann.3r5x9"
-  },
-  {
-    "slug": "the-crown-i-will-seize.5w8rv",
-    "title": "The Crown I Will Seize",
-    "cover": "https://static.mfcdn.nl/e5c9/i/8/0c/cb4b2293e3673c5dd974e999e1bfc8c9.jpg",
-    "url": "https://mangafire.to/manga/the-crown-i-will-seize.5w8rv"
   },
   {
     "slug": "the-lady-awaits-a-broken-engagementt.qnr6n",
@@ -10170,12 +10794,6 @@
     "url": "https://mangafire.to/manga/medetai-sensei.lxnvz"
   },
   {
-    "slug": "anyone-can-see-its-a-beast.j2jon",
-    "title": "Anyone Can See It's a Beast",
-    "cover": "https://static.mfcdn.nl/2849/i/2/be/d5b26c6758604cad1e85c3897ed37d1c.jpg",
-    "url": "https://mangafire.to/manga/anyone-can-see-its-a-beast.j2jon"
-  },
-  {
     "slug": "babel-ii-the-returnerr.n37kj",
     "title": "Babel II: The Returner",
     "cover": "https://static.mfcdn.nl/db41/i/1/1c/1cbc8dcd3dd0c0e301dca4d3466423ed.jpg",
@@ -10222,12 +10840,6 @@
     "title": "The Villainess Is Done Trying",
     "cover": "https://static.mfcdn.nl/8bd4/i/b/bf/c4a4ac253244b92e347ab08225bdf434.jpg",
     "url": "https://mangafire.to/manga/the-villainess-is-done-tryingg.npvzm"
-  },
-  {
-    "slug": "the-evil-ringg.rwnlp",
-    "title": "The Evil Ring",
-    "cover": "https://static.mfcdn.nl/c1f8/i/c/ce/7cb9a76a3bc64f1451f1cc6a562f2f35.jpg",
-    "url": "https://mangafire.to/manga/the-evil-ringg.rwnlp"
   },
   {
     "slug": "dungeon-ga-arawarete-5-nen-15-sai-de-dungeon-ni-idomu-koto-ni-shita.0m33k",
@@ -10518,12 +11130,6 @@
     "url": "https://mangafire.to/manga/suddenly-i-decided-to-become-the-female-leadd.rjyvn"
   },
   {
-    "slug": "i-became-the-tyrant-of-a-defense-gamee.kwnyw",
-    "title": "Tyrant of the Tower Defense Game",
-    "cover": "https://static.mfcdn.nl/3e6e/i/4/41/413e6cb0d8fbecd2230827301bf098fc.jpg",
-    "url": "https://mangafire.to/manga/i-became-the-tyrant-of-a-defense-gamee.kwnyw"
-  },
-  {
     "slug": "the-viridescent-tiaraa.jvvk8",
     "title": "The Viridescent Tiara",
     "cover": "https://static.mfcdn.nl/1027/i/e/eb/eb5562d33b2bd0266205580d589c60fc.jpg",
@@ -10570,12 +11176,6 @@
     "title": "Meojeori M-susaeng",
     "cover": "https://static.mfcdn.nl/27f2/i/b/05/7ab305db708cf34bcf7efade92d233d4.jpg",
     "url": "https://mangafire.to/manga/meojeori-m-susaeng.ro0oo"
-  },
-  {
-    "slug": "i-was-reincarnated-as-king-danjongs-nanny.x1zjv",
-    "title": "I Was Reincarnated as King Danjong's Nanny",
-    "cover": "https://static.mfcdn.nl/aa2d/i/1/66/028fd91c875ee5a6607493a3f8e24778.jpg",
-    "url": "https://mangafire.to/manga/i-was-reincarnated-as-king-danjongs-nanny.x1zjv"
   },
   {
     "slug": "player-ga-gwageoreul-sumgim.j21k3",
@@ -10716,12 +11316,6 @@
     "url": "https://mangafire.to/manga/sangnamjaa.kwyx9"
   },
   {
-    "slug": "the-war-of-corpses.5w2mv",
-    "title": "The War of Corpses",
-    "cover": "https://static.mfcdn.nl/3a66/i/b/f8/41bda73c327c499493b3dd44c4c72f22.jpg",
-    "url": "https://mangafire.to/manga/the-war-of-corpses.5w2mv"
-  },
-  {
     "slug": "usagi-wa-kaku-katariki.j2pm4",
     "title": "Also Sprach for Rabbit: Eliminate the Murderous Rabbits Hiding in the Underground Mall",
     "cover": "https://static.mfcdn.nl/fccc/i/c/9f/ace58824d326f5742f5a84139b164379.jpg",
@@ -10806,12 +11400,6 @@
     "url": "https://mangafire.to/manga/unrequited-love-doesnt-end-with-marriagee.0q193"
   },
   {
-    "slug": "boukenka-ni-narou-skill-board-de-dungeon-kouryakuu.v5j1l",
-    "title": "CALL TO ADVENTURE! Defeating Dungeons with a Skill Board",
-    "cover": "https://static.mfcdn.nl/782c/i/5/58/58e0336f778c41b338dec8de272b18c2.jpg",
-    "url": "https://mangafire.to/manga/boukenka-ni-narou-skill-board-de-dungeon-kouryakuu.v5j1l"
-  },
-  {
     "slug": "hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-madee.qxp75",
     "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
     "cover": "https://static.mfcdn.nl/703f/i/5/54/54ce5a8742108f97d106dd68fd7035fd.jpg",
@@ -10840,24 +11428,6 @@
     "title": "Q: Kono Manga ni Mioboe ga Aru Kata wa Oshirase Kudasai",
     "cover": "https://static.mfcdn.nl/a053/i/b/e3/2de661452e7005949b1b876fca14b11e.jpg",
     "url": "https://mangafire.to/manga/q-kono-manga-ni-mioboe-ga-aru-kata-wa-oshirase-kudasai.x1zn3"
-  },
-  {
-    "slug": "seongjaneun-gaeppul-hyeondaeuihagui-himida.nkm0k",
-    "title": "The Holy Power of Modern Medicine",
-    "cover": "https://static.mfcdn.nl/ed00/i/d/08/d09a7bc65c877b4a8c99e5feec09046d.jpg",
-    "url": "https://mangafire.to/manga/seongjaneun-gaeppul-hyeondaeuihagui-himida.nkm0k"
-  },
-  {
-    "slug": "seongjaneun-gaeppul-hyeondaeuihagui-himidaa.0qpvr",
-    "title": "The Holy Power of Modern Medicine",
-    "cover": "https://static.mfcdn.nl/f17d/i/f/fd/fdbe0f194fa5efe9c8c89f3ef0693ba8.jpg",
-    "url": "https://mangafire.to/manga/seongjaneun-gaeppul-hyeondaeuihagui-himidaa.0qpvr"
-  },
-  {
-    "slug": "yotsubatoo.qk165",
-    "title": "Yotsubato! (Colored)",
-    "cover": "https://static.mfcdn.nl/2b12/i/b/b3/b395e911374d9b70b417143daed7a526.jpg",
-    "url": "https://mangafire.to/manga/yotsubatoo.qk165"
   },
   {
     "slug": "honzuki-no-gekokujou-hannelore-no-kizokuin-go-nensei-novel.17wjm",
@@ -11076,12 +11646,6 @@
     "url": "https://mangafire.to/manga/card-game-de-sekai-ga-horobu-sekai-ni-tensei-shite-card-shop-o-kaiten-shitara-shuui-kara-zensaku-shujinkou-da-to-omowareteiru.608q0"
   },
   {
-    "slug": "cherry-yuusha-to-sei-naru-ken.yvl6j",
-    "title": "Cherry Yuusha to \"Sei\" naru Ken",
-    "cover": "https://static.mfcdn.nl/48cf/i/b/b0/af0bf318118e2536d5d2d88d58162fcd.jpg",
-    "url": "https://mangafire.to/manga/cherry-yuusha-to-sei-naru-ken.yvl6j"
-  },
-  {
     "slug": "oi-oba-sann.ojpy8",
     "title": "Fire-Hot Aunt",
     "cover": "https://static.mfcdn.nl/89f4/i/a/af/afc744c831ff20617e0227fd206ee27b.jpg",
@@ -11254,12 +11818,6 @@
     "title": "Shakugan no Shana X Eternal Song: Harukanaru Uta",
     "cover": "https://static.mfcdn.nl/be0d/i/3/39/393a7ae65cb5fd2263985bc76cdd6515.jpg",
     "url": "https://mangafire.to/manga/shakugan-no-shana-x-eternal-song-harukanaru-utaa.z3kl"
-  },
-  {
-    "slug": "godeokchuns-food-truck.0m4wk",
-    "title": "Godeokchun's Food Truck",
-    "cover": "https://static.mfcdn.nl/0453/i/5/75/9a668ce122fb852614e0a6a433d97307.jpg",
-    "url": "https://mangafire.to/manga/godeokchuns-food-truck.0m4wk"
   },
   {
     "slug": "kimi-no-kokoro-wo-kanjitaii.v9rmv",
@@ -11484,12 +12042,6 @@
     "url": "https://mangafire.to/manga/fujicue-fujicues-musicc.m2n4x"
   },
   {
-    "slug": "happy-face-from-slave-to-arena-legend.17qzm",
-    "title": "Happy Face: From Slave to Arena Legend",
-    "cover": "https://static.mfcdn.nl/33dc/i/f/d8/fd1e42bee4a8390250c3edfdd5307bed.jpg",
-    "url": "https://mangafire.to/manga/happy-face-from-slave-to-arena-legend.17qzm"
-  },
-  {
     "slug": "be-bop-high-schooll.8mjn",
     "title": "Be-bop High School",
     "cover": "https://static.mfcdn.nl/8055/i/7/75/7548fe5ccb158b417cd7ca76d5359613.jpg",
@@ -11712,12 +12264,6 @@
     "url": "https://mangafire.to/manga/isekai-ryouchi-kaikaku-do-mahou-de-hajimeru-koukyou-jigyou.vqo7v"
   },
   {
-    "slug": "the-hunters-gonna-lay-low.qz645",
-    "title": "The Hunter's Gonna Lay Low",
-    "cover": "https://static.mfcdn.nl/e3ad/i/f/6f/3966e426a50011f9872b1db833aa760b.jpg",
-    "url": "https://mangafire.to/manga/the-hunters-gonna-lay-low.qz645"
-  },
-  {
     "slug": "breakers2.823yo",
     "title": "Breakers",
     "cover": "https://static.mfcdn.nl/6a63/i/d/a8/7c845a27001feefa3360e61075926eb7.jpg",
@@ -11740,12 +12286,6 @@
     "title": "Hana-Kimi: For You in Full Blossom",
     "cover": "https://static.mfcdn.nl/590b/i/3/39/39c61e066b8eef2ce81dc43677f3cc83.jpg",
     "url": "https://mangafire.to/manga/hanazakari-no-kimitachi-ee.qqzn"
-  },
-  {
-    "slug": "success-story-of-the-omnipotent-soldierr.yk600",
-    "title": "Success Story of the Omnipotent Soldier",
-    "cover": "https://static.mfcdn.nl/86f3/i/3/3e/3e275d5e18017c8bfb12ce485a7e50ee.jpg",
-    "url": "https://mangafire.to/manga/success-story-of-the-omnipotent-soldierr.yk600"
   },
   {
     "slug": "gokushufudou-the-way-of-the-house-husbandd.1kjv",
@@ -12138,12 +12678,6 @@
     "url": "https://mangafire.to/manga/kusunoki-san-wa-koukou-debut-ni-shippaishiteiruu.k3w66"
   },
   {
-    "slug": "isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql",
-    "title": "Isekai NTR ~Shinyuu no Onna wo Saikyou Skill de Otosu Houhou~",
-    "cover": "https://static.mfcdn.nl/d531/i/7/72/72c48e51a6e51008627106b70f9dfbc1.jpg",
-    "url": "https://mangafire.to/manga/isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhouu.womql"
-  },
-  {
     "slug": "how-about-r155.kkz8r",
     "title": "How About R15?",
     "cover": "https://static.mfcdn.nl/b792/i/6/6a/6a1a88e25766105bf95d94b04fabf18b.jpg",
@@ -12402,12 +12936,6 @@
     "url": "https://mangafire.to/manga/kurotsuki-no-yaergnacht.rorqn"
   },
   {
-    "slug": "kanojo-ga-flag-wo-oraretaraa.4417",
-    "title": "Kanojo ga Flag wo Oraretara",
-    "cover": "https://static.mfcdn.nl/4862/i/8/8f/8f7ac5aec18f9944540eb1b214d56c35.jpg",
-    "url": "https://mangafire.to/manga/kanojo-ga-flag-wo-oraretaraa.4417"
-  },
-  {
     "slug": "rakudai-tengoku.lx7xq",
     "title": "Rakudai Tengoku",
     "cover": "https://static.mfcdn.nl/3827/i/4/f1/53208132a8ea365663014d2739abde5b.jpg",
@@ -12448,12 +12976,6 @@
     "title": "Bungo Stray Dogs: The Untold Origins of the Detective Agency",
     "cover": "https://static.mfcdn.nl/b47d/i/c/2b/197971a58948760a68155f9d174078a9.jpg",
     "url": "https://mangafire.to/manga/bungou-stray-dogs-tanteisha-setsuritsu-hiwa.ol405"
-  },
-  {
-    "slug": "blood-demon-reincarnation.rolrn",
-    "title": "Blood Demon Reincarnation",
-    "cover": "https://static.mfcdn.nl/d005/i/f/69/f3ddf637f5ecbb8a0681be90c2634e0c.jpg",
-    "url": "https://mangafire.to/manga/blood-demon-reincarnation.rolrn"
   },
   {
     "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuuu.6l27",
@@ -12700,12 +13222,6 @@
     "title": "The 100th Regression of the Max-Level Player",
     "cover": "https://static.mfcdn.nl/9bbc/i/2/28/282ce4af9c3b941c1ae8d138a3febf44.jpg",
     "url": "https://mangafire.to/manga/the-100th-regression-of-the-max-level-playerr.v9077"
-  },
-  {
-    "slug": "game-choegang-trollerr.90y8n",
-    "title": "World's Strongest Troll",
-    "cover": "https://static.mfcdn.nl/5b16/i/c/c7/c7baed55fa82000577ed1ecf804cb905.jpg",
-    "url": "https://mangafire.to/manga/game-choegang-trollerr.90y8n"
   },
   {
     "slug": "my-fiance-is-in-love-with-my-little-sisterr.v5jw6",
@@ -13110,12 +13626,6 @@
     "url": "https://mangafire.to/manga/a-certain-month-a-certain-day.60k04"
   },
   {
-    "slug": "comic-party-wonder-lovee.7w1ry",
-    "title": "Comic Party Wonder Love",
-    "cover": "https://static.mfcdn.nl/8523/i/f/fe/fec6ce976032d60af0081b4c9e4a085b.jpg",
-    "url": "https://mangafire.to/manga/comic-party-wonder-lovee.7w1ry"
-  },
-  {
     "slug": "isekai-yakkyokuu.xrw1q",
     "title": "Parallel World Pharmacy",
     "cover": "https://static.mfcdn.nl/56e4/i/1/1f/1f4f1afe53e959003431210d9d3d72f3.jpg",
@@ -13156,12 +13666,6 @@
     "title": "Gugagumoguruten",
     "cover": "https://static.mfcdn.nl/766d/i/0/6a/48d5271f334b4839bb56c31273d364fc.jpg",
     "url": "https://mangafire.to/manga/gugagumoguruten.604yp"
-  },
-  {
-    "slug": "osananajimi-wo-miru-me-ga-kawatte-shimatta2.kx654",
-    "title": "Osananajimi wo Miru Me ga Kawatte Shimatta",
-    "cover": "https://static.mfcdn.nl/ae18/i/1/21/241482dad33b4f44d25d5544f7af5ccc.jpg",
-    "url": "https://mangafire.to/manga/osananajimi-wo-miru-me-ga-kawatte-shimatta2.kx654"
   },
   {
     "slug": "ani-tomoo.rw9oo",
@@ -13284,22 +13788,10 @@
     "url": "https://mangafire.to/manga/hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareruu.n3x2l"
   },
   {
-    "slug": "a-dot-alice.20j35",
-    "title": ".A -dot Alice-",
-    "cover": "https://static.mfcdn.nl/3cfd/i/5/b3/a559d293e9363c39e767752c7a2bd6b5.jpg",
-    "url": "https://mangafire.to/manga/a-dot-alice.20j35"
-  },
-  {
     "slug": "yangachiwa-jopogagassi.pm6wj",
     "title": "Yangachiwa Jopogagassi",
     "cover": "https://static.mfcdn.nl/520c/i/e/6e/a0ab60cdc069859c74e24d24f1badaa9.jpg",
     "url": "https://mangafire.to/manga/yangachiwa-jopogagassi.pm6wj"
-  },
-  {
-    "slug": "ken-to-mahou-to-gakureki-shakaii.np75k",
-    "title": "Ken to Mahou to Gakureki Shakai",
-    "cover": "https://static.mfcdn.nl/18e6/i/9/90/fac63997d188415a647b43c11d8a1579.jpg",
-    "url": "https://mangafire.to/manga/ken-to-mahou-to-gakureki-shakaii.np75k"
   },
   {
     "slug": "hazard-line-fuckk.qxn9j",
@@ -13366,12 +13858,6 @@
     "title": "Kimi to Sakura no Hanataba wo",
     "cover": "https://static.mfcdn.nl/029f/i/0/86/a17d3c0dd9b532b52a4eca3030fe45bc.jpg",
     "url": "https://mangafire.to/manga/kimi-to-sakura-no-hanataba-wo.5w8mq"
-  },
-  {
-    "slug": "2-level-hoegwihan-musin.zknol",
-    "title": "The Martial God Who Regressed Back to Level 2",
-    "cover": "https://static.mfcdn.nl/875b/i/e/c3/bd779bef5666e9bfaa1cb9baf425bb86.jpg",
-    "url": "https://mangafire.to/manga/2-level-hoegwihan-musin.zknol"
   },
   {
     "slug": "mizudako-chan-kara-wa-nigerarenaii.8xmmo",
@@ -13500,12 +13986,6 @@
     "url": "https://mangafire.to/manga/isekai-de-hajimeru-ni-kyoten-seikatsu-kuukan-mahou-de-outo-to-inaka-wo-ittari-kitari.8212o"
   },
   {
-    "slug": "usotsuki-heika-ga-watashi-ni-shuuchaku-suru-riyuu.307w6",
-    "title": "Usotsuki Heika ga Watashi ni Shuuchaku Suru Riyuu",
-    "cover": "https://static.mfcdn.nl/6658/i/a/22/4f793a1bb39eff6e68ca7e00f2d4e958.jpg",
-    "url": "https://mangafire.to/manga/usotsuki-heika-ga-watashi-ni-shuuchaku-suru-riyuu.307w6"
-  },
-  {
     "slug": "nekomimi-shoujo-wa-mori-de-slow-life-wo-okuritai-mofumofu-wa-shomou-shimashita-ga-seijo-to-ka-ouji-sama-to-ka-wa-chuumongai-desu.90kzq",
     "title": "Nekomimi Shoujo wa Mori de Slow Life wo Okuritai: Mofumofu wa Shomou Shimashita ga, Seijo to ka Ouji-sama to ka wa Chuumongai desu",
     "cover": "https://static.mfcdn.nl/f210/i/a/ad/aa2f1bf206639fcfee695a554740ad91.jpg",
@@ -13522,12 +14002,6 @@
     "title": "Dial Again",
     "cover": "https://static.mfcdn.nl/e0c0/i/2/2d/2d663a8fc9683f8f1f70919625cbfafd.jpg",
     "url": "https://mangafire.to/manga/dial-againn.p0wq"
-  },
-  {
-    "slug": "koujo-tensei-densetsu-no-daimadoushi-hime-kishi-to-narite-densetsu-no-reijou-kishidan-wo-tsukuri-musou-suru.x1lv8",
-    "title": "Koujo Tensei: Densetsu no Daimadoushi (♂), Hime Kishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru",
-    "cover": "https://static.mfcdn.nl/aa6e/i/a/f3/453eaa9e02b9336be04921e008d018d2.jpg",
-    "url": "https://mangafire.to/manga/koujo-tensei-densetsu-no-daimadoushi-hime-kishi-to-narite-densetsu-no-reijou-kishidan-wo-tsukuri-musou-suru.x1lv8"
   },
   {
     "slug": "raikou-kaii-no-oto-ga-suru-yokohama-gairai-ayakashi-taisakukyoku.yjrjj",
@@ -13818,12 +14292,6 @@
     "url": "https://mangafire.to/manga/tayutau-koi-no-chirigiwa-ni2.mj6mp"
   },
   {
-    "slug": "introducing-my-manager.ro0pp",
-    "title": "Introducing My Manager",
-    "cover": "https://static.mfcdn.nl/eae0/i/3/e9/43e253145ac4a7f45a8fc05eaa766b0a.jpg",
-    "url": "https://mangafire.to/manga/introducing-my-manager.ro0pp"
-  },
-  {
     "slug": "dream-partner.yjrq1",
     "title": "Dream Partner",
     "cover": "https://static.mfcdn.nl/c775/i/5/75/b39a79eb644004baf99bf4cf4a9d74b7.jpg",
@@ -14098,12 +14566,6 @@
     "title": "Mobile Suit Gundam: Silver Phantom Gravure",
     "cover": "https://static.mfcdn.nl/2bf2/i/1/b8/ac9fd3ea9e55a05accc1dba635d462e0.jpg",
     "url": "https://mangafire.to/manga/kidou-senshi-gundam-ginkai-no-genei-gravure.wqzq6"
-  },
-  {
-    "slug": "dourostar2.mjnyx",
-    "title": "ROAD☆STAR",
-    "cover": "https://static.mfcdn.nl/503b/i/d/27/52953ebeafd1602a8d68acd30bddc0c1.jpg",
-    "url": "https://mangafire.to/manga/dourostar2.mjnyx"
   },
   {
     "slug": "tonari-no-futomomo-san.9j9q8",
@@ -15186,18 +15648,6 @@
     "url": "https://mangafire.to/manga/sennou-skill-de-isekai-musou-skill-ga-baretara-shokei-sareru-node-kenzen-seijitsu-ni-ikiyou-to-shitara-nazeka-bishoujo-tachi-ni-aisareteiru-ken-ni-tsuite.9j9km"
   },
   {
-    "slug": "jibun-wo-sss-kyuu-da-to-omoi-kondeiru-c-kyuu-majutsu-gakusei.x1468",
-    "title": "C-Level Magic Student Who Thinks He Is SSS Class",
-    "cover": "https://static.mfcdn.nl/ceb5/i/6/77/3b6a74bc634d0bad874e8f52113b7dc7.jpg",
-    "url": "https://mangafire.to/manga/jibun-wo-sss-kyuu-da-to-omoi-kondeiru-c-kyuu-majutsu-gakusei.x1468"
-  },
-  {
-    "slug": "jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei.zk34p",
-    "title": "Jibun Wo SSS Kyuda to Omoikondeiru C Kyu Majutsu Gakusei",
-    "cover": "https://static.mfcdn.nl/478d/i/e/29/f3b85a9e2ab06e64745a59b79764cc69.jpg",
-    "url": "https://mangafire.to/manga/jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei.zk34p"
-  },
-  {
     "slug": "erotical-wizard-to-12-nin-no-hanayome.9jzox",
     "title": "Erotical Wizard to 12-nin no Hanayome",
     "cover": "https://static.mfcdn.nl/e168/i/e/29/764fbfe4535f84da68f1ab414233a49b.jpg",
@@ -15318,12 +15768,6 @@
     "url": "https://mangafire.to/manga/mikogami-karen-no-kakushigoto.0mx75"
   },
   {
-    "slug": "houkago-kitaku-biyorii.pp5m9",
-    "title": "Houkago Kitaku Biyori",
-    "cover": "https://static.mfcdn.nl/aa18/i/f/f4/f485dcf3f52790c3250b42f27bc83240.jpg",
-    "url": "https://mangafire.to/manga/houkago-kitaku-biyorii.pp5m9"
-  },
-  {
     "slug": "mukoubuchi-kou-rate-ura-mahjong-retsudenn.80y0v",
     "title": "Mukoubuchi - Kou Rate Ura-Mahjong Retsuden",
     "cover": "https://static.mfcdn.nl/8b9e/i/8/8b/8b86da34dbd0a14304826a63d9d5cbb0.jpg",
@@ -15432,12 +15876,6 @@
     "url": "https://mangafire.to/manga/ore-to-seijo-ga-dekiteru-koto-ga-baretara-kono-party-wa-houkai-suru.20vql"
   },
   {
-    "slug": "boku-no-ikezu-na-konyakusha.wq884",
-    "title": "My Fiance Is so Mean!",
-    "cover": "https://static.mfcdn.nl/a813/i/b/d5/f3bbf3d50e919d888f12156097b2c655.jpg",
-    "url": "https://mangafire.to/manga/boku-no-ikezu-na-konyakusha.wq884"
-  },
-  {
     "slug": "jiki-maou-ni-tensei-shita-boku-kinki-sukiru-enajidorein-de-mazoku-musou-shimasu.pmqz6",
     "title": "Jiki Maou Ni Tensei Shita Boku, Kinki Sukiru \"Enajidorein\" De Mazoku Musou Shimasu",
     "cover": "https://static.mfcdn.nl/4976/i/7/c8/00bb4d371117461b607816e6d742e2f2.jpg",
@@ -15498,22 +15936,10 @@
     "url": "https://mangafire.to/manga/out22.oj054"
   },
   {
-    "slug": "dourostar.lx596",
-    "title": "Douro☆Star",
-    "cover": "https://static.mfcdn.nl/a418/i/e/d5/d8574048d5ab36fb145d045799a6af85.jpg",
-    "url": "https://mangafire.to/manga/dourostar.lx596"
-  },
-  {
     "slug": "asayake-refrain.60y1p",
     "title": "Asayake Refrain",
     "cover": "https://static.mfcdn.nl/49fe/i/a/c6/808e02422514e03e52362c651ded2986.jpg",
     "url": "https://mangafire.to/manga/asayake-refrain.60y1p"
-  },
-  {
-    "slug": "madd.90658",
-    "title": "MAD",
-    "cover": "https://static.mfcdn.nl/789d/i/9/9b/467a2bc086a122ed97fac3c3e58311d7.jpg",
-    "url": "https://mangafire.to/manga/madd.90658"
   },
   {
     "slug": "azur-lane-4-koma-slow-aheadd.ylqx",
@@ -16014,12 +16440,6 @@
     "url": "https://mangafire.to/manga/henkyou-kishidan-no-oryourigakari-suterare-youjo-desu-ga-kahogo-na-kazoku-ni-hirowarete-oishii-gohan-wo-tsukurimasu.lx73m"
   },
   {
-    "slug": "amado-mujeokbulpae.kx7k6",
-    "title": "Maybe Undefeatable",
-    "cover": "https://static.mfcdn.nl/a327/i/b/ea/84af2d66b0154619c010d343a0015645.jpg",
-    "url": "https://mangafire.to/manga/amado-mujeokbulpae.kx7k6"
-  },
-  {
     "slug": "good-doctor.zkv1l",
     "title": "Good Doctor",
     "cover": "https://static.mfcdn.nl/3fde/i/6/23/73118caa8e66c3b29e2547f323e5c7b1.jpg",
@@ -16440,12 +16860,6 @@
     "url": "https://mangafire.to/manga/reborn-as-the-enemy-princee.k3869"
   },
   {
-    "slug": "can-i-borrow-the-firee.jpy5n",
-    "title": "Can I Borrow the Fire?",
-    "cover": "https://static.mfcdn.nl/c423/i/0/0d/70b592e97c9cb7455acd0db8a7e9848d.jpg",
-    "url": "https://mangafire.to/manga/can-i-borrow-the-firee.jpy5n"
-  },
-  {
     "slug": "takane-no-hana-wa-midaresakii.kk63r",
     "title": "Takane no Hana wa Midaresaki",
     "cover": "https://static.mfcdn.nl/544c/i/f/f3/f3d0dece6918e5428a37a6639bb177dc.jpg",
@@ -16678,12 +17092,6 @@
     "title": "Mahouka Koukou no Rettousei - Nankai Soujou-hen",
     "cover": "https://static.mfcdn.nl/0938/i/2/20/2056a34957696703a4035ac0668cdc3c.jpg",
     "url": "https://mangafire.to/manga/mahouka-koukou-no-rettousei-nankai-soujou-henn.0qx15"
-  },
-  {
-    "slug": "akuyaku-no-goreisoku-no-dounika-shitai-nichijouu.3pxn9",
-    "title": "Akuyaku no Goreisoku no Dounika shitai Nichijou",
-    "cover": "https://static.mfcdn.nl/a396/i/f/fa/fa1c1f8f25f28ad7b8e2aec64f884559.jpg",
-    "url": "https://mangafire.to/manga/akuyaku-no-goreisoku-no-dounika-shitai-nichijouu.3pxn9"
   },
   {
     "slug": "mahou-shoujo-haiboku-saiban.82kly",
@@ -16972,12 +17380,6 @@
     "title": "Moto Deshi ga Maou ni Natta Sei de, Yuusha ni Renkou saremashita.",
     "cover": "https://static.mfcdn.nl/3b77/i/c/da/d1f5c971d9e05d18dd572e23bcdb8494.jpg",
     "url": "https://mangafire.to/manga/moto-deshi-ga-maou-ni-natta-sei-de-yuusha-ni-renkou-saremashita.j2k0n"
-  },
-  {
-    "slug": "kamisama-ga-mitenai-karaa.jp48y",
-    "title": "Kamisama ga Mitenai kara",
-    "cover": "https://static.mfcdn.nl/9284/i/9/96/1f5bacecccfded310e74e7877503c097.jpg",
-    "url": "https://mangafire.to/manga/kamisama-ga-mitenai-karaa.jp48y"
   },
   {
     "slug": "slave-of-black-knightt.4j51x",
@@ -19290,12 +19692,6 @@
     "url": "https://mangafire.to/manga/makjangdeuramae-gatyeobeoryeotda.30y78"
   },
   {
-    "slug": "enishi-kun-wa-harem-taishitsu-ni-mezamemashita.x1oxz",
-    "title": "Enishi-kun wa Harem Taishitsu ni Mezamemashita",
-    "cover": "https://static.mfcdn.nl/9ba5/i/0/8d/f5395b392fe00487b9212264cb7e9f09.jpg",
-    "url": "https://mangafire.to/manga/enishi-kun-wa-harem-taishitsu-ni-mezamemashita.x1oxz"
-  },
-  {
     "slug": "suna-mahou-de-suna-no-oukoku-wo-tsukurou-sabaku-ni-tsuihousareta-kara-ganbatte-sokoku-ijou-no-kokka-wo-tatete-mita.j22k8",
     "title": "Suna Mahou de Suna no Oukoku wo Tsukurou - Sabaku ni Tsuihousareta kara Ganbatte Sokoku Ijou no Kokka wo Tatete Mita",
     "cover": "https://static.mfcdn.nl/f177/i/6/a0/4e4d9f740676d02681c2c6e260687b8f.jpg",
@@ -20598,12 +20994,6 @@
     "url": "https://mangafire.to/manga/tales-of-wedding-ringss.1kwq"
   },
   {
-    "slug": "saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedoo.jp3m8",
-    "title": "Saibai Cheat de Saikyou Saien - E, Tada no Katei Saiendesu kedo?",
-    "cover": "https://static.mfcdn.nl/3707/i/e/e4/e434941c05d56d801bbbf97f0bba0918.jpg",
-    "url": "https://mangafire.to/manga/saibai-cheat-de-saikyou-saien-e-tada-no-katei-saiendesu-kedoo.jp3m8"
-  },
-  {
     "slug": "facelift-gamee.xj2xz",
     "title": "Facelift Game",
     "cover": "https://static.mfcdn.nl/b17b/i/8/8c/8c4000962b4c05a137ae61ebda950f66.jpg",
@@ -21270,12 +21660,6 @@
     "url": "https://mangafire.to/manga/jinrui-kyuusai-gamee.2p4yl"
   },
   {
-    "slug": "apocalyptic-chef-awakeningg.lr25n",
-    "title": "Apocalyptic Chef Awakening",
-    "cover": "https://static.mfcdn.nl/423e/i/d/db/db34ec4da61a5bc828641dd459d444ff.jpg",
-    "url": "https://mangafire.to/manga/apocalyptic-chef-awakeningg.lr25n"
-  },
-  {
     "slug": "your-majesty-please-stop-noww.k3156",
     "title": "Your Majesty, Please Stop Now",
     "cover": "https://static.mfcdn.nl/4703/i/e/e8/e8f6c2f785d06f3f4acbc0e0b2dc4007.jpg",
@@ -21774,12 +22158,6 @@
     "url": "https://mangafire.to/manga/table.60o4p"
   },
   {
-    "slug": "shiitagerareta-tsuihou-oujo-wa-tenseishita-densetsu-no-majo-deshita.0m15r",
-    "title": "The Legendary Witch Is Reborn as an Oppressed Princess",
-    "cover": "https://static.mfcdn.nl/e608/i/a/06/80cf8e64e679e572e87ecca1c7f02aa4.jpg",
-    "url": "https://mangafire.to/manga/shiitagerareta-tsuihou-oujo-wa-tenseishita-densetsu-no-majo-deshita.0m15r"
-  },
-  {
     "slug": "lock-you-upp.zoxp",
     "title": "Lock You Up (Colored)",
     "cover": "https://static.mfcdn.nl/7afc/i/2/20/20b691545ea1296820392e9d0f36aefd.jpg",
@@ -21832,12 +22210,6 @@
     "title": "Nagomi Kyuuketsuki no Kogomi-san",
     "cover": "https://static.mfcdn.nl/8cb3/i/5/10/2e9e5b14fea6ac3e9904b86e59f82817.jpg",
     "url": "https://mangafire.to/manga/nagomi-kyuuketsuki-no-kogomi-san.ro83o"
-  },
-  {
-    "slug": "joou-no-rakuin-horobi-no-kuni-no-yotogi-miko.x1o03",
-    "title": "Joou no Rakuin: Horobi no Kuni no Yotogi Miko",
-    "cover": "https://static.mfcdn.nl/5533/i/d/c1/4df1a76dd511f255e9486dc4da2e7f79.jpg",
-    "url": "https://mangafire.to/manga/joou-no-rakuin-horobi-no-kuni-no-yotogi-miko.x1o03"
   },
   {
     "slug": "pakupaku-desu-wa-tsuihou-sareta-ojou-sama-no-monster-wo-taberu-hodo-tsuyoku-naru-skill-wa-1-shoku-de-1-level-up-suru-zendai-mimon-no-saikyou-skill-deshita-3-nichi-de-jinrui-saikyou-ni-narimashita-wa.mjzp7",
@@ -21994,12 +22366,6 @@
     "title": "The Dragon Prince's Ill-Mated Betrothal",
     "cover": "https://static.mfcdn.nl/5276/i/b/ff/ff41076676fa6798f16f032cd8bf2ebd.jpg",
     "url": "https://mangafire.to/manga/datte-nozomarenai-tsugai-desu-kara.724jj"
-  },
-  {
-    "slug": "perhaps-invincible.59lvv",
-    "title": "Perhaps Invincible",
-    "cover": "https://static.mfcdn.nl/bbc4/i/2/25/81b4f85025e9a28a7782c582a79fa1f7.jpg",
-    "url": "https://mangafire.to/manga/perhaps-invincible.59lvv"
   },
   {
     "slug": "seonbae-geu-lipstick-bareuji-mayoo.kkn1r",
@@ -22260,12 +22626,6 @@
     "url": "https://mangafire.to/manga/dragon-lady.wqk04"
   },
   {
-    "slug": "underboxer2.82l4y",
-    "title": "Underboxer",
-    "cover": "https://static.mfcdn.nl/8f45/i/7/ae/1c798e81b498b4acedfd0aff3c41a3d9.jpg",
-    "url": "https://mangafire.to/manga/underboxer2.82l4y"
-  },
-  {
     "slug": "anata-no-ojou-no-kobito-san-gohan-kudasai-hatarakimasu.lxnjq",
     "title": "Your Castle's Little Helper",
     "cover": "https://static.mfcdn.nl/5fb5/i/0/1d/a531b4ce0234189ac8d5f2784d398f0c.jpg",
@@ -22500,12 +22860,6 @@
     "url": "https://mangafire.to/manga/under-one-rooff.v897"
   },
   {
-    "slug": "healing-agency.qz9yj",
-    "title": "Healing Agency",
-    "cover": "https://static.mfcdn.nl/fbb8/i/7/c2/456d7b3a9c928431a2edc805a7aa96ef.jpg",
-    "url": "https://mangafire.to/manga/healing-agency.qz9yj"
-  },
-  {
     "slug": "osananajimi-wo-erabenaii.ppxx4",
     "title": "I Can’t Choose A Childhood Friend!",
     "cover": "https://static.mfcdn.nl/2b4a/i/b/b5/dcdb581e8912e7d9e31e1ce5f4d7ce86.jpg",
@@ -22540,12 +22894,6 @@
     "title": "Bushinden",
     "cover": "https://static.mfcdn.nl/f455/i/e/ee/022541a24576817f059a18c00401a04e.jpg",
     "url": "https://mangafire.to/manga/bushindenn.8xvpv"
-  },
-  {
-    "slug": "sudachi-no-maoujouu.7jnl8",
-    "title": "Sudachi no Maoujou",
-    "cover": "https://static.mfcdn.nl/92a9/i/3/38/38b4c85e4edb7495cbf07c7a6c340eff.jpg",
-    "url": "https://mangafire.to/manga/sudachi-no-maoujouu.7jnl8"
   },
   {
     "slug": "soul-land-iii-the-legend-of-the-dragon-kingg.80k43",
@@ -23490,12 +23838,6 @@
     "url": "https://mangafire.to/manga/0-salbuteo-superstar.0myjr"
   },
   {
-    "slug": "saejang-bakkui-peuresepe.ro9wo",
-    "title": "Praesepe Outside the Cage",
-    "cover": "https://static.mfcdn.nl/dee3/i/6/b2/1ebd707f254be04054b74f204a057b83.jpg",
-    "url": "https://mangafire.to/manga/saejang-bakkui-peuresepe.ro9wo"
-  },
-  {
     "slug": "mia-returns2.9jm5q",
     "title": "Mia Returns",
     "cover": "https://static.mfcdn.nl/6f2c/i/3/bb/f3043e30507d83550744c77f2fa21c5c.jpg",
@@ -23718,12 +24060,6 @@
     "url": "https://mangafire.to/manga/rental-trash-girlfriendd.mv64v"
   },
   {
-    "slug": "doumo-butsuyoku-no-seijo-desu-musou-skill-clear-houshuu-de-seidai-ni-kanchigai-saremashita.82qzv",
-    "title": "Doumo, Butsuyoku no Seijo desu: Musou Skill [Clear Houshuu] de Seidai ni Kanchigai Saremashita",
-    "cover": "https://static.mfcdn.nl/b8e3/i/d/2c/62bdc6774c431dcabca293d90cd115d1.jpg",
-    "url": "https://mangafire.to/manga/doumo-butsuyoku-no-seijo-desu-musou-skill-clear-houshuu-de-seidai-ni-kanchigai-saremashita.82qzv"
-  },
-  {
     "slug": "uchi-no-deshi-ga-itsu-no-manika-jinrui-saikyou-ni-natte-ite-nan-no-sainou-monai-shishou-no-ore-ga-sore-wo-koeru-uchuu-saikyou-ni-go-nintei-sareteiru-kudan-ni-tsuite.nk85m",
     "title": "My Disciple Has Become the Strongest Human Before I Knew It, and I, A Master With No Talent, Was Mistakenly Recognized as the Strongest in the Universe Beyond That",
     "cover": "https://static.mfcdn.nl/2918/i/d/db/e54a15a7ea03b8993b3afdc047cd69fb.jpg",
@@ -23740,12 +24076,6 @@
     "title": "After-School Dungeon Diver",
     "cover": "https://static.mfcdn.nl/b05d/i/5/43/65ba75bdc06e582c7cb8f6659ca09eb6.jpg",
     "url": "https://mangafire.to/manga/houkago-no-meikyuu-boukensha.5wxx0"
-  },
-  {
-    "slug": "defense-breaker.pmwoq",
-    "title": "Defense Breaker",
-    "cover": "https://static.mfcdn.nl/5812/i/b/68/7d0906a0039e909c43c3579d7515d30b.jpg",
-    "url": "https://mangafire.to/manga/defense-breaker.pmwoq"
   },
   {
     "slug": "jojo-no-kimyou-na-bouken-the-jojolandss.mvmmv",
@@ -23770,12 +24100,6 @@
     "title": "JoJo's Bizarre Adventure Part 9: The JoJoLands",
     "cover": "https://static.mfcdn.nl/1759/i/2/22/227565769e7db6134817c932de21b7ff.jpg",
     "url": "https://mangafire.to/manga/jojos-bizarre-adventure-part-9-the-jojolandss.1r06x"
-  },
-  {
-    "slug": "boredom-alert.j20y3",
-    "title": "Boredom Alert",
-    "cover": "https://static.mfcdn.nl/ce39/i/7/57/f22a847d58ee6ed7b37577564f983ae8.jpg",
-    "url": "https://mangafire.to/manga/boredom-alert.j20y3"
   },
   {
     "slug": "getting-married-without-my-badgee.90v3n",
@@ -23878,12 +24202,6 @@
     "title": "Crescendo to You",
     "cover": "https://static.mfcdn.nl/6d8c/i/b/b6/b68c6cc456d9766a93686bfde4ba1ac3.jpg",
     "url": "https://mangafire.to/manga/anata-e-no-crescendoo.6xv7"
-  },
-  {
-    "slug": "isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-moto-eiyuu-wa-ai-omome-na-nakama-to-heiwa-ni-kurashitai.pm156",
-    "title": "Isekai Summoner, Shinwa no Kaibutsu-tachi to Gendai de Musou suru: Uragirareta Moto Eiyuu wa, Ai Omome na Nakama to Heiwa ni Kurashitai",
-    "cover": "https://static.mfcdn.nl/6043/i/d/49/5ae8ea03305c9beeae5d0193d7a04607.jpg",
-    "url": "https://mangafire.to/manga/isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-moto-eiyuu-wa-ai-omome-na-nakama-to-heiwa-ni-kurashitai.pm156"
   },
   {
     "slug": "tensei-shitara-heimin-deshita-seikatsu-suijun-ni-taerarenai-node-kizoku-wo-mezashimasu.mj6p7",
@@ -24042,6 +24360,12 @@
     "url": "https://mangafire.to/manga/oh-no-ive-swapped-bodies-with-an-anti-fann.80w8q"
   },
   {
+    "slug": "introducing-my-manager.ro0pp",
+    "title": "Introducing My Manager",
+    "cover": "https://static.mfcdn.nl/eae0/i/3/e9/43e253145ac4a7f45a8fc05eaa766b0a.jpg",
+    "url": "https://mangafire.to/manga/introducing-my-manager.ro0pp"
+  },
+  {
     "slug": "doctor-hongs-secret.yvlmj",
     "title": "Doctor Hong's Secret",
     "cover": "https://static.mfcdn.nl/01fb/i/4/46/75e2c7a5574123aad858ac1d5cfc7d44.jpg",
@@ -24112,12 +24436,6 @@
     "title": "Sense Zero",
     "cover": "https://static.mfcdn.nl/7079/i/5/3c/5b7fcaa5b2aa88bc63a03b7f0698fde3.jpg",
     "url": "https://mangafire.to/manga/sense-zero.mjlp8"
-  },
-  {
-    "slug": "prosecutor-who-doesnt-know-the-laww.lr08q",
-    "title": "Prosecutor Who Doesn't Know the Law",
-    "cover": "https://static.mfcdn.nl/99ad/i/4/40/5ba5edb33f1dd85d2c2c23b7e3bec398.jpg",
-    "url": "https://mangafire.to/manga/prosecutor-who-doesnt-know-the-laww.lr08q"
   },
   {
     "slug": "furetai-wa-koi-no-hajimarii.k351r",
@@ -24358,12 +24676,6 @@
     "title": "The Old Prisoner Lives in Solitude",
     "cover": "https://static.mfcdn.nl/7e7b/i/9/3b/54bab71ca2818946d9ce9d99aa594c6f.jpg",
     "url": "https://mangafire.to/manga/the-old-prisoner-lives-in-solitude.20qo4"
-  },
-  {
-    "slug": "the-dukes-chef-a-little-chef-who-lived-for-300-yearss.wo1zl",
-    "title": "The Duke's Chef ~A Little Chef Who Lived For 300 Years~",
-    "cover": "https://static.mfcdn.nl/3ef0/i/8/8d/8db2f368ff5ba3ab2d9c0c758e0d7490.jpg",
-    "url": "https://mangafire.to/manga/the-dukes-chef-a-little-chef-who-lived-for-300-yearss.wo1zl"
   },
   {
     "slug": "kimoota-idol-yarutteyoo.vk54",
@@ -24640,12 +24952,6 @@
     "title": "Reasons Not to Enter a Haunted House",
     "cover": "https://static.mfcdn.nl/554c/i/f/fc/0b5dc57a2429c7c30ac8416407d66b7e.jpg",
     "url": "https://mangafire.to/manga/reasons-not-to-enter-a-haunted-house.ox2o5"
-  },
-  {
-    "slug": "the-billion-luck-player.82kqq",
-    "title": "The Billion-Luck Player",
-    "cover": "https://static.mfcdn.nl/fbcb/i/1/7d/be39599c8c2d3f26692acaf9fe209214.jpg",
-    "url": "https://mangafire.to/manga/the-billion-luck-player.82kqq"
   },
   {
     "slug": "i-am-in-the-same-class-as-the-crazy-male-leads.zx0ql",
@@ -25278,12 +25584,6 @@
     "url": "https://mangafire.to/manga/stigmaa.qknv"
   },
   {
-    "slug": "i-found-a-family-that-wasnt-in-my-adoption-plan.jpoj2",
-    "title": "I Found A Family That Wasn’t In My Adoption Plan",
-    "cover": "https://static.mfcdn.nl/cb9f/i/8/69/58eef38b0a9e753da9b55a8625ffdcd8.jpg",
-    "url": "https://mangafire.to/manga/i-found-a-family-that-wasnt-in-my-adoption-plan.jpoj2"
-  },
-  {
     "slug": "hana-himeru-kimi-no-meteor.yvl3j",
     "title": "Hana Himeru Kimi no Meteor",
     "cover": "https://static.mfcdn.nl/7cb2/i/3/3e/dc3fc97b8bc741e9446a8e07244af805.jpg",
@@ -25494,18 +25794,6 @@
     "url": "https://mangafire.to/manga/illusion-leo.vq004"
   },
   {
-    "slug": "kurai-anoko-to-shitai-kotoo.ll61z",
-    "title": "Kurai Anoko to Shitai koto",
-    "cover": "https://static.mfcdn.nl/63c3/i/4/4b/4b1b732c8f70fa034ed836494f41b1d9.jpg",
-    "url": "https://mangafire.to/manga/kurai-anoko-to-shitai-kotoo.ll61z"
-  },
-  {
-    "slug": "akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanaraa.qx7nn",
-    "title": "If the Villainess and Villain Met and Fell in Love",
-    "cover": "https://static.mfcdn.nl/dc7a/i/6/6a/6a70af92ede181fe4d650d2266330092.jpg",
-    "url": "https://mangafire.to/manga/akuyaku-reijou-to-akuyaku-reisoku-ga-deatte-koi-ni-ochitanaraa.qx7nn"
-  },
-  {
     "slug": "kutabire-salarymen-no-ore-7-nenburi-ni-saikai-shita-bishoujo-jk-to-dousei-wo-hajimaruu.42n8m",
     "title": "Kutabire Salarymen no Ore, 7-nenburi ni Saikai Shita Bishoujo JK to Dousei wo Hajimaru",
     "cover": "https://static.mfcdn.nl/0a97/i/1/11/6d49481d9d114723ffc8acfe25142612.jpg",
@@ -25570,12 +25858,6 @@
     "title": "Jingai Kenshi wa Chikara ni Miserare Ura Meikyuu wo Kouryaku su: Bakemono Atsukai sareta Moto Boukensha wa, Jibun dake ga Shiru Meikyuu de Hitome wo Ki ni Sezu Musou suru",
     "cover": "https://static.mfcdn.nl/6537/i/2/a3/fc21665553fd4b1b5568d7837c08c870.jpg",
     "url": "https://mangafire.to/manga/jingai-kenshi-wa-chikara-ni-miserare-ura-meikyuu-wo-kouryaku-su-bakemono-atsukai-sareta-moto-boukensha-wa-jibun-dake-ga-shiru-meikyuu-de-hitome-wo-ki-ni-sezu-musou-suru.ol8n8"
-  },
-  {
-    "slug": "itoko-no-onee-chan-ni-amaechauu.9062q",
-    "title": "Itoko no Onee-chan ni Amaechau?",
-    "cover": "https://static.mfcdn.nl/1675/i/f/fd/055b22ae47086ea98acc1749e518eee4.jpg",
-    "url": "https://mangafire.to/manga/itoko-no-onee-chan-ni-amaechauu.9062q"
   },
   {
     "slug": "to-juliee.yv9qj",
@@ -26544,18 +26826,6 @@
     "url": "https://mangafire.to/manga/dungeon-elf-dungeon-ni-takarabako-ga-aru-no-wa-atarimae-desu-kaa.8xvy3"
   },
   {
-    "slug": "living-in-this-world-with-cut-pastee.rl0om",
-    "title": "Living in This World With Cut \u0026 Paste",
-    "cover": "https://static.mfcdn.nl/7a86/i/3/35/352d4415544c1dc8ced474a96fba1d13.jpg",
-    "url": "https://mangafire.to/manga/living-in-this-world-with-cut-pastee.rl0om"
-  },
-  {
-    "slug": "ore-wa-seikan-kokka-no-akutoku-ryoshuu.9oz2n",
-    "title": "I’m the Evil Lord of an Intergalactic Empire!",
-    "cover": "https://static.mfcdn.nl/d37c/i/a/af/afd5f7b0f7df8343e15137be074e41bf.jpg",
-    "url": "https://mangafire.to/manga/ore-wa-seikan-kokka-no-akutoku-ryoshuu.9oz2n"
-  },
-  {
     "slug": "no-game-no-life-part-2-eastern-union-arcc.02jr5",
     "title": "No Game No Life Part 2: Eastern Union Arc",
     "cover": "https://static.mfcdn.nl/0b69/i/0/0f/0f5e6a98b7031a587e07bcce1e0b08bf.jpg",
@@ -27142,12 +27412,6 @@
     "title": "The Flower That Swallowed the Beast",
     "cover": "https://static.mfcdn.nl/1846/i/2/4f/4f7b5c11f47ab6cbad93acba9dd54a02.jpg",
     "url": "https://mangafire.to/manga/kkochi-samkin-jimseung.kx976"
-  },
-  {
-    "slug": "seijuu-ni-sodaterareta-shounen-no-isekai-yururi-hourouki-kami-sama-kara-moratta-cheat-mahou-de-nakama-tachi-to-slow-life-wo-mankitsu-chuuu.909vm",
-    "title": "Seijuu ni Sodaterareta Shounen no Isekai Yururi Hourouki - Kami-sama kara Moratta Cheat Mahou de, Nakama-tachi to Slow Life wo Mankitsu-chuu",
-    "cover": "https://static.mfcdn.nl/ac95/i/c/c9/c92cc1e8dc64724062f5b1eb81e95bd6.jpg",
-    "url": "https://mangafire.to/manga/seijuu-ni-sodaterareta-shounen-no-isekai-yururi-hourouki-kami-sama-kara-moratta-cheat-mahou-de-nakama-tachi-to-slow-life-wo-mankitsu-chuuu.909vm"
   },
   {
     "slug": "isekai-shokudouu.worq7",
@@ -28386,12 +28650,6 @@
     "url": "https://mangafire.to/manga/fudanshi-shoukan-isekai-de-shinjuu-ni-hameraremashita.vqz3l"
   },
   {
-    "slug": "tsuihou-sareta-saikyou-no-ketsukaishi-wa-yome-to-nonbiri-tabi-shitai.kx69v",
-    "title": "The Exiled Ultimate Barrier Mage Wants a Relaxing Journey With His Bride",
-    "cover": "https://static.mfcdn.nl/1ed4/i/1/b9/7fa7e1ed98365bdf0f4c82715665d935.jpg",
-    "url": "https://mangafire.to/manga/tsuihou-sareta-saikyou-no-ketsukaishi-wa-yome-to-nonbiri-tabi-shitai.kx69v"
-  },
-  {
     "slug": "yeojuga-nae-yakonjawa-baramnatda.mjlqp",
     "title": "Siella's Revenge Affair",
     "cover": "https://static.mfcdn.nl/2143/i/a/9b/8e1e82221c226dd404795624fafb8e7c.jpg",
@@ -28408,12 +28666,6 @@
     "title": "The Live",
     "cover": "https://static.mfcdn.nl/c668/i/c/da/5573f041789656ebb312111b498e4104.jpg",
     "url": "https://mangafire.to/manga/the-live.yjmrz"
-  },
-  {
-    "slug": "gaenyeom-jamneun-mabeop-cheonjae.7039j",
-    "title": "Gaenyeom Jamneun Mabeop Cheonjae",
-    "cover": "https://static.mfcdn.nl/b488/i/e/96/5fe7f6c69ebd00391ae28d10f4d243e4.jpg",
-    "url": "https://mangafire.to/manga/gaenyeom-jamneun-mabeop-cheonjae.7039j"
   },
   {
     "slug": "nae-ttareun-dragon.lx4jm",
@@ -28458,12 +28710,6 @@
     "url": "https://mangafire.to/manga/rainbow-bridge-watchman.zkx2m"
   },
   {
-    "slug": "dungeon-haishin-wo-kiriwasurerta-yuumei-haishinsha-wo-tasuketara-densetsu-no-tansakusha-toshite-bazuri-hajimeta-inkya-no-ore-nazo-skill-da-to-omotteita-rule-mushi-de-ukkari-musou.x1rpz",
-    "title": "Dungeon Haishin wo Kiriwasurerta Yuumei Haishinsha wo Tasuketara, Densetsu no Tansakusha toshite Bazuri Hajimeta: Inkya no Ore, Nazo Skill da to Omotteita \"Rule Mushi\" de Ukkari Musou",
-    "cover": "https://static.mfcdn.nl/d17c/i/3/c7/edf53d8e798f2f22f77f84ccfaac2c14.jpg",
-    "url": "https://mangafire.to/manga/dungeon-haishin-wo-kiriwasurerta-yuumei-haishinsha-wo-tasuketara-densetsu-no-tansakusha-toshite-bazuri-hajimeta-inkya-no-ore-nazo-skill-da-to-omotteita-rule-mushi-de-ukkari-musou.x1rpz"
-  },
-  {
     "slug": "ice-master.0qnj7",
     "title": "Ice Master",
     "cover": "https://static.mfcdn.nl/c72c/i/6/6e/ceefa9849d10a159837a46178e28fc0b.jpg",
@@ -28474,12 +28720,6 @@
     "title": "Isekai Chikyuu-kan de Kojin Boukei shite Mita",
     "cover": "https://static.mfcdn.nl/1fbf/i/0/0a/79a77af8945938de37a687b09c73e3c5.jpg",
     "url": "https://mangafire.to/manga/isekai-chikyuu-kan-de-kojin-boukei-shite-mitaa.8xrvo"
-  },
-  {
-    "slug": "saijaku-na-boku-wa-kabenuke-bugs-de-nariagaruu.3pyo9",
-    "title": "Saijaku na Boku wa \"Kabenuke Bugs\" de Nariagaru",
-    "cover": "https://static.mfcdn.nl/2ef4/i/9/97/97ad213a13e933205ba8010d9812e5ab.jpg",
-    "url": "https://mangafire.to/manga/saijaku-na-boku-wa-kabenuke-bugs-de-nariagaruu.3pyo9"
   },
   {
     "slug": "my-lucky-encounter-from-the-game-turned-into-realityy.mv46z",
@@ -29016,12 +29256,6 @@
     "url": "https://mangafire.to/manga/harapeko-marisa-no-shiawase-gohann.02jpk"
   },
   {
-    "slug": "genius-hitter-hits-fastballl.qnoqw",
-    "title": "Genius Hitter Hits Fastball",
-    "cover": "https://static.mfcdn.nl/7e55/i/3/3a/1c33226eb9c48fd6a708219327528155.jpg",
-    "url": "https://mangafire.to/manga/genius-hitter-hits-fastballl.qnoqw"
-  },
-  {
     "slug": "heavenly-demon-bakeryy.proj9",
     "title": "Heavenly Demon's Bakery",
     "cover": "https://static.mfcdn.nl/4960/i/a/a7/a7bbd99a3ae89eb621f392220faadd87.jpg",
@@ -29202,12 +29436,6 @@
     "url": "https://mangafire.to/manga/ponkotsu-ga-tensei-shitara-zongai-saikyouu.m2288"
   },
   {
-    "slug": "skip-and-loaferr.ojj48",
-    "title": "Skip and Loafer",
-    "cover": "https://static.mfcdn.nl/59bc/i/c/c3/c37fbf3fd3016681a62e1a06cbc6526c.jpg",
-    "url": "https://mangafire.to/manga/skip-and-loaferr.ojj48"
-  },
-  {
     "slug": "itakisss.93pm",
     "title": "Itazura na Kiss",
     "cover": "https://static.mfcdn.nl/6b3f/i/9/9a/9a7f21f80ec4f925c27184734b7cf411.jpg",
@@ -29230,12 +29458,6 @@
     "title": "YJK's Unusual Affection",
     "cover": "https://static.mfcdn.nl/7eac/i/c/c4/c4aa6449dccc28b38ff3ec520acd6574.jpg",
     "url": "https://mangafire.to/manga/yjk-no-ijou-na-aijouu.x3yz"
-  },
-  {
-    "slug": "shachiku-tamer-kawaii-slime-no-okage-de-mujikaku-na-mama-musou-suru-ukkari-kokunai-top-no-haishin-ni-utsurikonde-saikyou-ga-baremashita.wq3kk",
-    "title": "Shachiku Tamer, I'm Unconsciously Unmatched Thanks to My Cute Slime.",
-    "cover": "https://static.mfcdn.nl/3a6a/i/e/d3/a9336b3ae013bea29e0750729ff43591.jpg",
-    "url": "https://mangafire.to/manga/shachiku-tamer-kawaii-slime-no-okage-de-mujikaku-na-mama-musou-suru-ukkari-kokunai-top-no-haishin-ni-utsurikonde-saikyou-ga-baremashita.wq3kk"
   },
   {
     "slug": "the-grand-duke-is-minee.ox61z",
@@ -29844,12 +30066,6 @@
     "url": "https://mangafire.to/manga/yeounori.nko78"
   },
   {
-    "slug": "saikyou-shoukanshi-wa-arasa-ossan-card-wo-oya-ni-shobun-sareta-card-gamer-no-isekai-musou.82q8o",
-    "title": "Saikyou Shoukanshi wa Arasa Ossan: Card wo Oya ni Shobun sareta Card Gamer no Isekai Musou",
-    "cover": "https://static.mfcdn.nl/40b1/i/b/d2/b5a0e2ebfd69e6df76ba3f69d853a74e.jpg",
-    "url": "https://mangafire.to/manga/saikyou-shoukanshi-wa-arasa-ossan-card-wo-oya-ni-shobun-sareta-card-gamer-no-isekai-musou.82q8o"
-  },
-  {
     "slug": "konyaku-haki-sare-suterare-rurashii-node-gunjin-reijou-hajimemasu.70p86",
     "title": "Konyaku Haki sare Suterare Rurashii node, Gunjin Reijou Hajimemasu",
     "cover": "https://static.mfcdn.nl/635b/i/0/e7/65215620fd7bb9c2ba8e630372d25eb7.jpg",
@@ -30136,12 +30352,6 @@
     "title": "Ouchou Haru no Yoi no Romance",
     "cover": "https://static.mfcdn.nl/1749/i/8/88/881a1544fd633c12fe3550be137bef39.jpg",
     "url": "https://mangafire.to/manga/ouchou-haru-no-yoi-no-romancee.pp6xq"
-  },
-  {
-    "slug": "kasugai-kun-wa-mousou-jk-to-xx-shitaii.2pzm2",
-    "title": "Kasugai-kun wa, Mousou JK to XX shitai",
-    "cover": "https://static.mfcdn.nl/e4f2/i/7/70/706cc1596195997d8b22f9fe10ddd836.jpg",
-    "url": "https://mangafire.to/manga/kasugai-kun-wa-mousou-jk-to-xx-shitaii.2pzm2"
   },
   {
     "slug": "two-on-icee.jp602",
@@ -33516,12 +33726,6 @@
     "url": "https://mangafire.to/manga/cuo-liaoo.42pnk"
   },
   {
-    "slug": "otherworldly-illusion-hunterr.726w1",
-    "title": "Illusion Hunter from Another World",
-    "cover": "https://static.mfcdn.nl/2be2/i/0/66/7c10d81b127be98c4ef1b5b8b3e9eb98.jpg",
-    "url": "https://mangafire.to/manga/otherworldly-illusion-hunterr.726w1"
-  },
-  {
     "slug": "absolute-reignn.59onj",
     "title": "Absolute Reign",
     "cover": "https://static.mfcdn.nl/dc39/i/c/82/d016679620d53811ef27f9bb4394abdb.jpg",
@@ -34338,12 +34542,6 @@
     "url": "https://mangafire.to/manga/the-idolm-at-ster-shiny-colors-hazukis-shinographyy.6wnv4"
   },
   {
-    "slug": "shenji-shengji-xitongg.293x4",
-    "title": "Shenji Shengji Xitong (Colored)",
-    "cover": "https://static.mfcdn.nl/9079/i/9/90/90441a95b39321639e9c92da02592cb3.jpg",
-    "url": "https://mangafire.to/manga/shenji-shengji-xitongg.293x4"
-  },
-  {
     "slug": "isekai-de-mizu-no-dai-seirei-yattemasu.x1p5v",
     "title": "Isekai de Mizu no Dai Seirei Yattemasu.",
     "cover": "https://static.mfcdn.nl/6366/i/5/7b/00f13d80d5a71b94f673e0572a4033a5.jpg",
@@ -34354,12 +34552,6 @@
     "title": "The Invincible Man",
     "cover": "https://static.mfcdn.nl/8e4e/i/2/25/25f530d84eeae69fbe7497c1ba2feeaa.jpg",
     "url": "https://mangafire.to/manga/the-invincible-mann.4qyom"
-  },
-  {
-    "slug": "youmuin-san-wa-yuusha-ja-arimasen-no-de.202l4",
-    "title": "Because Janitor-san Is Not a Hero",
-    "cover": "https://static.mfcdn.nl/b9b4/i/c/71/ad266353bab3167c3dc78cc8af80be0a.jpg",
-    "url": "https://mangafire.to/manga/youmuin-san-wa-yuusha-ja-arimasen-no-de.202l4"
   },
   {
     "slug": "reira.303zr",
@@ -34662,12 +34854,6 @@
     "url": "https://mangafire.to/manga/ikenie-kazoku.41m17"
   },
   {
-    "slug": "wakiyaku-ni-tensei-shita-hazu-ga-itsunomanika-densetsu-no-renkinjutsushi-ni-natteta-nakama-tachi-ga-eiyuu-demo-ore-wa-shienshoku-nanda-ga.yj58p",
-    "title": "I Should Have Been Reincarnated as a Supporting Role, but Before I Knew It, I Had Become a Legendary Alchemist.",
-    "cover": "https://static.mfcdn.nl/2e30/i/c/d1/09edd2e3f0cc2c0de2dbbaaddacce257.jpg",
-    "url": "https://mangafire.to/manga/wakiyaku-ni-tensei-shita-hazu-ga-itsunomanika-densetsu-no-renkinjutsushi-ni-natteta-nakama-tachi-ga-eiyuu-demo-ore-wa-shienshoku-nanda-ga.yj58p"
-  },
-  {
     "slug": "erratic-muse2.5w7wj",
     "title": "Erratic Muse",
     "cover": "https://static.mfcdn.nl/d730/i/6/f9/dad52136cea386a445b6c07d1b3f94c5.jpg",
@@ -34914,12 +35100,6 @@
     "url": "https://mangafire.to/manga/enzai-de-shikei-ni-sareta-otoko-wa-ryakudatsu-no-skill-wo-ete-yomigaeri-fukushuu-wo-oukasuru-at-comicc.3pxr8"
   },
   {
-    "slug": "saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orettee.8x2yn",
-    "title": "Saitei Rank no Boukensha, Yuusha Shoujo wo Sodateru Orette",
-    "cover": "https://static.mfcdn.nl/25c0/i/3/31/318085ecae1824c2d18f47f44ed61fac.jpg",
-    "url": "https://mangafire.to/manga/saitei-rank-no-boukensha-yuusha-shoujo-wo-sodateru-orettee.8x2yn"
-  },
-  {
     "slug": "tokyo-revengers-baji-keisuke-kara-no-tegamii.kw1z9",
     "title": "Tokyo Revengers: Letter from Keisuke Baji",
     "cover": "https://static.mfcdn.nl/66ff/i/7/7f/7f481b664bfe1b86abcf569c67aa418a.jpg",
@@ -35032,12 +35212,6 @@
     "title": "High Elf with a Long Life",
     "cover": "https://static.mfcdn.nl/0fae/i/2/2d/2da9a041248459256dfd5192bf88cc55.jpg",
     "url": "https://mangafire.to/manga/enough-with-this-slow-life-i-was-reincarnated-as-a-high-elf-and-now-im-boredd.xrn7z"
-  },
-  {
-    "slug": "henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naruu.p31x",
-    "title": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru",
-    "cover": "https://static.mfcdn.nl/af5b/i/a/a0/a0047c262df33823b6bada0dbcbabcb3.jpg",
-    "url": "https://mangafire.to/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naruu.p31x"
   },
   {
     "slug": "kami-no-mezame-no-gjallarhorn-hazure-skill-mezamashi-wa-fuuin-kaijo-no-nouryoku-de-shita.lxmmn",
@@ -35362,12 +35536,6 @@
     "title": "The Younger Ones' Abyss",
     "cover": "https://static.mfcdn.nl/7377/i/c/e4/83e4920cad40b75a344d584211f58e43.jpg",
     "url": "https://mangafire.to/manga/yeonha-jiok.zk5nm"
-  },
-  {
-    "slug": "saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirundagaa.vv05v",
-    "title": "The Reincarnation of the Strongest Exorcist in Another World",
-    "cover": "https://static.mfcdn.nl/009a/i/5/5f/5f72e565df3f482b8c90285a70a1a04b.jpg",
-    "url": "https://mangafire.to/manga/saikyou-onmyouji-no-isekai-tenseiki-geboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirundagaa.vv05v"
   },
   {
     "slug": "hallelujah-babyy.jpnm4",
@@ -35874,12 +36042,6 @@
     "url": "https://mangafire.to/manga/wandering.82q4o"
   },
   {
-    "slug": "regression-of-the-yong-clan-heir.lrv86",
-    "title": "Regression of the Yong Clan Heir",
-    "cover": "https://static.mfcdn.nl/a9c5/i/d/7d/e8f6d196a6c2fee9b2b615a6e900bd77.jpg",
-    "url": "https://mangafire.to/manga/regression-of-the-yong-clan-heir.lrv86"
-  },
-  {
     "slug": "the-last-adventurerr.mv71z",
     "title": "Maplestory: The Last Adventurer",
     "cover": "https://static.mfcdn.nl/f62f/i/9/99/dc6d9879d2532bd7bf2aef0643262ec6.jpg",
@@ -35896,12 +36058,6 @@
     "title": "A Broken Passport",
     "cover": "https://static.mfcdn.nl/effe/i/6/39/081dd7fc823bfb6e8ecf1ca18fe291df.jpg",
     "url": "https://mangafire.to/manga/saketa-ryoken.wqk47"
-  },
-  {
-    "slug": "kougekiryoku-zero-kara-hajimeru-kenseitan.17vjp",
-    "title": "Zero Damage Sword Saint: I Enrolled in a Magic School and Wound Up in a Contract with the Demon Queen",
-    "cover": "https://static.mfcdn.nl/7b88/i/a/14/0cb588a2abaac9a64978b49a1cfa899a.jpg",
-    "url": "https://mangafire.to/manga/kougekiryoku-zero-kara-hajimeru-kenseitan.17vjp"
   },
   {
     "slug": "luent-genjuu-trimmer.lx31n",
@@ -36022,12 +36178,6 @@
     "title": "\"Shiryou jutsushi nado kegarawashii\" to shokei sareta node, mazoku ni tenshin itashimasu",
     "cover": "https://static.mfcdn.nl/23dd/i/a/a9/a9b5773179104cd24436eca81c2e214a.jpg",
     "url": "https://mangafire.to/manga/shiryou-jutsushi-nado-kegarawashii-to-shokei-sareta-node-mazoku-ni-tenshin-itashimasuu.k3j6w"
-  },
-  {
-    "slug": "yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akiraa.prmjj",
-    "title": "The Man Devoted 25 Years to the Weakest Skill \"Restore,\" Finally He Got the Strongest One",
-    "cover": "https://static.mfcdn.nl/ca75/i/c/cb/cb4f6cc372c00b793290df8da0b61984.jpg",
-    "url": "https://mangafire.to/manga/yakudatazu-skill-ni-jinsei-o-sosogikomi-25-nen-imasara-saikyou-no-boukentan-midori-kashi-no-akiraa.prmjj"
   },
   {
     "slug": "naraku-sama-wa-inaka-de-choro-i.mjn3p",
@@ -36268,12 +36418,6 @@
     "title": "Hibi Rock",
     "cover": "https://static.mfcdn.nl/f054/i/7/f9/31ef6e48668d80398a5823b91af3e755.jpg",
     "url": "https://mangafire.to/manga/hibi-rock.j21k2"
-  },
-  {
-    "slug": "watashi-no-kokoro-wa-ojisan-de-aru.qn5mn",
-    "title": "This Alluring Dark Elf Has the Heart of a Middle-Aged Man!",
-    "cover": "https://static.mfcdn.nl/feb8/i/4/f9/fcf02acb7da69586b35b232809a1722a.jpg",
-    "url": "https://mangafire.to/manga/watashi-no-kokoro-wa-ojisan-de-aru.qn5mn"
   },
   {
     "slug": "otokojuku-gaiden-daigouin-jakii.rl6xn",
@@ -36550,12 +36694,6 @@
     "title": "The Lazy Boy Is, in Fact, the Strongest and Most Brutal Assassin.",
     "cover": "https://static.mfcdn.nl/72ec/i/1/5f/4c3bdca05b0918e8d2e5ab4683634c0d.jpg",
     "url": "https://mangafire.to/manga/ochikobore-eji-minarai-no-shounen-jitsu-wa-saikyou-saiaku-no-ansatsusha.0m3vk"
-  },
-  {
-    "slug": "do-you-think-someone-like-you-could-defeat-the-demon-lordd.6vvj9",
-    "title": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-    "cover": "https://static.mfcdn.nl/2223/i/3/3d/3df51546fe74acbf919fbaa2e1fbc08b.jpg",
-    "url": "https://mangafire.to/manga/do-you-think-someone-like-you-could-defeat-the-demon-lordd.6vvj9"
   },
   {
     "slug": "qing-duo-guan-zhao.nkm2k",
@@ -37746,12 +37884,6 @@
     "url": "https://mangafire.to/manga/danzaisareta-akuyaku-reijou-desu-ga-pan-wo-yaitara-seijo-ni-job-change-shimashitaa.1qkqp"
   },
   {
-    "slug": "musou-no-kaitaishii.qnoxj",
-    "title": "Musou no Kaitaishi",
-    "cover": "https://static.mfcdn.nl/8fbd/i/5/50/af95972143ac5127ea8034dd0b279e88.jpg",
-    "url": "https://mangafire.to/manga/musou-no-kaitaishii.qnoxj"
-  },
-  {
     "slug": "favorite-savior-girll.oxr28",
     "title": "My Favorite Savior Girl",
     "cover": "https://static.mfcdn.nl/1e0c/i/7/70/2c91e110bbedb3ee8ffe83002b79a30a.jpg",
@@ -37908,12 +38040,6 @@
     "url": "https://mangafire.to/manga/ao-jiao-shou-fu-xunfu-jihuaa.37j19"
   },
   {
-    "slug": "stay-low-profile-sect-chieff.29702",
-    "title": "Keep a Low Profile, Sect Leader",
-    "cover": "https://static.mfcdn.nl/8dd6/i/e/ee/ee57271f26f9814e8d4ea726dbbc7444.jpg",
-    "url": "https://mangafire.to/manga/stay-low-profile-sect-chieff.29702"
-  },
-  {
     "slug": "first-love-operatorr.29l4q",
     "title": "First Love Operator",
     "cover": "https://static.mfcdn.nl/de29/i/8/89/89184a8cb8a100d6ef92725450c83c36.jpg",
@@ -38032,12 +38158,6 @@
     "title": "That Time I Bought a Great Wizard in Hopes of Becoming a Runaway",
     "cover": "https://static.mfcdn.nl/c539/i/9/96/96984707be410aed093156b5a00ffe5a.jpg",
     "url": "https://mangafire.to/manga/that-time-i-bought-a-great-wizard-in-hopes-of-becoming-a-runawayy.9oxk8"
-  },
-  {
-    "slug": "god-of-martial-artss.02k13",
-    "title": "God of Martial Arts (Colored)",
-    "cover": "https://static.mfcdn.nl/62ca/i/0/05/055bb66855f4597bf2a91b03fd80e7ac.jpg",
-    "url": "https://mangafire.to/manga/god-of-martial-artss.02k13"
   },
   {
     "slug": "isekai-no-binbou-nouka-ni-tensei-shita-node-renga-wo-tsukutte-shiro-wo-tateru-koto-ni-shimashitaa.7j7r6",
@@ -40986,12 +41106,6 @@
     "url": "https://mangafire.to/manga/made-in-abysss.jpn"
   },
   {
-    "slug": "kaban-no-yuusha-no-isekai-nonbiri-tabi-jitsuwa-kaban-wa-nani-demo-kyuushuu-dekirushi-nihon-kara-nandemo-toriyose-ga-dekiru-cheat-bukideshita.qz3zn",
-    "title": "Kaban no Yuusha no Isekai Nonbiri Tabi ~Jitsuwa \"Kaban\" wa nani demo Kyuushuu Dekirushi, Nihon kara nandemo Toriyose ga Dekiru Cheat bukideshita~",
-    "cover": "https://static.mfcdn.nl/cf22/i/8/53/d5e9201d3839c28dcd0fe682fff04611.jpg",
-    "url": "https://mangafire.to/manga/kaban-no-yuusha-no-isekai-nonbiri-tabi-jitsuwa-kaban-wa-nani-demo-kyuushuu-dekirushi-nihon-kara-nandemo-toriyose-ga-dekiru-cheat-bukideshita.qz3zn"
-  },
-  {
     "slug": "asaki-yumemishi-genji-monogatarii.npnnk",
     "title": "The Tale of Genji: Dreams At Dawn",
     "cover": "https://static.mfcdn.nl/8b09/i/7/75/75ce0dc0c5ec065dd1aa4d2fe7ce5a25.jpg",
@@ -41380,12 +41494,6 @@
     "title": "Watashi no Ningyou wa Yoi Ningyou",
     "cover": "https://static.mfcdn.nl/1505/i/e/19/06b9039d0cf61dd0be5144d908d0c48d.jpg",
     "url": "https://mangafire.to/manga/watashi-no-ningyou-wa-yoi-ningyou.mj507"
-  },
-  {
-    "slug": "kono-inu-to-kitara-mago-no-koto-shika-kangaeteinai-kensei-maou-no-yarinokoshi.60479",
-    "title": "Kono Inu to Kitara Mago no Koto shika Kangaeteinai: Kensei Maou no Yarinokoshi",
-    "cover": "https://static.mfcdn.nl/0352/i/e/b8/07c622de75d9ef1922dce6cbc2f12f57.jpg",
-    "url": "https://mangafire.to/manga/kono-inu-to-kitara-mago-no-koto-shika-kangaeteinai-kensei-maou-no-yarinokoshi.60479"
   },
   {
     "slug": "sono-gap-ni-yowai-tokushuuu.8xqk3",
@@ -42678,12 +42786,6 @@
     "url": "https://mangafire.to/manga/global-cataclysm-my-ancestors-spirit-tablet-awakened-at-the-start.ol5r5"
   },
   {
-    "slug": "tsuki-ga-michibiku-isekai-douchuuu.vvrpl",
-    "title": "Tsukimichi: Moonlit Fantasy",
-    "cover": "https://static.mfcdn.nl/980c/i/f/f9/f99f9b0ed2046761448ef79a7cf26bdf.jpg",
-    "url": "https://mangafire.to/manga/tsuki-ga-michibiku-isekai-douchuuu.vvrpl"
-  },
-  {
     "slug": "radiantt.mq9kv",
     "title": "Radiant",
     "cover": "https://static.mfcdn.nl/acf9/i/1/33/12257f2f4dd60be13e01bf9d4fdf247e.jpg",
@@ -42880,12 +42982,6 @@
     "title": "Ask Dr. Rin!",
     "cover": "https://static.mfcdn.nl/7239/i/7/70/706b6ccf580c630efebdaaff6941c309.jpg",
     "url": "https://mangafire.to/manga/dr-rin-ni-kiitemitee.l19m"
-  },
-  {
-    "slug": "zatsuyou-fuyojutsushi-ga-jibun-no-saikyou-ni-kidzuku-madee.0qmr7",
-    "title": "Magical Buffs: The Support Caster is Stronger Than He Realized",
-    "cover": "https://static.mfcdn.nl/3c5b/i/d/d1/d1a1f91bfb1a9fb8596e2a7c2f5f8543.jpg",
-    "url": "https://mangafire.to/manga/zatsuyou-fuyojutsushi-ga-jibun-no-saikyou-ni-kidzuku-madee.0qmr7"
   },
   {
     "slug": "hitozuma-medusa-san-to-no-ntr-seikatsu.pm899",
@@ -44338,12 +44434,6 @@
     "title": "Meeting My Ex-Girlfriend",
     "cover": "https://static.mfcdn.nl/c2e0/i/3/78/1fb5e7b0c4ea083a385b4998160d0b8f.jpg",
     "url": "https://mangafire.to/manga/meeting-my-ex-girlfriend.70zx6"
-  },
-  {
-    "slug": "dungeon-architect.j2jyy",
-    "title": "Dungeon Architect",
-    "cover": "https://static.mfcdn.nl/c4ae/i/7/25/17854737b5b4bcd409eb5a5b47ef34a3.jpg",
-    "url": "https://mangafire.to/manga/dungeon-architect.j2jyy"
   },
   {
     "slug": "sm-yuri-ecchi-anthology.lx57n",
@@ -47028,12 +47118,6 @@
     "url": "https://mangafire.to/manga/you-immortal-cultivate-i-draw-cardss.3pvjy"
   },
   {
-    "slug": "decide-to-be-a-villain.yj08p",
-    "title": "Decide to Be a Villain",
-    "cover": "https://static.mfcdn.nl/db93/i/2/4d/795866a7a1a9c9b0e2e2fc4e8bc04e3a.jpg",
-    "url": "https://mangafire.to/manga/decide-to-be-a-villain.yj08p"
-  },
-  {
     "slug": "the-doctor-is-outt.902nq",
     "title": "The Doctor Is Out",
     "cover": "https://static.mfcdn.nl/0bbd/i/7/75/751943c68b0024888a31828a6aba880d.jpg",
@@ -48288,12 +48372,6 @@
     "url": "https://mangafire.to/manga/tang-yin-in-another-realmm.80803"
   },
   {
-    "slug": "useless-wizardd.rwl9n",
-    "title": "Useless Wizard",
-    "cover": "https://static.mfcdn.nl/b97f/i/7/7b/7b242939383258e866570d3d77dd250d.jpg",
-    "url": "https://mangafire.to/manga/useless-wizardd.rwl9n"
-  },
-  {
     "slug": "barakamonn.n1n",
     "title": "Barakamon",
     "cover": "https://static.mfcdn.nl/0447/i/d/d8/d80f9b6123c2af55311ee836d37977b9.jpg",
@@ -48304,12 +48382,6 @@
     "title": "Futsuu no Keionbu",
     "cover": "https://static.mfcdn.nl/e06f/i/6/c3/c8160cfb419e321cd7a7e749c4756728.jpg",
     "url": "https://mangafire.to/manga/futsuu-no-keionbu.171ow"
-  },
-  {
-    "slug": "sihanbu-cheonjaega-saranamneun-beop.nk0pn",
-    "title": "Chronicles of a Doomed Prodigy",
-    "cover": "https://static.mfcdn.nl/aaf8/i/8/09/95f9ed47d3ae526f9d5731f66b50b0a8.jpg",
-    "url": "https://mangafire.to/manga/sihanbu-cheonjaega-saranamneun-beop.nk0pn"
   },
   {
     "slug": "naraku-no-game-architect.304mr",
@@ -53430,12 +53502,6 @@
     "url": "https://mangafire.to/manga/dragon-baby-sittingg.qkjpn"
   },
   {
-    "slug": "guild-no-uketsuke-majin-mugen-tutorial-de-kansuto-toppaa.8x97q",
-    "title": "Guild no Uketsuke Majin - Mugen Tutorial de Kansuto Toppa",
-    "cover": "https://static.mfcdn.nl/9fd3/i/2/21/28076ab94f71a09670bbc2eaa010fd74.jpg",
-    "url": "https://mangafire.to/manga/guild-no-uketsuke-majin-mugen-tutorial-de-kansuto-toppaa.8x97q"
-  },
-  {
     "slug": "checkmate-capture-my-heartt.nr5lm",
     "title": "Checkmate! Capture My Heart (Colored)",
     "cover": "https://static.mfcdn.nl/2b47/i/4/46/464d3675a84c2adc9b3f703f9da46916.jpg",
@@ -54388,12 +54454,6 @@
     "title": "Puroresu Kyousoukyoku",
     "cover": "https://static.mfcdn.nl/c8ba/i/1/35/94803886ca5375bd5186b0e50b30d922.jpg",
     "url": "https://mangafire.to/manga/puroresu-kyousoukyoku.nkmzj"
-  },
-  {
-    "slug": "a-girl-who-cant-speak-thinks-she-is-too-kindd.ll0o3",
-    "title": "A Girl Who Can't Speak Thinks \"She Is Too Kind.\"",
-    "cover": "https://static.mfcdn.nl/19e8/i/7/73/73f25cd534fb76eb220a7db9c46972ca.jpg",
-    "url": "https://mangafire.to/manga/a-girl-who-cant-speak-thinks-she-is-too-kindd.ll0o3"
   },
   {
     "slug": "invincible-under-heaven-reborn-as-the-enemy.pmomj",
@@ -58588,12 +58648,6 @@
     "title": "Nameless Dexterity",
     "cover": "https://static.mfcdn.nl/7468/i/e/c9/36c3f887d78b14f613d05de464146509.jpg",
     "url": "https://mangafire.to/manga/nameless-dexterity.200z2"
-  },
-  {
-    "slug": "sugar-trap.20wr4",
-    "title": "Sugar Trap",
-    "cover": "https://static.mfcdn.nl/67e0/i/1/57/7b99a43bb29016752d5f0101fef90049.jpg",
-    "url": "https://mangafire.to/manga/sugar-trap.20wr4"
   },
   {
     "slug": "spirit-realm-wanderer.17olq",
@@ -174108,12 +174162,6 @@
     "url": "https://mangafire.to/manga/kono-ai-wo-owarasete-kurenai-kaa.02kor"
   },
   {
-    "slug": "otome-kaijuu-caramelizee.l3pjz",
-    "title": "Kaiju Girl Caramelise",
-    "cover": "https://static.mfcdn.nl/7c3b/i/7/7f/7f95d3009776a13a3bf42f9794605cb6.jpg",
-    "url": "https://mangafire.to/manga/otome-kaijuu-caramelizee.l3pjz"
-  },
-  {
     "slug": "mamahaha-no-tsurego-ga-moto-kanodattaa.wr7o",
     "title": "My Stepmom's Daughter Was My Ex-Girlfriend",
     "cover": "https://static.mfcdn.nl/b113/i/5/50/502d5acdf2a46d263a5e7ebf8883bf56.jpg",
@@ -179184,12 +179232,6 @@
     "url": "https://mangafire.to/manga/starry-night-angels.pp3xj"
   },
   {
-    "slug": "gendai-majo-no-shuushoku-jijouu.xj9nz",
-    "title": "Gendai Majo no Shuushoku Jijou",
-    "cover": "https://static.mfcdn.nl/5ea6/i/d/d8/d88c2be953f7c7f6cc1366b1dd79301e.jpg",
-    "url": "https://mangafire.to/manga/gendai-majo-no-shuushoku-jijouu.xj9nz"
-  },
-  {
     "slug": "dimension-wave.2p1v0",
     "title": "Dimension Wave",
     "cover": "https://static.mfcdn.nl/1c9a/i/5/55/c148f6918364f606ead6bc402274f3f3.jpg",
@@ -179692,12 +179734,6 @@
     "title": "A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses",
     "cover": "https://static.mfcdn.nl/49eb/i/b/b6/b61f74b7dbdec3908831ef8e2cf30a50.jpg",
     "url": "https://mangafire.to/manga/a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progressess.297m4"
-  },
-  {
-    "slug": "yuukyuu-no-gusha-asley-no-kenja-no-susumee.qxzv3",
-    "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
-    "cover": "https://static.mfcdn.nl/0ae8/i/b/b9/b9ead6bde3a6658c6352a47dfa6138f7.jpg",
-    "url": "https://mangafire.to/manga/yuukyuu-no-gusha-asley-no-kenja-no-susumee.qxzv3"
   },
   {
     "slug": "akatsuki-jihenn.0nn7",
@@ -204376,12 +204412,6 @@
     "title": "Touhou - Spring Snow and Flowery Winter (Doujinshi)",
     "cover": "https://static.mfcdn.nl/f00f/i/f/fb/fb3a74d3c9d7658d4c5cf202665a3e44.jpg",
     "url": "https://mangafire.to/manga/touhou-spring-snow-and-flowery-winter-doujinshii.jlr8"
-  },
-  {
-    "slug": "because-im-the-goddesss.4x3x",
-    "title": "Because I'm the Goddess",
-    "cover": "https://static.mfcdn.nl/bc2f/i/5/50/50b642ccca41b038a1cd205a6f9ffd7a.jpg",
-    "url": "https://mangafire.to/manga/because-im-the-goddesss.4x3x"
   },
   {
     "slug": "comic-studioo.w6xl",
@@ -247948,12 +247978,6 @@
     "title": "Yoru Hime-sama",
     "cover": "https://static.mfcdn.nl/4322/i/6/6c/6c5a1f22c164c6f59d90d076f662b20d.jpg",
     "url": "https://mangafire.to/manga/yoru-hime-samaa.nz9m"
-  },
-  {
-    "slug": "ice-ice-babyy.lvnn",
-    "title": "Ice Ice Baby",
-    "cover": "https://static.mfcdn.nl/5805/i/8/89/89127259180d05dfb5608840ef9b249f.jpg",
-    "url": "https://mangafire.to/manga/ice-ice-babyy.lvnn"
   },
   {
     "slug": "houfuku-kanojo-to-koukatsu-kareshii.wrw4",

@@ -1,8 +1,8 @@
 {
   "slug": "moshne-project.mj5nz",
   "title": "Moshne Project",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Moshne Project manga, read all chapters here, the latest chapter 9 is available. Read Moshne Project raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Moshne Project manga, read all chapters here, the latest chapter 10 is available. Read Moshne Project raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "10",
+      "title": "Vol 0 -  Chap 10",
+      "url": "https://mangafire.to/read/moshne-project.mj5nz/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Vol 1 -  Chap 9",
       "url": "https://mangafire.to/read/moshne-project.mj5nz/en/chapter-9"
@@ -96,5 +101,5 @@
       "url": "https://mangafire.to/read/moshne-project.mj5nz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:27:00Z"
+  "fetched_at": "2026-06-16T09:57:29Z"
 }

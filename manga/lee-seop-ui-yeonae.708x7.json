@@ -1,8 +1,8 @@
 {
   "slug": "lee-seop-ui-yeonae.708x7",
   "title": "Iseop’s Romance",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Iseop’s Romance manga, read all chapters here, the latest chapter 104 is available. Read Iseop’s Romance raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Iseop’s Romance manga, read all chapters here, the latest chapter 105 is available. Read Iseop’s Romance raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "105",
+      "title": "Chap 105",
+      "url": "https://mangafire.to/read/lee-seop-ui-yeonae.708x7/en/chapter-105"
+    },
     {
       "number": "104",
       "title": "Chap 104",
@@ -607,5 +612,5 @@
       "url": "https://mangafire.to/read/lee-seop-ui-yeonae.708x7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:23:28Z"
+  "fetched_at": "2026-06-16T09:55:42Z"
 }

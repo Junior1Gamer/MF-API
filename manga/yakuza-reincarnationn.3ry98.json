@@ -1,8 +1,8 @@
 {
   "slug": "yakuza-reincarnationn.3ry98",
   "title": "Yakuza Reincarnation",
-  "cover": "https://static.mfcdn.nl/6b65/i/9/9e/e8bdc4fcf6a35dc3e0fa3d4c0c6cfaf2@100.jpg",
-  "description": "Yakuza Reincarnation manga, read all chapters here, the latest chapter 64.2 is available. Read Yakuza Reincarnation raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/195a/i/7/74/740d72b3b87bdacf58eef80ee475da4d@100.jpg",
+  "description": "Yakuza Reincarnation manga, read all chapters here, the latest chapter 65.1 is available. Read Yakuza Reincarnation raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -57,6 +57,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "65.1",
+      "title": "Vol 0 -  Chap 65.1",
+      "url": "https://mangafire.to/read/yakuza-reincarnationn.3ry98/en/chapter-65.1"
+    },
     {
       "number": "64.2",
       "title": "Vol 0 -  Chap 64.2",
@@ -473,5 +478,5 @@
       "url": "https://mangafire.to/read/yakuza-reincarnationn.3ry98/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:22:36Z"
+  "fetched_at": "2026-06-16T09:55:27Z"
 }

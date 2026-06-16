@@ -1,8 +1,8 @@
 {
   "slug": "kumo-desu-ga-nani-kaa.92l3m",
   "title": "So I'm a Spider, So What?",
-  "cover": "https://static.mfcdn.nl/d4f1/i/3/34/34bfc77ce48a2db0abab30654a3731fe@100.jpg",
-  "description": "So I'm a Spider, So What? manga, read all chapters here, the latest chapter 78.2 is available. Read So I'm a Spider, So What? raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8b6b/i/1/12/128348cde31538a7e4424c63f44cd217@100.jpg",
+  "description": "So I'm a Spider, So What? manga, read all chapters here, the latest chapter 79.1 is available. Read So I'm a Spider, So What? raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "79.1",
+      "title": "Vol 0 -  Chap 79.1",
+      "url": "https://mangafire.to/read/kumo-desu-ga-nani-kaa.92l3m/en/chapter-79.1"
+    },
     {
       "number": "78.2",
       "title": "Vol 0 -  Chap 78.2",
@@ -1386,5 +1391,5 @@
       "url": "https://mangafire.to/read/kumo-desu-ga-nani-kaa.92l3m/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:38:54Z"
+  "fetched_at": "2026-06-16T09:57:33Z"
 }

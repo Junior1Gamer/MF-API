@@ -1,8 +1,8 @@
 {
   "slug": "study-groupp.522x0",
   "title": "Study Group",
-  "cover": "https://static.mfcdn.nl/4892/i/6/64/6419a7439322fba7e9252a38cfb6fa63@100.jpg",
-  "description": "Study Group manga, read all chapters here, the latest chapter 323 is available. Read Study Group raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/9c49/i/0/08/08b0505f049a26089bc097ee3b2b6fd4@100.jpg",
+  "description": "Study Group manga, read all chapters here, the latest chapter 324 is available. Read Study Group raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "324",
+      "title": "Chap 324",
+      "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-324"
+    },
     {
       "number": "323",
       "title": "Chap 323",
@@ -1833,5 +1838,5 @@
       "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:24:39Z"
+  "fetched_at": "2026-06-16T09:57:21Z"
 }

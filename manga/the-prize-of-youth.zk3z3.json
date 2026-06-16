@@ -1,8 +1,8 @@
 {
   "slug": "the-prize-of-youth.zk3z3",
   "title": "The Prize of Youth",
-  "cover": "https://static.mfcdn.nl/376a/i/d/d5/d564adfeaeee70d49a2bbc2655f00eee@100.jpg",
-  "description": "The Prize of Youth manga, read all chapters here, the latest chapter 74 is available. Read The Prize of Youth raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "The Prize of Youth manga, read all chapters here, the latest chapter 75 is available. Read The Prize of Youth raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "75",
+      "title": "Chap 75",
+      "url": "https://mangafire.to/read/the-prize-of-youth.zk3z3/en/chapter-75"
+    },
     {
       "number": "74",
       "title": "Chap 74",
@@ -423,5 +428,5 @@
       "url": "https://mangafire.to/read/the-prize-of-youth.zk3z3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:26:44Z"
+  "fetched_at": "2026-06-16T09:59:28Z"
 }

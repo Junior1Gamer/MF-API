@@ -1,8 +1,8 @@
 {
   "slug": "wistoria-wand-and-swordd.02n57",
   "title": "Wistoria: Wand and Sword",
-  "cover": "https://static.mfcdn.nl/03c9/i/9/93/93de7cb7e74f2077f3f6bdf543e3bca2@100.jpg",
-  "description": "Wistoria: Wand and Sword manga, read all chapters here, the latest chapter 64 is available. Read Wistoria: Wand and Sword raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/d92e/i/c/c5/79605cb48b3deecec94348b42ac7f237@100.jpg",
+  "description": "Wistoria: Wand and Sword manga, read all chapters here, the latest chapter 65 is available. Read Wistoria: Wand and Sword raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "65",
+      "title": "Vol 0 -  Chap 65",
+      "url": "https://mangafire.to/read/wistoria-wand-and-swordd.02n57/en/chapter-65"
+    },
     {
       "number": "64",
       "title": "Vol 0 -  Chap 64",
@@ -412,5 +417,5 @@
       "url": "https://mangafire.to/read/wistoria-wand-and-swordd.02n57/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:22:06Z"
+  "fetched_at": "2026-06-16T09:59:19Z"
 }

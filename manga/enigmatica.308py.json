@@ -1,8 +1,8 @@
 {
   "slug": "enigmatica.308py",
   "title": "Enigmatica",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Enigmatica manga, read all chapters here, the latest chapter 14 is available. Read Enigmatica raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Enigmatica manga, read all chapters here, the latest chapter 15 is available. Read Enigmatica raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "15",
+      "title": "Vol 1 -  Chap 15",
+      "url": "https://mangafire.to/read/enigmatica.308py/en/chapter-15"
+    },
     {
       "number": "14",
       "title": "Vol 1 -  Chap 14",
@@ -122,5 +127,5 @@
       "url": "https://mangafire.to/read/enigmatica.308py/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-09T08:25:23Z"
+  "fetched_at": "2026-06-16T09:58:43Z"
 }

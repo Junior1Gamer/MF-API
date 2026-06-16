@@ -1,8 +1,8 @@
 {
   "slug": "im-the-max-level-newbiee.z1my2",
   "title": "I’m the Max-Level Newbie",
-  "cover": "https://static.mfcdn.nl/e734/i/0/0f/0fe01eacaced250e41b310a40c0ca809@100.jpg",
-  "description": "I’m the Max-Level Newbie manga, read all chapters here, the latest chapter 262 is available. Read I’m the Max-Level Newbie raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6b7c/i/1/16/1682ed910b5ebb59933a1443c73852d4@100.jpg",
+  "description": "I’m the Max-Level Newbie manga, read all chapters here, the latest chapter 263 is available. Read I’m the Max-Level Newbie raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "263",
+      "title": "Chap 263",
+      "url": "https://mangafire.to/read/im-the-max-level-newbiee.z1my2/en/chapter-263"
+    },
     {
       "number": "262",
       "title": "Chap 262",
@@ -1463,5 +1468,5 @@
       "url": "https://mangafire.to/read/im-the-max-level-newbiee.z1my2/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:25:36Z"
+  "fetched_at": "2026-06-16T09:58:13Z"
 }

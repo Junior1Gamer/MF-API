@@ -1,8 +1,8 @@
 {
   "slug": "kidnapped-dragons.lx2xz",
   "title": "Kidnapped Dragons",
-  "cover": "https://static.mfcdn.nl/78a3/i/6/68/68ad4b6c0b80672a8db1b5117719412f@100.jpg",
-  "description": "Kidnapped Dragons manga, read all chapters here, the latest chapter 45 is available. Read Kidnapped Dragons raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
+  "description": "Kidnapped Dragons manga, read all chapters here, the latest chapter 46 is available. Read Kidnapped Dragons raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "46",
+      "title": "Chap 46",
+      "url": "https://mangafire.to/read/kidnapped-dragons.lx2xz/en/chapter-46"
+    },
     {
       "number": "45",
       "title": "Chap 45",
@@ -285,5 +290,5 @@
       "url": "https://mangafire.to/read/kidnapped-dragons.lx2xz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-09T08:23:21Z"
+  "fetched_at": "2026-06-16T09:55:13Z"
 }
