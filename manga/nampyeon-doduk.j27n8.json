@@ -1,8 +1,8 @@
 {
   "slug": "nampyeon-doduk.j27n8",
   "title": "Nampyeon Doduk",
-  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
-  "description": "Nampyeon Doduk manga, read all chapters here, the latest chapter 19 is available. Read Nampyeon Doduk raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Nampyeon Doduk manga, read all chapters here, the latest chapter 20 is available. Read Nampyeon Doduk raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "20",
+      "title": "Chap 20",
+      "url": "https://mangafire.to/read/nampyeon-doduk.j27n8/en/chapter-20"
+    },
     {
       "number": "19",
       "title": "Chap 19",
@@ -152,5 +157,5 @@
       "url": "https://mangafire.to/read/nampyeon-doduk.j27n8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-10T08:44:22Z"
+  "fetched_at": "2026-06-17T09:33:15Z"
 }
