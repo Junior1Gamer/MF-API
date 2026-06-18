@@ -1,8 +1,8 @@
 {
   "slug": "eighteens-bed.82zyo",
   "title": "Eighteen's Bed",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Eighteen's Bed manga, read all chapters here, the latest chapter 50 is available. Read Eighteen's Bed raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Eighteen's Bed manga, read all chapters here, the latest chapter 51 is available. Read Eighteen's Bed raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/eighteens-bed.82zyo/en/chapter-51"
+    },
     {
       "number": "50",
       "title": "Chap 50",
@@ -335,5 +340,5 @@
       "url": "https://mangafire.to/read/eighteens-bed.82zyo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:15:58Z"
+  "fetched_at": "2026-06-18T09:18:37Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "one-punch-man-fan-coloredd.729pj",
   "title": "One-Punch Man (Fan Colored) (Colored)",
-  "cover": "https://static.mfcdn.nl/79bd/i/a/ac/ac33781ae4e9b3f41ad8b6ff186af636@100.jpg",
-  "description": "One-Punch Man (Fan Colored) manga, read all chapters here, the latest chapter 229 is available. Read One-Punch Man (Fan Colored) raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/5859/i/6/62/62b27dd4887a0618b9effa711f50684a@100.jpg",
+  "description": "One-Punch Man (Fan Colored) manga, read all chapters here, the latest chapter 230 is available. Read One-Punch Man (Fan Colored) raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "230",
+      "title": "Vol 0 -  Chap 230",
+      "url": "https://mangafire.to/read/one-punch-man-fan-coloredd.729pj/en/chapter-230"
+    },
     {
       "number": "229",
       "title": "Vol 0 -  Chap 229",
@@ -1707,5 +1712,5 @@
       "url": "https://mangafire.to/read/one-punch-man-fan-coloredd.729pj/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-11T09:14:49Z"
+  "fetched_at": "2026-06-18T09:18:45Z"
 }

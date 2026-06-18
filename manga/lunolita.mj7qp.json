@@ -1,8 +1,8 @@
 {
   "slug": "lunolita.mj7qp",
   "title": "Lunolita",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Lunolita manga, read all chapters here, the latest chapter 2 is available. Read Lunolita raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Lunolita manga, read all chapters here, the latest chapter 3 is available. Read Lunolita raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "3",
+      "title": "Vol 0 -  Chap 3",
+      "url": "https://mangafire.to/read/lunolita.mj7qp/en/chapter-3"
+    },
+    {
       "number": "2",
       "title": "Vol 0 -  Chap 2",
       "url": "https://mangafire.to/read/lunolita.mj7qp/en/chapter-2"
@@ -61,5 +66,5 @@
       "url": "https://mangafire.to/read/lunolita.mj7qp/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:15:28Z"
+  "fetched_at": "2026-06-18T09:18:42Z"
 }

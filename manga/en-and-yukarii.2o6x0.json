@@ -1,8 +1,8 @@
 {
   "slug": "en-and-yukarii.2o6x0",
   "title": "En and Yukari",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "En and Yukari manga, read all chapters here, the latest chapter 6 is available. Read En and Yukari raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "En and Yukari manga, read all chapters here, the latest chapter 7 is available. Read En and Yukari raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Chap 7",
+      "url": "https://mangafire.to/read/en-and-yukarii.2o6x0/en/chapter-7"
+    },
+    {
       "number": "6",
       "title": "Chap 6",
       "url": "https://mangafire.to/read/en-and-yukarii.2o6x0/en/chapter-6"
@@ -86,5 +91,5 @@
       "url": "https://mangafire.to/read/en-and-yukarii.2o6x0/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-11T09:15:48Z"
+  "fetched_at": "2026-06-18T09:19:03Z"
 }

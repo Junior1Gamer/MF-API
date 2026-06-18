@@ -1,8 +1,8 @@
 {
   "slug": "uchuu-kyoudaii.7wq98",
   "title": "Space Brothers",
-  "cover": "https://static.mfcdn.nl/edb9/i/5/51/51da7628c0ede9c02ec72683f889da9b@100.jpg",
-  "description": "Space Brothers manga, read all chapters here, the latest chapter 431 is available. Read Space Brothers raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3b4e/i/6/60/60622a79507e5ff674d229513549bc21@100.jpg",
+  "description": "Space Brothers manga, read all chapters here, the latest chapter 432 is available. Read Space Brothers raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "432",
+      "title": "Vol 0 -  Chap 432",
+      "url": "https://mangafire.to/read/uchuu-kyoudaii.7wq98/en/chapter-432"
+    },
     {
       "number": "431",
       "title": "Vol 0 -  Chap 431",
@@ -2214,5 +2219,5 @@
       "url": "https://mangafire.to/read/uchuu-kyoudaii.7wq98/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-11T09:14:31Z"
+  "fetched_at": "2026-06-18T09:18:51Z"
 }

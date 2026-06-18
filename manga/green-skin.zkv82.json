@@ -1,8 +1,8 @@
 {
   "slug": "green-skin.zkv82",
   "title": "Green Skin",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Green Skin manga, read all chapters here, the latest chapter 5 is available. Read Green Skin raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Green Skin manga, read all chapters here, the latest chapter 6 is available. Read Green Skin raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Chap 6",
+      "url": "https://mangafire.to/read/green-skin.zkv82/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Chap 5",
       "url": "https://mangafire.to/read/green-skin.zkv82/en/chapter-5"
@@ -78,5 +83,5 @@
       "url": "https://mangafire.to/read/green-skin.zkv82/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:14:15Z"
+  "fetched_at": "2026-06-18T09:18:32Z"
 }

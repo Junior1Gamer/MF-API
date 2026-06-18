@@ -1,8 +1,8 @@
 {
   "slug": "diamond-no-kouzaii.k3mqr",
   "title": "The Days of Diamond",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "The Days of Diamond manga, read all chapters here, the latest chapter 101 is available. Read The Days of Diamond raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "The Days of Diamond manga, read all chapters here, the latest chapter 102 is available. Read The Days of Diamond raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "102",
+      "title": "Vol 0 -  Chap 102",
+      "url": "https://mangafire.to/read/diamond-no-kouzaii.k3mqr/en/chapter-102"
+    },
     {
       "number": "101",
       "title": "Vol 2 -  Chap 101",
@@ -572,5 +577,5 @@
       "url": "https://mangafire.to/read/diamond-no-kouzaii.k3mqr/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:14:21Z"
+  "fetched_at": "2026-06-18T09:18:27Z"
 }

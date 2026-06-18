@@ -1,8 +1,8 @@
 {
   "slug": "luciaa.pjnrq",
   "title": "Lucia",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Lucia manga, read all chapters here, the latest chapter 174 is available. Read Lucia raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Lucia manga, read all chapters here, the latest chapter 175 is available. Read Lucia raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "175",
+      "title": "Chap 175",
+      "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-175"
+    },
     {
       "number": "174",
       "title": "Chap 174",
@@ -962,5 +967,5 @@
       "url": "https://mangafire.to/read/luciaa.pjnrq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:15:36Z"
+  "fetched_at": "2026-06-18T09:18:28Z"
 }

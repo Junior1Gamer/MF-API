@@ -1,8 +1,8 @@
 {
   "slug": "okoucha-of-the-living-dead.rok4o",
   "title": "Okoucha of the Living Dead",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Okoucha of the Living Dead manga, read all chapters here, the latest chapter 0 is available. Read Okoucha of the Living Dead raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
+  "description": "Okoucha of the Living Dead manga, read all chapters here, the latest chapter 1 is available. Read Okoucha of the Living Dead raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,10 +52,15 @@
   ],
   "chapters": [
     {
+      "number": "1",
+      "title": "Chap 1",
+      "url": "https://mangafire.to/read/okoucha-of-the-living-dead.rok4o/en/chapter-1"
+    },
+    {
       "number": "0",
       "title": "Chap 0",
       "url": "https://mangafire.to/read/okoucha-of-the-living-dead.rok4o/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-11T09:14:26Z"
+  "fetched_at": "2026-06-18T09:19:00Z"
 }
