@@ -1,8 +1,8 @@
 {
   "slug": "osananajimi.yjwv0",
   "title": "Osananajimi",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Osananajimi manga, read all chapters here, the latest chapter 25 is available. Read Osananajimi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Osananajimi manga, read all chapters here, the latest chapter 26 is available. Read Osananajimi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Vol 2 -  Chap 26",
+      "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-26"
+    },
     {
       "number": "25",
       "title": "Vol 2 -  Chap 25",
@@ -197,5 +202,5 @@
       "url": "https://mangafire.to/read/osananajimi.yjwv0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:16:11Z"
+  "fetched_at": "2026-06-20T08:17:10Z"
 }

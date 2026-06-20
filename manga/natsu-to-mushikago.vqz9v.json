@@ -1,8 +1,8 @@
 {
   "slug": "natsu-to-mushikago.vqz9v",
   "title": "Drawn to the Fire",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Drawn to the Fire manga, read all chapters here, the latest chapter 8 is available. Read Drawn to the Fire raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Drawn to the Fire manga, read all chapters here, the latest chapter 9 is available. Read Drawn to the Fire raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Vol 1 -  Chap 9",
+      "url": "https://mangafire.to/read/natsu-to-mushikago.vqz9v/en/chapter-9"
+    },
+    {
       "number": "8",
       "title": "Vol 1 -  Chap 8",
       "url": "https://mangafire.to/read/natsu-to-mushikago.vqz9v/en/chapter-8"
@@ -92,5 +97,5 @@
       "url": "https://mangafire.to/read/natsu-to-mushikago.vqz9v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:15:57Z"
+  "fetched_at": "2026-06-20T08:17:37Z"
 }

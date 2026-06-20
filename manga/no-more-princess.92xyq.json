@@ -1,8 +1,8 @@
 {
   "slug": "no-more-princess.92xyq",
   "title": "No More Princes",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "No More Princes manga, read all chapters here, the latest chapter 9 is available. Read No More Princes raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "No More Princes manga, read all chapters here, the latest chapter 9.1 is available. Read No More Princes raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "9.1",
+      "title": "Chap 9.1",
+      "url": "https://mangafire.to/read/no-more-princess.92xyq/en/chapter-9.1"
+    },
+    {
       "number": "9",
       "title": "Chap 9",
       "url": "https://mangafire.to/read/no-more-princess.92xyq/en/chapter-9"
@@ -98,5 +103,5 @@
       "url": "https://mangafire.to/read/no-more-princess.92xyq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-11T09:31:01Z"
+  "fetched_at": "2026-06-20T08:16:36Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "red-stormm.55k9",
   "title": "Red Storm",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Red Storm manga, read all chapters here, the latest chapter 461 is available. Read Red Storm raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Red Storm manga, read all chapters here, the latest chapter 462 is available. Read Red Storm raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Military"
   ],
   "chapters": [
+    {
+      "number": "462",
+      "title": "Chap 462",
+      "url": "https://mangafire.to/read/red-stormm.55k9/en/chapter-462"
+    },
     {
       "number": "461",
       "title": "Chap 461",
@@ -2372,5 +2377,5 @@
       "url": "https://mangafire.to/read/red-stormm.55k9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-13T08:15:45Z"
+  "fetched_at": "2026-06-20T08:16:17Z"
 }

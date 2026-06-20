@@ -1,8 +1,8 @@
 {
   "slug": "super-genee.8njl3",
   "title": "Super Gene (Colored)",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Super Gene manga, read all chapters here, the latest chapter 463 is available. Read Super Gene raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Super Gene manga, read all chapters here, the latest chapter 464 is available. Read Super Gene raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "464",
+      "title": "Chap 464",
+      "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-464"
+    },
     {
       "number": "463",
       "title": "Chap 463",
@@ -2454,5 +2459,5 @@
       "url": "https://mangafire.to/read/super-genee.8njl3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-13T08:15:56Z"
+  "fetched_at": "2026-06-20T08:17:23Z"
 }

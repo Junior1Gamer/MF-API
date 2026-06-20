@@ -2,7 +2,7 @@
   "slug": "awai-no-homura.mj7zx",
   "title": "Twilight Blade",
   "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Twilight Blade manga, read all chapters here, the latest chapter 1 is available. Read Twilight Blade raw, multiple language. READ NOW!!",
+  "description": "Twilight Blade manga, read all chapters here, the latest chapter 2 is available. Read Twilight Blade raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,10 +52,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Vol 0 -  Chap 2",
+      "url": "https://mangafire.to/read/awai-no-homura.mj7zx/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Vol 0 -  Chap 1",
       "url": "https://mangafire.to/read/awai-no-homura.mj7zx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:15:46Z"
+  "fetched_at": "2026-06-20T08:17:30Z"
 }

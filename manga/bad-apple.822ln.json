@@ -1,8 +1,8 @@
 {
   "slug": "bad-apple.822ln",
   "title": "Bad Apple",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Bad Apple manga, read all chapters here, the latest chapter 28.1 is available. Read Bad Apple raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "description": "Bad Apple manga, read all chapters here, the latest chapter 33 is available. Read Bad Apple raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,31 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "33",
+      "title": "Chap 33",
+      "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-33"
+    },
+    {
+      "number": "32",
+      "title": "Chap 32",
+      "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-32"
+    },
+    {
+      "number": "31",
+      "title": "Chap 31",
+      "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-31"
+    },
+    {
+      "number": "30",
+      "title": "Chap 30",
+      "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-30"
+    },
+    {
+      "number": "29",
+      "title": "Chap 29",
+      "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-29"
+    },
     {
       "number": "28.1",
       "title": "Chap 28.1",
@@ -214,5 +239,5 @@
       "url": "https://mangafire.to/read/bad-apple.822ln/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-11T09:37:32Z"
+  "fetched_at": "2026-06-20T08:17:22Z"
 }
