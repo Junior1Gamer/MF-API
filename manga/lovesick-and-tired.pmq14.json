@@ -1,8 +1,8 @@
 {
   "slug": "lovesick-and-tired.pmq14",
   "title": "Lovesick and Tired",
-  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
-  "description": "Lovesick and Tired manga, read all chapters here, the latest chapter 21 is available. Read Lovesick and Tired raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Lovesick and Tired manga, read all chapters here, the latest chapter 22 is available. Read Lovesick and Tired raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "22",
+      "title": "Chap 22",
+      "url": "https://mangafire.to/read/lovesick-and-tired.pmq14/en/chapter-22"
+    },
     {
       "number": "21",
       "title": "Chap 21",
@@ -156,5 +161,5 @@
       "url": "https://mangafire.to/read/lovesick-and-tired.pmq14/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-14T08:51:30Z"
+  "fetched_at": "2026-06-21T09:02:20Z"
 }

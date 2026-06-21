@@ -1,8 +1,8 @@
 {
   "slug": "wanbyeokan-jeojuui-nappeun-ye.j2k5n",
   "title": "The Perfect Curse",
-  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
-  "description": "The Perfect Curse manga, read all chapters here, the latest chapter 39 is available. Read The Perfect Curse raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "The Perfect Curse manga, read all chapters here, the latest chapter 40 is available. Read The Perfect Curse raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "40",
+      "title": "Chap 40",
+      "url": "https://mangafire.to/read/wanbyeokan-jeojuui-nappeun-ye.j2k5n/en/chapter-40"
+    },
     {
       "number": "39",
       "title": "Chap 39",
@@ -251,5 +256,5 @@
       "url": "https://mangafire.to/read/wanbyeokan-jeojuui-nappeun-ye.j2k5n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-14T08:46:46Z"
+  "fetched_at": "2026-06-21T08:59:49Z"
 }

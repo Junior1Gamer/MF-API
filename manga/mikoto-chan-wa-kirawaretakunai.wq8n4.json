@@ -1,7 +1,7 @@
 {
   "slug": "mikoto-chan-wa-kirawaretakunai.wq8n4",
   "title": "Mikoto-chan wa Kirawaretakunai!",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
   "description": "Mikoto-chan wa Kirawaretakunai! manga, read all chapters here, the latest chapter 75 is available. Read Mikoto-chan wa Kirawaretakunai! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -51,6 +51,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "67",
+      "title": "Vol 5 -  Chap 67",
+      "url": "https://mangafire.to/read/mikoto-chan-wa-kirawaretakunai.wq8n4/en/chapter-67"
+    },
     {
       "number": "66",
       "title": "Vol 5 -  Chap 66",
@@ -397,5 +402,5 @@
       "url": "https://mangafire.to/read/mikoto-chan-wa-kirawaretakunai.wq8n4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:20:11Z"
+  "fetched_at": "2026-06-21T09:09:53Z"
 }

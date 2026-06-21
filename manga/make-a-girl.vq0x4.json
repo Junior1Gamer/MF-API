@@ -1,8 +1,8 @@
 {
   "slug": "make-a-girl.vq0x4",
   "title": "Make a Girl",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Make a Girl manga, read all chapters here, the latest chapter 9 is available. Read Make a Girl raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Make a Girl manga, read all chapters here, the latest chapter 10 is available. Read Make a Girl raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
   ],
   "chapters": [
     {
+      "number": "10",
+      "title": "Vol 2 -  Chap 10",
+      "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Vol 2 -  Chap 9",
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-9"
@@ -98,5 +103,5 @@
       "url": "https://mangafire.to/read/make-a-girl.vq0x4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:18:36Z"
+  "fetched_at": "2026-06-21T09:06:42Z"
 }

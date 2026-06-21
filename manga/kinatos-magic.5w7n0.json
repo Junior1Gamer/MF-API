@@ -1,8 +1,8 @@
 {
   "slug": "kinatos-magic.5w7n0",
   "title": "Kinato's Magic",
-  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
-  "description": "Kinato's Magic manga, read all chapters here, the latest chapter 18 is available. Read Kinato's Magic raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Kinato's Magic manga, read all chapters here, the latest chapter 19 is available. Read Kinato's Magic raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 2 -  Chap 19",
+      "url": "https://mangafire.to/read/kinatos-magic.5w7n0/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 2 -  Chap 18",
@@ -142,5 +147,5 @@
       "url": "https://mangafire.to/read/kinatos-magic.5w7n0/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-14T08:49:11Z"
+  "fetched_at": "2026-06-21T09:03:48Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "dourostar2.mjnyx",
   "title": "ROAD☆STAR",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "ROAD☆STAR manga, read all chapters here, the latest chapter 9 is available. Read ROAD☆STAR raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "ROAD☆STAR manga, read all chapters here, the latest chapter 10 is available. Read ROAD☆STAR raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "10",
+      "title": "Vol 1 -  Chap 10",
+      "url": "https://mangafire.to/read/dourostar2.mjnyx/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Vol 1 -  Chap 9",
       "url": "https://mangafire.to/read/dourostar2.mjnyx/en/chapter-9"
@@ -96,5 +101,5 @@
       "url": "https://mangafire.to/read/dourostar2.mjnyx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:18:12Z"
+  "fetched_at": "2026-06-21T09:01:31Z"
 }

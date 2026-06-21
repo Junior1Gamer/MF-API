@@ -1,8 +1,8 @@
 {
   "slug": "flower-of-allure.709lj",
   "title": "Flower of Allure",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Flower of Allure manga, read all chapters here, the latest chapter 49.5 is available. Read Flower of Allure raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Flower of Allure manga, read all chapters here, the latest chapter 51 is available. Read Flower of Allure raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/flower-of-allure.709lj/en/chapter-51"
+    },
+    {
+      "number": "50",
+      "title": "Chap 50",
+      "url": "https://mangafire.to/read/flower-of-allure.709lj/en/chapter-50"
+    },
     {
       "number": "49.5",
       "title": "Chap 49.5",
@@ -324,5 +334,5 @@
       "url": "https://mangafire.to/read/flower-of-allure.709lj/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-13T08:17:45Z"
+  "fetched_at": "2026-06-21T09:00:27Z"
 }

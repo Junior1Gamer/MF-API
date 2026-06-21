@@ -1,8 +1,8 @@
 {
   "slug": "dao-gui-yi-xian.pm6vx",
   "title": "The Unruly Immortals",
-  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
-  "description": "The Unruly Immortals manga, read all chapters here, the latest chapter 85 is available. Read The Unruly Immortals raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "The Unruly Immortals manga, read all chapters here, the latest chapter 86 is available. Read The Unruly Immortals raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "86",
+      "title": "Chap 86",
+      "url": "https://mangafire.to/read/dao-gui-yi-xian.pm6vx/en/chapter-86"
+    },
     {
       "number": "85",
       "title": "Chap 85",
@@ -486,5 +491,5 @@
       "url": "https://mangafire.to/read/dao-gui-yi-xian.pm6vx/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-14T08:47:44Z"
+  "fetched_at": "2026-06-21T09:01:09Z"
 }

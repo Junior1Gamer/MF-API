@@ -1,8 +1,8 @@
 {
   "slug": "sakamoto-dayss.8037o",
   "title": "Sakamoto Days",
-  "cover": "https://static.mfcdn.nl/28ad/i/1/17/178118367aa404b3524902df88c7b8ba@100.jpg",
-  "description": "Sakamoto Days manga, read all chapters here, the latest chapter 262 is available. Read Sakamoto Days raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c057/i/c/c7/e988e486bb925872053f1ab8677ca026@100.jpg",
+  "description": "Sakamoto Days manga, read all chapters here, the latest chapter 263 is available. Read Sakamoto Days raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Super Power"
   ],
   "chapters": [
+    {
+      "number": "263",
+      "title": "Vol 30 -  Chap 263",
+      "url": "https://mangafire.to/read/sakamoto-dayss.8037o/en/chapter-263"
+    },
     {
       "number": "262",
       "title": "Vol 30 -  Chap 262",
@@ -1951,7 +1956,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/sakamoto-dayss.8037o/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 22 -  Chap 0",
+      "url": "https://mangafire.to/read/sakamoto-dayss.8037o/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-13T08:17:29Z"
+  "fetched_at": "2026-06-21T09:03:50Z"
 }

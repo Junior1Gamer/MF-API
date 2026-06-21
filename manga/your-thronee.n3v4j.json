@@ -1,8 +1,8 @@
 {
   "slug": "your-thronee.n3v4j",
   "title": "Your Throne",
-  "cover": "https://static.mfcdn.nl/16c1/i/e/ec/ec133f8d578028ce91dd827d4c4f4103@100.jpg",
-  "description": "Your Throne manga, read all chapters here, the latest chapter 255 is available. Read Your Throne raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/577a/i/c/ca/ca569587531ab494d6d524555ee36ddd@100.jpg",
+  "description": "Your Throne manga, read all chapters here, the latest chapter 256 is available. Read Your Throne raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "256",
+      "title": "Chap 256",
+      "url": "https://mangafire.to/read/your-thronee.n3v4j/en/chapter-256"
+    },
     {
       "number": "255",
       "title": "Chap 255",
@@ -1346,5 +1351,5 @@
       "url": "https://mangafire.to/read/your-thronee.n3v4j/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-06-13T08:17:24Z"
+  "fetched_at": "2026-06-21T09:03:33Z"
 }

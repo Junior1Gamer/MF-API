@@ -1,7 +1,7 @@
 {
   "slug": "ghost-fixerss.pp76j",
   "title": "Ghost Fixers",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
   "description": "Ghost Fixers manga, read all chapters here, the latest chapter 213 is available. Read Ghost Fixers raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,6 +50,16 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "87",
+      "title": "Vol 0 -  Chap 87",
+      "url": "https://mangafire.to/read/ghost-fixerss.pp76j/en/chapter-87"
+    },
+    {
+      "number": "86.1",
+      "title": "Vol 0 -  Chap 86.1",
+      "url": "https://mangafire.to/read/ghost-fixerss.pp76j/en/chapter-86.1"
+    },
     {
       "number": "86",
       "title": "Vol 0 -  Chap 86",
@@ -741,5 +751,5 @@
       "url": "https://mangafire.to/read/ghost-fixerss.pp76j/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:22:17Z"
+  "fetched_at": "2026-06-21T09:13:16Z"
 }

@@ -2,7 +2,7 @@
   "slug": "hero-tickett.pjom9",
   "title": "Hero Ticket",
   "cover": "https://static.mfcdn.nl/6c93/i/b/b1/b124de2dd12d4cb3856306655efc82d1@100.jpg",
-  "description": "Hero Ticket manga, read all chapters here, the latest chapter 329 is available. Read Hero Ticket raw, multiple language. READ NOW!!",
+  "description": "Hero Ticket manga, read all chapters here, the latest chapter 330 is available. Read Hero Ticket raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "330",
+      "title": "Chap 330",
+      "url": "https://mangafire.to/read/hero-tickett.pjom9/en/chapter-330"
+    },
     {
       "number": "329",
       "title": "Chap 329",
@@ -1907,5 +1912,5 @@
       "url": "https://mangafire.to/read/hero-tickett.pjom9/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-14T08:48:02Z"
+  "fetched_at": "2026-06-21T09:00:26Z"
 }

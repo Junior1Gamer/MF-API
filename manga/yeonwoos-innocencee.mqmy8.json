@@ -2,8 +2,8 @@
   "slug": "yeonwoos-innocencee.mqmy8",
   "title": "Yeonwoo's Innocence",
   "cover": "https://static.mfcdn.nl/85be/i/9/92/924554cedb464fd4fa0e1a05158809e0@100.jpg",
-  "description": "Yeonwoo's Innocence manga, read all chapters here, the latest chapter 223 is available. Read Yeonwoo's Innocence raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "description": "Yeonwoo's Innocence manga, read all chapters here, the latest chapter 225 is available. Read Yeonwoo's Innocence raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -51,6 +51,16 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "225",
+      "title": "Chap 225",
+      "url": "https://mangafire.to/read/yeonwoos-innocencee.mqmy8/en/chapter-225"
+    },
+    {
+      "number": "224",
+      "title": "Chap 224",
+      "url": "https://mangafire.to/read/yeonwoos-innocencee.mqmy8/en/chapter-224"
+    },
     {
       "number": "223",
       "title": "Chap 223",
@@ -1177,5 +1187,5 @@
       "url": "https://mangafire.to/read/yeonwoos-innocencee.mqmy8/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-13T08:18:26Z"
+  "fetched_at": "2026-06-21T09:03:55Z"
 }

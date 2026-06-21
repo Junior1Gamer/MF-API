@@ -1,8 +1,8 @@
 {
   "slug": "ruri-dragonn.z1nm",
   "title": "RuriDragon",
-  "cover": "https://static.mfcdn.nl/7c3b/i/7/7f/7f95d3009776a13a3bf42f9794605cb6@100.jpg",
-  "description": "RuriDragon manga, read all chapters here, the latest chapter 46 is available. Read RuriDragon raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6a68/i/5/51/51360d75d5ffa0cc3234dc79d9c36d26@100.jpg",
+  "description": "RuriDragon manga, read all chapters here, the latest chapter 47 is available. Read RuriDragon raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "47",
+      "title": "Vol 5 -  Chap 47",
+      "url": "https://mangafire.to/read/ruri-dragonn.z1nm/en/chapter-47"
+    },
     {
       "number": "46",
       "title": "Vol 5 -  Chap 46",
@@ -346,5 +351,5 @@
       "url": "https://mangafire.to/read/ruri-dragonn.z1nm/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-14T08:49:44Z"
+  "fetched_at": "2026-06-21T09:03:45Z"
 }

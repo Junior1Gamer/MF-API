@@ -1,8 +1,8 @@
 {
   "slug": "murimseobu.j28m3",
   "title": "Murimseobu",
-  "cover": "https://static.mfcdn.nl/4863/i/3/3d/3d04c1358f3a8c33459b7a9db1209cbb@100.jpg",
-  "description": "Murimseobu manga, read all chapters here, the latest chapter 127 is available. Read Murimseobu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Murimseobu manga, read all chapters here, the latest chapter 128 is available. Read Murimseobu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "128",
+      "title": "Chap 128",
+      "url": "https://mangafire.to/read/murimseobu.j28m3/en/chapter-128"
+    },
     {
       "number": "127",
       "title": "Chap 127",
@@ -700,5 +705,5 @@
       "url": "https://mangafire.to/read/murimseobu.j28m3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-13T08:16:55Z"
+  "fetched_at": "2026-06-21T09:02:57Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "red-shirt.nkp6m",
   "title": "Red Shirt",
-  "cover": "https://static.mfcdn.nl/c734/i/2/29/29b40ce7adcf4561164e2876c3cddf2a@100.jpg",
-  "description": "Red Shirt manga, read all chapters here, the latest chapter 62 is available. Read Red Shirt raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Red Shirt manga, read all chapters here, the latest chapter 63 is available. Read Red Shirt raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "63",
+      "title": "Chap 63",
+      "url": "https://mangafire.to/read/red-shirt.nkp6m/en/chapter-63"
+    },
     {
       "number": "62",
       "title": "Chap 62",
@@ -367,5 +372,5 @@
       "url": "https://mangafire.to/read/red-shirt.nkp6m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-14T08:47:26Z"
+  "fetched_at": "2026-06-21T08:59:51Z"
 }
