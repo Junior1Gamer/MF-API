@@ -1,7 +1,7 @@
 {
   "slug": "sonyeobaduk.nk28k",
   "title": "Sonyeobaduk",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
   "description": "Sonyeobaduk manga, read all chapters here, the latest chapter 3 is available. Read Sonyeobaduk raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -51,20 +51,15 @@
   ],
   "chapters": [
     {
-      "number": "3",
-      "title": "Chap 3",
-      "url": "https://mangafire.to/read/sonyeobaduk.nk28k/pt-br/chapter-3"
-    },
-    {
       "number": "2",
       "title": "Chap 2",
-      "url": "https://mangafire.to/read/sonyeobaduk.nk28k/pt-br/chapter-2"
+      "url": "https://mangafire.to/read/sonyeobaduk.nk28k/fr/chapter-2"
     },
     {
       "number": "1",
       "title": "Chap 1",
-      "url": "https://mangafire.to/read/sonyeobaduk.nk28k/pt-br/chapter-1"
+      "url": "https://mangafire.to/read/sonyeobaduk.nk28k/fr/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-15T10:56:24Z"
+  "fetched_at": "2026-06-23T08:21:05Z"
 }
