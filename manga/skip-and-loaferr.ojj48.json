@@ -1,8 +1,8 @@
 {
   "slug": "skip-and-loaferr.ojj48",
   "title": "Skip and Loafer",
-  "cover": "https://static.mfcdn.nl/6279/i/9/99/999fd4139c1f128122082032a5214f64@100.jpg",
-  "description": "Skip and Loafer manga, read all chapters here, the latest chapter 80.1 is available. Read Skip and Loafer raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/cd9b/i/9/95/95eeee6e4b16166b7d58b4a28e62d54c@100.jpg",
+  "description": "Skip and Loafer manga, read all chapters here, the latest chapter 80.2 is available. Read Skip and Loafer raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "80.2",
+      "title": "Vol 0 -  Chap 80.2",
+      "url": "https://mangafire.to/read/skip-and-loaferr.ojj48/en/chapter-80.2"
+    },
     {
       "number": "80.1",
       "title": "Vol 0 -  Chap 80.1",
@@ -489,5 +494,5 @@
       "url": "https://mangafire.to/read/skip-and-loaferr.ojj48/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:54:58Z"
+  "fetched_at": "2026-06-24T08:16:59Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "kuroshitsujii.jyy",
   "title": "Black Butler",
-  "cover": "https://static.mfcdn.nl/7d59/i/4/48/482c987ac538c82256cfae6f7ea197db@100.jpg",
-  "description": "Black Butler manga, read all chapters here, the latest chapter 226 is available. Read Black Butler raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/1a6e/i/9/99/994f147e2b32aab8f98210120b53fc6c@100.jpg",
+  "description": "Black Butler manga, read all chapters here, the latest chapter 227 is available. Read Black Butler raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "227",
+      "title": "Vol 0 -  Chap 227",
+      "url": "https://mangafire.to/read/kuroshitsujii.jyy/en/chapter-227"
+    },
     {
       "number": "226",
       "title": "Vol 0 -  Chap 226",
@@ -1272,5 +1277,5 @@
       "url": "https://mangafire.to/read/kuroshitsujii.jyy/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T10:00:19Z"
+  "fetched_at": "2026-06-24T08:13:41Z"
 }

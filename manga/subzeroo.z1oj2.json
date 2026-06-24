@@ -1,8 +1,8 @@
 {
   "slug": "subzeroo.z1oj2",
   "title": "SubZero",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "SubZero manga, read all chapters here, the latest chapter 257 is available. Read SubZero raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "SubZero manga, read all chapters here, the latest chapter 258 is available. Read SubZero raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "258",
+      "title": "Chap 258",
+      "url": "https://mangafire.to/read/subzeroo.z1oj2/en/chapter-258"
+    },
     {
       "number": "257",
       "title": "Chap 257",
@@ -1377,5 +1382,5 @@
       "url": "https://mangafire.to/read/subzeroo.z1oj2/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T09:55:41Z"
+  "fetched_at": "2026-06-24T08:13:02Z"
 }

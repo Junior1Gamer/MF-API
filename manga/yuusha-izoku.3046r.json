@@ -1,8 +1,8 @@
 {
   "slug": "yuusha-izoku.3046r",
   "title": "Yuusha Izoku",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Yuusha Izoku manga, read all chapters here, the latest chapter 18 is available. Read Yuusha Izoku raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Yuusha Izoku manga, read all chapters here, the latest chapter 19 is available. Read Yuusha Izoku raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 0 -  Chap 19",
+      "url": "https://mangafire.to/read/yuusha-izoku.3046r/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 0 -  Chap 18",
@@ -153,5 +158,5 @@
       "url": "https://mangafire.to/read/yuusha-izoku.3046r/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:57:16Z"
+  "fetched_at": "2026-06-24T08:13:11Z"
 }

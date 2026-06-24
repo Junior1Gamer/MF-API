@@ -1,8 +1,8 @@
 {
   "slug": "shima-rock.kx0n6",
   "title": "Island Rock",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Island Rock manga, read all chapters here, the latest chapter 13 is available. Read Island Rock raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Island Rock manga, read all chapters here, the latest chapter 14 is available. Read Island Rock raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "14",
+      "title": "Vol 1 -  Chap 14",
+      "url": "https://mangafire.to/read/shima-rock.kx0n6/en/chapter-14"
+    },
     {
       "number": "13",
       "title": "Vol 1 -  Chap 13",
@@ -123,5 +128,5 @@
       "url": "https://mangafire.to/read/shima-rock.kx0n6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T10:00:23Z"
+  "fetched_at": "2026-06-24T08:12:53Z"
 }

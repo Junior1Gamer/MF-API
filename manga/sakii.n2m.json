@@ -1,8 +1,8 @@
 {
   "slug": "sakii.n2m",
   "title": "Saki",
-  "cover": "https://static.mfcdn.nl/6114/i/9/90/90319916b325b8d42d52388e1b46c2cc@100.jpg",
-  "description": "Saki manga, read all chapters here, the latest chapter 300 is available. Read Saki raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/086d/i/8/86/86996423d358b4b09d1abc8f0a6594b3@100.jpg",
+  "description": "Saki manga, read all chapters here, the latest chapter 301 is available. Read Saki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "301",
+      "title": "Vol 0 -  Chap 301",
+      "url": "https://mangafire.to/read/sakii.n2m/en/chapter-301"
+    },
     {
       "number": "300",
       "title": "Vol 0 -  Chap 300",
@@ -1696,5 +1701,5 @@
       "url": "https://mangafire.to/read/sakii.n2m/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T10:00:39Z"
+  "fetched_at": "2026-06-24T08:13:08Z"
 }

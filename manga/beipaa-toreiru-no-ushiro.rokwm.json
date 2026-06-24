@@ -1,8 +1,8 @@
 {
   "slug": "beipaa-toreiru-no-ushiro.rokwm",
   "title": "Beipaa Toreiru no Ushiro",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Beipaa Toreiru no Ushiro manga, read all chapters here, the latest chapter 1 is available. Read Beipaa Toreiru no Ushiro raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Beipaa Toreiru no Ushiro manga, read all chapters here, the latest chapter 2 is available. Read Beipaa Toreiru no Ushiro raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,10 +50,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/beipaa-toreiru-no-ushiro.rokwm/en/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/beipaa-toreiru-no-ushiro.rokwm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T10:03:18Z"
+  "fetched_at": "2026-06-24T08:15:16Z"
 }

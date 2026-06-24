@@ -1,8 +1,8 @@
 {
   "slug": "manager-kimm.0rw43",
   "title": "Manager Kim",
-  "cover": "https://static.mfcdn.nl/75fb/i/5/5f/5f8b0691f8dfe3d5049d3d57ffa173f0@100.jpg",
-  "description": "Manager Kim manga, read all chapters here, the latest chapter 245 is available. Read Manager Kim raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a6fe/i/f/fe/fe3adba202b0b7406ad3b90f6b85e0db@100.jpg",
+  "description": "Manager Kim manga, read all chapters here, the latest chapter 246 is available. Read Manager Kim raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Mystery"
   ],
   "chapters": [
+    {
+      "number": "246",
+      "title": "Chap 246",
+      "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-246"
+    },
     {
       "number": "245",
       "title": "Chap 245",
@@ -1307,5 +1312,5 @@
       "url": "https://mangafire.to/read/manager-kimm.0rw43/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:57:08Z"
+  "fetched_at": "2026-06-24T08:13:30Z"
 }

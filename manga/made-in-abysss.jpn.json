@@ -1,8 +1,8 @@
 {
   "slug": "made-in-abysss.jpn",
   "title": "Made in Abyss",
-  "cover": "https://static.mfcdn.nl/0ce1/i/2/2e/2e844616109aaeb3c828f37701822a30@100.jpg",
-  "description": "Made in Abyss manga, read all chapters here, the latest chapter 72 is available. Read Made in Abyss raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c188/i/2/2e/2e33fef796dba24563b39a82a702ff06@100.jpg",
+  "description": "Made in Abyss manga, read all chapters here, the latest chapter 73 is available. Read Made in Abyss raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "73",
+      "title": "Vol 15 -  Chap 73",
+      "url": "https://mangafire.to/read/made-in-abysss.jpn/en/chapter-73"
+    },
     {
       "number": "72",
       "title": "Vol 14 -  Chap 72",
@@ -559,5 +564,5 @@
       "url": "https://mangafire.to/read/made-in-abysss.jpn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T10:13:53Z"
+  "fetched_at": "2026-06-24T08:15:13Z"
 }

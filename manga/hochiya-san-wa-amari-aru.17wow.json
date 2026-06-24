@@ -1,8 +1,8 @@
 {
   "slug": "hochiya-san-wa-amari-aru.17wow",
   "title": "Hochiya-san wa Amari Aru",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Hochiya-san wa Amari Aru manga, read all chapters here, the latest chapter 28 is available. Read Hochiya-san wa Amari Aru raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Hochiya-san wa Amari Aru manga, read all chapters here, the latest chapter 29 is available. Read Hochiya-san wa Amari Aru raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "26",
+      "title": "Vol 0 -  Chap 26",
+      "url": "https://mangafire.to/read/hochiya-san-wa-amari-aru.17wow/en/chapter-26"
+    },
     {
       "number": "25",
       "title": "Vol 0 -  Chap 25",
@@ -184,5 +189,5 @@
       "url": "https://mangafire.to/read/hochiya-san-wa-amari-aru.17wow/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:56:22Z"
+  "fetched_at": "2026-06-24T08:14:20Z"
 }

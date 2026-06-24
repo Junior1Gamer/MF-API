@@ -1,8 +1,8 @@
 {
   "slug": "munou-na-nanaa.nzmj",
   "title": "Talentless Nana",
-  "cover": "https://static.mfcdn.nl/d0a3/i/5/ac/a5b71eb22a39cc31f18953c56d4ebeea@100.jpg",
-  "description": "Talentless Nana manga, read all chapters here, the latest chapter 120 is available. Read Talentless Nana raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/79c4/i/d/d3/d37f04e6f4e22bb1b7d9f1934d276c4b@100.jpg",
+  "description": "Talentless Nana manga, read all chapters here, the latest chapter 121 is available. Read Talentless Nana raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Vol 0 -  Chap 121",
+      "url": "https://mangafire.to/read/munou-na-nanaa.nzmj/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Vol 0 -  Chap 120",
@@ -1884,5 +1889,5 @@
       "url": "https://mangafire.to/read/munou-na-nanaa.nzmj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T10:00:18Z"
+  "fetched_at": "2026-06-24T08:17:18Z"
 }

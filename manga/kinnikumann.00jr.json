@@ -1,7 +1,7 @@
 {
   "slug": "kinnikumann.00jr",
   "title": "Kinnikuman",
-  "cover": "https://static.mfcdn.nl/8f9c/i/2/8e/c68fe671f803cc6f0ace288147e1b07a@100.jpg",
+  "cover": "https://static.mfcdn.nl/05c7/i/d/d0/d07e6e0ce9c61244b9b1baaed9e607ac@100.jpg",
   "description": "Kinnikuman manga, read all chapters here, the latest chapter 913 is available. Read Kinnikuman raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -55,6 +55,31 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "902",
+      "title": "Vol 92 -  Chap 902",
+      "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-902"
+    },
+    {
+      "number": "901",
+      "title": "Vol 92 -  Chap 901",
+      "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-901"
+    },
+    {
+      "number": "900",
+      "title": "Vol 92 -  Chap 900",
+      "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-900"
+    },
+    {
+      "number": "899",
+      "title": "Vol 92 -  Chap 899",
+      "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-899"
+    },
+    {
+      "number": "898",
+      "title": "Vol 92 -  Chap 898",
+      "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-898"
+    },
     {
       "number": "897",
       "title": "Vol 92 -  Chap 897",
@@ -4436,5 +4461,5 @@
       "url": "https://mangafire.to/read/kinnikumann.00jr/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T10:14:26Z"
+  "fetched_at": "2026-06-24T08:32:14Z"
 }

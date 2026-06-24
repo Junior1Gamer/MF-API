@@ -1,8 +1,8 @@
 {
   "slug": "nora-inu-to-tenshi-chan.ro4np",
   "title": "Stray Dog and Angel",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Stray Dog and Angel manga, read all chapters here, the latest chapter 9.1 is available. Read Stray Dog and Angel raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Stray Dog and Angel manga, read all chapters here, the latest chapter 9.2 is available. Read Stray Dog and Angel raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "9.2",
+      "title": "Vol 3 -  Chap 9.2",
+      "url": "https://mangafire.to/read/nora-inu-to-tenshi-chan.ro4np/en/chapter-9.2"
+    },
     {
       "number": "9.1",
       "title": "Vol 3 -  Chap 9.1",
@@ -127,5 +132,5 @@
       "url": "https://mangafire.to/read/nora-inu-to-tenshi-chan.ro4np/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T10:01:27Z"
+  "fetched_at": "2026-06-24T08:16:13Z"
 }

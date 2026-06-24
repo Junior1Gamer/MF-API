@@ -2,7 +2,7 @@
   "slug": "pick-me-upp.372pr",
   "title": "Pick Me Up!",
   "cover": "https://static.mfcdn.nl/6d82/i/5/5c/5cd836f20ea5c5e7d43f482d55407531@100.jpg",
-  "description": "Pick Me Up! manga, read all chapters here, the latest chapter 205 is available. Read Pick Me Up! raw, multiple language. READ NOW!!",
+  "description": "Pick Me Up! manga, read all chapters here, the latest chapter 206 is available. Read Pick Me Up! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "206",
+      "title": "Chap 206",
+      "url": "https://mangafire.to/read/pick-me-upp.372pr/en/chapter-206"
+    },
     {
       "number": "205",
       "title": "Chap 205",
@@ -1079,5 +1084,5 @@
       "url": "https://mangafire.to/read/pick-me-upp.372pr/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:58:49Z"
+  "fetched_at": "2026-06-24T08:16:48Z"
 }

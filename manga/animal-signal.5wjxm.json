@@ -1,8 +1,8 @@
 {
   "slug": "animal-signal.5wjxm",
   "title": "Animal Signal",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Animal Signal manga, read all chapters here, the latest chapter 2 is available. Read Animal Signal raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Animal Signal manga, read all chapters here, the latest chapter 3 is available. Read Animal Signal raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,15 +53,20 @@
   ],
   "chapters": [
     {
+      "number": "3",
+      "title": "Vol 0 -  Chap 3",
+      "url": "https://mangafire.to/read/animal-signal.5wjxm/en/chapter-3"
+    },
+    {
       "number": "2",
-      "title": "Chap 2",
+      "title": "Vol 1 -  Chap 2",
       "url": "https://mangafire.to/read/animal-signal.5wjxm/en/chapter-2"
     },
     {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/animal-signal.5wjxm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:56:19Z"
+  "fetched_at": "2026-06-24T08:13:49Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "sangeki.kx6v6",
   "title": "Haunted Peak",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Haunted Peak manga, read all chapters here, the latest chapter 10 is available. Read Haunted Peak raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Haunted Peak manga, read all chapters here, the latest chapter 11 is available. Read Haunted Peak raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "11",
+      "title": "Vol 2 -  Chap 11",
+      "url": "https://mangafire.to/read/sangeki.kx6v6/en/chapter-11"
+    },
     {
       "number": "10",
       "title": "Vol 2 -  Chap 10",
@@ -103,5 +108,5 @@
       "url": "https://mangafire.to/read/sangeki.kx6v6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:58:59Z"
+  "fetched_at": "2026-06-24T08:15:44Z"
 }

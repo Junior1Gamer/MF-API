@@ -1,8 +1,8 @@
 {
   "slug": "final-fantasy-lost-strangerr.3r522",
   "title": "Final Fantasy Lost Stranger",
-  "cover": "https://static.mfcdn.nl/b9e3/i/2/2a/2a644d959ebdd7210e9364d389f6812a@100.jpg",
-  "description": "Final Fantasy Lost Stranger manga, read all chapters here, the latest chapter 77 is available. Read Final Fantasy Lost Stranger raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4d59/i/1/11/110e95bc1ed34e21b8171723a978186a@100.jpg",
+  "description": "Final Fantasy Lost Stranger manga, read all chapters here, the latest chapter 78 is available. Read Final Fantasy Lost Stranger raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -58,6 +58,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "78",
+      "title": "Vol 0 -  Chap 78",
+      "url": "https://mangafire.to/read/final-fantasy-lost-strangerr.3r522/en/chapter-78"
+    },
     {
       "number": "77",
       "title": "Vol 0 -  Chap 77",
@@ -1409,5 +1414,5 @@
       "url": "https://mangafire.to/read/final-fantasy-lost-strangerr.3r522/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T10:00:11Z"
+  "fetched_at": "2026-06-24T08:17:16Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "35cm.pm54j",
   "title": "35cm",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "35cm manga, read all chapters here, the latest chapter 17 is available. Read 35cm raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "35cm manga, read all chapters here, the latest chapter 19 is available. Read 35cm raw, multiple language. READ NOW!!",
   "status": "On_hiatus",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Shoujo"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Chap 19",
+      "url": "https://mangafire.to/read/35cm.pm54j/en/chapter-19"
+    },
+    {
+      "number": "18",
+      "title": "Chap 18",
+      "url": "https://mangafire.to/read/35cm.pm54j/en/chapter-18"
+    },
     {
       "number": "17",
       "title": "Chap 17",
@@ -137,5 +147,5 @@
       "url": "https://mangafire.to/read/35cm.pm54j/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:56:00Z"
+  "fetched_at": "2026-06-24T08:15:45Z"
 }

@@ -2,7 +2,7 @@
   "slug": "tougen-ankii.37z1y",
   "title": "Tougen Anki",
   "cover": "https://static.mfcdn.nl/27f0/i/9/97/97547986f9877743e05c70ff6a173351@100.jpg",
-  "description": "Tougen Anki manga, read all chapters here, the latest chapter 273 is available. Read Tougen Anki raw, multiple language. READ NOW!!",
+  "description": "Tougen Anki manga, read all chapters here, the latest chapter 274 is available. Read Tougen Anki raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "274",
+      "title": "Vol 31 -  Chap 274",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-274"
+    },
     {
       "number": "273",
       "title": "Vol 31 -  Chap 273",
@@ -140,6 +145,21 @@
       "number": "248",
       "title": "Vol 29 -  Chap 248",
       "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-248"
+    },
+    {
+      "number": "247",
+      "title": "Vol 28 -  Chap 247",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-247"
+    },
+    {
+      "number": "246",
+      "title": "Vol 28 -  Chap 246",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-246"
+    },
+    {
+      "number": "245",
+      "title": "Vol 28 -  Chap 245",
+      "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-245"
     },
     {
       "number": "242",
@@ -1362,5 +1382,5 @@
       "url": "https://mangafire.to/read/tougen-ankii.37z1y/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-16T09:58:00Z"
+  "fetched_at": "2026-06-24T08:15:35Z"
 }

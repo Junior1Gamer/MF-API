@@ -1,8 +1,8 @@
 {
   "slug": "eat-and-go.pmpx9",
   "title": "Eat and Go",
-  "cover": "https://static.mfcdn.nl/1f9f/i/e/e2/e2003b7959c9fbea20ba65519d6e41de@100.jpg",
-  "description": "Eat and Go manga, read all chapters here, the latest chapter 59 is available. Read Eat and Go raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Eat and Go manga, read all chapters here, the latest chapter 60 is available. Read Eat and Go raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "60",
+      "title": "Chap 60",
+      "url": "https://mangafire.to/read/eat-and-go.pmpx9/en/chapter-60"
+    },
     {
       "number": "59",
       "title": "Chap 59",
@@ -353,5 +358,5 @@
       "url": "https://mangafire.to/read/eat-and-go.pmpx9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-16T09:59:06Z"
+  "fetched_at": "2026-06-24T08:13:19Z"
 }
