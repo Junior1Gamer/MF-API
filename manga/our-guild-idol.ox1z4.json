@@ -1,8 +1,8 @@
 {
   "slug": "our-guild-idol.ox1z4",
   "title": "Our Guild Idol",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Our Guild Idol manga, read all chapters here, the latest chapter 50 is available. Read Our Guild Idol raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/086f/i/4/48/48ed967ec04790a276f34cb447d088d0@100.jpg",
+  "description": "Our Guild Idol manga, read all chapters here, the latest chapter 51 is available. Read Our Guild Idol raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/our-guild-idol.ox1z4/en/chapter-51"
+    },
     {
       "number": "50",
       "title": "Chap 50",
@@ -311,5 +316,5 @@
       "url": "https://mangafire.to/read/our-guild-idol.ox1z4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-17T09:33:07Z"
+  "fetched_at": "2026-06-25T08:14:09Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "made-in-yamato.j27l4",
   "title": "Made in Yamato",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Made in Yamato manga, read all chapters here, the latest chapter 3 is available. Read Made in Yamato raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/086f/i/4/48/48ed967ec04790a276f34cb447d088d0@100.jpg",
+  "description": "Made in Yamato manga, read all chapters here, the latest chapter 4 is available. Read Made in Yamato raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,10 +53,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Vol 0 -  Chap 2",
+      "url": "https://mangafire.to/read/made-in-yamato.j27l4/en/chapter-2"
+    },
+    {
       "number": "1",
-      "title": "Chap 1",
+      "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/made-in-yamato.j27l4/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-17T09:33:14Z"
+  "fetched_at": "2026-06-25T08:14:17Z"
 }
