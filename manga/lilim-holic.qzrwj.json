@@ -1,8 +1,8 @@
 {
   "slug": "lilim-holic.qzrwj",
   "title": "Lilim Holic",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Lilim Holic manga, read all chapters here, the latest chapter 5 is available. Read Lilim Holic raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Lilim Holic manga, read all chapters here, the latest chapter 7 is available. Read Lilim Holic raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,16 @@
   ],
   "chapters": [
     {
+      "number": "7",
+      "title": "Vol 1 -  Chap 7",
+      "url": "https://mangafire.to/read/lilim-holic.qzrwj/en/chapter-7"
+    },
+    {
+      "number": "6",
+      "title": "Vol 1 -  Chap 6",
+      "url": "https://mangafire.to/read/lilim-holic.qzrwj/en/chapter-6"
+    },
+    {
       "number": "5",
       "title": "Vol 1 -  Chap 5",
       "url": "https://mangafire.to/read/lilim-holic.qzrwj/en/chapter-5"
@@ -80,5 +90,5 @@
       "url": "https://mangafire.to/read/lilim-holic.qzrwj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-18T09:19:10Z"
+  "fetched_at": "2026-06-26T08:22:08Z"
 }

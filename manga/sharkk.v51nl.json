@@ -1,8 +1,8 @@
 {
   "slug": "sharkk.v51nl",
   "title": "Shark",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Shark manga, read all chapters here, the latest chapter 342 is available. Read Shark raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Shark manga, read all chapters here, the latest chapter 345 is available. Read Shark raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,21 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "345",
+      "title": "Chap 345",
+      "url": "https://mangafire.to/read/sharkk.v51nl/en/chapter-345"
+    },
+    {
+      "number": "344",
+      "title": "Chap 344",
+      "url": "https://mangafire.to/read/sharkk.v51nl/en/chapter-344"
+    },
+    {
+      "number": "343",
+      "title": "Chap 343",
+      "url": "https://mangafire.to/read/sharkk.v51nl/en/chapter-343"
+    },
     {
       "number": "342",
       "title": "Chap 342",
@@ -1554,5 +1569,5 @@
       "url": "https://mangafire.to/read/sharkk.v51nl/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-18T09:20:51Z"
+  "fetched_at": "2026-06-26T08:22:24Z"
 }

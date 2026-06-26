@@ -1,7 +1,7 @@
 {
   "slug": "natsume-yuujinchouu.rwzp",
   "title": "Natsume's Book of Friends",
-  "cover": "https://static.mfcdn.nl/5e57/i/d/da/dac74e0187255931f1c726c8cf728282@100.jpg",
+  "cover": "https://static.mfcdn.nl/1e57/i/c/cd/cd0b54f17a52378989d33ffb5872692c@100.jpg",
   "description": "Natsume's Book of Friends manga, read all chapters here, the latest chapter 127 is available. Read Natsume's Book of Friends raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -1181,7 +1181,12 @@
       "number": "1",
       "title": "Vol 1 -  Chap 1",
       "url": "https://mangafire.to/read/natsume-yuujinchouu.rwzp/en/chapter-1"
+    },
+    {
+      "number": "0",
+      "title": "Vol 32 -  Chap 0",
+      "url": "https://mangafire.to/read/natsume-yuujinchouu.rwzp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-18T09:22:00Z"
+  "fetched_at": "2026-06-26T08:25:38Z"
 }

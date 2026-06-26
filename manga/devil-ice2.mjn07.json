@@ -1,8 +1,8 @@
 {
   "slug": "devil-ice2.mjn07",
   "title": "Devil \u0026 Ice",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Devil \u0026 Ice manga, read all chapters here, the latest chapter 45 is available. Read Devil \u0026 Ice raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Devil \u0026 Ice manga, read all chapters here, the latest chapter 46 is available. Read Devil \u0026 Ice raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "46",
+      "title": "Chap 46",
+      "url": "https://mangafire.to/read/devil-ice2.mjn07/en/chapter-46"
+    },
     {
       "number": "45",
       "title": "Chap 45",
@@ -276,5 +281,5 @@
       "url": "https://mangafire.to/read/devil-ice2.mjn07/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-18T09:18:34Z"
+  "fetched_at": "2026-06-26T08:22:29Z"
 }

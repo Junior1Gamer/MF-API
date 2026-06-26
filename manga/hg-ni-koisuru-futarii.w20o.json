@@ -2,7 +2,7 @@
   "slug": "hg-ni-koisuru-futarii.w20o",
   "title": "HG ni Koisuru Futari (Colored)",
   "cover": "https://static.mfcdn.nl/126b/i/6/6a/6a8b2b1f1252319ddb2c1ec0145bb177@100.jpg",
-  "description": "HG ni Koisuru Futari manga, read all chapters here, the latest chapter 39.5 is available. Read HG ni Koisuru Futari raw, multiple language. READ NOW!!",
+  "description": "HG ni Koisuru Futari manga, read all chapters here, the latest chapter 41 is available. Read HG ni Koisuru Futari raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,18 +53,28 @@
   ],
   "chapters": [
     {
+      "number": "41",
+      "title": "Vol 7 -  Chap 41",
+      "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-41"
+    },
+    {
+      "number": "40",
+      "title": "Vol 7 -  Chap 40",
+      "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-40"
+    },
+    {
       "number": "39.5",
-      "title": "Vol 0 -  Chap 39.5",
+      "title": "Vol 6 -  Chap 39.5",
       "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-39.5"
     },
     {
       "number": "39",
-      "title": "Vol 0 -  Chap 39",
+      "title": "Vol 6 -  Chap 39",
       "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-39"
     },
     {
       "number": "38",
-      "title": "Vol 0 -  Chap 38",
+      "title": "Vol 6 -  Chap 38",
       "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-38"
     },
     {
@@ -313,5 +323,5 @@
       "url": "https://mangafire.to/read/hg-ni-koisuru-futarii.w20o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-18T09:18:29Z"
+  "fetched_at": "2026-06-26T08:22:39Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "wrench-to-kudamono.5wjrv",
   "title": "Wrench \u0026 Fruits",
-  "cover": "https://static.mfcdn.nl/8936/i/4/21/b0e14cfeba2b3a71c26a783516d03c21@100.jpg",
-  "description": "Wrench \u0026 Fruits manga, read all chapters here, the latest chapter 3 is available. Read Wrench \u0026 Fruits raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Wrench \u0026 Fruits manga, read all chapters here, the latest chapter 4 is available. Read Wrench \u0026 Fruits raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "4",
+      "title": "Chap 4",
+      "url": "https://mangafire.to/read/wrench-to-kudamono.5wjrv/en/chapter-4"
+    },
+    {
       "number": "3",
       "title": "Chap 3",
       "url": "https://mangafire.to/read/wrench-to-kudamono.5wjrv/en/chapter-3"
@@ -66,5 +71,5 @@
       "url": "https://mangafire.to/read/wrench-to-kudamono.5wjrv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-18T09:19:41Z"
+  "fetched_at": "2026-06-26T08:22:27Z"
 }

@@ -2,7 +2,7 @@
   "slug": "elden-ring-ougonju-e-no-michii.ppkwq",
   "title": "ELDEN RING: The Road to the Erdtree",
   "cover": "https://static.mfcdn.nl/063f/i/f/f2/f20b80f1105ed76930bdf16261e0b68b@100.jpg",
-  "description": "ELDEN RING: The Road to the Erdtree manga, read all chapters here, the latest chapter 84 is available. Read ELDEN RING: The Road to the Erdtree raw, multiple language. READ NOW!!",
+  "description": "ELDEN RING: The Road to the Erdtree manga, read all chapters here, the latest chapter 85 is available. Read ELDEN RING: The Road to the Erdtree raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "85",
+      "title": "Vol 0 -  Chap 85",
+      "url": "https://mangafire.to/read/elden-ring-ougonju-e-no-michii.ppkwq/en/chapter-85"
+    },
     {
       "number": "84",
       "title": "Vol 0 -  Chap 84",
@@ -325,5 +330,5 @@
       "url": "https://mangafire.to/read/elden-ring-ougonju-e-no-michii.ppkwq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-18T09:20:04Z"
+  "fetched_at": "2026-06-26T08:22:39Z"
 }
