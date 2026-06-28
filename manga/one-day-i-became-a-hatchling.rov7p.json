@@ -1,8 +1,8 @@
 {
   "slug": "one-day-i-became-a-hatchling.rov7p",
   "title": "One Day, I Became a Hatchling",
-  "cover": "https://static.mfcdn.nl/3aa9/i/9/95/da60f7045a1a04bbde01520eb24c793e@100.jpg",
-  "description": "One Day, I Became a Hatchling manga, read all chapters here, the latest chapter 12 is available. Read One Day, I Became a Hatchling raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "One Day, I Became a Hatchling manga, read all chapters here, the latest chapter 13 is available. Read One Day, I Became a Hatchling raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "13",
+      "title": "Chap 13",
+      "url": "https://mangafire.to/read/one-day-i-became-a-hatchling.rov7p/en/chapter-13"
+    },
     {
       "number": "12",
       "title": "Chap 12",
@@ -111,5 +116,5 @@
       "url": "https://mangafire.to/read/one-day-i-became-a-hatchling.rov7p/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:17:23Z"
+  "fetched_at": "2026-06-28T08:17:02Z"
 }

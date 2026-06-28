@@ -1,7 +1,7 @@
 {
   "slug": "nobunaga-concertoo.54jm",
   "title": "Nobunaga Concerto",
-  "cover": "https://static.mfcdn.nl/ea61/i/1/1f/1f8711d2b594fb8be8f08cb04e38d6ac@100.jpg",
+  "cover": "https://static.mfcdn.nl/ced9/i/c/c0/c0bc9858ecffdd6eb2b2b8fc36e2957c@100.jpg",
   "description": "Nobunaga Concerto manga, read all chapters here, the latest chapter 135.5 is available. Read Nobunaga Concerto raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -52,6 +52,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "78",
+      "title": "Vol 14 -  Chap 78",
+      "url": "https://mangafire.to/read/nobunaga-concertoo.54jm/en/chapter-78"
+    },
     {
       "number": "77",
       "title": "Vol 14 -  Chap 77",
@@ -443,5 +448,5 @@
       "url": "https://mangafire.to/read/nobunaga-concertoo.54jm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:39:46Z"
+  "fetched_at": "2026-06-28T08:40:16Z"
 }

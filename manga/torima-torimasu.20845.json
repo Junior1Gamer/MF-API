@@ -1,8 +1,8 @@
 {
   "slug": "torima-torimasu.20845",
   "title": "Torima Torimasu",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Torima Torimasu manga, read all chapters here, the latest chapter 1 is available. Read Torima Torimasu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Torima Torimasu manga, read all chapters here, the latest chapter 2 is available. Read Torima Torimasu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,10 +51,15 @@
   ],
   "chapters": [
     {
+      "number": "2",
+      "title": "Chap 2",
+      "url": "https://mangafire.to/read/torima-torimasu.20845/es-la/chapter-2"
+    },
+    {
       "number": "1",
       "title": "Chap 1",
       "url": "https://mangafire.to/read/torima-torimasu.20845/es-la/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:18:10Z"
+  "fetched_at": "2026-06-28T08:18:01Z"
 }

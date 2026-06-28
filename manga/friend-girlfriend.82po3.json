@@ -1,8 +1,8 @@
 {
   "slug": "friend-girlfriend.82po3",
   "title": "Friend Girlfriend",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "Friend Girlfriend manga, read all chapters here, the latest chapter 11 is available. Read Friend Girlfriend raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Friend Girlfriend manga, read all chapters here, the latest chapter 12 is available. Read Friend Girlfriend raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Vol 0 -  Chap 12",
+      "url": "https://mangafire.to/read/friend-girlfriend.82po3/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Vol 1 -  Chap 11",
@@ -123,5 +128,5 @@
       "url": "https://mangafire.to/read/friend-girlfriend.82po3/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:17:59Z"
+  "fetched_at": "2026-06-28T08:16:57Z"
 }

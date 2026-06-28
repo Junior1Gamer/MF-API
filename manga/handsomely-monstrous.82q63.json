@@ -1,8 +1,8 @@
 {
   "slug": "handsomely-monstrous.82q63",
   "title": "Handsomely Monstrous",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Handsomely Monstrous manga, read all chapters here, the latest chapter 4 is available. Read Handsomely Monstrous raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "Handsomely Monstrous manga, read all chapters here, the latest chapter 6 is available. Read Handsomely Monstrous raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
   ],
   "chapters": [
     {
+      "number": "6",
+      "title": "Chap 6",
+      "url": "https://mangafire.to/read/handsomely-monstrous.82q63/en/chapter-6"
+    },
+    {
+      "number": "5",
+      "title": "Chap 5",
+      "url": "https://mangafire.to/read/handsomely-monstrous.82q63/en/chapter-5"
+    },
+    {
       "number": "4",
       "title": "Chap 4",
       "url": "https://mangafire.to/read/handsomely-monstrous.82q63/en/chapter-4"
@@ -73,5 +83,5 @@
       "url": "https://mangafire.to/read/handsomely-monstrous.82q63/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:18:08Z"
+  "fetched_at": "2026-06-28T08:16:49Z"
 }

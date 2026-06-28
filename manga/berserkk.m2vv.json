@@ -1,8 +1,8 @@
 {
   "slug": "berserkk.m2vv",
   "title": "Berserk",
-  "cover": "https://static.mfcdn.nl/529c/i/1/1c/1cd48f6aa0cbe3570416f75486e5cce5@100.jpg",
-  "description": "Berserk manga, read all chapters here, the latest chapter 384 is available. Read Berserk raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a72a/i/9/98/984d2cd6c416ecc84ebf651bb8f507c6@100.jpg",
+  "description": "Berserk manga, read all chapters here, the latest chapter 385 is available. Read Berserk raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -60,6 +60,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "385",
+      "title": "Vol 0 -  Chap 385",
+      "url": "https://mangafire.to/read/berserkk.m2vv/en/chapter-385"
+    },
     {
       "number": "384",
       "title": "Vol 0 -  Chap 384",
@@ -2211,5 +2216,5 @@
       "url": "https://mangafire.to/read/berserkk.m2vv/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-20T08:17:48Z"
+  "fetched_at": "2026-06-28T08:17:09Z"
 }

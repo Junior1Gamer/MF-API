@@ -1,8 +1,8 @@
 {
   "slug": "medalistt.521pv",
   "title": "Medalist",
-  "cover": "https://static.mfcdn.nl/7504/i/6/69/69b1dd4a63b89742e85c3809fb653f1e@100.jpg",
-  "description": "Medalist manga, read all chapters here, the latest chapter 57 is available. Read Medalist raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/aa8f/i/6/62/62108e143c1000dcbfb67b73a3fd54f7@100.jpg",
+  "description": "Medalist manga, read all chapters here, the latest chapter 58 is available. Read Medalist raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "58",
+      "title": "Vol 0 -  Chap 58",
+      "url": "https://mangafire.to/read/medalistt.521pv/en/chapter-58"
+    },
+    {
+      "number": "57",
+      "title": "Vol 0 -  Chap 57",
+      "url": "https://mangafire.to/read/medalistt.521pv/en/chapter-57"
+    },
     {
       "number": "56",
       "title": "Vol 14 -  Chap 56",
@@ -438,5 +448,5 @@
       "url": "https://mangafire.to/read/medalistt.521pv/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-20T08:29:03Z"
+  "fetched_at": "2026-06-28T08:17:58Z"
 }

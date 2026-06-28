@@ -1,8 +1,8 @@
 {
   "slug": "2gether-the-seriess.7wy27",
   "title": "2Gether: The Series",
-  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
-  "description": "2Gether: The Series manga, read all chapters here, the latest chapter 103 is available. Read 2Gether: The Series raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
+  "description": "2Gether: The Series manga, read all chapters here, the latest chapter 104 is available. Read 2Gether: The Series raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "104",
+      "title": "Chap 104",
+      "url": "https://mangafire.to/read/2gether-the-seriess.7wy27/en/chapter-104"
+    },
     {
       "number": "103",
       "title": "Chap 103",
@@ -575,5 +580,5 @@
       "url": "https://mangafire.to/read/2gether-the-seriess.7wy27/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-20T08:16:32Z"
+  "fetched_at": "2026-06-28T08:18:08Z"
 }
