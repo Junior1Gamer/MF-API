@@ -2,7 +2,7 @@
   "slug": "the-band.wqnqk",
   "title": "THE BAND",
   "cover": "https://static.mfcdn.nl/d17d/i/1/17/178c65d23345c8ed7081dfde4a3c8988@100.jpg",
-  "description": "THE BAND manga, read all chapters here, the latest chapter 18 is available. Read THE BAND raw, multiple language. READ NOW!!",
+  "description": "THE BAND manga, read all chapters here, the latest chapter 19 is available. Read THE BAND raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Shounen"
   ],
   "chapters": [
+    {
+      "number": "19",
+      "title": "Vol 4 -  Chap 19",
+      "url": "https://mangafire.to/read/the-band.wqnqk/en/chapter-19"
+    },
     {
       "number": "18",
       "title": "Vol 4 -  Chap 18",
@@ -142,5 +147,5 @@
       "url": "https://mangafire.to/read/the-band.wqnqk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:10:08Z"
+  "fetched_at": "2026-06-30T08:24:51Z"
 }

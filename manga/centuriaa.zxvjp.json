@@ -1,8 +1,8 @@
 {
   "slug": "centuriaa.zxvjp",
   "title": "Centuria",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Centuria manga, read all chapters here, the latest chapter 94 is available. Read Centuria raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Centuria manga, read all chapters here, the latest chapter 95 is available. Read Centuria raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "95",
+      "title": "Vol 8 -  Chap 95",
+      "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-95"
+    },
     {
       "number": "94",
       "title": "Vol 8 -  Chap 94",
@@ -580,5 +585,5 @@
       "url": "https://mangafire.to/read/centuriaa.zxvjp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:03:49Z"
+  "fetched_at": "2026-06-30T08:24:57Z"
 }

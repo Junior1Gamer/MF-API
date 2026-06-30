@@ -1,8 +1,8 @@
 {
   "slug": "yu-gi-oh-ocg-storiess.qxv8v",
   "title": "Yu-Gi-Oh OCG STORIES",
-  "cover": "https://static.mfcdn.nl/f149/i/f/f4/f4b48fcd9c58423b40ade03b3dae5bc4@100.jpg",
-  "description": "Yu-Gi-Oh OCG STORIES manga, read all chapters here, the latest chapter 46 is available. Read Yu-Gi-Oh OCG STORIES raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Yu-Gi-Oh OCG STORIES manga, read all chapters here, the latest chapter 47 is available. Read Yu-Gi-Oh OCG STORIES raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "47",
+      "title": "Vol 5 -  Chap 47",
+      "url": "https://mangafire.to/read/yu-gi-oh-ocg-storiess.qxv8v/en/chapter-47"
+    },
     {
       "number": "46",
       "title": "Vol 5 -  Chap 46",
@@ -282,5 +287,5 @@
       "url": "https://mangafire.to/read/yu-gi-oh-ocg-storiess.qxv8v/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:06:37Z"
+  "fetched_at": "2026-06-30T08:25:07Z"
 }

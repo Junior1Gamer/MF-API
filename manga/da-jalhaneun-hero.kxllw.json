@@ -1,8 +1,8 @@
 {
   "slug": "da-jalhaneun-hero.kxllw",
   "title": "Hero of All Trades",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Hero of All Trades manga, read all chapters here, the latest chapter 80 is available. Read Hero of All Trades raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Hero of All Trades manga, read all chapters here, the latest chapter 81 is available. Read Hero of All Trades raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Action"
   ],
   "chapters": [
+    {
+      "number": "81",
+      "title": "Chap 81",
+      "url": "https://mangafire.to/read/da-jalhaneun-hero.kxllw/en/chapter-81"
+    },
     {
       "number": "80",
       "title": "Chap 80",
@@ -450,5 +455,5 @@
       "url": "https://mangafire.to/read/da-jalhaneun-hero.kxllw/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:01:35Z"
+  "fetched_at": "2026-06-30T08:23:33Z"
 }

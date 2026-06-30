@@ -1,8 +1,8 @@
 {
   "slug": "ura-dungeon-okusan.701yj",
   "title": "Ura Dungeon Okusan",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Ura Dungeon Okusan manga, read all chapters here, the latest chapter 25.5 is available. Read Ura Dungeon Okusan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Ura Dungeon Okusan manga, read all chapters here, the latest chapter 26.5 is available. Read Ura Dungeon Okusan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "26.5",
+      "title": "Vol 3 -  Chap 26.5",
+      "url": "https://mangafire.to/read/ura-dungeon-okusan.701yj/en/chapter-26.5"
+    },
+    {
+      "number": "26",
+      "title": "Vol 3 -  Chap 26",
+      "url": "https://mangafire.to/read/ura-dungeon-okusan.701yj/en/chapter-26"
+    },
     {
       "number": "25.5",
       "title": "Vol 0 -  Chap 25.5",
@@ -243,5 +253,5 @@
       "url": "https://mangafire.to/read/ura-dungeon-okusan.701yj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:06:06Z"
+  "fetched_at": "2026-06-30T08:24:46Z"
 }

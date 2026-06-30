@@ -1,8 +1,8 @@
 {
   "slug": "onihime-wa-uchi-no-naka.rok9o",
   "title": "Onihime wa Uchi no Naka",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Onihime wa Uchi no Naka manga, read all chapters here, the latest chapter 2.2 is available. Read Onihime wa Uchi no Naka raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Onihime wa Uchi no Naka manga, read all chapters here, the latest chapter 3.1 is available. Read Onihime wa Uchi no Naka raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,8 +55,13 @@
   ],
   "chapters": [
     {
+      "number": "3.1",
+      "title": "Vol 0 -  Chap 3.1",
+      "url": "https://mangafire.to/read/onihime-wa-uchi-no-naka.rok9o/en/chapter-3.1"
+    },
+    {
       "number": "2.2",
-      "title": "Vol 0 -  Chap 2.2",
+      "title": "Vol 1 -  Chap 2.2",
       "url": "https://mangafire.to/read/onihime-wa-uchi-no-naka.rok9o/en/chapter-2.2"
     },
     {
@@ -70,5 +75,5 @@
       "url": "https://mangafire.to/read/onihime-wa-uchi-no-naka.rok9o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:55Z"
+  "fetched_at": "2026-06-30T08:23:12Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "pondroid-hama-san.41l9o",
   "title": "Pondroid! Hama-san",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Pondroid! Hama-san manga, read all chapters here, the latest chapter 11 is available. Read Pondroid! Hama-san raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Pondroid! Hama-san manga, read all chapters here, the latest chapter 12 is available. Read Pondroid! Hama-san raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Sci-Fi"
   ],
   "chapters": [
+    {
+      "number": "12",
+      "title": "Vol 2 -  Chap 12",
+      "url": "https://mangafire.to/read/pondroid-hama-san.41l9o/en/chapter-12"
+    },
     {
       "number": "11",
       "title": "Vol 2 -  Chap 11",
@@ -111,5 +116,5 @@
       "url": "https://mangafire.to/read/pondroid-hama-san.41l9o/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:05:23Z"
+  "fetched_at": "2026-06-30T08:22:28Z"
 }

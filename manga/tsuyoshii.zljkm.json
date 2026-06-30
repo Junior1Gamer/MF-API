@@ -1,8 +1,8 @@
 {
   "slug": "tsuyoshii.zljkm",
   "title": "Tsuyoshi",
-  "cover": "https://static.mfcdn.nl/6292/i/1/16/16b44c632174e0ff0fd73a2e2f6dddeb@100.jpg",
-  "description": "Tsuyoshi manga, read all chapters here, the latest chapter 357 is available. Read Tsuyoshi raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c998/i/1/10/10132b5787f29dd46aab252f805474ea@100.jpg",
+  "description": "Tsuyoshi manga, read all chapters here, the latest chapter 358 is available. Read Tsuyoshi raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,13 +56,18 @@
   ],
   "chapters": [
     {
+      "number": "358",
+      "title": "Vol 27 -  Chap 358",
+      "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-358"
+    },
+    {
       "number": "357",
-      "title": "Vol 0 -  Chap 357",
+      "title": "Vol 27 -  Chap 357",
       "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-357"
     },
     {
       "number": "356",
-      "title": "Vol 0 -  Chap 356",
+      "title": "Vol 27 -  Chap 356",
       "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-356"
     },
     {
@@ -1891,5 +1896,5 @@
       "url": "https://mangafire.to/read/tsuyoshii.zljkm/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T08:59:58Z"
+  "fetched_at": "2026-06-30T08:24:25Z"
 }

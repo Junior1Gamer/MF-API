@@ -1,8 +1,8 @@
 {
   "slug": "kakkou-no-iinazukee.w1656",
   "title": "A Couple of Cuckoos",
-  "cover": "https://static.mfcdn.nl/4300/i/8/ee/a367a8964b28a304b5ed2f729c4f0936@100.jpg",
-  "description": "A Couple of Cuckoos manga, read all chapters here, the latest chapter 299 is available. Read A Couple of Cuckoos raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/9566/i/9/5e/1c6c5b11ee1471f6776adc8969b0677b@100.jpg",
+  "description": "A Couple of Cuckoos manga, read all chapters here, the latest chapter 300 is available. Read A Couple of Cuckoos raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "300",
+      "title": "Vol 0 -  Chap 300",
+      "url": "https://mangafire.to/read/kakkou-no-iinazukee.w1656/en/chapter-300"
+    },
     {
       "number": "299",
       "title": "Vol 0 -  Chap 299",
@@ -1554,5 +1559,5 @@
       "url": "https://mangafire.to/read/kakkou-no-iinazukee.w1656/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:29Z"
+  "fetched_at": "2026-06-30T08:24:21Z"
 }

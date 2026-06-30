@@ -2,7 +2,7 @@
   "slug": "maoo.rjj4q",
   "title": "Mao",
   "cover": "https://static.mfcdn.nl/49eb/i/a/af/af49b4183b6a23b792f2dfe01d560f5f@100.jpg",
-  "description": "Mao manga, read all chapters here, the latest chapter 325 is available. Read Mao raw, multiple language. READ NOW!!",
+  "description": "Mao manga, read all chapters here, the latest chapter 326 is available. Read Mao raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Demons"
   ],
   "chapters": [
+    {
+      "number": "326",
+      "title": "Vol 0 -  Chap 326",
+      "url": "https://mangafire.to/read/maoo.rjj4q/en/chapter-326"
+    },
     {
       "number": "325",
       "title": "Vol 0 -  Chap 325",
@@ -1684,5 +1689,5 @@
       "url": "https://mangafire.to/read/maoo.rjj4q/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:45Z"
+  "fetched_at": "2026-06-30T08:23:23Z"
 }

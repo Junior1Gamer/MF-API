@@ -1,8 +1,8 @@
 {
   "slug": "martial-wild-westt.92po0",
   "title": "Martial Wild West",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Martial Wild West manga, read all chapters here, the latest chapter 128 is available. Read Martial Wild West raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Martial Wild West manga, read all chapters here, the latest chapter 129 is available. Read Martial Wild West raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "129",
+      "title": "Chap 129",
+      "url": "https://mangafire.to/read/martial-wild-westt.92po0/en/chapter-129"
+    },
     {
       "number": "128",
       "title": "Chap 128",
@@ -704,5 +709,5 @@
       "url": "https://mangafire.to/read/martial-wild-westt.92po0/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:59Z"
+  "fetched_at": "2026-06-30T08:23:43Z"
 }

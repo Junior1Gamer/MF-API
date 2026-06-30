@@ -2,8 +2,8 @@
   "slug": "player22.l3ykn",
   "title": "Player",
   "cover": "https://static.mfcdn.nl/19b1/i/c/c0/c0d07e2f216a009cb232653b942d63db@100.jpg",
-  "description": "Player manga, read all chapters here, the latest chapter 263 is available. Read Player raw, multiple language. READ NOW!!",
-  "status": "Releasing",
+  "description": "Player manga, read all chapters here, the latest chapter 264 is available. Read Player raw, multiple language. READ NOW!!",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -54,6 +54,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "264",
+      "title": "Chap 264",
+      "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-264"
+    },
     {
       "number": "263",
       "title": "Chap 263",
@@ -1455,5 +1460,5 @@
       "url": "https://mangafire.to/read/player22.l3ykn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:01:59Z"
+  "fetched_at": "2026-06-30T08:23:03Z"
 }

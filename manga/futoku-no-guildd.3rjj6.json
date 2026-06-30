@@ -1,8 +1,8 @@
 {
   "slug": "futoku-no-guildd.3rjj6",
   "title": "Immoral Guild",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Immoral Guild manga, read all chapters here, the latest chapter 106 is available. Read Immoral Guild raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Immoral Guild manga, read all chapters here, the latest chapter 107 is available. Read Immoral Guild raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "107",
+      "title": "Vol 0 -  Chap 107",
+      "url": "https://mangafire.to/read/futoku-no-guildd.3rjj6/en/chapter-107"
+    },
     {
       "number": "106",
       "title": "Vol 0 -  Chap 106",
@@ -1951,5 +1956,5 @@
       "url": "https://mangafire.to/read/futoku-no-guildd.3rjj6/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:05:04Z"
+  "fetched_at": "2026-06-30T08:25:13Z"
 }

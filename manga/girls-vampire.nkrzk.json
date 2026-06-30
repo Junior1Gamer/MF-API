@@ -1,8 +1,8 @@
 {
   "slug": "girls-vampire.nkrzk",
   "title": "Girls × Vampire",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Girls × Vampire manga, read all chapters here, the latest chapter 34 is available. Read Girls × Vampire raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Girls × Vampire manga, read all chapters here, the latest chapter 35 is available. Read Girls × Vampire raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "35",
+      "title": "Vol 0 -  Chap 35",
+      "url": "https://mangafire.to/read/girls-vampire.nkrzk/en/chapter-35"
+    },
     {
       "number": "34",
       "title": "Vol 1 -  Chap 34",
@@ -233,5 +238,5 @@
       "url": "https://mangafire.to/read/girls-vampire.nkrzk/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:04:16Z"
+  "fetched_at": "2026-06-30T08:23:10Z"
 }

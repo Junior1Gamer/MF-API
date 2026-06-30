@@ -1,8 +1,8 @@
 {
   "slug": "kore-wa-suki-ja-arimasen.20ywq",
   "title": "Kore wa \"Suki\" ja Arimasen",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Kore wa \"Suki\" ja Arimasen manga, read all chapters here, the latest chapter 2 is available. Read Kore wa \"Suki\" ja Arimasen raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Kore wa \"Suki\" ja Arimasen manga, read all chapters here, the latest chapter 3.5 is available. Read Kore wa \"Suki\" ja Arimasen raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
   ],
   "chapters": [
     {
+      "number": "3.5",
+      "title": "Chap 3.5",
+      "url": "https://mangafire.to/read/kore-wa-suki-ja-arimasen.20ywq/en/chapter-3.5"
+    },
+    {
+      "number": "3",
+      "title": "Chap 3",
+      "url": "https://mangafire.to/read/kore-wa-suki-ja-arimasen.20ywq/en/chapter-3"
+    },
+    {
       "number": "2",
       "title": "Chap 2",
       "url": "https://mangafire.to/read/kore-wa-suki-ja-arimasen.20ywq/en/chapter-2"
@@ -63,5 +73,5 @@
       "url": "https://mangafire.to/read/kore-wa-suki-ja-arimasen.20ywq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:04:23Z"
+  "fetched_at": "2026-06-30T08:24:33Z"
 }

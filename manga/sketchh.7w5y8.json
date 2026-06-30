@@ -1,8 +1,8 @@
 {
   "slug": "sketchh.7w5y8",
   "title": "Sketch",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Sketch manga, read all chapters here, the latest chapter 163 is available. Read Sketch raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Sketch manga, read all chapters here, the latest chapter 168 is available. Read Sketch raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,31 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "168",
+      "title": "Chap 168",
+      "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-168"
+    },
+    {
+      "number": "167",
+      "title": "Chap 167",
+      "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-167"
+    },
+    {
+      "number": "166",
+      "title": "Chap 166",
+      "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-166"
+    },
+    {
+      "number": "165",
+      "title": "Chap 165",
+      "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-165"
+    },
+    {
+      "number": "164",
+      "title": "Chap 164",
+      "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-164"
+    },
     {
       "number": "163",
       "title": "Chap 163",
@@ -1556,5 +1581,5 @@
       "url": "https://mangafire.to/read/sketchh.7w5y8/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:08:06Z"
+  "fetched_at": "2026-06-30T08:20:34Z"
 }

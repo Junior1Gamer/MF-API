@@ -1,8 +1,8 @@
 {
   "slug": "muhanui-mabeopsaa.kkym4",
   "title": "Infinite Mage",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Infinite Mage manga, read all chapters here, the latest chapter 173 is available. Read Infinite Mage raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Infinite Mage manga, read all chapters here, the latest chapter 174 is available. Read Infinite Mage raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "174",
+      "title": "Chap 174",
+      "url": "https://mangafire.to/read/muhanui-mabeopsaa.kkym4/en/chapter-174"
+    },
     {
       "number": "173",
       "title": "Chap 173",
@@ -960,5 +965,5 @@
       "url": "https://mangafire.to/read/muhanui-mabeopsaa.kkym4/en/chapter-0.1"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:52Z"
+  "fetched_at": "2026-06-30T08:24:13Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "wind-swordd.3rn66",
   "title": "Wind Sword",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Wind Sword manga, read all chapters here, the latest chapter 163 is available. Read Wind Sword raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Wind Sword manga, read all chapters here, the latest chapter 164 is available. Read Wind Sword raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Adventure"
   ],
   "chapters": [
+    {
+      "number": "164",
+      "title": "Chap 164",
+      "url": "https://mangafire.to/read/wind-swordd.3rn66/en/chapter-164"
+    },
     {
       "number": "163",
       "title": "Chap 163",
@@ -877,5 +882,5 @@
       "url": "https://mangafire.to/read/wind-swordd.3rn66/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:02:20Z"
+  "fetched_at": "2026-06-30T08:24:18Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "36-sanjuu-roku.vq8wv",
   "title": "36: Sanjuu Roku",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "36: Sanjuu Roku manga, read all chapters here, the latest chapter 20 is available. Read 36: Sanjuu Roku raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "36: Sanjuu Roku manga, read all chapters here, the latest chapter 21 is available. Read 36: Sanjuu Roku raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "21",
+      "title": "Vol 0 -  Chap 21",
+      "url": "https://mangafire.to/read/36-sanjuu-roku.vq8wv/en/chapter-21"
+    },
     {
       "number": "20",
       "title": "Vol 3 -  Chap 20",
@@ -152,5 +157,5 @@
       "url": "https://mangafire.to/read/36-sanjuu-roku.vq8wv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:05:49Z"
+  "fetched_at": "2026-06-30T08:25:01Z"
 }

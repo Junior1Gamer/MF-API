@@ -1,8 +1,8 @@
 {
   "slug": "shashinn.rj7on",
   "title": "Shashin",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Shashin manga, read all chapters here, the latest chapter 139 is available. Read Shashin raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Shashin manga, read all chapters here, the latest chapter 141 is available. Read Shashin raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "141",
+      "title": "Chap 141",
+      "url": "https://mangafire.to/read/shashinn.rj7on/en/chapter-141"
+    },
+    {
+      "number": "140",
+      "title": "Chap 140",
+      "url": "https://mangafire.to/read/shashinn.rj7on/en/chapter-140"
+    },
     {
       "number": "139",
       "title": "Chap 139",
@@ -758,5 +768,5 @@
       "url": "https://mangafire.to/read/shashinn.rj7on/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:05:37Z"
+  "fetched_at": "2026-06-30T08:22:12Z"
 }

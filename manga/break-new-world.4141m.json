@@ -1,8 +1,8 @@
 {
   "slug": "break-new-world.4141m",
   "title": "Break New World",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Break New World manga, read all chapters here, the latest chapter 43 is available. Read Break New World raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Break New World manga, read all chapters here, the latest chapter 44 is available. Read Break New World raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Super Power"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Vol 0 -  Chap 44",
+      "url": "https://mangafire.to/read/break-new-world.4141m/en/chapter-44"
+    },
     {
       "number": "43",
       "title": "Vol 2 -  Chap 43",
@@ -267,5 +272,5 @@
       "url": "https://mangafire.to/read/break-new-world.4141m/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:04:17Z"
+  "fetched_at": "2026-06-30T08:20:43Z"
 }

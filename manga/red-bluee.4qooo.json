@@ -1,8 +1,8 @@
 {
   "slug": "red-bluee.4qooo",
   "title": "Red Blue",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Red Blue manga, read all chapters here, the latest chapter 197 is available. Read Red Blue raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Red Blue manga, read all chapters here, the latest chapter 198 is available. Read Red Blue raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,8 +53,13 @@
   ],
   "chapters": [
     {
+      "number": "198",
+      "title": "Vol 7 -  Chap 198",
+      "url": "https://mangafire.to/read/red-bluee.4qooo/en/chapter-198"
+    },
+    {
       "number": "197",
-      "title": "Vol 0 -  Chap 197",
+      "title": "Vol 7 -  Chap 197",
       "url": "https://mangafire.to/read/red-bluee.4qooo/en/chapter-197"
     },
     {
@@ -1038,5 +1043,5 @@
       "url": "https://mangafire.to/read/red-bluee.4qooo/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:00:55Z"
+  "fetched_at": "2026-06-30T08:24:43Z"
 }

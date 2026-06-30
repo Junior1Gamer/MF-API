@@ -1,8 +1,8 @@
 {
   "slug": "kounai-renai.lx3oz",
   "title": "Kounai Renai",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Kounai Renai manga, read all chapters here, the latest chapter 15 is available. Read Kounai Renai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Kounai Renai manga, read all chapters here, the latest chapter 16 is available. Read Kounai Renai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "16",
+      "title": "Vol 3 -  Chap 16",
+      "url": "https://mangafire.to/read/kounai-renai.lx3oz/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Vol 3 -  Chap 15",
@@ -127,5 +132,5 @@
       "url": "https://mangafire.to/read/kounai-renai.lx3oz/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:11:55Z"
+  "fetched_at": "2026-06-30T08:24:36Z"
 }

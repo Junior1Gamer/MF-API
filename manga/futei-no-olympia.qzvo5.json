@@ -1,7 +1,7 @@
 {
   "slug": "futei-no-olympia.qzvo5",
   "title": "Futei no Olympia",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
   "description": "Futei no Olympia manga, read all chapters here, the latest chapter 11 is available. Read Futei no Olympia raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
@@ -50,6 +50,16 @@
   ],
   "chapters": [
     {
+      "number": "11",
+      "title": "Vol 1 -  Chap 11",
+      "url": "https://mangafire.to/read/futei-no-olympia.qzvo5/en/chapter-11"
+    },
+    {
+      "number": "10",
+      "title": "Vol 1 -  Chap 10",
+      "url": "https://mangafire.to/read/futei-no-olympia.qzvo5/en/chapter-10"
+    },
+    {
       "number": "9",
       "title": "Vol 1 -  Chap 9",
       "url": "https://mangafire.to/read/futei-no-olympia.qzvo5/en/chapter-9"
@@ -95,5 +105,5 @@
       "url": "https://mangafire.to/read/futei-no-olympia.qzvo5/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:06:20Z"
+  "fetched_at": "2026-06-30T08:21:11Z"
 }

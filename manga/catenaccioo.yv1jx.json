@@ -1,8 +1,8 @@
 {
   "slug": "catenaccioo.yv1jx",
   "title": "Catenaccio",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Catenaccio manga, read all chapters here, the latest chapter 88 is available. Read Catenaccio raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Catenaccio manga, read all chapters here, the latest chapter 89 is available. Read Catenaccio raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "89",
+      "title": "Vol 0 -  Chap 89",
+      "url": "https://mangafire.to/read/catenaccioo.yv1jx/en/chapter-89"
+    },
     {
       "number": "88",
       "title": "Vol 1 -  Chap 88",
@@ -491,5 +496,5 @@
       "url": "https://mangafire.to/read/catenaccioo.yv1jx/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:04:32Z"
+  "fetched_at": "2026-06-30T08:21:36Z"
 }

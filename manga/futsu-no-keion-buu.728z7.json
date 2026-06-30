@@ -1,8 +1,8 @@
 {
   "slug": "futsu-no-keion-buu.728z7",
   "title": "Girl Meets Rock!",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Girl Meets Rock! manga, read all chapters here, the latest chapter 113 is available. Read Girl Meets Rock! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Girl Meets Rock! manga, read all chapters here, the latest chapter 113.1 is available. Read Girl Meets Rock! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "School"
   ],
   "chapters": [
+    {
+      "number": "113.1",
+      "title": "Vol 0 -  Chap 113.1",
+      "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-113.1"
+    },
     {
       "number": "113",
       "title": "Vol 0 -  Chap 113",
@@ -714,5 +719,5 @@
       "url": "https://mangafire.to/read/futsu-no-keion-buu.728z7/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:00:31Z"
+  "fetched_at": "2026-06-30T08:21:55Z"
 }

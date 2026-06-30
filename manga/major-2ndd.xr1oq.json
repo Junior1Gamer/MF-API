@@ -1,8 +1,8 @@
 {
   "slug": "major-2ndd.xr1oq",
   "title": "Major 2nd",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Major 2nd manga, read all chapters here, the latest chapter 315 is available. Read Major 2nd raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Major 2nd manga, read all chapters here, the latest chapter 316 is available. Read Major 2nd raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Sports"
   ],
   "chapters": [
+    {
+      "number": "316",
+      "title": "Vol 31 -  Chap 316",
+      "url": "https://mangafire.to/read/major-2ndd.xr1oq/en/chapter-316"
+    },
     {
       "number": "315",
       "title": "Vol 31 -  Chap 315",
@@ -873,5 +878,5 @@
       "url": "https://mangafire.to/read/major-2ndd.xr1oq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:13:40Z"
+  "fetched_at": "2026-06-30T08:24:26Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "graymarkk.npqxk",
   "title": "Graymark",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Graymark manga, read all chapters here, the latest chapter 96 is available. Read Graymark raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Graymark manga, read all chapters here, the latest chapter 98 is available. Read Graymark raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,16 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "98",
+      "title": "Chap 98",
+      "url": "https://mangafire.to/read/graymarkk.npqxk/en/chapter-98"
+    },
+    {
+      "number": "97",
+      "title": "Chap 97",
+      "url": "https://mangafire.to/read/graymarkk.npqxk/en/chapter-97"
+    },
     {
       "number": "96",
       "title": "Chap 96",
@@ -539,5 +549,5 @@
       "url": "https://mangafire.to/read/graymarkk.npqxk/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-21T09:01:10Z"
+  "fetched_at": "2026-06-30T08:20:51Z"
 }

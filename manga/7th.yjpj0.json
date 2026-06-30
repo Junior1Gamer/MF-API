@@ -1,8 +1,8 @@
 {
   "slug": "7th.yjpj0",
   "title": "7th",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "7th manga, read all chapters here, the latest chapter 23 is available. Read 7th raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "7th manga, read all chapters here, the latest chapter 24.1 is available. Read 7th raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "24.1",
+      "title": "Vol 5 -  Chap 24.1",
+      "url": "https://mangafire.to/read/7th.yjpj0/en/chapter-24.1"
+    },
     {
       "number": "23",
       "title": "Vol 4 -  Chap 23",
@@ -282,5 +287,5 @@
       "url": "https://mangafire.to/read/7th.yjpj0/en/chapter-1.1"
     }
   ],
-  "fetched_at": "2026-06-21T09:05:22Z"
+  "fetched_at": "2026-06-30T08:21:43Z"
 }

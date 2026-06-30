@@ -1,8 +1,8 @@
 {
   "slug": "qiu-huo.nk06k",
   "title": "Qiu Huo",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Qiu Huo manga, read all chapters here, the latest chapter 8 is available. Read Qiu Huo raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Qiu Huo manga, read all chapters here, the latest chapter 9 is available. Read Qiu Huo raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
   ],
   "chapters": [
     {
+      "number": "9",
+      "title": "Chap 9",
+      "url": "https://mangafire.to/read/qiu-huo.nk06k/en/chapter-9"
+    },
+    {
       "number": "8",
       "title": "Chap 8",
       "url": "https://mangafire.to/read/qiu-huo.nk06k/en/chapter-8"
@@ -90,5 +95,5 @@
       "url": "https://mangafire.to/read/qiu-huo.nk06k/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T09:16:00Z"
+  "fetched_at": "2026-06-30T08:21:14Z"
 }

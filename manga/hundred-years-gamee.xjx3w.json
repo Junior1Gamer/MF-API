@@ -1,8 +1,8 @@
 {
   "slug": "hundred-years-gamee.xjx3w",
   "title": "Hundred Years Game",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Hundred Years Game manga, read all chapters here, the latest chapter 15 is available. Read Hundred Years Game raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ad6a/i/2/21/229f97a3057df681a302051d0e6d5d91@100.jpg",
+  "description": "Hundred Years Game manga, read all chapters here, the latest chapter 17 is available. Read Hundred Years Game raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "17",
+      "title": "Chap 17",
+      "url": "https://mangafire.to/read/hundred-years-gamee.xjx3w/en/chapter-17"
+    },
+    {
+      "number": "16",
+      "title": "Chap 16",
+      "url": "https://mangafire.to/read/hundred-years-gamee.xjx3w/en/chapter-16"
+    },
     {
       "number": "15",
       "title": "Chap 15",
@@ -126,5 +136,5 @@
       "url": "https://mangafire.to/read/hundred-years-gamee.xjx3w/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-23T08:19:46Z"
+  "fetched_at": "2026-06-30T08:22:04Z"
 }

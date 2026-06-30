@@ -1,8 +1,8 @@
 {
   "slug": "taejonbirok.x1o1z",
   "title": "Taejonbirok",
-  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
-  "description": "Taejonbirok manga, read all chapters here, the latest chapter 52 is available. Read Taejonbirok raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6284/i/1/1f/1f7f59fa25776f57c6903aba522ce851@100.jpg",
+  "description": "Taejonbirok manga, read all chapters here, the latest chapter 53 is available. Read Taejonbirok raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "53",
+      "title": "Chap 53",
+      "url": "https://mangafire.to/read/taejonbirok.x1o1z/en/chapter-53"
+    },
     {
       "number": "52",
       "title": "Chap 52",
@@ -319,5 +324,5 @@
       "url": "https://mangafire.to/read/taejonbirok.x1o1z/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-21T08:59:54Z"
+  "fetched_at": "2026-06-30T08:22:18Z"
 }
