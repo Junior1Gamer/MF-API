@@ -1,8 +1,8 @@
 {
   "slug": "the-novels-extraa.4qz4k",
   "title": "The Novel's Extra",
-  "cover": "https://static.mfcdn.nl/384c/i/6/64/64f744e215180a4f804a1b1e4ee2e84e@100.jpg",
-  "description": "The Novel's Extra manga, read all chapters here, the latest chapter 161 is available. Read The Novel's Extra raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8990/i/f/64/94c3196077bd55f6887ad4fff5d35bfa@100.jpg",
+  "description": "The Novel's Extra manga, read all chapters here, the latest chapter 162 is available. Read The Novel's Extra raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -56,6 +56,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "162",
+      "title": "Chap 162",
+      "url": "https://mangafire.to/read/the-novels-extraa.4qz4k/en/chapter-162"
+    },
     {
       "number": "161",
       "title": "Chap 161",
@@ -892,5 +897,5 @@
       "url": "https://mangafire.to/read/the-novels-extraa.4qz4k/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:17:28Z"
+  "fetched_at": "2026-07-01T08:54:56Z"
 }

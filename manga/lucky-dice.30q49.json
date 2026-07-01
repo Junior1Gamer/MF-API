@@ -1,8 +1,8 @@
 {
   "slug": "lucky-dice.30q49",
   "title": "Lucky Dice",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Lucky Dice manga, read all chapters here, the latest chapter 37.6 is available. Read Lucky Dice raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Lucky Dice manga, read all chapters here, the latest chapter 41 is available. Read Lucky Dice raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,26 @@
     "Romance"
   ],
   "chapters": [
+    {
+      "number": "41",
+      "title": "Chap 41",
+      "url": "https://mangafire.to/read/lucky-dice.30q49/en/chapter-41"
+    },
+    {
+      "number": "40",
+      "title": "Chap 40",
+      "url": "https://mangafire.to/read/lucky-dice.30q49/en/chapter-40"
+    },
+    {
+      "number": "39",
+      "title": "Chap 39",
+      "url": "https://mangafire.to/read/lucky-dice.30q49/en/chapter-39"
+    },
+    {
+      "number": "38",
+      "title": "Chap 38",
+      "url": "https://mangafire.to/read/lucky-dice.30q49/en/chapter-38"
+    },
     {
       "number": "37.6",
       "title": "Chap 37.6",
@@ -488,5 +508,5 @@
       "url": "https://mangafire.to/read/lucky-dice.30q49/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:26:06Z"
+  "fetched_at": "2026-07-01T08:50:12Z"
 }

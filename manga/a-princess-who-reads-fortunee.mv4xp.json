@@ -1,8 +1,8 @@
 {
   "slug": "a-princess-who-reads-fortunee.mv4xp",
   "title": "A Princess Who Reads Fortune",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "A Princess Who Reads Fortune manga, read all chapters here, the latest chapter 157 is available. Read A Princess Who Reads Fortune raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "A Princess Who Reads Fortune manga, read all chapters here, the latest chapter 158 is available. Read A Princess Who Reads Fortune raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "158",
+      "title": "Chap 158",
+      "url": "https://mangafire.to/read/a-princess-who-reads-fortunee.mv4xp/en/chapter-158"
+    },
     {
       "number": "157",
       "title": "Chap 157",
@@ -841,5 +846,5 @@
       "url": "https://mangafire.to/read/a-princess-who-reads-fortunee.mv4xp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:14:50Z"
+  "fetched_at": "2026-07-01T08:53:05Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "record-of-ragnarokk.n300k",
   "title": "Record of Ragnarok",
-  "cover": "https://static.mfcdn.nl/8b2b/i/b/b3/b34761edf72e620d12f0f1cfccc82b78@100.jpg",
-  "description": "Record of Ragnarok manga, read all chapters here, the latest chapter 120 is available. Read Record of Ragnarok raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/3b05/i/c/c5/c5dc21bb915acec667f6b2294d290edf@100.jpg",
+  "description": "Record of Ragnarok manga, read all chapters here, the latest chapter 121 is available. Read Record of Ragnarok raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "121",
+      "title": "Vol 29 -  Chap 121",
+      "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-121"
+    },
     {
       "number": "120",
       "title": "Vol 29 -  Chap 120",
@@ -1265,5 +1270,5 @@
       "url": "https://mangafire.to/read/record-of-ragnarokk.n300k/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:22:45Z"
+  "fetched_at": "2026-07-01T08:53:58Z"
 }

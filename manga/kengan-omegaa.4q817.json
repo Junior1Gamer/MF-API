@@ -1,8 +1,8 @@
 {
   "slug": "kengan-omegaa.4q817",
   "title": "Kengan Omega",
-  "cover": "https://static.mfcdn.nl/876b/i/9/91/91f77af7961159df46bc8274b896b14c@100.jpg",
-  "description": "Kengan Omega manga, read all chapters here, the latest chapter 358 is available. Read Kengan Omega raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/08e7/i/9/96/963b7b1969eae98db67e0171c31770ce@100.jpg",
+  "description": "Kengan Omega manga, read all chapters here, the latest chapter 359 is available. Read Kengan Omega raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "359",
+      "title": "Vol 0 -  Chap 359",
+      "url": "https://mangafire.to/read/kengan-omegaa.4q817/en/chapter-359"
+    },
     {
       "number": "358",
       "title": "Vol 0 -  Chap 358",
@@ -1932,5 +1937,5 @@
       "url": "https://mangafire.to/read/kengan-omegaa.4q817/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:16:56Z"
+  "fetched_at": "2026-07-01T08:49:39Z"
 }

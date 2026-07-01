@@ -1,8 +1,8 @@
 {
   "slug": "returning-student2.nk4jj",
   "title": "Returning Student",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Returning Student manga, read all chapters here, the latest chapter 52 is available. Read Returning Student raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Returning Student manga, read all chapters here, the latest chapter 53 is available. Read Returning Student raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "53",
+      "title": "Chap 53",
+      "url": "https://mangafire.to/read/returning-student2.nk4jj/en/chapter-53"
+    },
     {
       "number": "52",
       "title": "Chap 52",
@@ -312,5 +317,5 @@
       "url": "https://mangafire.to/read/returning-student2.nk4jj/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:19:57Z"
+  "fetched_at": "2026-07-01T08:54:34Z"
 }

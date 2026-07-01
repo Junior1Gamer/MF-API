@@ -1,8 +1,8 @@
 {
   "slug": "ragna-crimsonn.l3lp3",
   "title": "Ragna Crimson",
-  "cover": "https://static.mfcdn.nl/236f/i/f/f1/f1c431f1c21b9afd5401d9efbe0367b0@100.jpg",
-  "description": "Ragna Crimson manga, read all chapters here, the latest chapter 93 is available. Read Ragna Crimson raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/7813/i/f/f5/f560cb7fd1988325107712514d3bec95@100.jpg",
+  "description": "Ragna Crimson manga, read all chapters here, the latest chapter 94 is available. Read Ragna Crimson raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "94",
+      "title": "Vol 0 -  Chap 94",
+      "url": "https://mangafire.to/read/ragna-crimsonn.l3lp3/en/chapter-94"
+    },
     {
       "number": "93",
       "title": "Vol 0 -  Chap 93",
@@ -1446,5 +1451,5 @@
       "url": "https://mangafire.to/read/ragna-crimsonn.l3lp3/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:22:53Z"
+  "fetched_at": "2026-07-01T08:54:52Z"
 }

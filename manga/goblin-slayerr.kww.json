@@ -1,8 +1,8 @@
 {
   "slug": "goblin-slayerr.kww",
   "title": "Goblin Slayer",
-  "cover": "https://static.mfcdn.nl/7e58/i/4/42/42bf4b015b5fa182dc0d125a4c9ccbd1@100.jpg",
-  "description": "Goblin Slayer manga, read all chapters here, the latest chapter 109 is available. Read Goblin Slayer raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/ae96/i/0/c2/14b343687dca9ebf1e52d99e73f517e5@100.jpg",
+  "description": "Goblin Slayer manga, read all chapters here, the latest chapter 110 is available. Read Goblin Slayer raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "110",
+      "title": "Vol 0 -  Chap 110",
+      "url": "https://mangafire.to/read/goblin-slayerr.kww/en/chapter-110"
+    },
     {
       "number": "109",
       "title": "Vol 0 -  Chap 109",
@@ -1664,5 +1669,5 @@
       "url": "https://mangafire.to/read/goblin-slayerr.kww/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:21:46Z"
+  "fetched_at": "2026-07-01T08:50:28Z"
 }

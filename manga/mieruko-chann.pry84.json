@@ -1,8 +1,8 @@
 {
   "slug": "mieruko-chann.pry84",
   "title": "Mieruko-chan",
-  "cover": "https://static.mfcdn.nl/4a84/i/9/9b/9b090a6edd6d21db72bfc00b2706d146@100.jpg",
-  "description": "Mieruko-chan manga, read all chapters here, the latest chapter 70.5 is available. Read Mieruko-chan raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/e09b/i/3/3e/3efac54daab86fa520c4daad2a20a783@100.jpg",
+  "description": "Mieruko-chan manga, read all chapters here, the latest chapter 71 is available. Read Mieruko-chan raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "71",
+      "title": "Vol 14 -  Chap 71",
+      "url": "https://mangafire.to/read/mieruko-chann.pry84/en/chapter-71"
+    },
     {
       "number": "70.5",
       "title": "Vol 14 -  Chap 70.5",
@@ -695,5 +700,5 @@
       "url": "https://mangafire.to/read/mieruko-chann.pry84/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:31:16Z"
+  "fetched_at": "2026-07-01T08:55:07Z"
 }

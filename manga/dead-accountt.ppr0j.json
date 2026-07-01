@@ -1,8 +1,8 @@
 {
   "slug": "dead-accountt.ppr0j",
   "title": "Dead Account",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Dead Account manga, read all chapters here, the latest chapter 141 is available. Read Dead Account raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Dead Account manga, read all chapters here, the latest chapter 142 is available. Read Dead Account raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "142",
+      "title": "Vol 0 -  Chap 142",
+      "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-142"
+    },
     {
       "number": "141",
       "title": "Vol 0 -  Chap 141",
@@ -773,5 +778,5 @@
       "url": "https://mangafire.to/read/dead-accountt.ppr0j/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:15:13Z"
+  "fetched_at": "2026-07-01T08:53:22Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "jungle-juicee.qx0rn",
   "title": "Jungle Juice",
-  "cover": "https://static.mfcdn.nl/beb3/i/5/54/54804d7f9fd1738be21e41b3c0351cb9@100.jpg",
-  "description": "Jungle Juice manga, read all chapters here, the latest chapter 213 is available. Read Jungle Juice raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/29ed/i/4/43/43fbbe35207cf702c284f976e1eacc6a@100.jpg",
+  "description": "Jungle Juice manga, read all chapters here, the latest chapter 214 is available. Read Jungle Juice raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "214",
+      "title": "Chap 214",
+      "url": "https://mangafire.to/read/jungle-juicee.qx0rn/en/chapter-214"
+    },
     {
       "number": "213",
       "title": "Chap 213",
@@ -1196,5 +1201,5 @@
       "url": "https://mangafire.to/read/jungle-juicee.qx0rn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:13:58Z"
+  "fetched_at": "2026-07-01T08:51:32Z"
 }

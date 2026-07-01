@@ -1,8 +1,8 @@
 {
   "slug": "mary-janee.rwo9n",
   "title": "Mary Jane",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Mary Jane manga, read all chapters here, the latest chapter 91 is available. Read Mary Jane raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Mary Jane manga, read all chapters here, the latest chapter 91.3 is available. Read Mary Jane raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,21 @@
     "Drama"
   ],
   "chapters": [
+    {
+      "number": "91.3",
+      "title": "Chap 91.3",
+      "url": "https://mangafire.to/read/mary-janee.rwo9n/en/chapter-91.3"
+    },
+    {
+      "number": "91.2",
+      "title": "Chap 91.2",
+      "url": "https://mangafire.to/read/mary-janee.rwo9n/en/chapter-91.2"
+    },
+    {
+      "number": "91.1",
+      "title": "Chap 91.1",
+      "url": "https://mangafire.to/read/mary-janee.rwo9n/en/chapter-91.1"
+    },
     {
       "number": "91",
       "title": "Chap 91",
@@ -560,5 +575,5 @@
       "url": "https://mangafire.to/read/mary-janee.rwo9n/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:25:53Z"
+  "fetched_at": "2026-07-01T08:51:13Z"
 }

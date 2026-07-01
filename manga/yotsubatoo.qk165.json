@@ -1,8 +1,8 @@
 {
   "slug": "yotsubatoo.qk165",
   "title": "Yotsubato! (Colored)",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Yotsubato! manga, read all chapters here, the latest chapter 166 is available. Read Yotsubato! raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Yotsubato! manga, read all chapters here, the latest chapter 168 is available. Read Yotsubato! raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,16 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "168",
+      "title": "Vol 0 -  Chap 168",
+      "url": "https://mangafire.to/read/yotsubatoo.qk165/en/chapter-168"
+    },
+    {
+      "number": "167",
+      "title": "Vol 0 -  Chap 167",
+      "url": "https://mangafire.to/read/yotsubatoo.qk165/en/chapter-167"
+    },
     {
       "number": "166",
       "title": "Vol 0 -  Chap 166",
@@ -932,5 +942,5 @@
       "url": "https://mangafire.to/read/yotsubatoo.qk165/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:13:49Z"
+  "fetched_at": "2026-07-01T08:50:38Z"
 }

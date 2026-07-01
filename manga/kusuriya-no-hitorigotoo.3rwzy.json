@@ -1,8 +1,8 @@
 {
   "slug": "kusuriya-no-hitorigotoo.3rwzy",
   "title": "The Apothecary Diaries",
-  "cover": "https://static.mfcdn.nl/e003/i/2/2e/2ee10cdbf571cf72883119f589b23f6f@100.jpg",
-  "description": "The Apothecary Diaries manga, read all chapters here, the latest chapter 84.1 is available. Read The Apothecary Diaries raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/9dff/i/9/94/940851d469b097ea4f481ce395b4f6eb@100.jpg",
+  "description": "The Apothecary Diaries manga, read all chapters here, the latest chapter 85 is available. Read The Apothecary Diaries raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "85",
+      "title": "Vol 0 -  Chap 85",
+      "url": "https://mangafire.to/read/kusuriya-no-hitorigotoo.3rwzy/en/chapter-85"
+    },
     {
       "number": "84.1",
       "title": "Vol 0 -  Chap 84.1",
@@ -1647,5 +1652,5 @@
       "url": "https://mangafire.to/read/kusuriya-no-hitorigotoo.3rwzy/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:22:02Z"
+  "fetched_at": "2026-07-01T08:50:28Z"
 }

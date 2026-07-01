@@ -1,8 +1,8 @@
 {
   "slug": "maerchen-crown.x1jpz",
   "title": "Märchen Crown",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Märchen Crown manga, read all chapters here, the latest chapter 43 is available. Read Märchen Crown raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Märchen Crown manga, read all chapters here, the latest chapter 44 is available. Read Märchen Crown raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "44",
+      "title": "Vol 0 -  Chap 44",
+      "url": "https://mangafire.to/read/maerchen-crown.x1jpz/en/chapter-44"
+    },
     {
       "number": "43",
       "title": "Vol 0 -  Chap 43",
@@ -278,5 +283,5 @@
       "url": "https://mangafire.to/read/maerchen-crown.x1jpz/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:13:20Z"
+  "fetched_at": "2026-07-01T08:51:55Z"
 }

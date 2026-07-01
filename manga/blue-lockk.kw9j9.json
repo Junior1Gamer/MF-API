@@ -1,8 +1,8 @@
 {
   "slug": "blue-lockk.kw9j9",
   "title": "Blue Lock",
-  "cover": "https://static.mfcdn.nl/892c/i/0/0a/0a9c729a9d00be1d1ec5fabdfaed5bf4@100.jpg",
-  "description": "Blue Lock manga, read all chapters here, the latest chapter 350 is available. Read Blue Lock raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/c232/i/f/f4/f4cea8592c24624a9dd4771caba2c902@100.jpg",
+  "description": "Blue Lock manga, read all chapters here, the latest chapter 352 is available. Read Blue Lock raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Sports"
   ],
   "chapters": [
+    {
+      "number": "352",
+      "title": "Vol 0 -  Chap 352",
+      "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-352"
+    },
+    {
+      "number": "351",
+      "title": "Vol 0 -  Chap 351",
+      "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-351"
+    },
     {
       "number": "350",
       "title": "Vol 0 -  Chap 350",
@@ -1863,5 +1873,5 @@
       "url": "https://mangafire.to/read/blue-lockk.kw9j9/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:16:45Z"
+  "fetched_at": "2026-07-01T08:50:08Z"
 }

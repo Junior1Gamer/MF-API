@@ -1,8 +1,8 @@
 {
   "slug": "one-room-ta.mj74x",
   "title": "One-Room TA",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "One-Room TA manga, read all chapters here, the latest chapter 77 is available. Read One-Room TA raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "One-Room TA manga, read all chapters here, the latest chapter 78 is available. Read One-Room TA raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -49,6 +49,11 @@
     "Boys Love"
   ],
   "chapters": [
+    {
+      "number": "78",
+      "title": "Chap 78",
+      "url": "https://mangafire.to/read/one-room-ta.mj74x/en/chapter-78"
+    },
     {
       "number": "77",
       "title": "Chap 77",
@@ -455,5 +460,5 @@
       "url": "https://mangafire.to/read/one-room-ta.mj74x/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:17:26Z"
+  "fetched_at": "2026-07-01T08:51:31Z"
 }

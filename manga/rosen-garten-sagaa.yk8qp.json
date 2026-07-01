@@ -1,8 +1,8 @@
 {
   "slug": "rosen-garten-sagaa.yk8qp",
   "title": "Rosen Garten Saga",
-  "cover": "https://static.mfcdn.nl/5951/i/e/e3/e3a45bab6dd4634d7e7af8193ba6b5c1@100.jpg",
-  "description": "Rosen Garten Saga manga, read all chapters here, the latest chapter 95 is available. Read Rosen Garten Saga raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/54ed/i/3/37/e6da183e3030b35909f7940e193589a8@100.jpg",
+  "description": "Rosen Garten Saga manga, read all chapters here, the latest chapter 96 is available. Read Rosen Garten Saga raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -57,6 +57,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "96",
+      "title": "Vol 15 -  Chap 96",
+      "url": "https://mangafire.to/read/rosen-garten-sagaa.yk8qp/en/chapter-96"
+    },
     {
       "number": "95",
       "title": "Vol 15 -  Chap 95",
@@ -688,5 +693,5 @@
       "url": "https://mangafire.to/read/rosen-garten-sagaa.yk8qp/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:27:22Z"
+  "fetched_at": "2026-07-01T08:55:10Z"
 }

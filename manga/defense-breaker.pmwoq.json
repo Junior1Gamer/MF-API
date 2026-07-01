@@ -1,8 +1,8 @@
 {
   "slug": "defense-breaker.pmwoq",
   "title": "Defense Breaker",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Defense Breaker manga, read all chapters here, the latest chapter 45 is available. Read Defense Breaker raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Defense Breaker manga, read all chapters here, the latest chapter 47 is available. Read Defense Breaker raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Fantasy"
   ],
   "chapters": [
+    {
+      "number": "47",
+      "title": "Chap 47",
+      "url": "https://mangafire.to/read/defense-breaker.pmwoq/en/chapter-47"
+    },
+    {
+      "number": "46",
+      "title": "Chap 46",
+      "url": "https://mangafire.to/read/defense-breaker.pmwoq/en/chapter-46"
+    },
     {
       "number": "45",
       "title": "Chap 45",
@@ -278,5 +288,5 @@
       "url": "https://mangafire.to/read/defense-breaker.pmwoq/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:13:38Z"
+  "fetched_at": "2026-07-01T08:50:40Z"
 }

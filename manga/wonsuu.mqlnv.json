@@ -1,8 +1,8 @@
 {
   "slug": "wonsuu.mqlnv",
   "title": "Wonsu",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Wonsu manga, read all chapters here, the latest chapter 57 is available. Read Wonsu raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Wonsu manga, read all chapters here, the latest chapter 58 is available. Read Wonsu raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "58",
+      "title": "Chap 58",
+      "url": "https://mangafire.to/read/wonsuu.mqlnv/en/chapter-58"
+    },
     {
       "number": "57",
       "title": "Chap 57",
@@ -340,5 +345,5 @@
       "url": "https://mangafire.to/read/wonsuu.mqlnv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:14:04Z"
+  "fetched_at": "2026-07-01T08:53:11Z"
 }

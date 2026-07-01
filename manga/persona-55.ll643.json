@@ -1,8 +1,8 @@
 {
   "slug": "persona-55.ll643",
   "title": "Persona 5",
-  "cover": "https://static.mfcdn.nl/4d49/i/2/2a/2ac99431baebe1048f72f9090d258825@100.jpg",
-  "description": "Persona 5 manga, read all chapters here, the latest chapter 104.2 is available. Read Persona 5 raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/6a3f/i/a/a5/a552d7751e42bd80769f697291427c1c@100.jpg",
+  "description": "Persona 5 manga, read all chapters here, the latest chapter 105.1 is available. Read Persona 5 raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Supernatural"
   ],
   "chapters": [
+    {
+      "number": "105.1",
+      "title": "Vol 0 -  Chap 105.1",
+      "url": "https://mangafire.to/read/persona-55.ll643/en/chapter-105.1"
+    },
     {
       "number": "104.2",
       "title": "Vol 0 -  Chap 104.2",
@@ -814,5 +819,5 @@
       "url": "https://mangafire.to/read/persona-55.ll643/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:17:42Z"
+  "fetched_at": "2026-07-01T08:50:43Z"
 }

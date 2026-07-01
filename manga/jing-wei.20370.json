@@ -1,8 +1,8 @@
 {
   "slug": "jing-wei.20370",
   "title": "Jing Wei",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Jing Wei manga, read all chapters here, the latest chapter 52 is available. Read Jing Wei raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Jing Wei manga, read all chapters here, the latest chapter 57 is available. Read Jing Wei raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,9 +52,39 @@
   ],
   "chapters": [
     {
+      "number": "57",
+      "title": "Chap 57",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-57"
+    },
+    {
+      "number": "56",
+      "title": "Chap 56",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-56"
+    },
+    {
+      "number": "55",
+      "title": "Chap 55",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-55"
+    },
+    {
+      "number": "54",
+      "title": "Chap 54",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-54"
+    },
+    {
+      "number": "53",
+      "title": "Chap 53",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-53"
+    },
+    {
       "number": "52",
       "title": "Chap 52",
       "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-52"
+    },
+    {
+      "number": "51",
+      "title": "Chap 51",
+      "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-51"
     },
     {
       "number": "50",
@@ -327,5 +357,5 @@
       "url": "https://mangafire.to/read/jing-wei.20370/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:20:58Z"
+  "fetched_at": "2026-07-01T08:53:52Z"
 }

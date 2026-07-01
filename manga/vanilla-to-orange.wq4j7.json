@@ -1,8 +1,8 @@
 {
   "slug": "vanilla-to-orange.wq4j7",
   "title": "Vanilla to Orange",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Vanilla to Orange manga, read all chapters here, the latest chapter 3 is available. Read Vanilla to Orange raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Vanilla to Orange manga, read all chapters here, the latest chapter 4 is available. Read Vanilla to Orange raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,11 @@
   ],
   "chapters": [
     {
+      "number": "4",
+      "title": "Chap 4",
+      "url": "https://mangafire.to/read/vanilla-to-orange.wq4j7/es-la/chapter-4"
+    },
+    {
       "number": "3",
       "title": "Chap 3",
       "url": "https://mangafire.to/read/vanilla-to-orange.wq4j7/es-la/chapter-3"
@@ -66,5 +71,5 @@
       "url": "https://mangafire.to/read/vanilla-to-orange.wq4j7/es-la/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:21:11Z"
+  "fetched_at": "2026-07-01T08:54:05Z"
 }

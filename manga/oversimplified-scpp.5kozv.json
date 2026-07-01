@@ -1,8 +1,8 @@
 {
   "slug": "oversimplified-scpp.5kozv",
   "title": "Oversimplified SCP",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Oversimplified SCP manga, read all chapters here, the latest chapter 196 is available. Read Oversimplified SCP raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Oversimplified SCP manga, read all chapters here, the latest chapter 197 is available. Read Oversimplified SCP raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -55,6 +55,11 @@
     "Psychological"
   ],
   "chapters": [
+    {
+      "number": "197",
+      "title": "Vol 1 -  Chap 197",
+      "url": "https://mangafire.to/read/oversimplified-scpp.5kozv/en/chapter-197"
+    },
     {
       "number": "196",
       "title": "Vol 1 -  Chap 196",
@@ -1071,5 +1076,5 @@
       "url": "https://mangafire.to/read/oversimplified-scpp.5kozv/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:17:45Z"
+  "fetched_at": "2026-07-01T08:53:50Z"
 }

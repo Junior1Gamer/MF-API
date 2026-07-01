@@ -1,8 +1,8 @@
 {
   "slug": "hand-jumperr.2pq62",
   "title": "Hand Jumper",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Hand Jumper manga, read all chapters here, the latest chapter 127 is available. Read Hand Jumper raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Hand Jumper manga, read all chapters here, the latest chapter 128 is available. Read Hand Jumper raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -50,6 +50,11 @@
   ],
   "chapters": [
     {
+      "number": "128",
+      "title": "Chap 128",
+      "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-128"
+    },
+    {
       "number": "127",
       "title": "Chap 127",
       "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-127"
@@ -65,14 +70,29 @@
       "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-125"
     },
     {
+      "number": "124.1",
+      "title": "Chap 124.1",
+      "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-124.1"
+    },
+    {
       "number": "124",
       "title": "Chap 124",
       "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-124"
     },
     {
+      "number": "123.1",
+      "title": "Chap 123.1",
+      "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-123.1"
+    },
+    {
       "number": "123",
       "title": "Chap 123",
       "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-123"
+    },
+    {
+      "number": "122.1",
+      "title": "Chap 122.1",
+      "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-122.1"
     },
     {
       "number": "122",
@@ -720,5 +740,5 @@
       "url": "https://mangafire.to/read/hand-jumperr.2pq62/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:18:10Z"
+  "fetched_at": "2026-07-01T08:53:54Z"
 }

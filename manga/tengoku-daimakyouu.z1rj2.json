@@ -1,8 +1,8 @@
 {
   "slug": "tengoku-daimakyouu.z1rj2",
   "title": "Heavenly Delusion",
-  "cover": "https://static.mfcdn.nl/e79a/i/d/d6/d6b39bd97471b234c0da4353c6124c1b@100.jpg",
-  "description": "Heavenly Delusion manga, read all chapters here, the latest chapter 82 is available. Read Heavenly Delusion raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/2add/i/4/42/4234c44adea626066fb5cbe36e4ddfea@100.jpg",
+  "description": "Heavenly Delusion manga, read all chapters here, the latest chapter 83 is available. Read Heavenly Delusion raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "83",
+      "title": "Vol 0 -  Chap 83",
+      "url": "https://mangafire.to/read/tengoku-daimakyouu.z1rj2/en/chapter-83"
+    },
     {
       "number": "82",
       "title": "Vol 14 -  Chap 82",
@@ -519,5 +524,5 @@
       "url": "https://mangafire.to/read/tengoku-daimakyouu.z1rj2/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:26:37Z"
+  "fetched_at": "2026-07-01T08:53:59Z"
 }

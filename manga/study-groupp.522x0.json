@@ -1,8 +1,8 @@
 {
   "slug": "study-groupp.522x0",
   "title": "Study Group",
-  "cover": "https://static.mfcdn.nl/6e3d/i/0/04/04f774a2b08f4b091c8bb3dddd94e5f1@100.jpg",
-  "description": "Study Group manga, read all chapters here, the latest chapter 325 is available. Read Study Group raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/4892/i/6/64/6419a7439322fba7e9252a38cfb6fa63@100.jpg",
+  "description": "Study Group manga, read all chapters here, the latest chapter 326 is available. Read Study Group raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,11 @@
     "Martial Arts"
   ],
   "chapters": [
+    {
+      "number": "326",
+      "title": "Chap 326",
+      "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-326"
+    },
     {
       "number": "325",
       "title": "Chap 325",
@@ -1843,5 +1848,5 @@
       "url": "https://mangafire.to/read/study-groupp.522x0/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:14:08Z"
+  "fetched_at": "2026-07-01T08:53:05Z"
 }

@@ -1,8 +1,8 @@
 {
   "slug": "kingdomm.w1qk",
   "title": "Kingdom",
-  "cover": "https://static.mfcdn.nl/0732/i/5/5b/5bcdf8501e662370559ab24e1d8f1d9e@100.jpg",
-  "description": "Kingdom manga, read all chapters here, the latest chapter 879 is available. Read Kingdom raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/a7a3/i/e/ed/ed97e8855c9d80cd54c1ce1c1af25538@100.jpg",
+  "description": "Kingdom manga, read all chapters here, the latest chapter 880 is available. Read Kingdom raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -53,6 +53,11 @@
     "Magic"
   ],
   "chapters": [
+    {
+      "number": "880",
+      "title": "Vol 0 -  Chap 880",
+      "url": "https://mangafire.to/read/kingdomm.w1qk/en/chapter-880"
+    },
     {
       "number": "879",
       "title": "Vol 0 -  Chap 879",
@@ -4619,5 +4624,5 @@
       "url": "https://mangafire.to/read/kingdomm.w1qk/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:16:42Z"
+  "fetched_at": "2026-07-01T08:54:07Z"
 }

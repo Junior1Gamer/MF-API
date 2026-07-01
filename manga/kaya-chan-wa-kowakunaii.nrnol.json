@@ -1,8 +1,8 @@
 {
   "slug": "kaya-chan-wa-kowakunaii.nrnol",
   "title": "Kaya-chan wa Kowakunai",
-  "cover": "https://static.mfcdn.nl/869e/i/4/4e/4e681912364ed662910275354d4c828c@100.jpg",
-  "description": "Kaya-chan wa Kowakunai manga, read all chapters here, the latest chapter 50 is available. Read Kaya-chan wa Kowakunai raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/dfac/i/b/ba/ba1009025ebaada4ae109babb8fb35a3@100.jpg",
+  "description": "Kaya-chan wa Kowakunai manga, read all chapters here, the latest chapter 51 is available. Read Kaya-chan wa Kowakunai raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -54,6 +54,11 @@
     "Slice of Life"
   ],
   "chapters": [
+    {
+      "number": "51",
+      "title": "Vol 0 -  Chap 51",
+      "url": "https://mangafire.to/read/kaya-chan-wa-kowakunaii.nrnol/en/chapter-51"
+    },
     {
       "number": "50",
       "title": "Vol 8 -  Chap 50",
@@ -340,5 +345,5 @@
       "url": "https://mangafire.to/read/kaya-chan-wa-kowakunaii.nrnol/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:32:22Z"
+  "fetched_at": "2026-07-01T08:53:11Z"
 }

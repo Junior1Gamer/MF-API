@@ -1,8 +1,8 @@
 {
   "slug": "parashoppers2.lxyyn",
   "title": "Parashoppers",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Parashoppers manga, read all chapters here, the latest chapter 67 is available. Read Parashoppers raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/8c88/i/4/48/489a202cc7127577cd27018bccabf3fc@100.jpg",
+  "description": "Parashoppers manga, read all chapters here, the latest chapter 69 is available. Read Parashoppers raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -52,6 +52,16 @@
     "Super Power"
   ],
   "chapters": [
+    {
+      "number": "69",
+      "title": "Vol 0 -  Chap 69",
+      "url": "https://mangafire.to/read/parashoppers2.lxyyn/en/chapter-69"
+    },
+    {
+      "number": "68",
+      "title": "Vol 0 -  Chap 68",
+      "url": "https://mangafire.to/read/parashoppers2.lxyyn/en/chapter-68"
+    },
     {
       "number": "67",
       "title": "Vol 0 -  Chap 67",
@@ -388,5 +398,5 @@
       "url": "https://mangafire.to/read/parashoppers2.lxyyn/en/chapter-1"
     }
   ],
-  "fetched_at": "2026-06-24T08:13:17Z"
+  "fetched_at": "2026-07-01T08:50:11Z"
 }

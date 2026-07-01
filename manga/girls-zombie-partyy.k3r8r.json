@@ -1,8 +1,8 @@
 {
   "slug": "girls-zombie-partyy.k3r8r",
   "title": "Girls Zombie Party",
-  "cover": "https://static.mfcdn.nl/2f64/i/3/30/40825b829a241fd494d765e2baa4f227@100.jpg",
-  "description": "Girls Zombie Party manga, read all chapters here, the latest chapter 30.6 is available. Read Girls Zombie Party raw, multiple language. READ NOW!!",
+  "cover": "https://static.mfcdn.nl/70b6/i/3/3e/3efb588576cb6a18489a71b0311c3734@100.jpg",
+  "description": "Girls Zombie Party manga, read all chapters here, the latest chapter 32.5 is available. Read Girls Zombie Party raw, multiple language. READ NOW!!",
   "status": "Releasing",
   "genres": [
     "Action",
@@ -51,6 +51,21 @@
     "Seinen"
   ],
   "chapters": [
+    {
+      "number": "32.5",
+      "title": "Vol 0 -  Chap 32.5",
+      "url": "https://mangafire.to/read/girls-zombie-partyy.k3r8r/en/chapter-32.5"
+    },
+    {
+      "number": "32",
+      "title": "Vol 0 -  Chap 32",
+      "url": "https://mangafire.to/read/girls-zombie-partyy.k3r8r/en/chapter-32"
+    },
+    {
+      "number": "31",
+      "title": "Vol 3 -  Chap 31",
+      "url": "https://mangafire.to/read/girls-zombie-partyy.k3r8r/en/chapter-31"
+    },
     {
       "number": "30.6",
       "title": "Vol 3 -  Chap 30.6",
@@ -272,5 +287,5 @@
       "url": "https://mangafire.to/read/girls-zombie-partyy.k3r8r/en/chapter-0"
     }
   ],
-  "fetched_at": "2026-06-24T08:30:14Z"
+  "fetched_at": "2026-07-01T08:54:41Z"
 }
